@@ -1,0 +1,70 @@
+heroes:
+  - name: Cassidy
+    role: DPS
+    style: hitscan
+    synergies: [Ana, Baptiste]
+    counters: [Sojourn, Kiriko]
+  - name: Sojourn
+    role: DPS
+    style: railgun
+    synergies: [Lucio, Zarya]
+    counters: [Winston, Sigma]
+  - name: Kiriko
+    role: Support
+    style: healer
+    synergies: [Sojourn, Genji]
+    counters: [Roadhog]
+  - name: Brigitte
+    role: Support
+    style: brawler
+    synergies: [Reinhardt]
+    counters: [DPS]
+  - name: Reinhardt
+    role: Tank
+    style: anchor
+    synergies: [Brigitte]
+    counters: [Sojourn]
+  - name: Zarya
+    role: Tank
+    style: bubble
+    synergies: [Sojourn]
+    counters: [Winston]
+  - name: Baptiste
+    role: Support
+    style: burst_heal
+    synergies: [Cassidy]
+    counters: [Sombra]
+  - name: Genji
+    role: DPS
+    style: flanker
+    synergies: [Kiriko]
+    counters: [Brigitte]
+  - name: Winston
+    role: Tank
+    style: dive
+    synergies: [Genji]
+    counters: [Zarya]
+  - name: Roadhog
+    role: Tank
+    style: brawler
+    synergies: []
+    counters: [Kiriko]
+
+items:
+  - name: Nano-Injector
+    cost: 200
+    notes: "Single-use boost; persisting power until resold"
+  - name: Armor-Plating
+    cost: 150
+    notes: "Adds temporary damage reduction"
+  - name: Grapple-Gun
+    cost: 100
+    notes: "Mobility gadget, one gadget slot"
+
+maps:
+  - name: King's Row A Defense
+    anchors: ["high ground near first choke"]
+    notes: "Short cap zone, favors hitscan and anchors"
+  - name: Gibraltar A Defense
+    anchors: ["balcony above objective"]
+    notes: "Long sightlines; railguns and snipers excel"
