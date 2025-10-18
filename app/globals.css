@@ -1,13 +1,8 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+/* app/globals.css */
+@import "tailwindcss";
 
-html, body, #__next {
-  height: 100%;
+@utility hl { @apply bg-white shadow rounded p-4; }
+
+@layer base {
+  body { @apply bg-gray-50 text-gray-900; }
 }
-
-body {
-  @apply bg-gray-50 text-gray-900;
-}
-
-.hl { @apply bg-white shadow rounded p-4 }

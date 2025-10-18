@@ -7,6 +7,8 @@ How to run:
 This page is the single-page app for the StadiumOW Optimizer MVP.
 */
 
+"use client"
+
 import React from 'react'
 import CompsPicker from '../components/CompsPicker'
 import CurrentBuysEditor from '../components/CurrentBuysEditor'
