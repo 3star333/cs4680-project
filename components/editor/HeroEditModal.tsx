@@ -1,5 +1,5 @@
 "use client"
-import React, { useState, useEffect } from 'react'
+import React, { useState, useEffect, useMemo } from 'react'
 import type { Hero, HeroBuild, Power, Item } from '../../types/editor'
 import StadiumImage from '../stadium/StadiumImage'
 
@@ -22,6 +22,10 @@ export default function HeroEditModal({
   const initialPowers = build.powers || (build.power ? [build.power] : [])
   const [selectedPowers, setSelectedPowers] = useState<Power[]>(initialPowers)
   const [selectedItems, setSelectedItems] = useState<Item[]>(build.items)
+  
+  // Search states
+  const [powerSearch, setPowerSearch] = useState('')
+  const [itemSearch, setItemSearch] = useState('')
 
   // Constants
   const MAX_POWERS = 4
@@ -32,6 +36,23 @@ export default function HeroEditModal({
   const heroItems = availableItems.filter(
     item => !item.heroSlug || item.heroSlug === build.hero.slug
   )
+
+  // Filtered lists based on search
+  const filteredPowers = useMemo(() => {
+    if (!powerSearch.trim()) return heroPowers
+    const search = powerSearch.toLowerCase()
+    return heroPowers.filter(power => 
+      power.name.toLowerCase().includes(search)
+    )
+  }, [heroPowers, powerSearch])
+
+  const filteredItems = useMemo(() => {
+    if (!itemSearch.trim()) return heroItems
+    const search = itemSearch.toLowerCase()
+    return heroItems.filter(item => 
+      item.name.toLowerCase().includes(search)
+    )
+  }, [heroItems, itemSearch])
 
   const togglePower = (power: Power) => {
     const exists = selectedPowers.find(p => p.id === power.id)
@@ -101,8 +122,18 @@ export default function HeroEditModal({
               <span className="w-1 h-5 bg-purple-500 rounded"></span>
               Power Selection ({selectedPowers.length}/{MAX_POWERS})
             </h3>
+            {/* Power Search Bar */}
+            <div className="mb-3">
+              <input
+                type="text"
+                placeholder="🔍 Search powers by name..."
+                value={powerSearch}
+                onChange={(e) => setPowerSearch(e.target.value)}
+                className="w-full px-4 py-2 bg-black/40 border border-purple-500/30 rounded-lg text-white placeholder-gray-500 focus:outline-none focus:border-purple-500 transition"
+              />
+            </div>
             <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-3">
-              {heroPowers.map((power) => {
+              {filteredPowers.map((power) => {
                 const isSelected = selectedPowers.some(p => p.id === power.id)
                 const canSelect = !isSelected && selectedPowers.length < MAX_POWERS
                 const isDisabled = !isSelected && selectedPowers.length >= MAX_POWERS
@@ -138,6 +169,9 @@ export default function HeroEditModal({
                 )
               })}
             </div>
+            {filteredPowers.length === 0 && powerSearch && (
+              <p className="text-sm text-gray-400 mt-2">No powers found matching "{powerSearch}"</p>
+            )}
             {heroPowers.length === 0 && (
               <p className="text-sm text-gray-400">No powers available for this hero.</p>
             )}
@@ -152,8 +186,18 @@ export default function HeroEditModal({
               <span className="w-1 h-5 bg-green-500 rounded"></span>
               Item Selection ({selectedItems.length}/{MAX_ITEMS})
             </h3>
+            {/* Item Search Bar */}
+            <div className="mb-3">
+              <input
+                type="text"
+                placeholder="🔍 Search items by name..."
+                value={itemSearch}
+                onChange={(e) => setItemSearch(e.target.value)}
+                className="w-full px-4 py-2 bg-black/40 border border-green-500/30 rounded-lg text-white placeholder-gray-500 focus:outline-none focus:border-green-500 transition"
+              />
+            </div>
             <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-6 gap-2">
-              {heroItems.map((item) => {
+              {filteredItems.map((item) => {
                 const isSelected = selectedItems.some(i => i.id === item.id)
                 const isDisabled = !isSelected && selectedItems.length >= MAX_ITEMS
                 return (
@@ -188,6 +232,9 @@ export default function HeroEditModal({
                 )
               })}
             </div>
+            {filteredItems.length === 0 && itemSearch && (
+              <p className="text-sm text-gray-400 mt-2">No items found matching "{itemSearch}"</p>
+            )}
             {heroItems.length === 0 && (
               <p className="text-sm text-gray-400">No items available for this hero.</p>
             )}
