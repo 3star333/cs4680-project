@@ -1,0 +1,406 @@
+{{HeroTabs}}
+[[File:Torbjörn Stadium.png|thumb|310x310px]]
+'''{{BASEPAGENAME}}''' is a playable [[hero]] in the [[Stadium]] [[game mode]].
+
+== Ability interactions ==
+{{StadiumAbilityInteractions/header}}
+{{StadiumAbilityInteractions/row|Rivet Gun|weaponPower=1|attackSpeed=1|weaponLifesteal=1|reloadSpeed=1|maxAmmo=1}}
+{{StadiumAbilityInteractions/row|Forge Hammer|weaponPower=1|attackSpeed=1|weaponLifesteal=1|meleeDamage=1}}
+{{StadiumAbilityInteractions/row|Deploy Turret|abilityPower=1|cooldownReduction=1|abilityLifesteal=1}}
+{{StadiumAbilityInteractions/row|Overload|abilityPower=1|cooldownReduction=1}}
+{{StadiumAbilityInteractions/row|Molten Core|abilityPower=1|abilityLifesteal=1}}
+|}
+
+== Hero Items ==
+This is a list of hero-specific items. For a list of items available to all heroes, see [[Armory]].
+
+=== Weapon ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Speedish Feetfalls
+| ability_image = Speedish_Feetfalls.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Armor;;25::Attack Speed;;5%
+| official_description = Gain 15% Move Speed while holding [Forge Hammer].
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+{{Ability details
+| ability_name = Rivet Refresher
+| ability_image = Rivet_Refresher.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Weapon Power;;5%::Reload Speed;;30%
+| official_description = [Overload] reloads an additional 25% of Max Ammo.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+<!-- Epic -->
+{{Ability details
+| ability_name = Ingrid's Ingenuity
+| ability_image = Ingrid's_Ingenuity.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Armor;;50::Attack Speed;;10%
+| official_description = [Forge Hammer] damage or healing grants Overhealth equal to 2% of Max Life, up to 20%.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+{{Ability details
+| ability_name = Skjutsnabbt System
+| ability_image = Skjutsnabbt_System.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Weapon Power;;10%::Weapon Lifesteal;;10%::[Overload] Duration;;25%
+| official_description = When [Overload] expires, gain 20% Attack Speed for 3s.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+
+=== Ability ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Forgewalker
+| ability_image = Forgewalker.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Ability Power;;5%::Cooldown Reduction;;5%
+| official_description = Gain 20% Move Speed while standing in [Molten Core] lava.
+| stadium_rarity = Rare
+| stadium_cost = 4500
+}}
+
+{{Ability details
+| ability_name = Reclaimer's Rig
+| ability_image = Reclaimer's_Rig.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Health;;25::Ability Power;;5%
+| official_description = When a [Turret] is destroyed, reduce [Deploy Turret] cooldown by 1s and gain 25 Overhealth for 3s.
+| stadium_rarity = Rare
+| stadium_cost = 4500
+}}
+
+<!-- Epic -->
+{{Ability details
+| ability_name = Arturretficial Intelligence
+| ability_image = Arturretficial_Intelligence.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Ability Power;;10%::Attack Speed;;10%
+| official_description = Damage from [Rivet Gun]'s Secondary Fire causes your turrets to target them.
+| stadium_rarity = Epic
+| stadium_cost = 9000
+}}
+
+{{Ability details
+| ability_name = Lindholm Launcher
+| ability_image = Lindholm_Launcher.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Ability Power;;15%::[Turret] Targeting Range;;15%::[Deploy Turret] Throw Range;;50%
+| official_description = 
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+
+=== Survival ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Oververloader
+| ability_image = Oververloader.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Cooldown Reduction;;10%
+| official_description = [Overload] grants additional Overhealth equal to 30% of Max Armor.
+| stadium_rarity = Rare
+| stadium_cost = 5000
+}}
+
+<!-- Epic -->
+{{Ability details
+| ability_name = Ironblood Injectors
+| ability_image = Ironblood_Injectors.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Armor;;50
+| official_description = While [Overload] is active, grow 30% in size and restore 5% of your Max Life every 1s.
+| stadium_rarity = Epic
+| stadium_cost = 9000
+}}
+
+== Powers ==
+{{Ability details
+| ability_name = All Grown Up
+| ability_image = All_Grown_Up.png
+| ability_type = Stadium Power
+| affected_ability = Deploy Turret
+| official_description = While [Overload] is active, [Turrets] are upgraded 1 Level, to a maximum of Level 3.
+}}
+
+{{Ability details
+| ability_name = Positive Reinforcement
+| ability_image = Positive_Reinforcement.png
+| ability_type = Stadium Power
+| affected_ability = Deploy Turret
+| official_description = When a [Turret] is placed, it gains {{Ability Power|200}} Overhealth for 5s. [Forge Hammer] hits on [Turrets] grant you {{Ability Power|10}} Overhealth for 3s, up to {{Ability Power|50}}.
+}}
+
+{{Ability details
+| ability_name = Turriplets
+| ability_image = Turriplets.png
+| ability_type = Stadium Power
+| affected_ability = Deploy Turret
+| official_description = You can have 3 [Turrets] active. They start at Level 1, have 50% Health and 66% Attack Speed, and can be upgraded temporarily with [Forge Hammer] hits for up to 15s.
+}}
+
+{{Ability details
+| ability_name = Magmini
+| ability_image = Magmini.png
+| ability_type = Stadium Power
+| affected_ability = Molten Core
+| official_description = When you use [Overload], gain 2 Ammo of Molten Core with 66% reduced damage and duration.
+}}
+
+{{Ability details
+| ability_name = Swedish Sauna
+| ability_image = Swedish_Sauna.png
+| ability_type = Stadium Power
+| affected_ability = Molten Core
+| official_description = [Molten Core] heals allied heroes within it for 50% of [Molten Core] Damage every 1s.
+}}
+
+{{Ability details
+| ability_name = Come Get Yer Armor
+| ability_image = Come_Get_Yer_Armor.png
+| ability_type = Stadium Power
+| affected_ability = Overload
+| official_description = When you use [Overload], throw 2 Armor Packs that grant Armor equal to 20% of your Max Life. Armor Packs do not stack.
+}}
+
+{{Ability details
+| ability_name = Dwarlord
+| ability_image = Dwarlord.png
+| ability_type = Stadium Power
+| affected_ability = Overload
+| official_description = [Overload] grants all allies within 5m Overhealth equal to 50% of [Overload] Overhealth and 10% Attack Speed.
+}}
+
+{{Ability details
+| ability_name = Let Off Some Steam
+| ability_image = Let_Off_Some_Steam.png
+| ability_type = Stadium Power
+| affected_ability = Overload
+| official_description = While [Overload] is not active, Weapon Damage and Weapon Healing reduces [Overload] Cooldown by 10%.
+}}
+
+{{Ability details
+| ability_name = Blacksmith
+| ability_image = Blacksmith.png
+| ability_type = Stadium Power
+| affected_ability = Forge Hammer
+| official_description = Hitting an ally with [Forge Hammer] heals them for 66% of [Forge Hammer] damage.
+}}
+
+{{Ability details
+| ability_name = Forged in Fire
+| ability_image = Forged_In_Fire.png
+| ability_type = Stadium Power
+| affected_ability = Forge Hammer
+| official_description = While [Overload] is active, every Forge Hammer Swing explodes, dealing bonus damage equal to 10% of your Max Life in a 3m radius.
+}}
+
+{{Ability details
+| ability_name = Clocked
+| ability_image = Clocked.png
+| ability_type = Stadium Power
+| affected_ability = Rivet Gun
+| official_description = [Turret] damage marks enemies for 8s. Gain 25% Weapon Lifesteal and 15% increased Weapon Damage against marked enemies.
+}}
+
+{{Ability details
+| ability_name = Riveting
+| ability_image = Riveting.png
+| ability_type = Stadium Power
+| affected_ability = Rivet Gun
+| official_description = Every 5th [Rivet Gun] shot shoots both your Primary and Secondary Fire. The bonus shot deals 10% reduced damage.
+}}
+
+== Example Builds ==
+=== My Babies ===
+Build up your Turrets with love and {{Ability Power|Ability Power}} to control the battlefield!
+
+=== Powers ===
+* {{al|Turriplets}}
+* {{al|All Grown Up}}
+* {{al|Positive Reinforcement}}
+* {{al|Magmini}}
+
+=== Early Game ===
+* {{al|Power Playbook}}
+* {{al|Weapon Grease}}
+* {{al|Feathered Soles}}
+* {{al|Reclaimer's Rig}}
+
+=== Late Game ===
+* {{al|Arturretficial Intelligence}}
+* {{al|Lindholm Launcher}}
+* {{al|Wrist Wraps}}
+* {{al|Lumérico Fusion Drive}}
+
+=== Flex ===
+* {{al|Exo Springs}}
+* {{al|Necrotic Repellant}}
+* {{al|Cybervenom}}
+* {{al|Sonic Recharger}}
+
+=== Hammer Time ===
+Become the ultimate Dwarven Warrior, thriving in the midst of battle with an empowered Hammer.
+
+=== Powers ===
+* {{al|Forged In Fire}}
+* {{al|Let Off Some Steam}}
+* {{al|Blacksmith}}
+* {{al|Come Get Yer Armor}}
+
+=== Early Game ===
+* {{al|Weapon Grease}}
+* {{al|Plasma Converter}}
+* {{al|Feathered Soles}}
+* {{al|Speedish Feetfalls}}
+
+=== Late Game ===
+* {{al|Ingrid's Ingenuity}}
+* {{al|Gloomgauntlet}}
+* {{al|Ironblood Injectors}}
+* {{al|Skjutsnabbt System}}
+
+=== Flex ===
+* {{al|Jet Skates}}
+* {{al|Super Serum}}
+* {{al|Overdrive Core}}
+* {{al|Weapon Jammer}}
+
+=== Nailed It ===
+Pressure your opponents with powerful consistent Rivets sharpened with {{Weapon Power|Weapon Power}}.
+
+=== Powers ===
+* {{al|Riveting}}
+* {{al|Let Off Some Steam}}
+* {{al|Clocked}}
+* {{al|Dwarlord}}
+
+=== Early Game ===
+* {{al|Compensator}}
+* {{al|Weapon Grease}}
+* {{al|First Aid Kit}}
+* {{al|Rivet Refresher}}
+
+=== Late Game ===
+* {{al|Aftermarket Firing Pin}}
+* {{al|Skjutsnabbt System}}
+* {{al|Phantasmic Flux}}
+* {{al|The Closer}}
+
+=== Flex ===
+* {{al|Super Serum}}
+* {{al|Aerial Distresser}}
+* {{al|Salvaged Slugs}}
+* {{al|El-Sa'ka Suppressor}}
+
+== Balance Change Log ==
+{{PatchTableStart}}<onlyinclude>
+{{PatchTableElement|2025-10-14|
+* Added to the Stadium Hero Roster.
+
+{{al|All Grown Up}} - Power
+* While Overload is active, Turrets are upgraded 1 Level to a maximum of Level 3.
+
+{{al|Turriplets}} - Power
+* You can have 3 Turrets active. They start at Level 1, have 50% Health and 66% Attack Speed, and can be upgraded temporarily by hitting it with Forge Hammer up to 15s.
+
+{{al|Positive Reinforcement}} - Power
+* When a Turret is placed, it gains 200 Overhealth for 5s. Hitting a Turret with Forge Hammer grants you 10 Overhealth for 5s, up to 50.
+
+{{al|Magmini}} - Power
+* After using Overload, gain 2 Ammo of Molten Core with 66% reduced damage duration.
+
+{{al|Swedish Sauna}} - Power
+* Molten Core heals allied heroes within it for 50% of Molten Core Damage every 1s.
+
+{{al|Come Get Yer Armor}} - Power
+* After using Overload, throw 2 Armor Packs that grants Armor equal to 20% of your Max Life. Armor Packs do not stack.
+
+{{al|Dwarlord}} - Power
+* Overload grants all allies within 5m Overhealth equal to 50% of Overload Overhealth and 10% Attack Speed.
+
+{{al|Let Off Some Steam}} - Power
+* While Overload is not active, Weapon Damage and Weapon Healing reduces Overload Cooldown by 10%.
+
+{{al|Riveting}} - Power
+* Every 5th Rivet Gun shot shoots both your Primary Fire and Secondary Fire. The bonus shot deals 25% reduced damage.
+
+{{al|Clocked}} - Power
+* Turret damage marks enemies for 8s. Gain 20% Weapon Lifesteal and 15% increased Weapon Damage against marked enemies.
+
+{{al|Forged in Fire}} - Power
+* While Overload is active, every Forge Hammer swing explodes, dealing Forge Hammer damage equal to 10% of Max Life in a 3m radius.
+
+{{al|Blacksmith}} - Power
+* Using Forge Hammer on an Ally heals them for 66% of Forge Hammer damage.
+
+{{al|Speedish Feetfalls}} - Rare Weapon Hero Item
+* 25 Armor.
+* 5% Attack Speed.
+* Gain 15% Move Speed while holding Forge Hammer.
+* Cost: 4000.
+
+{{al|Rivet Refresher}} - Rare Weapon Hero Item
+* 5% Weapon Power.
+* 30% Reload Speed.
+* Overload reloads an additional 25% of Max Ammo.
+* Cost: 4000.
+
+{{al|Ingrid's Ingenuity}} - Epic Weapon Hero Item
+* 50 Armor.
+* 10% Attack Speed.
+* Forge Hammer Damage or Healing grants Overhealth equal to 2% of Max Life, up to 20% Max Life.
+* Cost: 10000.
+
+{{al|Skjutsnabbt System}} - Epic Weapon Hero Item
+* 10% Weapon Power.
+* 10% Weapon Lifesteal.
+* 20% Overload Duration.
+* When Overload expires, gain 20% Attack Speed for 3s.
+* Cost: 10000.
+
+{{al|Reclaimer's Rig}} - Rare Ability Hero Item
+* 25 Health.
+* 5% Ability Power.
+* When a Turret is destroyed, reduce Deploy Turret's cooldown by 1s and gain 25 Overhealth for 3s.
+* Cost: 4500.
+
+{{al|Forgewalker}} - Rare Ability Hero Item
+* 5% Ability Power.
+* 5% Cooldown Reduction.
+* Gain 20% Move Speed while standing in Molten Core.
+* Cost: 4500.
+
+{{al|Arturretficial Intelligence}} - Epic Ability Hero Item
+* 10% Ability Power.
+* 10% Attack Speed.
+* Damage from Rivet Gun's Secondary Fire causes your Turrets to target them.
+* Cost: 9000.
+
+{{al|Lindholm Launcher}} – Epic Ability Hero Item
+* 15% Ability Power.
+* 15% Turret Targeting Range.
+* 50% Turret Throw Range.
+* Cost: 10000.
+
+{{al|Oververloader}} - Rare Survival Hero Item
+* 10% Cooldown Reduction.
+* Overload grants additional Overhealth equal to 30% of Max Armor.
+* Cost: 5000.
+
+{{al|Ironblood Injectors}} - Epic Survival Hero Item
+* 50 Armor.
+* While Overload is active, grow 30% in size and restore 5% of Max Life every 1s.
+* Cost: 9000.
+}}
+</onlyinclude>{{PatchTableEnd}}
+
+{{StadiumNav}}
+[[Category:{{BASEPAGENAME}}]]
+[[Category:Stadium hero pages]]

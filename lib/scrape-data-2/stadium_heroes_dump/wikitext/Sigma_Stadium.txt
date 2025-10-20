@@ -1,0 +1,414 @@
+{{HeroTabs}}
+[[File:Sigma Stadium.png|thumb|310x310px]]
+'''{{BASEPAGENAME}}''' is a playable [[hero]] in the [[Stadium]] [[game mode]]. 
+
+== Ability interactions ==
+{{StadiumAbilityInteractions/header}}
+{{StadiumAbilityInteractions/row|Hyperspheres |weaponPower=1 |attackSpeed=1 |weaponLifesteal=1 }}
+{{StadiumAbilityInteractions/row|Experimental Barrier }}
+{{StadiumAbilityInteractions/row|Kinetic Grasp |cooldownReduction=1 }}
+{{StadiumAbilityInteractions/row|Accretion |abilityPower=1 |cooldownReduction=1 |abilityLifesteal=1}}
+{{StadiumAbilityInteractions/row|Gravitic Flux |abilityPower=1 |abilityLifesteal=1}}
+|}
+
+; {{al|Experimental Barrier}}
+* Barrier health increases by 150% of [[Stadium#Increased maximum health|bonus health]] gained from Stadium Cash earnings.
+
+== Hero Items ==
+This is a list of hero-specific items. For a list of items available to all heroes, see [[Armory]].
+
+=== Weapon ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Velocity Vector
+| ability_image = Velocity_Vector.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Attack Speed;;10%::[Hyperspheres] Range;;15%
+| official_description = 
+| stadium_rarity = Rare
+| stadium_cost = 4500
+}}
+{{Ability details
+| ability_name = Maglev Multiplier
+| ability_image = Maglev_Multiplier.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Weapon Power;;10%::Ability Power;;5%
+| official_description = [Gravitic Flux] levitates enemies for 25% longer. Enemies affected take 20% increased damage from [Hyperspheres].
+| stadium_rarity = Rare
+| stadium_cost = 5000
+}}
+<!-- Epic -->
+{{Ability details
+| ability_name = Antimatter
+| ability_image = Antimatter.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Weapon Power;;15%::[Hyperspheres] Explosion Radius;;55%
+| official_description = 
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+
+=== Ability ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Volatile Gravel
+| ability_image = Volatile_Gravel.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Ability Power;;10%
+| official_description = When you deal damage with [Accretion], gain 5% Ability Power until the end of the round, stacking up to 4 times.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+{{Ability details
+| ability_name = Containment Field
+| ability_image = Containment_Field.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Cooldown Reduction;;10%::[Kinetic Grasp] Duration;;50%
+| stadium_rarity = Rare
+| stadium_cost = 5000
+}}
+<!-- Epic -->
+{{Ability details
+| ability_name = The Harness
+| ability_image = The_Harness.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Ability Power;;25%::Ability Lifesteal;;15%::[Accretion] Explosion Radius;;50%
+| official_description = 
+| stadium_rarity = Epic
+| stadium_cost = 11000
+}}
+
+=== Survival ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Synced Shielding
+| ability_image = Synced_Shielding.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Shields;;25
+| official_description = While behind [Experimental Barrier], gain 10% Weapon Power and Attack Speed. While in front of [Experimental Barrier], gain 10% Move Speed and Weapon Lifesteal.
+| stadium_rarity = Rare
+| stadium_cost = 4500
+}}
+{{Ability details
+| ability_name = Beam Splitter
+| ability_image = Beam_Splitter.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Shields;;25::Cooldown Reduction;;5%
+| official_description = While [Kinetic Grasp] is active, reduce incoming Beam and Melee damage by 75%.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+<!-- Epic -->
+{{Ability details
+| ability_name = De Kuiper's Thesis
+| ability_image = De_Kuiper's_Thesis.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Shields;;50
+| official_description = [Experimental Barrier] heals nearby allies for 3% of your max Life every 1s.
+| stadium_rarity = Epic
+| stadium_cost = 11000
+}}
+
+== Powers ==
+{{Ability details
+| ability_name = Zero Gravity
+| ability_image = Zero_Gravity.png
+| ability_type = Stadium Power
+| affected_ability = 
+| official_description = When you use an ability, gain the ability to fly for 4 seconds. While flying gain 15% damage reduction and increased Movement Speed.
+}}
+{{Ability details
+| ability_name = Hyperloop
+| ability_image = Hyperloop_power.png
+| ability_type = Stadium Power
+| affected_ability = Hyperspheres
+| official_description = [Hyperspheres] direct hits reduce the cooldown of [Accretion] by 0.8 seconds.
+}}
+{{Ability details
+| ability_name = Trinisphere
+| ability_image = Trinisphere.png
+| ability_type = Stadium Power
+| affected_ability = Hyperspheres
+| official_description = Your primary fire launches a third [Hypersphere] that deals 75% reduced damage.
+}}
+{{Ability details
+| ability_name = Event Horizon
+| ability_image = Event_Horizon.png
+| ability_type = Stadium Power
+| affected_ability = Kinetic Grasp
+| official_description = Damage absorbed by [Kinetic Grasp] also restores [Experimental Barrier]'s health. Excess is converted to Overhealth.
+}}
+{{Ability details
+| ability_name = Symphonic Syzygy
+| ability_image = Symphonic_Syzygy.png
+| ability_type = Stadium Power
+| affected_ability = Kinetic Grasp
+| official_description = When [Kintic Grasp] ends, for every 100 damage absorbed gain 10% Attack Speed for 4s, stacking up to 4 times.
+}}
+{{Ability details
+| ability_name = Orbital Barrier
+| ability_image = Orbital_Barrier.png
+| ability_type = Stadium Power
+| affected_ability = Experimental Barrier
+| official_description = Get a mini [Experimental Barrier] that orbits around you. It has 50% reduced health.
+}}
+{{Ability details
+| ability_name = Philharmonic Fortitude
+| ability_image = Philharmonic_Fortitude.png
+| ability_type = Stadium Power
+| affected_ability = Experimental Barrier
+| official_description = Experimental Barrier has 25% increased Max Health. Barrier health regenerates constantly but 50% slower while deployed.
+}}
+{{Ability details
+| ability_name = Mass Driver
+| ability_image = Mass_Driver.png
+| ability_type = Stadium Power
+| affected_ability = Accretion
+| official_description = [Accretion] projectiles that pass through [Experimental Barrier] gain 300% Projectile Speed and deal 20% increased damage.
+}}
+{{Ability details
+| ability_name = Singularity
+| ability_image = Singularity.png
+| ability_type = Stadium Power
+| affected_ability = Accretion
+| official_description = [Accertion] splash damage is increased by 75% and enemies are pulled towards its explosion.
+}}
+{{Ability details
+| ability_name = Maestro
+| ability_image = Maestro_power.png
+| ability_type = Stadium Power
+| affected_ability = Gravitic Flux
+| official_description = 50% Ultimate Cost Reduction.<br>[Gravitic Flux] Radius is reduced by 35% and refunds 50% of Ultimate Charge if no enemies are affected.
+}}
+{{Ability details
+| ability_name = Apogee Alignment
+| ability_image = Apogee_Alignment.png
+| ability_type = Stadium Power
+| affected_ability = 
+| official_description = When you use an ability, create 2 [Hyperspheres] that orbit around you. They explode on contact but deal 50% reduced damage.
+}}
+{{Ability details
+| ability_name = Astrophysical
+| ability_image = Astrophysical.png
+| ability_type = Stadium Power
+| affected_ability = 
+| official_description = [Quick Melee] causes enemies hit to levitate into the air for 1s.<br>(10s Cooldown)
+}}
+
+== Example Builds ==
+=== Infinispheres ===
+Blast your enemies to bits with a never-ending barrage of {{Weapon Power|Weapon Power}} Hyperspheres.
+
+==== Powers ====
+* {{al|Trinisphere}}
+* {{al|Symphonic Syzygy}}
+* {{al|Apogee Alignment}}
+* {{al|Zero Gravity}}
+
+==== Early Game ====
+* {{al|Compensator}}
+* {{al|Weapon Grease}}
+* {{al|Winning Attitude}}
+* {{al|Velocity Vector}}
+
+==== Late Game ====
+* {{al|Containment Field}}
+* {{al|Antimatter}}
+* {{al|Weapon Jammer}}
+* {{al|Rüstung Von Wilhelm}}
+
+==== Flex ====
+* {{al|Beam Splitter}}
+* {{al|Reinforced Titanium}}
+* {{al|Super Serum}}
+* {{al|Divine Intervention}}
+
+=== Perfected Barrier ===
+Craft the ultimate Experimental Barrier with enhanced defenses and extra buffs for you and your team!
+
+==== Powers ====
+* {{al|Philharmonic Fortitude}}
+* {{al|Orbital Barrier}}
+* {{al|Event Horizon}}
+* {{al|Zero Gravity}}
+
+==== Early Game ====
+* {{al|Compensator}}
+* {{al|Field Rations}}
+* {{al|First Aid Kit}}
+* {{al|Synced Shielding}}
+
+==== Late Game ====
+* {{al|Containment Field}}
+* {{al|Meka Z-Series}}
+* {{al|De Kuiper's Thesis}}
+* {{al|Rüstung Von Wilhelm}}
+
+==== Flex ====
+* {{al|Beam Splitter}}
+* {{al|Cushioned Padding}}
+* {{al|Colossus Core}}
+* {{al|Ogundimu Reduction Field}}
+
+=== Orbital Bombardment ===
+Maximize your burst damage and crowed controlling-potential with {{Ability Power|Ability Power}}-fueled Accretion Boulders.
+
+==== Powers ====
+* {{al|Mass Driver}}
+* {{al|Singularity}}
+* {{al|Hyperloop}}
+* {{al|Maestro}}
+
+==== Early Game ====
+* {{al|Power Playbook}}
+* {{al|First Aid Kit}}
+* {{al|Winning Attitude}}
+* {{al|Volatile Gravel}}
+
+==== Late Game ====
+* {{al|Multi-Tool}}
+* {{al|The Harness}}
+* {{al|Champion's Kit}}
+* {{al|Cybervenom}}
+
+==== Flex ====
+* {{al|Beam Splitter}}
+* {{al|Nano Cola}}
+* {{al|Rüstung Von Wilhelm}}
+
+== Balance Change Log ==
+{{PatchTableStart}}<onlyinclude>
+{{PatchTableElement|2025-10-14|
+{{DevComment|Developer Comments: Sigma’s gravity defying builds weren’t feeling as cosmic as they should. These changes let him stay airborne longer, sling stronger spheres, and fully embrace his inner astrophysicist without feeling weighed down.}}
+
+{{al|Zero Gravity}} - Power
+* Flight duration increased to 4s (Up from 2.5s).
+* Damage reduction increased to 15% (Up from 10%).
+{{al|Apogee Alignment}} - Power
+* Removed Hypersphere damage reduction.
+* Text will be updated in the Mid Season patch.
+{{al|Trinisphere}} - Power
+* Third Hypersphere damage increased to 75% (Up from 50%).
+* Text will be updated in the Mid-Season patch.
+}}
+{{PatchTableElement|2025-09-16|
+{{DevComment|Developer comments: Several of Sigma's items and powers have proved too situational and we're giving them a tune-up. Additionally, his Beam counter item should now be more effective against other Tanks on the roster (looking at you, Reinhardt).}}
+
+{{al|Maestro}} - Power
+* Added: Gravitic Flux refunds 50% of Ultimate Charge if no enemies are affected.
+
+{{al|Volatile Gravel}} - Rare Ability Hero Item
+* Bonus Ability Power reworked to now deal damage with Accretion and grants 5% Ability Power until the end of the round, stacking up to 4 times.
+
+{{al|Beam Splitter}} - Rare Survival Hero Item
+* Now also reduces Melee damage while active.
+* Damage reduction increased to 75% (up from 50%).
+
+{{al|Synced Shielding}} - Rare Survival Hero Item
+* Weapon Power and Attack Speed granted while behind Experimental Barrier increased to 10% (up from 5%).
+* Move Speed and Lifesteal granted while in front of Experimental Barrier increased to 10% (up from 5%).
+}}
+{{PatchTableElement|2025-08-26|
+{{DevComment|Developer Comments: Sigma is going through a series of balance updates aimed at smoothing out his overall performance. One of his toughest matchups has been against brawlers who can charge in and overwhelm him. This update is part of the ongoing improvements to give Sigma more tools to hold his ground and perform better in those high-pressure encounters.}}
+
+{{al|Zero Gravity}} - Power
+* Added: While flying, gain 10% Damage Reduction.
+
+{{al|The Harness}} – Epic Ability Hero Item
+* Added: +15% Ability Lifesteal.
+}}
+{{PatchTableElement|2025-08-07|
+{{DevComment|Developer Comment: Sigma’s barrier wasn’t scaling well into the late game, often feeling too fragile compared to the pressure he’s expected to absorb. We’ve increased its health to give it more staying power as fights become more intense. Additionally, Accretion focused builds have been underperforming, largely due to the ability’s slower cadence in fast paced brawls. With a cooldown buff, Accretion should now be more responsive and impactful! Especially in late game teamfights where frequent crowd control can shift momentum.}}
+
+* Increased Barrier Health Scalar to 150% (Up from 100%). Barriers now get a bigger health boost from the money you earn.
+
+{{al|Hyperloop}} - Power
+* Increased Cooldown Reduction to 0.8s (Up from 0.5s).
+
+{{al|Singularity}} - Power
+* Increased Splash Damage to 75% (Up from 25%).
+}}
+{{PatchTableElement|2025-06-24|
+* Added to the Stadium Hero Roster
+
+{{al|Zero Gravity}} - Power
+* When you use an ability, gain the ability to fly for 2.5s.
+
+{{al|Hyperloop}} - Power
+* Hyperspheres direct hits reduce the cooldown of [Accretion] by 0.5s.
+
+{{al|Trinisphere}} - Power
+* Your primary fire launches a third [Hypersphere] that deals 50% reduced damage.
+
+{{al|Event Horizon}} - Power
+* Damage absorbed by Kinetic Grasp also restores Experimental Barrier's health. Excess is converted to Overhealth.
+
+{{al|Symphonic Syzygy}} - Power
+* When Kinetic Grasp ends, for every 100 damage absorbed gain 10% Attack Speed for 4s, stacking up to 4 times.
+
+{{al|Orbital Barrier}} - Power
+* Get a mini Experimental Barrier that orbits around you. It has 50% reduced health.
+
+{{al|Philharmonic Fortitude}} - Power
+* Experimental Barrier has 25% increased Max Health. Barrier health regenerates constantly but 50% slower while deployed.
+
+{{al|Mass Driver}} - Power
+* Accretion projectiles that pass through [Experimental Barrier] gain 300% increased projectile speed and deal 20% increased damage.
+
+{{al|Singularity}} - Power
+* Accretion splash damage is increased by 25% and enemies are pulled towards its explosion.
+
+{{al|Maestro}} - Power
+* 50% Ultimate Cost Reduction
+* Gravitic Flux radius is reduced by 50%.
+
+{{al|Apogee Alignment}} - Power
+* When you use an ability, create 2 Hyperspheres that orbit around you. Orbiting [Hyperspheres] deal 50% reduced damage.
+
+{{al|Astrophysical}} - Power
+* Quick Melee causes enemies hit to levitate into the air for 1s. (10s CD)
+
+{{al|Velocity Vector}} - Rare Weapon Hero Item
+* +10% Attack Speed
+* +15% Hypersphere Range
+* Cost: 4500
+
+{{al|Maglev Multiplier}} - Rare Weapon Hero Item
+* 10% Weapon Power
+* +5% Ability Power
+* Gravitic Flux levitates enemies for 20% longer. Enemies affected take 25% increased damage from Hyperspheres.
+* Cost: 5000
+
+{{al|Synced Shielding}} - Rare Ability Hero Item
+* +25 Shields
+* While behind Experimental Barrier, gain +5% Weapon Power and Attack Speed.
+* While in front of Experimental Barrier, gain +5% Move Speed and Lifesteal.
+* Cost: 4500
+
+{{al|Beam Splitter}} - Rare Survival Hero Item
+* +25 Shields
+* +5% Cooldown Reduction
+* While Kinetic Grasp is active, reduce incoming Beam damage by 50%.
+* Cost: 4000
+
+{{al|Antimatter}} - Epic Weapon Hero Item
+* +15% Weapon Power
+* +35% Hyperspheres Explosion Radius
+* Cost: 10000
+
+{{al|The Harness}} - Epic Ability Hero Item
+* +25% Ability Power
+* +50% Accretion Explosion Radius
+* Cost: 11000
+
+{{al|De Kuiper's Thesis}} - Epic Survival Hero Item
+* +50 Shields
+* Experimental Barrier heals nearby allies for 3% of Sigma's life every 1s.
+* Cost: 11000
+
+}}
+</onlyinclude>{{PatchTableEnd}}
+
+{{StadiumNav}}
+[[Category:{{BASEPAGENAME}}]]
+[[Category:Stadium hero pages]]

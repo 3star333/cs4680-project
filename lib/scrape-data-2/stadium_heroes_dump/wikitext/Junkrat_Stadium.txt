@@ -1,0 +1,353 @@
+{{HeroTabs}}
+[[File:Junkrat Stadium.png|thumb|310x310px]]<!--
+[[File: Genji Stadium.png|thumb|300px]]-->
+'''{{BASEPAGENAME}}''' is a playable [[hero]] in the [[Stadium]] [[game mode]].
+
+== Stat interactions ==
+{{StadiumAbilityInteractions/header}}
+{{StadiumAbilityInteractions/row|Frag Launcher |weaponPower=1 |attackSpeed=1 |maxAmmo=1 |weaponLifesteal=1 }}
+{{StadiumAbilityInteractions/row|Concussion Mine |abilityPower=1 |cooldownReduction=1 |abilityLifesteal=1 }}
+{{StadiumAbilityInteractions/row|Steel Trap |abilityPower=1 |cooldownReduction=1 |abilityLifesteal=1 }}
+{{StadiumAbilityInteractions/row|RIP-Tire |abilityPower=1 |abilityLifesteal=1 }}
+{{StadiumAbilityInteractions/row|Total Mayhem |abilityPower=1 |abilityLifesteal=1 }}
+|}
+
+== Hero Items ==
+This is a list of hero-specific items. For a list of items available to all heroes, see [[Armory]].
+
+=== Weapon ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Spiked Gloves
+| ability_image = Spiked_Gloves.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Health;;25::Weapon Power;;5%
+| official_description = Deal 10% increased damage and 25% [Quick Melee] damage to enemies that are airborne.
+| stadium_rarity = Rare
+| stadium_cost = 4500
+}}
+{{Ability details
+| ability_name = Springier Spring
+| ability_image = Springier_Spring.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Health;;25::Attack Speed;;5%::[Frag Launcher] Bounce Distance;;25%
+| official_description = 
+| stadium_rarity = Rare
+| stadium_cost = 4500
+}}
+<!-- Epic -->
+{{Ability details
+| ability_name = Zip Grease
+| ability_image = Zip_Grease.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Health;;25::Weapon Power;;5%
+| official_description = After detonating [Concussion Mine] your next 2 [Frag Launcher] shots gain 200% Projectile Speed and 10% increased damage to airborne enemies.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+
+=== Ability ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Improvised Explosives
+| ability_image = Improvised_Explosives.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Ability Lifesteal;;10%::Starting Ultimate Charge;;10%
+| official_description = After detonating [Rip Tire], trigger [Total Mayhem] after 0.5s.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+{{Ability details
+| ability_name = Rat Pack
+| ability_image = Rat_Pack.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Ability Power;;5%::[Steel Trap] Health;;50%
+| official_description = [Steel Trap] refunds 33% cooldown when destroyed.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+<!-- Epic -->
+{{Ability details
+| ability_name = Charged Chompas
+| ability_image = Charged_Chompas.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Health;;50::Ability Power;;10%
+| official_description = Whenever [Total Mayhem] deals damage, gain 3% Ultimate Charge.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+{{Ability details
+| ability_name = Fawkes' Funny Fuel™<!-- Alt+0153-->
+| ability_image = Fawkes'_Funny_Fuel™.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Ability Power;;15%::Ability Lifesteal;;15%::[Concussion Mine] Explosion Radius;;15%
+| official_description = If Concussion Mine is 5m above the ground when detonated, increase its explosion radius by 25%.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+{{Ability details
+| ability_name = Lithium Alloy
+| ability_image = Lithium_Alloy.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Health;;25::[Steel Trap] Throw Distance;;50%
+| official_description = Enemies that trigger [Steel Trap] Burn for {{Ability Power|75}} damage over 3s.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+
+=== Survival ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Thermal Traps
+| ability_image = Thermal_Traps.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Health;;25
+| official_description = When [Steel Trap] triggers, reveal the target and gain 25% Move Speed and 10% Attack Speed for 3s.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+<!-- Epic -->
+{{Ability details
+| ability_name = Jamison's Jumpers
+| ability_image = Jamison's_Jumpers.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Weapon Power;;10%::Ability Power;;10%::[Concussion Mine] Self Knockback Distance;;20%
+| official_description = 
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+{{Ability details
+| ability_name = Refreshing Radiation
+| ability_image = Refreshing_Radiation.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Cooldown Reduction;;10%::[Concussion Mine] Health;;50%
+| official_description = For each target detonated by [Concussion Mine], gain Overhealth equal to 5% of Max Life for 3s.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+
+== Powers ==
+{{Ability details
+| ability_name = 2 Frag 2 Frurious
+| ability_image = 2_Frag_2_Frurious.png
+| ability_type = Stadium Power
+| affected_ability = Frag Launcher
+| official_description = [Frag Launcher] has a 25% chance to shoot an additional projectile that deals 66% reduced damage.
+}}
+{{Ability details
+| ability_name = Bango!
+| ability_image = Bango!.png
+| ability_type = Stadium Power
+| affected_ability = Frag Launcher
+| official_description = [Frag Launcher] Direct Hits without bouncing Burn for 20% additional damage over 2s.
+}}
+{{Ability details
+| ability_name = Big Bang
+| ability_image = Big_Bang.png
+| ability_type = Stadium Power
+| affected_ability = Frag Launcher
+| official_description = When a [Frag Launcher] shot bounces, increase its projectile size by 33%.
+}}
+{{Ability details
+| ability_name = Bingo!
+| ability_image = Bingo!.png
+| ability_type = Stadium Power
+| affected_ability = Frag Launcher
+| official_description = [Frag Launcher] Direct Hits without bouncing reduce cooldown of abilities by 25%.
+}}
+{{Ability details
+| ability_name = Soot Shaker
+| ability_image = Soot_Shaker.png
+| ability_type = Stadium Power
+| affected_ability = Frag Launcher
+| official_description = After detonating [Concussion Mine], gain 15% increased Attack Speed for 1.50s and restore 20% Max Ammo.
+}}
+{{Ability details
+| ability_name = It's A(nother) Trap!
+| ability_image = It's_A(nother)_Trap!.png
+| ability_type = Stadium Power
+| affected_ability = Steel Trap
+| official_description = Gain 1 additional charge of [Steel Trap].
+}}
+{{Ability details
+| ability_name = Trap II, Esquire
+| ability_image = Trap_II,_Esquire.png
+| ability_type = Stadium Power
+| affected_ability = Steel Trap
+| official_description = After [Concussion Mine] has landed for 0.5s, detonating it will spawn a mini [Steel Trap] that slows instead of immobilizing.
+}}
+{{Ability details
+| ability_name = Hop Boom
+| ability_image = Hop_Boom.png
+| ability_type = Stadium Power
+| affected_ability = Concussion Mine
+| official_description = After launching yourself with [Concussion Mine], detonate a [Concussion Mine] whenever you land with 30% reduced effectiveness.
+}}
+{{Ability details
+| ability_name = Slapnel
+| ability_image = Slapnel.png
+| ability_type = Stadium Power
+| affected_ability = 
+| official_description = [Quick Melee] hits explode for up to 100% [Quick Melee] damage, knocking you and targets back (6s Cooldown).
+}}
+{{Ability details
+| ability_name = Gachabomb
+| ability_image = Gachabomb.png
+| ability_type = Stadium Power
+| affected_ability = Total Mayhem
+| official_description = +20% [Total Mayhem] Explosion Radius.<br>[Total Mayhem] creates a random number of additional bombs.
+}}
+{{Ability details
+| ability_name = Rainin' Lead
+| ability_image = Rainin'_Lead.png
+| ability_type = Stadium Power
+| affected_ability = Total Mayhem
+| official_description = After launching yourself, drop 1 [Total Mayhem] bomb with 25% reduced damage every 0.3s while airborne.
+}}
+{{Ability details
+| ability_name = Rip Roll
+| ability_image = Rip_Roll.png
+| ability_type = Stadium Power
+| affected_ability = RIP-Tire
+| official_description = 20% Ultimate Cost Reduction.<br>During your ultimate, enter your [Rip Tire]. Launch out when it's destroyed or triggered.
+}}
+
+== Balance Change Log ==
+{{PatchTableStart}}<onlyinclude>
+{{PatchTableElement|2025-10-14|
+{{DevComment|Developer Comments: Slapnel is a fun mobility option that isn't picked very often, so we're hoping to make it feel like a more viable option compared to the other Powers.}}
+
+{{al|Slapnel}} - Power
+* Cooldown reduced to 6s (down from 10s).
+}}
+{{PatchTableElement|2025-07-08|
+{{DevComment|Developer Comments: Junkrat has brought his branded mayhem to Stadium but mostly on the back of his Weapon focused powers. We're adding some power to some of his Ability Power focused powers and items to help make them more attractive options.}}
+* Increased cash income from damage and healing by 11.11%.
+
+{{al|It's A(nother) Trap!|text=It's A(Nother) Trap}}
+* Fixed an issue where using Steel Trap while you had 1 charge would also consume the recharging charge.
+
+{{al|Hop Boom}} - Powerh
+* Now deals 30% reduced damage (up from 50% reduced).
+
+{{al|Rainin' Lead}} - Power
+* Frequency increased to every 0.3s (up from 0.4s).
+
+{{al|Lithium Alloy}} - Epic Ability Hero Item
+* Burn damage increased to 75 (up from 50).
+
+{{al|Fawkes' Funny Fuel™}}- Epic Ability Hero Item
+* Ability Power increased to 15% (up from 10%).
+* Ability Lifesteal increased to 15% (up from 10%).
+}}
+{{PatchTableElement|2025-06-24|
+* Added to the Stadium Hero Roster
+
+{{al|2 Frag 2 Frurious}} - Power
+* Frag Launcher has a 25% chance to shoot an additional projectile that deals 66% reduced damage.
+
+{{al|Big Bang}} - Power
+* When a Frag Launcher shot bounces, its projectile size increases by 33%.
+
+{{al|Soot Shaker}} - Power
+* After detonating Concussion Mine, gain 15% increased Attack Speed for 1.5s and refunds 20% Max Ammo.
+
+{{al|Bango!}} - Power
+* Frag Launcher Direct Hits without bouncing burn for 20% extra damage over 2s
+
+{{al|Bingo!}} - Power
+* Frag Launcher Direct Hits without bouncing reduce cooldown of all abilities by 25%.
+
+{{al|It's A(nother) Trap!|text=It's A(nother) Trap}} - Power
+* Gain 1 additional charge of Steel Trap.
+
+{{al|Trap II, Esquire}} - Power
+* After Concussion Mine has landed for 0.5s, detonating it will spawn a mini Steel Trap that slows instead of immobilizing.
+
+{{al|Slapnel}} - Power
+* Quick Melee explode for up to 100% Quick Melee damage, knocking you and nearby enemies back. (10s Cooldown)
+
+{{al|Hop Boom}} - Power
+* After launching yourself with Concussion Mine, detonate a Concussion Mine wherever you land with 50% reduced effectiveness.
+
+{{al|Rainin' Lead}} - Power
+* After launching yourself, drop 1 Total Mayhem bomb with 25% reduced damage every 0.4s while you are airborne.
+
+{{al|Gachabomb}} - Power
+* 20% Total Mayhem Explosion Radius Total Mayhem creates a random number of additional bombs.
+
+{{al|Rip Roll}} - Power
+* 20% Ultimate Cost Reduction
+* During your ultimate, enter your Rip Tire. Launch out when it is destroyed or triggered.
+
+{{al|Springier Spring}} - Rare Weapon Hero Item
+* 25 Health
+* +5% Attack Speed
+* +25% Frag Launcher Bounce Distance
+* Cost: 4500
+
+{{al|Spiked Gloves}} - Rare Weapon Hero Item
+* 25 Health
+* +5% Weapon Power
+* Deal 10% increased damage and 25% increased Quick Melee damage to enemies that are airborne.
+* Cost: 4500
+
+{{al|Improvised Explosives}} - Rare Ability Hero Item
+* +10% Ability Lifesteal
+* +10% Starting Ultimate Charge
+* After detonating Rip Tire, trigger Total Mayhem in 0.5s.
+* Cost: 4000
+
+{{al|Rat Pack}} - Rare Ability Hero Item
+* +5% Ability Power
+* +50% Steel Trap Health
+* Steel Trap refunds 33% cooldown when destroyed.
+* Cost: 4000
+
+{{al|Thermal Traps}} - Rare Survival Hero Item
+* +25 Health
+* When Steel Trap triggers, reveal the target and gain 25% Move Speed and 10% Attack Speed for 3s.
+* Cost: 4000
+
+{{al|Zip Grease}} - Epic Weapon Hero Item
+* +25 Health
+* +5% Weapon Power
+* After detonating Concussion Mine, your next 2 Frag Launcher shots gain 200% Projectile Speed and deal 10% increased damage to airborne enemies.
+* Cost: 10000
+
+{{al|Charged Chompas}} - Epic Ability Hero Item
+* +50 Health
+* +10% Ability Power
+* Whenever Total Mayhem deals damage, gain 3% Ultimate Charge.
+* Cost: 10000
+
+{{al|Fawkes' Funny Fuel™}} - Epic Ability Hero Item
+* +10% Ability Power
+* +10% Ability Lifesteal
+* +15% Concussion Mine Explosion Radius
+* If Concussion Mine is 5m above the ground when detonated, increase its explosion radius by 25%.
+* Cost: 10000
+
+{{al|Lithium Alloy}} - Epic Ability Hero Item
+* +25 Health
+* +50% Steel Trap Throw Distance
+* Triggering Steel Trap burns the enemy for 50 Ability Damage over 3s.
+* Cost: 10000
+
+{{al|Jamison's Jumpers}} - Epic Survival Hero Item
+* +10% Weapon Power
+* +10% Ability Power
+* +20% Concussion Mine Self Knockback Distance
+* Cost: 10000
+
+{{al|Refreshing Radiation}} - Epic Survival Hero Item
+* +10% Cooldown Reduction
+* +50% Concussion Mine Health
+* For each target detonated by Concussion Mine, gain Overhealth equal to 5% of Max Life for 3s.
+* Cost: 10000
+}}
+</onlyinclude>{{PatchTableEnd}}
+
+{{StadiumNav}}
+[[Category:{{BASEPAGENAME}}]]
+[[Category:Stadium hero pages]]

@@ -1,0 +1,373 @@
+{{HeroTabs}}
+[[File:Sojourn Stadium.png|thumb|310x310px]]
+'''{{BASEPAGENAME}}''' is a playable [[hero]] in the [[Stadium]] [[game mode]].
+
+== Ability interactions ==
+{{StadiumAbilityInteractions/header}}
+{{StadiumAbilityInteractions/row|Railgun|weaponPower=1|attackSpeed=1|weaponLifesteal=1|reloadSpeed=1|maxAmmo=1}}
+{{StadiumAbilityInteractions/row|Railgun Alt Fire|weaponPower=1|weaponLifesteal=1}}
+{{StadiumAbilityInteractions/row|Power Slide|abilityPower=1|cooldownReduction=1}}
+{{StadiumAbilityInteractions/row|Disruptor Shot|abilityPower=1|cooldownReduction=1|abilityLifesteal=1}}
+{{StadiumAbilityInteractions/row|Overclock|abilityPower=1|abilityLifesteal=1}}
+|}
+
+== Hero Items ==
+This is a list of hero-specific items. For a list of items available to all heroes, see [[Armory]].
+
+=== Weapon ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Espresso Shots
+| ability_image = Espresso_Shots.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Weapon Power;;5%::Move Speed;;10%
+| official_description = Eliminations during [Overclock] increase its duration by 2 seconds.
+| stadium_rarity = Rare
+| stadium_cost = 4500
+}}
+{{Ability details
+| ability_name = Rocket-Powered Javelin
+| ability_image = Rocket-Powered_Javelin.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Health;;25::Weapon Power;;5%
+| official_description = Quick Melee hits during [Power Slide] knock enemies back and deal 30% increased damage.
+| stadium_rarity = Rare
+| stadium_cost = 5000
+}}
+<!-- Epic -->
+{{Ability details
+| ability_name = Murphy's Motor Module
+| ability_image = Murphy's_Motor_Module.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Weapon Power;;15%
+| official_description = Eliminations reset [Power Slide]'s cooldown.
+| stadium_rarity = Epic
+| stadium_cost = 12000
+}}
+{{Ability details
+| ability_name = Shah-Mat Strategem
+| ability_image = Shah-Mat_Strategem.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Weapon Power;;10%::Attack Speed;;10%
+| official_description = After spending [Railgun] Charge, gain 50% of the Charge spent as [Railgun] projectile speed for 5s.
+| stadium_rarity = Epic
+| stadium_cost = 11000
+}}
+
+=== Ability ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Energy Leech
+| ability_image = Energy_Leech.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Ability Power;;10%
+| official_description = [Disruptor Shot] eliminations grant 10% Ultimate Charge.
+| stadium_rarity = Rare
+| stadium_cost = 5000
+}}
+
+{{Ability details
+| ability_name = CAF Calibrator
+| ability_image = CAF_Calibrator.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Ability Power;;10%::[Disruptor Shot] Projectile Speed;;50%
+| official_description = 
+| stadium_rarity = Rare
+| stadium_cost = 5500
+}}
+
+<!-- Epic -->
+{{Ability details
+| ability_name = Liao's Logistics Data
+| ability_image = Liao's_Logistics_Data.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Ability Power;;15%::[Disruptor Shot] Duration;;15%
+| official_description = 
+| stadium_rarity = Epic
+| stadium_cost = 11000
+}}
+
+=== Survival ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Afterburners
+| ability_image = Afterburners.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Health;;25::Cooldown Reduction;;5%::[Power Slide] Jump Height;;25%
+| official_description = [Overload] grants additional Overhealth equal to 30% of Max Armor.
+| stadium_rarity = Rare
+| stadium_cost = 4500
+}}
+<!-- Epic -->
+
+== Powers ==
+{{Ability details
+| ability_name = Fine-Tuned Thrusters
+| ability_image = Fine-Tuned_Thrusters.png
+| ability_type = Stadium Power
+| affected_ability = Power Slide
+| official_description = Gain 25% Damage Reduction during [Power Slide]. [Power Slide] has 100% increased Duration.
+}}
+
+{{Ability details
+| ability_name = Lock and Load
+| ability_image = Lock_and_Load.png
+| ability_type = Stadium Power
+| affected_ability = Power Slide
+| official_description = During [Power Slide], [Railgun] restores 100% of your Max Ammo every 1s.
+}}
+
+{{Ability details
+| ability_name = Unconventional Tactics
+| ability_image = Unconventional_Tactics.png
+| ability_type = Stadium Power
+| affected_ability = Power Slide
+| official_description = [Power Slide] spawns a mini [Disruptor Shot] when you start sliding and when you jump.
+}}
+
+{{Ability details
+| ability_name = Zoom Zoom Zoom
+| ability_image = Zoom_Zoom_Zoom.png
+| ability_type = Stadium Power
+| affected_ability = Power Slide
+| official_description = During [Power Slide], gain 25% Attack Speed and 50% Weapon Lifesteal.
+}}
+
+{{Ability details
+| ability_name = Commotion Cycle
+| ability_image = Commotion_Cycle.png
+| ability_type = Stadium Power
+| affected_ability = Disruptor Shot
+| official_description = Dealing damage with [Charged Shot] refunds up to 35% of [Disruptor Shot]'s cooldown, based on the Charge spent.
+}}
+
+{{Ability details
+| ability_name = Experimental Tech
+| ability_image = Experimental_Tech.png
+| ability_type = Stadium Power
+| affected_ability = Disruptor Shot
+| official_description = [Disruptor Shot] slows enemies within its area for 15% and grants 33% of its damage dealt as [Railgun] Charge.
+}}
+
+{{Ability details
+| ability_name = Hard Stuck
+| ability_image = Hard_Stuck.png
+| ability_type = Stadium Power
+| affected_ability = Disruptor Shot
+| official_description = [Disruptor Shot] can stick to enemies. Stuck [Disruptor Shots] deal 50% less damage.
+}}
+
+{{Ability details
+| ability_name = Conductor Chase
+| ability_image = Conductor_Chase.png
+| ability_type = Stadium Power
+| affected_ability = Railgun
+| official_description = Generate 25% more [Railgun] Charge. [Railgun] Charge decays 75% slower.
+}}
+
+{{Ability details
+| ability_name = Overcharge
+| ability_image = Overcharge.png
+| ability_type = Stadium Power
+| affected_ability = Railgun
+| official_description = Maximum [Railgun] Charge increased to 150. Fully-charged attacks and abilities still only consume up to 100% Charge.
+}}
+
+{{Ability details
+| ability_name = Reverberation Rounds
+| ability_image = Reverberation_Rounds.png
+| ability_type = Stadium Power
+| affected_ability = Railgun
+| official_description = After firing a fully-charged [Charged Shot], gain 25% increased [Charged Shot] projectile size for 5s (stacking up to 3 times).
+}}
+
+{{Ability details
+| ability_name = Enhanced Targeting System
+| ability_image = Enhanced_Targeting_System.png
+| ability_type = Stadium Power
+| affected_ability = Overclock
+| official_description = During [Overclock], [Railgun] Primary Fire automatically targets enemies.
+}}
+
+{{Ability details
+| ability_name = Aftershock (Sojourn)
+| ability_image = Aftershock_Power.png
+| ability_type = Stadium Power
+| affected_ability = Railgun Alt Fire
+| official_description = Charged Shot final blows trigger an explosion equal to 75% of the shot's damage.
+}}
+
+== Example Builds ==
+These are example builds pre-built in [[Stadium]] meant to show some possibilities of what can be done in the mode.
+
+=== Canadian Hospitality ===
+Supercharge your Railgun to deliver devastating Charged Shots boosted by {{Weapon Power|Weapon Power}}, {{Attack Speed|Attack Speed}} and other explosive effects. 
+
+=== Powers ===
+* {{al|Overcharge}}
+* {{al|Conductor Chase}}
+* {{al|Reverberation Rounds}}
+* {{al|Aftershock (Sojourn)}}
+
+=== Early Game ===
+* {{al|Compensator}}
+* {{al|Weapon Grease}}
+* {{al|Armored Vest}}
+* {{al|Talon Modification Module}}
+
+=== Late Game ===
+* {{al|Murphy's Motor Module}} 
+* {{al|The Closer}}
+* {{al|Eye of the Spider}}
+* {{al|Shah-Mat Strategem}}
+
+=== Flex ===
+* {{al|Shieldbuster}}
+* {{al|Overdrive Core}}
+* {{al|Aerial Distresser}}
+* {{al|El-Sa'ka Suppressor}}
+
+=== Maximum Disruption ===
+Convert Railgun Charge into Extra Disruptor Shots to lock down chokepoints, slow enemies, and deal tons of damage with {{Ability Power|Ability Power}}
+
+=== Powers ===
+* {{al|Commotion Cycle}}
+* {{al|Experimental Tech}}
+* {{al|Hard Stuck}}
+* {{al|Overcharge}}
+
+=== Early Game ===
+* {{al|Compensator}}
+* {{al|Power Playbook}}
+* {{al|Armored Vest}}
+* {{al|CAF Calibrator}}
+
+=== Late Game ===
+* {{al|Nano Cola}}
+* {{al|Liao's Logistics Data}}
+* {{al|Superflexor}}
+* {{al|Iridescent Iris}}
+
+=== Flex ===
+* {{al|Vitality Amplifier}}
+* {{al|Necrotic Repellant}}
+* {{al|Refresher}}
+* {{al|Champion's Kit}}
+
+=== Powerslide Deep Dive ===
+Dive into enemy lines with Powerslide and unleash your rapid fire Railgun, boosted by {{Weapon Power|Weapon Power}}!
+
+=== Powers ===
+* {{al|Lock and Load}}
+* {{al|Zoom Zoom Zoom}}
+* {{al|Enhanced Targeting System}}
+* {{al|Fine-Tuned Thrusters}}
+
+=== Early Game ===
+* {{al|Compensator}}
+* {{al|Weapon Grease}}
+* {{al|Armored Vest}}
+* {{al|Aftermarket Firing Pin}}
+
+=== Late Game ===
+* {{al|Talon Modification Module}}
+* {{al|Murphy's Motor Module}}
+* {{al|Espresso Shots}}
+* {{al|Phantasmic Flux}}
+
+=== Flex ===
+* {{al|Codebreaker}}
+* {{al|Rocket-Powered Javelin}}
+* {{al|Salvaged Slugs}}
+* {{al|Overdrive Core}}
+
+== Balance Change Log ==
+{{PatchTableStart}}<onlyinclude>
+{{PatchTableElement|2025-10-14|
+* Added to the Stadium Hero roster.
+
+{{al|Overcharge}} - Power
+* Max Railgun Charge increased to 150%. Fully-charged attacks and abilities still only consume up to 100% charge.
+
+{{al|Reverberation Rounds}} - Power
+* After using a fully-charged Charged Shot, gain 25% increased Charged Shot projectile size for 4s (stacking up to 3 times).
+
+{{al|Conductor Chase}} - Power
+* Generate 25% more Railgun charge. Railgun charge decays 75% slower.
+
+{{al|Commotion Cycle}} - Power
+* Charged Shot refunds up to 35% of Disruptor Shot's cooldown, based on the Charge spent.
+
+{{al|Aftershock (Sojourn)}} - Power
+* Charged Shot Final Blows trigger an explosion for 75% of the damage dealt.
+
+{{al|Hard Stuck}} - Power
+* Disruptor Shot can stick to enemies. Stuck Disruptor Shots deal 50% less damage.
+
+{{al|Experimental Tech}} - Power
+* Disruptor Shot slows enemies within its area for 15% and grants 33% of its damage dealt as Railgun Charge.
+
+{{al|Fuel Depot}} - Power
+* Rocket Launcher direct hits permanently increase your maximum fuel by 2, stacking up to 25 times.
+
+{{al|Fine-Tuned Thrusters}} - Power
+* Gain 25% Damage Reduction during Power Slide. Power Slide duration increased by 100%.
+
+{{al|Unconventional Tactics}} - Power
+* Power Slide spawns a mini Disruptor Shot when activated and when you jump.
+
+{{al|Lock and Load}} - Power
+* During Power Slide, Railgun does not consume ammo and restores 50% of your Max Ammo every second.
+
+{{al|Enhanced Targeting System|text=Enhanced Targeting Software}} - Power
+* During Overclock, Railgun Primary Fire automatically targets enemies.
+
+{{al|Espresso Shots}} - Rare Weapon Hero Item
+* 5% Weapon Power.
+* 10% Move Speed.
+* Eliminations during Overclock increase its duration by 2s.
+* Cost: 4,500.
+
+{{al|Rocket-Powered Javelin}} - Rare Weapon Hero Item
+* 25 Health.
+* 5% Weapon Power.
+* Quick Melee hits during Power Slide knock enemies back and deal 30% increased damage.
+* Cost: 5,000.
+
+{{al|Murphy's Motor Module}} - Epic Weapon Hero Item
+* 15% Weapon Power.
+* Eliminations reset Power Slide's cooldown.
+* Cost: 12,000.
+
+{{al|Shah-Mat Strategem}} - Epic Weapon Hero item
+* 10% Weapon Power.
+* 10% Attack Speed.
+* After spending Railgun Charge, gain Railgun Projectile Speed equal to 50% the Railgun Charge spent for 3s.
+* Cost: 11,000.
+
+{{al|Energy Leech}} - Rare Ability Hero Item
+* 10% Ability Power.
+* Disruptor Shot eliminations grant 10% Ultimate Charge.
+* Cost: 5,000.
+
+{{al|CAF Calibrator}}- Rare Ability Hero Item
+* 10% Ability Power.
+* 50% Disruptor Projectile Speed
+* Cost: 5,000.
+
+{{al|Liao's Logistics Data}} - Epic Ability Hero Item
+* 15% Ability Power.
+* 15% Disruptor Shot duration
+* Cost: 4,500.
+
+{{al|Afterburners}}- Epic Survival Hero Item
+* 25 Health.
+* 5% Cooldown Reduction.
+* 5% Power Slide jump height.
+* Cost: 4,500.
+}}
+</onlyinclude>{{PatchTableEnd}}
+
+{{StadiumNav}}
+[[Category:{{BASEPAGENAME}}]]
+[[Category:Stadium hero pages]]

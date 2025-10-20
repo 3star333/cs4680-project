@@ -1,0 +1,17 @@
+[
+  { "slug": "hanaoka", "name": "Hanaoka", "type": "Assault" },
+  { "slug": "throne-of-anubis", "name": "Throne of Anubis", "type": "Assault" },
+  { "slug": "colosseo", "name": "Colosseo", "type": "Push" },
+  { "slug": "esperanca", "name": "Esperança", "type": "Push" },
+  { "slug": "place-lacroix", "name": "Place Lacroix", "type": "Push" },
+  { "slug": "redwood-dam", "name": "Redwood Dam", "type": "Push" },
+  { "slug": "arena-victoriae", "name": "Arena Victoriae", "type": "Control" },
+  { "slug": "busan-sanctuary", "name": "Busan Sanctuary", "type": "Control" },
+  { "slug": "gogadoro", "name": "Gogadoro", "type": "Control" },
+  { "slug": "ilios-ruins", "name": "Ilios Ruins", "type": "Control" },
+  { "slug": "nepal-shrine", "name": "Nepal Shrine", "type": "Control" },
+  { "slug": "oasis-gardens", "name": "Oasis Gardens", "type": "Control" },
+  { "slug": "samoa-volcano", "name": "Samoa Volcano", "type": "Control" },
+  { "slug": "powder-keg-mine", "name": "Powder Keg Mine", "type": "Escort" },
+  { "slug": "thames-district", "name": "Thames District", "type": "Escort" }
+]

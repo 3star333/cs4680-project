@@ -1,0 +1,437 @@
+{{HeroTabs}}
+[[File: Brigitte Stadium.png|thumb|310x310px]]
+'''{{BASEPAGENAME}}''' is a playable [[hero]] in the [[Stadium]] [[game mode]].
+
+== Ability interactions ==
+{{StadiumAbilityInteractions/header}}
+{{StadiumAbilityInteractions/row|Inspire | abilityPower=1 }}
+{{StadiumAbilityInteractions/row|Rocket Flail | weaponPower=1 | attackSpeed=1 | weaponLifesteal=1 | meleeDamage=1 }}
+{{StadiumAbilityInteractions/row|Shield Bash | abilityPower=1 | cooldownReduction=1 | abilityLifesteal=1 }}
+{{StadiumAbilityInteractions/row|Barrier Shield | }}
+{{StadiumAbilityInteractions/row|Whip Shot | abilityPower=1 | cooldownReduction=1 | abilityLifesteal=1 }}
+{{StadiumAbilityInteractions/row|Repair Pack | abilityPower=1 | cooldownReduction=1 }}
+{{StadiumAbilityInteractions/row|Rally | abilityPower=1 }}
+|}
+
+; {{al|Barrier Shield}}
+* Barrier health increases by 125% of [[Stadium#Increased maximum health|bonus health]] gained from Stadium Cash earnings.
+
+== Hero Items ==
+This is a list of hero-specific items. For a list of items available to all heroes, see [[Armory]].
+
+=== Weapon ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Omni-Boots
+| ability_image = Omni-Boots.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Health;;25::Weapon Power;;5%::[Shield Bash] Distance;;40%
+| official_description = 
+| stadium_rarity = Rare
+| stadium_cost = 4500
+}}
+
+<!-- Epic -->
+
+=== Ability ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Haste Paste
+| ability_image = Haste_Paste.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Health;;25::Ability Power;;5%
+| official_description = [Repair Pack] grants 10% Move Speed to target while active.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+
+<!-- Epic -->
+{{Ability details
+| ability_name = Chain Extender
+| ability_image = Chain_Extender.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Weapon Power;;15%::[Whip Shot] Range;;50%
+| official_description = 
+| stadium_rarity = Epic
+| stadium_cost = 9000
+}}
+{{Ability details
+| ability_name = Scavenged Steel
+| ability_image = Scavenged_Steel.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Armor;;50::Cooldown Reduction;;5%
+| official_description = Ability Damage grants 3% Ultimate Charge.
+| stadium_rarity = Epic
+| stadium_cost = 9500
+}}
+{{Ability details
+| ability_name = Mitzi's Medicine
+| ability_image = Mitzi's_Medicine.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Ability Power;;10%::Cooldown Reduction;;10%
+| official_description = [Repair Pack] healing can overheal allies up to 75 Overhealth while active.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+
+=== Survival ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Squire's Satchel
+| ability_image = Squire's_Satchel.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Armor;;25
+| official_description = While using [Barrier Shield], gain 25% Damage Reduction.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+{{Ability details
+| ability_name = Valkyrian Core
+| ability_image = Valkyrian_Core.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Armor;;25
+| official_description = After [Barrier Shield] is destroyed, it begins regenerating 50% sooner.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+
+<!-- Epic -->
+{{Ability details
+| ability_name = Dragons' Incinerator
+| ability_image = Dragons'_Incinerator.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Armor;;25::[Rally] Duration;;20%
+| official_description = Enemies within [Rally] are burned for 5% of their max Life every 1s, healing you by the same amount.
+| stadium_rarity = Epic
+| stadium_cost = 9000
+}}
+{{Ability details
+| ability_name = Hardlight Weave
+| ability_image = Hardlight_Weave.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Armor;;25
+| official_description = Increase [Barrier Shield] Health by 150% of Max Armor.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+{{Ability details
+| ability_name = Nullifier Neuroworks
+| ability_image = Nullifier_Neuroworks.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Armor;;50
+| official_description = [Rocket Flail] damage reduces cooldown of [Repair Pack] by 0.5s.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+
+== Powers ==
+{{Ability details
+| ability_name = Burst Aid
+| ability_image = Burst_Aid.png
+| ability_type = Stadium Power
+| affected_ability = Rocket Flail
+| official_description = Ability: Use [Reload] to consume all [Repair Pack] charges. For each charge, heal 25% of Max Life and gain 10% Attack Speed for 3s. (10s Cooldown).
+}}
+
+{{Ability details
+| ability_name = Righteous Cleave
+| ability_image = Righteous_Cleave.png
+| ability_type = Stadium Power
+| affected_ability = Rocket Flail
+| official_description = After using [Shield Bash] or [Whipshot], your next damaging [Rocket Flail] swing heals allies within 10m for 100% of damage dealt.
+}}
+
+{{Ability details
+| ability_name = Whirlwhip
+| ability_image = Whirlwhip.png
+| ability_type = Stadium Power
+| affected_ability = Rocket Flail
+| official_description = After using [Shield Bash] or [Whipshot], your next [Rocket Flail] swing hits all enemies around you within 5m.
+}}
+
+{{Ability details
+| ability_name = Optimizer
+| ability_image = Optimizer.png
+| ability_type = Stadium Power
+| affected_ability = Repair Pack
+| official_description = For each [Repair Pack] active, increase [Repair Pack] Healing by 10% and heal yourself for 5% of your Max Life every 1s.
+}}
+
+{{Ability details
+| ability_name = Packstacker
+| ability_image = Packstacker.png
+| ability_type = Stadium Power
+| affected_ability = Repair Pack
+| official_description = [Repair Pack] duration is increased by 50%. Ability damage extends the duration of all active [Repair Pack] by 1s.
+}}
+
+{{Ability details
+| ability_name = God Ray
+| ability_image = God_Ray.png
+| ability_type = Stadium Power
+| affected_ability = Whip Shot
+| official_description = Ability damage to targets over 10m away Burns them for 4% bonus damage for every 1m the ability travelled.
+| duration = 3 seconds
+}}
+
+{{Ability details
+| ability_name = Maces to Faces
+| ability_image = Maces_to_Faces.png
+| ability_type = Stadium Power
+| affected_ability = Whip Shot
+| official_description = [Whip Shot]'s size is increased by 1m and can hit multiple enemies. [Inspire] lasts 1s longer when triggered by [Whip Shot].
+}}
+
+{{Ability details
+| ability_name = Mender Bender
+| ability_image = Mender_Bender.png
+| ability_type = Stadium Power
+| affected_ability = Shield Bash
+| official_description = After using [Shield Bash], heal 33% [Barrier Shield] Health and trigger [Inspire].
+}}
+
+{{Ability details
+| ability_name = Sköldkastning
+| ability_image = Sköldkastning.png
+| ability_type = Stadium Power
+| affected_ability = Shield Bash
+| official_description = After using [Shield Bash], your next [Rocket Flail] swing projects a Shield Boomerang that deals 40% [Shield Bash] damage.
+}}
+
+{{Ability details
+| ability_name = Lindholm Wall
+| ability_image = Lindholm_Wall.png
+| ability_type = Stadium Power
+| affected_ability = Barrier Shield
+| official_description = Increase [Barrier Shield] size by 60% and [Barrier Shield] Health by 100%. [Shield Bash] can hit multiple enemies.
+}}
+
+{{Ability details
+| ability_name = Aura Farming
+| ability_image = Aura_Farming.png
+| ability_type = Stadium Power
+| affected_ability = Inspire
+| official_description = When [Inspire] is triggered by an ability, all heroes affected by it gain Overhealth equal to 5% of your Max Life for 5s.
+}}
+
+{{Ability details
+| ability_name = Consecrated Ground
+| ability_image = Consecrated_Ground.png
+| ability_type = Stadium Power
+| affected_ability = Rally
+| official_description = +25% Starting Ultimate Charge.<br>While [Rally] is active, trigger [Inspire] every 1.5s and ability cooldowns refresh 25% faster.
+}}
+
+== Example Builds ==
+These are example builds pre-built in [[Stadium]] meant to show some possibilities of what can be done in the mode.
+
+=== Crusader of retribution ===
+Sustain in the midst of battle with your Flail sharpened by {{Weapon Power|Weapon Power}}!
+
+==== Powers ====
+*{{al|Whirlwhip}}
+*{{al|Righteous Cleave}}
+*{{al|Burst Aid}}
+*{{al|Aura Farming}}
+
+==== Early game ====
+*{{al|Compensator}}
+*{{al|Weapon Grease}}
+*{{al|First Aid Kit}}
+*{{al|Gloomgauntlet}}
+
+==== Late game ====
+*{{al|Aftermarket Firing Pin}}
+*{{al|Omni-Boots}}
+*{{al|Phantasmic Flux}}
+*{{al|Nullifier Neuroworks}}
+
+==== Flex ====
+*{{al|Overdrive Core}}
+*{{al|Weapon Jammer}}
+*{{al|Nebula Conduit}}
+*{{al|Ogundimu Reduction Field}}
+
+=== Lash and bash ===
+Condemn your enemies with long range Whipshots hardened with {{Ability Power|Ability Power}}!
+
+==== Powers ====
+*{{al|God Ray}}
+*{{al|Maces to Faces}}
+*{{al|Sköldkastning}}
+*{{al|Packstacker}}
+
+==== Early game ====
+*{{al|Power Playbook}}
+*{{al|Weapon Grease}}
+*{{al|First Aid Kit}}
+*{{al|Chain Extender}}
+
+==== Late game ====
+*{{al|Nano Cola}}
+*{{al|Lumérico Fusion Drive}}
+*{{al|Sonic Recharger}}
+*{{al|Iridescent Iris}}
+
+==== Flex ====
+*{{al|Iron Eyes}}
+*{{al|Scavenged Steel}}
+*{{al|Cybervenom}}
+*{{al|Liquid Nitrogen}}
+
+=== First responder ===
+Manage your {{Ability Power|Ability Power}} empowered Repair Packs across many allies!
+
+==== Powers ====
+*{{al|Packstacker}}
+*{{al|Optimizer}}
+*{{al|Sköldkastning}}
+*{{al|Aura Farming}}
+
+==== Early game ====
+*{{al|Power Playbook}}
+*{{al|Weapon Grease}}
+*{{al|First Aid Kit}}
+*{{al|Mitzi's Medicine}}
+
+==== Late game ====
+*{{al|Haste Paste}}
+*{{al|Ironclad Exhaust Ports}}
+*{{al|Lumérico Fusion Drive}}
+*{{al|Nullifier Neuroworks}}
+
+==== Flex ====
+*{{al|Iron Eyes}}
+*{{al|Sonic Recharger}}
+*{{al|Cybervenom}}
+
+== Balance Change Log ==
+{{PatchTableStart}}<onlyinclude>
+{{PatchTableElement|2025-10-14|
+{{DevComment|Developer Comments: Brigitte's Weapon Power builds have struggled to find their footing. We're increasing the usability on these powers to help make Weapon Power centric builds a more viable option.}}
+
+{{al|Burst Aid}} - Power
+* Input changed to Reload (from Quick Melee).
+* Max Life Heal per Repair Pack consumed increased to 25% (up from 20%).
+* Attack Speed Buff per Repair Pack consumed increased to 10% (up from 5%).
+
+{{al|Righteous Cleave}} - Power
+* Heal now triggers on next Damaging Rocket Flail Swing (changed from Next Rocket Flail Swing).
+}}
+{{PatchTableElement|2025-10-01|
+{{DevComment|Developer Comments: Brigitte's damage buff to Shield Bash in the core game in the midseason proved to be a large unintended damage buff for Sköldkastning and it has been overperforming. We're bringing down the bonus damage to be more in line with her other powers to ensure variety in her build paths.}}
+
+{{al|Sköldkastning}} - Power
+* Shield Boomerang damage reduced to 40% of Shield Bash damage (down from 60%).
+}}
+
+{{PatchTableElement|2025-09-04|
+{{DevComment|Developer Comments: Scavenged Steel was previously allowing players to chain Rallies together, making it feel like she had Rally every fight. This change should lower Rally uptime so there are greater windows of opportunity to counterplay. We're also lightly increasing the healing reliability of Brigitte's Weapon Power build.}}
+
+{{al|Righteous Cleave}} - Power
+* Healing Range increased to 10m (Up from 5m).
+
+{{al|Scavenged Steel}} - Epic Ability Hero Item
+* No longer grants Ultimate Charge while Rally is active.
+}}
+{{PatchTableElement|2025-08-26|
+* Added to the Stadium Hero roster.
+
+{{al|Burst Aid}} - Power
+* Use Quick Melee to consume all Repair Pack charges. For each charge, heal 20% of Max Life and gain 5% Attack Speed for 3 seconds. (10 second Cooldown).
+
+{{al|Righteous Cleave}} - Power
+* After using Shield Bash or Whip Shot, your next Rocket Flail swing heals allies within 5 meters for 100% of damage dealt.
+
+{{al|Whirlwhip}} - Power
+* After using Shield Bash or Whip Shot, your next Rocket Flail swing hits all enemies around you within 5 meters.
+
+{{al|Optimizer}} - Power
+* For each Repair Pack active, increase Repair Pack Healing by 10% and heal yourself for 5% of your Max Life every 1 second.
+
+{{al|Packstacker}} - Power
+* Repair Pack duration is increased by 50%. Ability damage extends the duration of all active Repair Packs by 1 second.
+
+{{al|God Ray}} - Power
+* Ability damage to targets over 10 meters away Burns them for 4% bonus damage for every 1 meter the ability traveled.
+
+{{al|Maces to Faces}} - Power
+* Whip Shot's size is increased by 1 meter and can hit multiple enemies. Inspire lasts 1 second longer when triggered by Whip Shot.
+
+{{al|Mender Bender}} - Power
+* After using Shield Bash, heal 33% Barrier Shield Health and trigger Inspire.
+
+{{al|Sköldkastning}} - Power
+* After using Shield Bash, your next Rocket Flail swing projects a Shield Boomerang that deals 60% Shield Bash damage.
+
+{{al|Lindholm Wall}} - Power
+* Increase Barrier Shield size by 60% and Barrier Shield Health by 100%.
+* Shield Bash can hit multiple targets.
+
+{{al|Aura Farming}} - Power
+* When Inspire is triggered by an ability, all heroes affected by it gain Overhealth equal to 5% of your Max Life for 5 seconds.
+
+{{al|Consecrated Ground}} - Power
+* +25% Starting Ultimate Charge.
+* While Rally is active, trigger Inspire every 1.5 seconds and ability cooldowns refresh 25% faster.
+
+{{al|Omni-Boots|text=Omni-Boost}} - Rare Weapon Hero Item
+* 25 Health.
+* 5% Weapon Power.
+* 40% Shield Bash Distance.
+* 4,000 Cost.
+
+{{al|Haste Paste}} - Rare Ability Hero Item
+* 25 Health.
+* 5% Ability Power.
+* Repair Pack grants 10% Move Speed to target while active.
+* Cost: 4,000.
+
+{{al|Chain Extender}} - Epic Ability Hero Item
+* 15% Ability Power.
+* 50% Whip Shot Range.
+* Cost: 9,000.
+
+{{al|Scavenged Steel}} - Epic Ability Hero Item
+* 50 Armor.
+* 5% Cooldown Reduction.
+* Ability damage grants 3% Ultimate Charge.
+* Cost: 9,500.
+
+{{al|Mitzi's Medicine}} - Epic Ability Hero Item
+* 10% Ability Power.
+* 10% Cooldown Reduction.
+* Repair Pack healing can overheal allies up to 75 Overhealth while active.
+* Cost: 10,000.
+
+{{al|Squire's Satchel}} - Rare Survival Hero Item
+* 25 Armor.
+* While using Shield Barrier gain 25% Damage Reduction.
+* Cost: 4,000.
+
+{{al|Valkyrian Core}} - Rare Survival Hero Item
+* 25 Armor.
+* After Barrier Shield is destroyed, it begins regenerating 50% sonner.
+* Cost: 4,000.
+
+{{al|Dragons' Incinerator|text=Dragon's Incinerator}} - Epic Survival Hero Item
+* 25 Armor.
+* 20% Rally Duration.
+* Enemies within Rally are burned for 5% of their max Life for every 1 second, healing you by the same amount.
+* Cost: 9,000.
+
+{{al|Nullifier Neuroworks}} - Epic Survival Hero Item
+* 50 Armor.
+* Rocket Flail damage reduces cooldown of Repair Pack by 0.5 seconds.
+* Cost: 10,000.
+
+{{al|Hardlight Weave}} - Epic Survival Hero Item
+* 25 Armor
+* Increase Barrier Shield Health by 150% of Max Armor.
+* Cost: 10,000.
+}}
+</onlyinclude>{{PatchTableEnd}}
+
+{{StadiumNav}}
+[[Category:{{BASEPAGENAME}}]]
+[[Category:Stadium hero pages]]

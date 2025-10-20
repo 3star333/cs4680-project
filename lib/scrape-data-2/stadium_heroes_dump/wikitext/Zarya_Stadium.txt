@@ -1,0 +1,350 @@
+{{HeroTabs}}
+[[File: Zarya Stadium.png|thumb|310x310px]]
+'''{{BASEPAGENAME}}''' is a playable [[hero]] in the [[Stadium]] [[game mode]].
+
+== Stat interactions ==
+{{StadiumAbilityInteractions/header}}
+{{StadiumAbilityInteractions/row|Particle Cannon |weaponPower=1 |attackSpeed=1 |maxAmmo=1 |weaponLifesteal=1 }}
+{{StadiumAbilityInteractions/row|Particle Barrier |abilityPower=1 |cooldownReduction=1 }}
+{{StadiumAbilityInteractions/row|Projected Barrier |abilityPower=1 |cooldownReduction=1 }}
+{{StadiumAbilityInteractions/row|Graviton Surge |abilityPower=1 |abilityLifesteal=1 }}
+|}
+
+== Hero Items ==
+This is a list of hero-specific items. For a list of items available to all heroes, see [[Armory]].
+
+=== Weapon ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Hybrid Battery
+| ability_image = Hybrid_Battery.png
+| ability_type = Hero Item (Weapon)
+| official_description = [Energy] cannot be reduced below 20.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+| stadium_buffs = Weapon Power;;5%
+}}
+<!-- Epic -->
+{{Ability details
+| ability_name = Light Launcher
+| ability_image = Light_Launcher.png
+| ability_type = Hero Item (Weapon)
+| official_description = Consecutive [Particle Cannon] secondary fire shots consume 20% less ammo, up to 60%, for your current magazine.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+| stadium_buffs = Weapon Power;;15%
+}}
+{{Ability details
+| ability_name = Bigger Beam
+| ability_image = Bigger_Beam.png
+| ability_type = Hero Item (Weapon)
+| official_description = [Particle Cannon]'s primary fire range is increased by 20%.
+| stadium_rarity = Epic
+| stadium_cost = 11000
+| stadium_buffs = Weapon Power;;10%
+}}
+
+=== Ability ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Beyond Barrier
+| ability_image = Beyond_Barrier.png
+| ability_type = Hero Item (Ability)
+| official_description = 
+| stadium_rarity = Rare
+| stadium_cost = 4000
+| stadium_buffs = Ability Power;;10%::[Projected Barrier] Range;;20%
+}}
+<!-- Epic -->
+{{Ability details
+| ability_name = Superconductor
+| ability_image = Superconductor.png
+| ability_type = Hero Item (Ability)
+| official_description = After [Particle Barrier] is destroyed or expires, gain decaying Overhealth equal to 50% of damage mitigated during [Particle Barrier] for 3s.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+| stadium_buffs = Health;;25::Ability Power;;15%
+}}
+{{Ability details
+| ability_name = Lynx's Datadrive
+| ability_image = Lynx's_Datadrive.png
+| ability_type = Hero Item (Ability)
+| official_description = Restore Life equal to 30% of damage mitigated by [Projected Barrier].
+| stadium_rarity = Epic
+| stadium_cost = 10000
+| stadium_buffs = Health;;25::Ability Power;;10%
+}}
+
+=== Survival ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Blastproof Boots
+| ability_image = Blastproof_Boots.png
+| ability_type = Hero Item (Survival)
+| official_description = [Particle Cannon]'s secondary-fire self knockback is increased by 100% and no longer damages yourself.
+| stadium_rarity = Rare
+| stadium_cost = 3750
+| stadium_buffs = Health;;25::Move Speed;;5%
+}}
+{{Ability details
+| ability_name = Jumper Cables
+| ability_image = Jumper_Cables.png
+| ability_type = Hero Item (Survival)
+| official_description = After using a [Barrier], start regenerating Shields instantly.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+| stadium_buffs = Shields;;25::Ability Power;;5%
+}}
+{{Ability details
+| ability_name = Protein Shake
+| ability_image = Protein_Shake.png
+| ability_type = Hero Item (Survival)
+| official_description = While [Particle Barrier] is active, become Unstoppable and [Quick Melee] knocks back enemies.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+| stadium_buffs = Health;;25::Melee Damage;;15%
+}}
+
+== Powers ==
+{{Ability details
+| ability_name = No Limits
+| ability_image = No_Limits_power.png
+| ability_type = Stadium Power
+| affected_ability = Particle Cannon
+| official_description = Maximum [Energy] increased to 125. [Energy] always decays above 100 [Energy] at a 150% faster rate.
+}}
+{{Ability details
+| ability_name = Particle Accelerator
+| ability_image = Particle_Accelerator.png
+| ability_type = Stadium Power
+| affected_ability = Particle Cannon
+| official_description = Gain 15% Attack Speed for [Particle Cannon]'s secondary fire. After using an ability, quadruple this bonus for 5 seconds.
+}}
+{{Ability details
+| ability_name = Piercing Beam
+| ability_image = Piercing_Beam.png
+| ability_type = Stadium Power
+| affected_ability = Particle Cannon
+| official_description = Above 80 [Energy], [Particle Cannon]'s Primary Fire will pierce enemies.
+}}
+{{Ability details
+| ability_name = Pre-workout
+| ability_image = Pre-Workout.png
+| ability_type = Stadium Power
+| affected_ability = Energy
+| official_description = Gain Weapon Lifesteal and Ability Lifesteal equal to 15% of [Energy].
+}}
+{{Ability details
+| ability_name = Barrier Benefits
+| ability_image = Barrier_Benefits.png
+| ability_type = Stadium Power
+| affected_ability = Particle Barrier
+| official_description = When [Barriers] expire, grant Overhealth equal to 100% of remaining [Barrier] Health to the target for 2s.
+}}
+{{Ability details
+| ability_name = Containment Shield
+| ability_type = Stadium Power
+| affected_ability = Particle Barrier
+| official_description = [Barrier] heals the target for 5% of your Max Life every 1s and grants 20% Move Speed while active.
+| ability_image = Containment_Shield.png
+}}
+{{Ability details
+| ability_name = Fission Field
+| ability_image = Fission_Field.png
+| ability_type = Stadium Power
+| affected_ability = Particle Barrier
+| official_description = [Projected Barrier] also applies to 1 additional ally within 10m, but has 25% reduced maximum [Energy] gain and 20% reduced duration.
+}}
+{{Ability details
+| ability_name = Here to Spot You
+| ability_image = Here_To_Spot_You.png
+| ability_type = Stadium Power
+| affected_ability = Particle Barrier
+| official_description = [Projected Barrier] pulls you to the targeted ally and heals you for 20% of Max Life over 3s.
+}}
+{{Ability details
+| ability_name = Lifelift
+| ability_image = Lifelift.png
+| ability_type = Stadium Power
+| affected_ability = Particle Barrier
+| official_description = +50% [Particle Barrier] Size.<br>Increase [Barrier] Health by 50% of Bonus Max Life from Items.
+| ability_details = * Each Barrier can only grant up to 45 Energy regardless of Barrier Health.
+}}
+{{Ability details
+| ability_name = Major Flex
+| ability_image = Major_Flex.png
+| ability_type = Stadium Power
+| affected_ability = Particle Barrier
+| official_description = [Barrier] knocks back and deals {{Ability_Power|25}} damage, increased by [Energy], to enemies within 5m every 1s.
+}}
+{{Ability details
+| ability_name = Volskaya Vortex
+| ability_image = Volskaya_Vortex.png
+| ability_type = Stadium Power
+| affected_ability = Particle Barrier
+| official_description = After a [Barrier] is cast, [Particle Cannon]'s next secondary fire spawns a slowing vortex that deals {{Ability_Power|80}} damage over 2s.
+}}
+{{Ability details
+| ability_name = Graviton Anomaly
+| ability_image = Graviton_Anomaly.png
+| ability_type = Stadium Power
+| affected_ability = Graviton Surge
+| official_description = 25% Ultimate Cost Reduction<br>[Graviton Surge] base damage is increased to 30 and increased by [Energy], but has 50% reduced duration.
+}}
+
+== Example Builds ==
+=== Volskayan Experiment ===
+Disrupt the enemy with damaging Barriers upgraded by {{Ability Power|Ability Power}} and with increased crowd control!
+
+==== Powers ====
+* {{al|Volskaya Vortex}}
+* {{al|Major Flex}}
+* {{al|Graviton Anomaly}}
+* {{al|Pre-Workout}}
+
+==== Early Game ====
+* {{al|Power Playbook}}
+* {{al|Shady Spectacles}}
+* {{al|First Aid Kit}}
+* {{al|Jumper Cables}}
+
+==== Late Game ====
+* {{al|Multi-Tool}}
+* {{al|Nano Cola}}
+* {{al|Superflexor}}
+* {{al|Superconductor}}
+
+==== Flex ====
+* {{al|Reinforced Titanium}}
+* {{al|Necrotic Repellant}}
+* {{al|Cybervenom}}
+* {{al|Lynx's Datadrive}}
+
+=== Limit Breaker ===
+Beam down your enemies with huge amounts of Energy, Lifesteal, and {{Weapon Power|Weapon Power}}!
+
+==== Powers ====
+* {{al|Piercing Beam}}
+* {{al|Pre-Workout}}
+* {{al|No Limits}}
+* {{al|Containment Shield}}
+
+==== Early Game ====
+* {{al|Compensator}}
+* {{al|Plasma Converter}}
+* {{al|First Aid Kit}}
+* {{al|Hybrid Battery}}
+
+==== Late Game ====
+* {{al|Talon Modification Module}}
+* {{al|Bigger Beam}}
+* {{al|Nebula Conduit}}
+* {{al|Eye of the Spider}}
+
+==== Flex ====
+* {{al|Reinforced Titanium}}
+* {{al|Kitsune Snippet}}
+* {{al|Salvaged Slugs}}
+* {{al|Codebreaker}}
+
+=== Projected Projector ===
+Support your allies with multiple Projected Barriers that heal and provide Overhealth!
+
+==== Powers ====
+* {{al|Fission Field}}
+* {{al|Here to Spot You}}
+* {{al|Containment Shield}}
+* {{al|Barrier Benefits}}
+
+==== Early Game ====
+* {{al|Power Playbook}}
+* {{al|Plasma Converter}}
+* {{al|First Aid Kit}}
+* {{al|Jumper Cables}}
+
+==== Late Game ====
+* {{al|Beyond Barrier}}
+* {{al|Multi-Tool}}
+* {{al|Lynx's Datadrive}}
+* {{al|Lumérico Fusion Drive}}
+
+==== Flex ====
+* {{al|Reinforced Titanium}}
+* {{al|Divine Intervention}}
+* {{al|Martian Mender}}
+
+== Balance Change Log ==
+{{PatchTableStart}}<onlyinclude>
+{{PatchTableElement|2025-06-24|
+{{al|Energy}} - Passive
+* Each Barrier can only grant a maximum of 45 Energy regardless of Barrier Health.
+
+{{al|Barrier Benefits}} - Power
+* Increased Overhealth based on remaining Barrier Health to 100% (Up from 50%).
+* Duration reduced to 2s (down from 3s).
+
+{{al|Containment Shield}} - Power
+* Removed "Barrier heals 20 Life, increased by Energy".
+* Added "Barrier heals target for 5% of your Max Life every 1s".
+
+{{al|Fission Field}} - Power
+* Added 25% reduced Maximum Energy gain.
+
+{{al|Lifelift}} - Power
+* Bonus Max Life increase now only increases from Max Life added from Items.
+* Increased Barrier health scaling to 50% of your bonus Max Life from Items (up from 25%).
+
+{{al|No Limits}} - Power
+* Maximum Energy decreased to 125 (Down from 150).
+
+{{al|Volskaya Vortex}} - Power
+* Fixed an issue where the Vortex from Volskaya Vortex didn't grant Ultimate Charge.
+* Damage reduced to 80 (down from 100).
+
+{{al|Bigger Beam}} - Epic Weapon Hero Item
+* Cost increased to 12000 (Up from 11000).
+
+{{al|Superconductor}} - Epic Hero Ability Item
+* Removed increased Barrier Duration.
+* Added "After Particle Barrier is destroyed or expires, gain decaying Overhealth equal to 50% of damage mitigated during Particle Barrier".
+
+{{al|Lynx's Datadrive}} - Epic Hero Ability Item
+* Removed "Using Projected Barrier on an ally refunds 20% of cooldown".
+* Added "Restore your Life equal to 30% of Damage Mitigated by Projected Barrier".
+}}
+{{PatchTableElement|2025-05-15|
+{{DevComment|Developer Comments: Zarya continues to overperform at all levels. Most of her power comes from how Weapon Power scales with Energy, allowing her to reach very high damage ceilings, so slowing down the rate at which she can scale her Weapon Power.}}
+
+* Reduced cash income from damage and healing by 12.5%.
+}}
+{{PatchTableElement|2025-05-08|
+{{DevComment|Developer Comments: Zarya continues to be overperforming, especially at higher levels of play. We're reducing some of the survivability of Weapon Power Zarya builds so that she should be more vulnerable, especially if she is opting to itemize full damage.}}
+
+{{al|Lifelift}} – Power
+* Reduced Particle Barrier health scaling to 25% of your bonus Max Life (down from 50%).
+
+{{al|Pre-Workout}} – Power
+* Reduced Lifesteal to 15% of your Energy (down from 20%).
+}}
+{{PatchTableElement|2025-05-01|
+{{DevComment|Developer Comments: Lifelift has proven to be the most consistently effective Power for Zarya. We're reducing the scaling on it to try and make it feel less like a must pick in all styles of Zarya builds.
+
+We’re also adding a little bit more healing in hopes of making Here to Spot You a bit more reliable of a power to choose from.}}
+
+{{al|Lifelift}} – Power
+* Particle Barrier health scaling reduced to 50% of your bonus Max Life (down from 100%).
+
+{{al|Here to Spot You}} – Power
+* Increased healing to 20% of your Max Life over 3s (up from 15%).
+}}
+{{PatchTableElement|2025-04-22|
+; Introducing Stadium
+* Tank Heroes: D.Va, Junker Queen, Orisa, Reinhardt, and '''Zarya'''.
+* Damage Heroes: Ashe, Cassidy, Genji, Mei, Reaper, and Soldier: 76.
+* Support Heroes: Ana, Juno, Kiriko, Lucio, Mercy, and Moira.
+}}
+</onlyinclude>{{PatchTableEnd}}
+
+{{StadiumNav}}
+[[Category:{{BASEPAGENAME}}]]
+[[Category:Stadium hero pages]]

@@ -1,0 +1,381 @@
+{{HeroTabs}}
+[[File: Ashe Stadium.png|thumb|310x310px]]
+'''{{BASEPAGENAME}}''' is a playable [[hero]] in the [[Stadium]] [[game mode]].
+
+== Stat interactions ==
+{{StadiumAbilityInteractions/header}}
+{{StadiumAbilityInteractions/row|The Viper |weaponPower=1 |attackSpeed=1 |maxAmmo=1 |weaponLifesteal=1 |reloadSpeed=1 }}
+{{StadiumAbilityInteractions/row|Coach Gun |abilityPower=1 |cooldownReduction=1 |abilityLifesteal=1 }}
+{{StadiumAbilityInteractions/row|Dynamite |abilityPower=1 |cooldownReduction=1 |abilityLifesteal=1 }}
+{{StadiumAbilityInteractions/row|B.O.B. |abilityPower=1 |abilityLifesteal=1 }}
+|}
+
+== Hero Items ==
+This is a list of hero-specific items. For a list of items available to all heroes, see [[Armory]].
+
+=== Weapon ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Maxed Mag
+| ability_image = Maxed_Mag.png
+| ability_type = Hero Item (Weapon)
+| official_description = Gain 3% Attack Speed for each remaining Ammo above 50% of your Max Ammo.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+| stadium_buffs = Attack Speed;;5%
+}}
+{{Ability details
+| ability_name = Tripod
+| ability_image = Tripod.png
+| ability_type = Hero Item (Weapon)
+| official_description = [The Viper], [Coach Gun], and [Dynamite] deal 10% more damage to enemies that are below you.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+| stadium_buffs = Weapon Power;;5%
+}}
+{{Ability details
+| ability_name = Greased Loader
+| ability_image = Greased_Loader.png
+| ability_type = Hero Item (Weapon)
+| official_description = 
+| stadium_rarity = Rare
+| stadium_cost = 5000
+| stadium_buffs = Max Ammo;;25%::Reload Speed;;15%
+}}
+<!-- Epic -->
+{{Ability details
+| ability_name = Ironsights
+| ability_image = Ironsights.png
+| ability_type = Hero Item (Weapon)
+| official_description = When the target is further than 10m, scoped shot gains 1% damage for each meter.
+| stadium_rarity = Epic
+| stadium_cost = 11000
+| stadium_buffs = Attack Speed;;10%
+}}
+{{Ability details
+| ability_name = Sidewinder
+| ability_image = Sidewinder_Item.png
+| ability_type = Hero Item (Weapon)
+| official_description = When the target is within 10m, unscoped shot gains 25% increased damage.
+| stadium_rarity = Epic
+| stadium_cost = 11000
+| stadium_buffs = Attack Speed;;15%
+}}
+
+=== Ability ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Furnace Fuel
+| ability_image = Furnace_Fuel.png
+| ability_type = Hero Item (Ability)
+| official_description = Cleansed Burns grant 3% Ultimate Charge.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+| stadium_buffs = Health;;25::Ability Power;;5%
+}}
+{{Ability details
+| ability_name = Silver Lighter
+| ability_image = Silver_Lighter.png
+| ability_type = Hero Item (Ability)
+| official_description = Damage dealt to Burning targets grants 20% more Ultimate Charge.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+| stadium_buffs = Ability Power;;10%
+}}
+<!-- Epic -->
+{{Ability details
+| ability_name = Infrared Lenses
+| ability_image = Infrared_Lenses.png
+| ability_type = Hero Item (Ability)
+| official_description = Deal 20% increased damage to Burning enemies.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+| stadium_buffs = Ability Power;;15%
+| ability_details = * Increases all damage dealt by Ashe to Burning targets.
+}}
+{{Ability details
+| ability_name = Stacked Sticks
+| ability_image = Stacked_Sticks.png
+| ability_type = Hero Item (Ability)
+| official_description = 
+| stadium_rarity = Epic
+| stadium_cost = 11000
+| stadium_buffs = Ability Power;;15%::[Dynamite] Explosion Radius;;40%
+}}
+{{Ability details
+| ability_name = Build-a-blast Buckshot
+| ability_image = Build-A-Blast_Buckshot.png
+| ability_type = Hero Item (Ability)
+| official_description = [Coach Gun] has 50% increased self knockback.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+| stadium_buffs = Cooldown Reduction;;10%
+}}
+
+=== Survival ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Silver Spurs
+| ability_image = Silver_Spurs.png
+| ability_type = Hero Item (Survival)
+| official_description = After using [Coach Gun], gain 20% Move Speed for 5s and reload 25% of max ammo.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+| stadium_buffs = Health;;25
+}}
+<!-- Epic -->
+{{Ability details
+| ability_name = B.O.B. Wire Defense
+| ability_image = B.O.B._Wire_Defense.png
+| ability_type = Hero Item (Survival)
+| official_description = When [B.O.B.] finishes charging, [B.O.B.] gains 300 Armor.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+| stadium_buffs = Health;;50::Armor;;25
+}}
+{{Ability details
+| ability_name = Firestarter
+| ability_image = Firestarter_Item.png
+| ability_type = Hero Item (Survival)
+| official_description = Your Burning effects gain 35% Lifesteal
+| stadium_rarity = Epic
+| stadium_cost = 10000
+| stadium_buffs = Health;;50
+}}
+
+== Powers ==
+{{Ability details
+| ability_name = Head Honcho
+| ability_image = Head_Honcho.png
+| ability_type = Stadium Power
+| affected_ability = The Viper
+| official_description = Each unshoped shot you land increases the damage of the next scoped shot you land by 5%, up to 15%.
+}}
+{{Ability details
+| ability_name = Incendiary Rounds
+| ability_image = Incendiary_Rounds.png
+| ability_type = Stadium Power
+| affected_ability = The Viper
+| official_description = While scoped, hitting the same target without missing deals {{Weapon_Power|30}} extra damage.
+}}
+{{Ability details
+| ability_name = My Business, My Rules
+| ability_image = My_Business,_My_Rules.png
+| ability_type = Stadium Power
+| affected_ability = The Viper
+| official_description = When you deal damage to a Burning enemy with [The Viper], reduce the cooldown of your abilities by 10%.
+}}
+{{Ability details
+| ability_name = Reload Therapy
+| ability_image = Reload_Therapy.png
+| ability_type = Stadium Power
+| affected_ability = The Viper
+| official_description = When you reload a shot, restore 10% of your Life.
+| ability_details = * This healing does not generate Stadium Cash.
+}}
+{{Ability details
+| ability_name = Calamity
+| ability_image = Calamity.png
+| ability_type = Stadium Power
+| affected_ability = Coach Gun
+| official_description = Using [Coach Gun] reloads 2 Ammo. [The Viper]'s next 2 hits deal {{Ability_Power|40}} additional damage over 3s.
+}}
+{{Ability details
+| ability_name = Double Barreled
+| ability_image = Double_Barreled.png
+| ability_type = Stadium Power
+| affected_ability = Coach Gun
+| official_description = [Coach Gun] gains an additional charge.
+}}
+{{Ability details
+| ability_name = Incendiary Blast
+| ability_image = Incendiary_Blast.png
+| ability_type = Stadium Power
+| affected_ability = Coach Gun
+| official_description = [Coach Gun] applies Burning, dealing {{Ability_Power|100}} damage over 5s. If the target was Burning, deal {{Ability_Power|75}} additional damage instantly.
+}}
+{{Ability details
+| ability_name = Early Detonation
+| ability_image = Early_Detonation.png
+| ability_type = Stadium Power
+| affected_ability = Dynamite
+| official_description = Shooting [Dynamite] reloads 5 Ammo and reduces the cooldown of [Dynamite] by 3s.
+* Only heals amount of reloaded ammo when restoring health through {{al|Reload Therapy}}.
+}}
+{{Ability details
+| ability_name = Molten Munitions
+| ability_image = Molten_Munitions.png
+| ability_type = Stadium Power
+| affected_ability = Dynamite
+| official_description = When [Dynamite] explodes on the ground, it leaves lava that Burns enemies for {{Ability_Power|80}} every 1s.
+}}
+{{Ability details
+| ability_name = Out With a Bang
+| ability_image = Out_with_a_Bang.png
+| ability_type = Stadium Power
+| affected_ability = Dynamite
+| official_description = When [Dynamite] explodes, it spawns 3 sticky explosives that deal 30% reduced damage.
+}}
+{{Ability details
+| ability_name = B.O.B. Jr.
+| ability_image = B.O.B._Jr..png
+| ability_type = Stadium Power
+| affected_ability = B.O.B.
+| official_description = [B.O.B.] costs 50% less Ultimate Charge but has reduced Life, 20% reduced Attack Speed, and is significantly smaller.
+}}
+{{Ability details
+| ability_name = Partners in Crime
+| ability_image = Partners_in_Crime.png
+| ability_type = Stadium Power
+| affected_ability = B.O.B.
+| official_description = You are healed for 100% of [B.O.B.]'s damage dealt and [B.O.B.] is healed for 100% of your damage dealt.
+| duration = 10 seconds
+}}
+
+== Example Builds ==
+=== Hot Dynamite ===
+Burn the world down with Dynamites upgraded by {{Ability Power|Ability Power}}
+
+==== Powers ====
+* {{al|Early Detonation}}
+* {{al|Out With a Bang}}
+* {{al|My Business, My Rules}}
+* {{al|Molten Munitions}}
+
+==== Early Game ====
+* {{al|Power Playbook}}
+* {{al|Shady Spectacles}}
+* {{al|First Aid Kit}}
+* {{al|Furnace Fuel}}
+
+==== Late Game ====
+* {{al|Multi-Tool}}
+* {{al|Energized Bracers}}
+* {{al|Stacked Sticks}}
+* {{al|Infrared Lenses}}
+
+==== Flex ====
+* {{al|Firestarter}}
+* {{al|Cybervenom}}
+* {{al|Iridescent Iris}}
+
+=== Fangs of the Viper ===
+Fully utilize the {{Weapon Power|Weapon Power}} enhanced Viper, switching between the hip fire shots and scoped shots!
+
+==== Powers ====
+* {{al|Incendiary Rounds}}
+* {{al|Early Detonation}}
+* {{al|Reload Therapy}}
+* {{al|Head Honcho}}
+
+==== Early Game ====
+* {{al|Compensator}}
+* {{al|Weapon Grease}}
+* {{al|First Aid Kit}}
+* {{al|Greased Loader}}
+
+==== Late Game ====
+* {{al|Maxed Mag}}
+* {{al|Stockpile}}
+* {{al|Ironsights}}
+* {{al|Sidewinder}}
+
+==== Flex ====
+* {{al|The Closer}}
+* {{al|Eye of the Spider}}
+* {{al|Commander's Clip}}
+* {{al|Volskaya Ordnance}}
+
+=== Protector Pilot ===
+B.O.B. Operator
+
+==== Powers ====
+* {{al|B.O.B. Jr.}}
+* {{al|Incendiary Blast}}
+* {{al|Double Barreled}}
+* {{al|Partners in Crime}}
+
+==== Early Game ====
+* {{al|Power Playbook}}
+* {{al|Shady Spectacles}}
+* {{al|First Aid Kit}}
+* {{al|Silver Lighter}}
+
+==== Late Game ====
+* {{al|Silver Spurs}}
+* {{al|Nano Cola}}
+* {{al|Catalytic Crystal}}
+* {{al|Infrared Lenses}}
+
+==== Flex ====
+* {{al|Necrotic Repellant}}
+* {{al|B.O.B. Wire Defense}}
+* {{al|Firestarter}}
+* {{al|Phantasmic Flux}}
+
+== Balance Change Log ==
+{{PatchTableStart}}<onlyinclude>
+{{PatchTableElement|2025-08-26|
+{{DevComment|Developer Comments: Head Honcho has always been a bit of a gamble, high risk but not always high reward. With this update, we’re making it a safer pick that feels more consistently useful while keeping the overall power ceiling in check.}}
+
+{{al|Head Honcho}} – Power
+* Remove resets on reload.
+* Decreased cap to 15% (Down from 30%).
+
+{{al|Early Detonation}} - Power
+* Now only heals amount of reloaded ammo when restoring health through Reload Therapy.
+}}
+{{PatchTableElement|2025-06-24|
+{{DevComment|Developer Comments: Silver Spurs has been underperforming and often lacked synergy with common builds. This update improves its utility and cohesion, making it a more rewarding option that better complements a variety of playstyles. B.O.B. Jr. has proven to be a strong utility option and great for locking down control points while catching enemies off-guard with early ultimate. However, its effectiveness at holding territory became a bit too reliable. We're adjusting its strength to bring it more in line with other options, while still retaining its strategic value.}}
+
+{{al|B.O.B. Jr.}} - Power
+* Decreased duration to 10s (Down from 20s).
+
+{{al|Reload Therapy}} - Power
+* No longer generates currency.
+
+{{al|Silver Spurs}} - Rare Survival Hero Item
+* Increased duration to 5s (Up from 3s).
+* Now reloads 25% of max ammo on coach gun use.
+}}
+{{PatchTableElement|2025-05-29|
+{{DevComment|Developer Comments: Ashe has been steadily climbing in overall competitiveness, but she’s still missing that extra oomph when the moment calls for it. These buffs target some of her underperforming powers and items, giving her more flexibility across different builds and helping her stay impactful in a wider range of scenarios.}}
+
+{{al|Out with a Bang}} - Power
+* Decreased Explosives damage reduction to 30% (Down from 66%).
+
+{{al|Molten Munitions}} - Power
+* Increased damage to 80 (Up from 50).
+* This change will not be represented correctly on the tooltip but it will be functionally set to 80. This information in the tooltip will be fixed next season.
+
+{{al|Reload Therapy}} - Power
+* Increased heal to 10% (Up from 3%).
+
+{{al|Sidewinder}} – Epic Weapon Hero Item
+* Increased attack speed to 15% (Up from 10%).
+* Increased damage to 25% (Up from 15%).
+}}
+{{PatchTableElement|2025-05-08|
+{{DevComment|Developer Comments: Ashe has strong potential in the hands of experienced players, but parts of her kit have been falling off in the later stages of the game compared to other heroes. We're making targeted adjustments to help her scale more effectively into the late game, while also smoothing out some of the sharp edges that make her less forgiving for newer players. These changes aim to make Ashe a more rewarding pick across all skill levels.}}
+
+{{al|Head Honcho}} - Power
+* Increased damage increase per unscoped shot landed to 5% (up from 3%).
+
+{{al|B.O.B. Jr.}} - Power
+* Reduced Attack Speed reduction to 20% (down from 50%).
+
+{{al|Infrared Lenses}} – Epic Ability Hero Item
+* Fixed an issue where the increased damage against Burning targets was only applying to The Viper and B.O.B. Now increases all damage dealt by Ashe to Burning targets.
+* Reduced increased damage to Burning targets to 20% (down from 25%).
+}}
+{{PatchTableElement|2025-04-22|
+; Introducing Stadium
+* Tank Heroes: D.Va, Junker Queen, Orisa, Reinhardt, and Zarya.
+* Damage Heroes: '''Ashe''', Cassidy, Genji, Mei, Reaper, and Soldier: 76.
+* Support Heroes: Ana, Juno, Kiriko, Lucio, Mercy, and Moira.
+}}
+</onlyinclude>{{PatchTableEnd}}
+
+{{StadiumNav}}
+[[Category:{{BASEPAGENAME}}]]
+[[Category:Stadium hero pages]]

@@ -1,0 +1,287 @@
+{{HeroTabs}}
+[[File: Mercy Stadium.png|thumb|310x310px]]
+'''{{BASEPAGENAME}}''' is a playable [[hero]] in the [[Stadium]] [[game mode]].
+
+== Stat interactions ==
+{{StadiumAbilityInteractions/header}}
+{{StadiumAbilityInteractions/row|Caduceus Staff |weaponPower=1 |attackSpeed=1 }}
+{{StadiumAbilityInteractions/row|Caduceus Blaster |weaponPower=1 |attackSpeed=1 |maxAmmo=1 |weaponLifesteal=1 |reloadSpeed=1 }}
+{{StadiumAbilityInteractions/row|Guardian Angel |cooldownReduction=1 }}
+{{StadiumAbilityInteractions/row|Resurrect |cooldownReduction=1 }}
+{{StadiumAbilityInteractions/row|Valkyrie }}
+|}
+
+== Hero Items ==
+This is a list of hero-specific items. For a list of items available to all heroes, see [[Armory]].
+
+=== Weapon ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Mid-air Mobilizer
+| ability_image = Mid-air Mobilizer.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = 
+| official_description = While airborne gain:<br>{{Weapon_Power}} 5% Weapon Power<br>{{Attack Speed}} 10% Attack Speed
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+{{Ability details
+| ability_name = Glass Extra Full
+| ability_image = Glass_Extra_Full.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Health;;25::Attack Speed;;5%
+| official_description = Healing from [Caduceus Staff] targeting full health allies is converted to Overhealth, up to 25.
+| stadium_rarity = Rare
+| stadium_cost = 4500
+}}
+<!-- Epic -->
+{{Ability details
+| ability_name = Caduceus EX
+| ability_image = Caduceus EX.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Weapon Power;;10%::[Caduceus Staff] Range;;33%
+| official_description = 
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+{{Ability details
+| ability_name = Celestial Clip
+| ability_image = Celestial Clip.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Weapon Power;;10%::Max Ammo;;33%
+| official_description = [Caducaeus Blaster] has a 10% chance to fire an extra shot that doesn't consume additional ammo.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+
+=== Ability ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Long Distance Wings
+| ability_image = Long Distance Wings.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Ability Power;;10%::[Guardian Angel] Range;;33%
+| official_description = 
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+<!-- Epic -->
+{{Ability details
+| ability_name = Resurrection Rangefinder
+| ability_image = Resurrection Rangefinder.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Cooldown Reduction;;10%::[Resurrection] Range;;75%
+| official_description = 
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+{{Ability details
+| ability_name = Blessed Boosters
+| ability_image = Blessed Boosters.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Health;;25::Ability Power;;10%
+| official_description = Your launch velocity is increased by 25% when canceling [Guardian Angel] with crouch or jump.
+| stadium_rarity = Epic
+| stadium_cost = 9000
+}}
+{{Ability details
+| ability_name = Angelic Acrobatics
+| ability_image = Angelic Acrobatics.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Ability Power;;15%::[Guardian Angel] Move Speed;;15%
+| official_description = [Guardian Angel]'s cooldown starts as soon as you jump or crouch.
+| stadium_rarity = Epic
+| stadium_cost = 11000
+}}
+
+=== Survival ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Aerodynamic Feathers
+| ability_image = Aerodynamic Feathers.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Health;;25
+| official_description = While affected by [Angelic Descent], continuously gain 10% Move Speed every 1s up to 60%.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+{{Ability details
+| ability_name = Angeleisure Wear
+| ability_image = Angeleisure Wear.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Health;;25
+| official_description = While affected by [Angelic Descent] or [Guardian Angel], heal 3% of your Life every 1s.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+<!-- Epic -->
+{{Ability details
+| ability_name = Chain Evoker
+| ability_image = Chain Evoker.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Health;;50::[Caduceus Staff] Damage Boost;;5%::Ultimate Charge from Damage Boost;;15%
+| official_description = 
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+
+== Powers ==
+{{Ability details
+| ability_name = Distortion
+| ability_image = Distortion.png
+| ability_type = Stadium Power
+| affected_ability = Caduceus Staff
+| official_description = Allies boosted by [Caduceus Staff] gain 20% Lifesteal.
+}}
+{{Ability details
+| ability_name = Protective Beam
+| ability_image = Protective_Beam.png
+| ability_type = Stadium Power
+| affected_ability = Caduceus Staff
+| official_description = [Caduceus Staff] targets above 80% Life gain 10% Damage Reduction.<br>[Caduceus Staff] stays tethered 1s longer to allies not in line of sight.
+}}
+{{Ability details
+| ability_name = Serenity
+| ability_image = Serenity.png
+| ability_type = Stadium Power
+| affected_ability = Caduceus Staff
+| official_description = [Sympathetic Recovery] heals for 10% more and heals you even while you are healing a full health ally.
+}}
+{{Ability details
+| ability_name = Supply Surge
+| ability_image = Supply_Surge.png
+| ability_type = Stadium Power
+| affected_ability = Caduceus Staff
+| official_description = Reloading [Caduceus Staff] grants allies affected by it 20% Move Speed for 2s, restores 50% Ammo and reduces their cooldowns by 3s. (10s Cooldown)
+}}
+{{Ability details
+| ability_name = Threads of Fate
+| ability_image = Threads_of_Fate.png
+| ability_type = Stadium Power
+| affected_ability = Caduceus Staff
+| official_description = [Caduceus Staff] chains to your previous target for 3s, at 35% effectiveness.
+}}
+{{Ability details
+| ability_name = Battle Medic
+| ability_image = Battle_Medic.png
+| ability_type = Stadium Power
+| affected_ability = Caduceus Blaster
+| official_description = Every 1s your Staff is attached, [Caduceus Blaster] gains 3% Attack Speed (stacks 10 times) until you reload or swap to your Staff.
+}}
+{{Ability details
+| ability_name = Tethered Tourniquet
+| ability_image = Tethered_Tourniquet.png
+| ability_type = Stadium Power
+| affected_ability = Caduceus Blaster
+| official_description = After swapping to [Caduceus Blaster], [Caduceus Staff] automatically heals allies at 100% effectiveness for every 1s you spent tethered, up to 10s.
+}}
+{{Ability details
+| ability_name = Equivalent Exchange
+| ability_image = Equivalent_Exchange.png
+| ability_type = Stadium Power
+| affected_ability = Resurrect
+| official_description = You have 3 charges of [Resurrect] with 33% reduced cast time, but their cooldowns only reset at the start of a round.
+}}
+{{Ability details
+| ability_name = First Responder
+| ability_image = First_Responder.png
+| ability_type = Stadium Power
+| affected_ability = Resurrect
+| official_description = When you [Resurrect] an ally, you both gain {{Ability_Power}} <span style="color: #9073fb;">250</span> Overhealth for 6s.
+}}
+{{Ability details
+| ability_name = Renaissance
+| ability_image = Renaissance.png
+| ability_type = Stadium Power
+| affected_ability = Resurrect
+| official_description = After successfully using [Resurrect] activate [Valkyrie] for 5s.
+}}
+{{Ability details
+| ability_name = The Whambulance
+| ability_image = The_Whambulance.png
+| ability_type = Stadium Power
+| affected_ability = Guardian Angel
+| official_description = When Guardian Angel ends, heal your target for {{Ability_Power}} <span style="color: #9073fb;">4</span> Life for every 1m you traveled.
+}}
+{{Ability details
+| ability_name = Triage Unit
+| ability_image = Triage_Unit.png
+| ability_type = Stadium Power
+| affected_ability = Guardian Angel
+| official_description = When using [Guardian Angel] on allies below 50% Life, they receive 25% more healing from you for 3s.
+}}
+
+
+== Removed Powers and Items ==
+{{Ability details
+| removed = 1
+| ability_name = Crepuscular Circle
+| ability_image = Tethered_Tourniquet.png
+| ability_type = Stadium Power
+| affected_ability = Valkyrie
+| official_description = While [Valkyrie] is active, the healing and damage boost of [Caduceus Staff] are automatically applied to nearby allies.
+| ability_details = * ''Removed in Season 18.''
+}}
+
+== Balance Change Log ==
+{{PatchTableStart}}<onlyinclude>
+{{PatchTableElement|2025-08-26|
+{{DevComment|Developer Comments: Mercy has consistently been one of the top heroes in Stadium and hasn't yet received any major updates. In this update we have a large suite of changes with the goal of adding more variety to how Mercy players can build. Most notably Crepusuclar Circle has been replaced. It has long been a dominant pick that made it very difficult to build any other way as well as being a pain point for Mercy's opponents. However, we've added two new powers in its place. So, we hope you'll enjoy exploring the new options. We've tried to make Ability Power builds and Caduceus Blaster builds more realistic with new Power interactions and updated itemization.}}
+
+{{al|Triage Unit}} - Power
+* Changed to now increase all healing from mercy instead of just Caduceus Staff.
+* Bonus healing reduced to 25% (down from 35%).
+
+{{al|Crepuscular Circle}} - Power
+* Removed.
+
+{{al|Threads of Fate}} - Power
+* Reduced chain effectiveness to 35% (down from 50%).
+
+{{al|Battle Medic}} - Power
+* Attack Speed per stack reduced to 3% (down from 4%).
+
+{{al|Serenity}} - Power
+* Reduced extra healing to 10% (down from 20%).
+
+{{al|Protective Beam}} - Power
+* Added additional effect: Caduceus Staff stays tethered 1s longer to allies not in line of sight.
+
+{{al|Tethered Tourniquet}} - Power
+* New Power.
+* After swapping to Caduceus Blaster, Caduceus Staff automatically heals allies at 100% effectiveness for every 1s you spent tethered, up to 10s.
+
+{{al|Supply Surge}} - Power
+* New Power.
+* Reloading Caduceus Staff grants allies affected by it 20% Move Speed for 2s, restores 50% Ammo, and reduces their cooldowns by 3s. (10s Cooldown)
+
+{{al|Glass Extra Full}} - Rare Weapon Hero Item.
+* Changed to a Rare Weapon Hero Item (from a Power).
+* 25 Health.
+* 5% Attack Speed.
+* Now grants up to 25 Overhealth when healing full health allies (down from 50).
+* Cost: 4,500.
+
+{{al|Chain Evoker}} - Epic Survival Hero Item
+* Changed to now grant 50 Health instead of 50 Armor.
+
+{{al|Angelic Acrobatics}} - Epic Ability Hero Item
+* Added 15% Ability Power.
+* Cost increased to 11,000 (up from 10,000).
+
+{{al|Blessed Boosters}} - Epic Ability Hero Item
+* Changed to an Epic Ability Hero Item (from an Epic Survival Hero Item).
+* Added 10% Ability Power.
+* Reduced Health to 25 (down from 50).
+}}
+{{PatchTableElement|2025-04-22|
+; Introducing Stadium
+* Tank Heroes: D.Va, Junker Queen, Orisa, Reinhardt, and Zarya.
+* Damage Heroes: Ashe, Cassidy, Genji Mei, Reaper, and Soldier: 76.
+* Support Heroes: Ana, Juno, Kiriko, Lucio, '''Mercy''', and Moira.
+}}
+</onlyinclude>{{PatchTableEnd}}
+
+{{StadiumNav}}
+[[Category:{{BASEPAGENAME}}]]
+[[Category:Stadium hero pages]]

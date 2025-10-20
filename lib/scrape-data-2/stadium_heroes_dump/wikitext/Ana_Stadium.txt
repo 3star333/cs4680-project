@@ -1,0 +1,543 @@
+{{HeroTabs}}
+[[File: Ana Stadium.png|thumb|310x310px]]
+'''{{BASEPAGENAME}}''' is a playable [[hero]] in the [[Stadium]] [[game mode]].
+
+== Hero Items ==
+This is a list of hero-specific items. For a list of items available to all heroes, see [[Armory]].
+
+== Stat interactions ==
+{{StadiumAbilityInteractions/header}}
+{{StadiumAbilityInteractions/row|Biotic Rifle |weaponPower=1 |attackSpeed=1 |maxAmmo=1 |weaponLifesteal=1 }}
+{{StadiumAbilityInteractions/row|Sleep Dart |abilityPower=1 |cooldownReduction=1 |abilityLifesteal=1 }}
+{{StadiumAbilityInteractions/row|Biotic Grenade |abilityPower=1 |cooldownReduction=1 |abilityLifesteal=1 }}
+{{StadiumAbilityInteractions/row|Nano Boost |abilityPower=1 }}
+|}
+
+=== Weapon ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Target Tracker
+| ability_image = Target Tracker.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = [Biotic Grenade] Duration;;15%
+| official_description = For each enemy or ally affected by [Biotic Grenade] gain 5% Attack Speed, up to 25%.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+{{Ability details
+| ability_name = Potent Projectiles
+| ability_image = Potent Projectiles.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Weapon Power;;10%
+| official_description = Unscoped [Biotic Rifle] projectiles are 100% larger.
+| stadium_rarity = Rare
+| stadium_cost = 5000
+}}
+{{Ability details
+| ability_name = Quick Scope
+| ability_image = Quick Scope.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Weapon Power;;10%::Faster Scope Speed;;200%
+| official_description = Deal 20% more damage to airborne enemies.
+| stadium_rarity = Rare
+| stadium_cost = 5000
+}}
+{{Ability details
+| ability_name = Tactical Rifle
+| ability_image = Tactical_Rifle_Item.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Weapon Power;;10%
+| official_description = While scoped, [Biotic Rifle] will lock-on to allies for guaranteed hits and has less reduced movement speed
+| stadium_rarity = Rare
+| stadium_cost = 5000
+}}
+<!-- Epic -->
+{{Ability details
+| ability_name = Unscoped Resources
+| ability_image = Unscoped Resources.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Weapon Power;;15%::Max Ammo;;4
+| official_description = Unscoped [Biotic Rifle] Shots have a 50% chance not to consume ammo.
+| stadium_rarity = Epic
+| stadium_cost = 11000
+}}
+
+=== Ability ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Sleep Regimen
+| ability_image = Sleep_Regimen_Item.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Health;;25
+| official_description = When you apply Sleep to an enemy, gain 10 health, up to 50
+| stadium_rarity = Rare
+| stadium_cost = 4500
+}}
+<!-- Epic -->
+{{Ability details
+| ability_name = Lethal Dose
+| ability_image = Lethal Dose.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Ability Lifesteal;;10%
+| official_description = [Sleep Dart] direct hit deals {{Ability_Power|100}} bonus damage and gives Ana {{Ability Power|60}} Overhealth.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+{{Ability details
+| ability_name = Cluster Core
+| ability_image = Cluster Core.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Ability Lifesteal;;25%
+| official_description = [Biotic Grenade] cooldown is reduced by 1s for each target it hits.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+{{Ability details
+| ability_name = Grenadius Pin
+| ability_image = Grenadius_Pin.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Ability Power;;20%::[Biotic Grenade] Radius;;30%
+| official_description = 
+| stadium_rarity = Epic
+| stadium_cost = 12000
+}}
+
+=== Survival ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Dash Boots
+| ability_image = Dash Boots.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Move Speed;;10%
+| official_description = Jumping in mid-air will dash you a short distance.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+| cooldown = 3 seconds
+}}
+{{Ability details
+| ability_name = Perfected Formula
+| ability_image = Perfected Formula.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Shields;;25::[Nano Boost] Duration;;15%
+| official_description = 
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+{{Ability details
+| ability_name = I.V. Drip
+| ability_image = I.V. Drip.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Health;;25
+| official_description = While affected by [Biotic Grenade], Ana gains {{Ability_Power|150}} Overhealth.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+<!-- Epic -->
+{{Ability details
+| ability_name = Eye of Horus
+| ability_image = Eye of Horus.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Shields;;50
+| official_description = [Nano Boost] can target allies through walls and its range is increased to 60m.
+| stadium_rarity = Epic
+| stadium_cost = 9000
+}}
+{{Ability details
+| ability_name = Time Out
+| ability_image = Time_Out_Item.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Health;;75
+| official_description = [Biotic Grenade] knocks back enemies, and Ana gains 20% Move Speed while affected by it.
+| stadium_rarity = Epic
+| stadium_cost = 9000
+}}
+
+== Powers ==
+{{Ability details
+| ability_name = Artsy Dartsy
+| ability_image = Artsy_Dartsy.png
+| ability_type = Stadium Power
+| affected_ability = Biotic Rifle
+| official_description = While scoped with [Biotic Rifle], Ana can shoot [Sleep Dart] through the [Biotic Rifle] with 150% increased projectile speed. 
+}}
+
+{{Ability details
+| ability_name = No Scope Needed
+| ability_image = No_Scope_Needed.png
+| ability_type = Stadium Power
+| affected_ability = Biotic Rifle
+| official_description = Landing unscoped shots with [Biotic Rifle] grants 10% Attack Speed for 2s, stacking up to 3 times.
+}}
+{{Ability details
+| ability_name = Pinpoint Prescription
+| ability_image = Pinpoint_Prescription.png
+| ability_type = Stadium Power
+| affected_ability = Biotic Rifle
+| official_description = [Biotic Rifle] can now critically hit both allies and enemies.
+| ability_details = * Critical damage multiplier = x2
+}}
+{{Ability details
+| ability_name = Comfy Cloud
+| ability_image = Comfy_Cloud.png
+| ability_type = Stadium Power
+| affected_ability = Sleep Dart
+| official_description = [Sleep Dart] explodes on contact, hitting targets within 3m, but Sleep has 50% reduced duration.
+}}
+{{Ability details
+| ability_name = Dreamy
+| ability_image = Dreamy.png
+| ability_type = Stadium Power
+| affected_ability = Sleep Dart
+| official_description = [Sleep Dart] can hit allies, healing 80% of their max Life over 4s instead of putting them to sleep.
+}}
+{{Ability details
+| ability_name = Fountain of Soothe
+| ability_image = Fountain_of_Soothe.png
+| ability_type = Stadium Power
+| affected_ability = Sleep Dart
+| official_description = [Sleep Dart] spawns a [Biotic Grenade] with 50% damage, healing and duration on impact.
+}}
+{{Ability details
+| ability_name = Home Remedy
+| ability_image = Home_Remedy.png
+| ability_type = Stadium Power
+| affected_ability = Biotic Grenade
+| official_description = [Biotic Grenade] grants Overhealth equal to 200% of its healing.
+}}
+{{Ability details
+| ability_name = NanoNade
+| ability_image = NanoNade.png
+| ability_type = Stadium Power
+| affected_ability = Biotic Grenade
+| official_description = [Biotic Grenade] applies [Nano Boost] with 25% effectiveness to all allies for 1.5s.
+}}
+{{Ability details
+| ability_name = Venomous
+| ability_image = Venomous.png
+| ability_type = Stadium Power
+| affected_ability = Biotic Grenade
+| official_description = [Biotic Grenade] deals an additional {{Ability_Power|60}} damage over 2s to enemies affected.
+}}
+{{Ability details
+| ability_name = Falconer
+| ability_image = Falconer.png
+| ability_type = Stadium Power
+| affected_ability = Nano Boost
+| official_description = [Nano Boost] also gives 20% increased Attack Speed and 10% Ultimate Charge
+}}
+{{Ability details
+| ability_name = My Turn
+| ability_image = My_Turn.png
+| ability_type = Stadium Power
+| affected_ability = Nano Boost
+| official_description = [Nano Boost] also applies to yourself for 100% of its duration.
+}}
+{{Ability details
+| ability_name = Our Turn
+| ability_image = Our_Turn.png
+| ability_type = Stadium Power
+| affected_ability = Nano Boost
+| official_description = [Nano Boost] also affects other allies in your line of sight, but it has 25% reduced duration on them.
+}}
+
+== Example Builds ==
+These are example builds pre-built in [[Stadium]] meant to show some possibilities of what can be done in the mode.
+
+=== No Scopes, No Problem ===
+Rush in with your team, swiftly taking down enemies and healing your allies with quick unscoped shots.
+
+==== Powers ====
+*{{al|No Scope Needed}}
+*{{al|NanoNade}}
+*{{al|Falconer}}
+*{{al|Fountain of Soothe}}
+
+==== Early game ====
+*{{al|Compensator}}
+*{{al|Weapon Grease}}
+*{{al|Winning Attitude}}
+*{{al|Potent Projectiles}}
+
+==== Late game ====
+*{{al|Advanced Nanobiotics}}
+*{{al|Dash Boots}}
+*{{al|Amari's Antidote}}
+*{{al|Commander's Clip}}
+
+==== Flex ====
+*{{al|Super Serum}}
+*{{al|Booster Jets}}
+*{{al|Unscoped Resources}}
+*{{al|Nebula Conduit}}
+
+=== Veteran Sniper ===
+Aim down sights and snipe foes and allies with {{Weapon Power|Weapon Power}} enhanced shots from the backline!
+
+==== Powers ====
+*{{al|Pinpoint Prescription}}
+*{{al|Artsy Dartsy}}
+*{{al|My Turn}}
+*{{al|Our Turn}}
+
+==== Early game ====
+*{{al|Compensator}}
+*{{al|Weapon Grease}}
+*{{al|Winning Attitude}}
+*{{al|Junker Whatchamajig}}
+
+==== Late game ====
+*{{al|Talon Modification Module}}
+*{{al|Quick Scope}}
+*{{al|Amari's Antidote}}
+*{{al|Commander's Clip}}
+
+==== Flex ====
+*{{al|Eye of Horus}}
+*{{al|Eye of the Spider}}
+*{{al|Booster Jets}}
+*{{al|Nebula Conduit}}
+
+=== Battlefield Medic ===
+Use your arsenal of abilities to heal and protect your allies with {{Ability Power|Ability Power}}.
+
+==== Powers ====
+*{{al|NanoNade}}
+*{{al|Fountain of Soothe}}
+*{{al|Venomous}}
+*{{al|Home Remedy}}
+
+==== Early game ====
+*{{al|Power Playbook}}
+*{{al|Shady Spectacles}}
+*{{al|First Aid Kit}}
+*{{al|Multi-Tool}}
+
+==== Late game ====
+*{{al|I.V. Drip}}
+*{{al|Target Tracker}}
+*{{al|Cluster Core}}
+*{{al|Grenadius Pin}}
+
+==== Flex ====
+*{{al|Refresher}}
+*{{al|Iridescent Iris}}
+*{{al|Phantasmic Flux}}
+*{{al|Martian Mender}}
+
+== Removed Powers and Items ==
+{{Ability details
+| removed = 1
+| ability_name = Double Dosage
+| ability_image = Double Dosage.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = {Health;;25
+| official_description = Landing a [Sleep Dart] on enemy reduces its cooldown by 30%. Does not stack.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+| ability_details = * When paired with {{al|Dreamy}} Power, the cooldown reduction won't occur when hitting an ally.
+* When paired with {{al|Comfy Cloud}} Power, hitting multiple enemies at the same time won't reduce {{al|Sleep Dart}}'s cooldown by more than the initial 35%.
+* ''Removed in Season 19''
+}}
+
+{{Ability details
+| removed = 1
+| ability_name = Tranquilizer
+| ability_image = Tranquilizer.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Cooldown Reduction;;10%
+| official_description = Sleep Dart gains:<br>500% Collision Size<br>100% Projectile Speed<br>20% Sleep Duration
+| stadium_rarity = Epic
+| stadium_cost = 10000
+| ability_details = * ''Removed in Season 19''
+}}
+
+{{Ability details
+| removed = 1
+| ability_name = Tactical Rifle (old)
+| ability_image = Tactical_Rifle.png
+| ability_type = Stadium Power
+| affected_ability = Biotic Rifle
+| official_description = While scoped, [Biotic Rifle] will lock on to allies for guaranteed hits.
+| ability_details = * ''Removed in Season 19''
+}}
+
+{{Ability details
+| removed = 1
+| ability_name = Sleep Regimen (old)
+| ability_image = Sleep_Regimen.png
+| ability_type = Stadium Power
+| affected_ability = Sleep Dart
+| official_description = Gain 50 Health.<br>When you apply Sleep to an enemy gain 10 Health, up to 150.
+| ability_details = * When the {{al|Sleep Dart}} puts an enemy to sleep, two effects occur in sequence:
+* The Max Health of Ana is increased by 10 Health for each enemy sleeping.
+** That means that when this power is paired with {{al|Comfy Cloud}}, and when {{al|Sleep Dart}} puts multiple enemies to sleep at the same time, the player will be granted 10 Health × the number of affected enemies.
+* The player heals themselves with a burst of healing equivalent to the aforementioned increase over 1 second.
+** The burst of healing generates ultimate charge and is affected by heal modifiers such as the Damage role's Passive, Stadium item's reduced healing or [[Ana]]'s {{al|Biotic Grenade}} anti-heal effect.
+** The burst of healing is fixed and isn't affected by {{Weapon Power}} Weapon Power, {{Ability Power}} Ability Power, {{Weapon Lifesteal}} Weapon Lifesteal or {{Ability Lifesteal}} Ability Lifesteal.
+** The burst of healing will still occur even if the player has already reached the 150 Health increase cap.
+* ''Removed in Season 19''
+}}
+
+{{Ability details
+| removed = 1
+| ability_name = Time Out (old)
+| ability_image = Time_Out.png
+| ability_type = Stadium Power
+| affected_ability = Biotic Grenade
+| official_description = [Biotic Grenade] now knocks enemies back and reduces their Move Speed by 50% for 2.5s.
+| ability_details = * ''Removed in Season 19''
+}}
+
+{{Ability details
+| removed = 1
+| ability_name = Your Full Potential
+| ability_image = Your_Full_Potential.png
+| ability_type = Stadium Power
+| affected_ability = Nano Boost
+| official_description = [Nano Boost] also grants the target 35% Ultimate Charge and {{Ability_Power|200}} Overhealth.
+| ability_details = * ''Removed in Season 19''
+}}
+
+== Balance Change Log ==
+{{PatchTableStart}}<onlyinclude>
+{{PatchTableElement|2025-10-14|
+{{DevComment|Developer Comments: Ana’s ability power builds weren't pulling its weight and often felt ineffective compared to her other options, especially in mid-late game. We’ve redesigned it to make her more impactful and ensure the build feels like a viable path for players who want to lean into ability power focused play.}}
+
+{{al|Artsy Dartsy}} - Power
+* New Power.
+* While scoped with Biotic Rifle, Ana can shoot Sleep Dart through the Biotic Rifle with 150% increased projectile speed.
+
+{{Al|Fountain of Soothe}} - Power
+* New Power.
+* Sleep Dart spawns a Biotic Grenade with 50% healing damage and duration on impact.
+
+{{al|NanoNade}} - Power
+* New Power.
+* Biotic Grenade grants Nano Boost with 25% effectiveness to all allies for 1.5s.
+
+{{al|Falconer }} - Power
+* New Power.
+* Nano Boost also gives 20% increased Attack Speed and 15% Ultimate Charge.
+
+{{al|Your Full Potential}} - Power
+* Removed.
+
+{{al|Venomous}} - Power
+* Damage decreased to 60 (Down from 75).
+
+{{al|Tactical Rifle}} (New) – Rare Weapon Hero Item
+* Changed from a Power to a Rare Weapon Hero Item.
+* 10% Weapon Power.
+* While scoped, Biotic Rifle will lock-on to allies for guaranteed hits and has less reduced movement speed.
+* Cost: 5,000.
+
+{{al|Sleep Regimen}} (New) – Rare Ability Hero Item
+* Changed from a Power to a Rare Ability Hero Item.
+* 25 Health.
+* When you apply Sleep to an enemy, gain 10 Health, up to 50.
+* Cost: 4,500.
+
+{{al|Lethal Dose}} – Epic Ability Hero Item
+* Ability Lifesteal decreased to 10% (Down from 50%).
+* Now gives Ana 60 Overhealth.
+
+{{al|Cluster Core}} – Epic Ability Hero Item
+* Cooldown Reduction decreased to 1s (Down from 2s).
+
+{{al|Tranquilizer}} – Epic Ability Hero Item
+* Removed.
+
+{{al|Double Dosage}} – Epic Ability Hero Item
+* Removed.
+
+{{al|Time Out}} (New) – Epic Survival Hero Item
+* Changed from a Power to a Epic Surival Hero Item.
+* 75 Health.
+* Biotic Grenade knocks back enemies, and Ana gains 20% Move Speed while affected by it.
+* Cost: 9,000.
+}}
+{{PatchTableElement|2025-08-26|
+{{DevComment|Developer Comments: Live data shows that Ana currently earns the lowest average currency at late game. While her overall performance has improved, we want to ensure she has enough resources to make meaningful and strategic choices in the armory. This update should help boost her economy and open up more build paths.}}
+
+* Increased income from damage and healing by 11%.
+
+{{al|Venomous}} - Power
+* Set duration to 2s.
+
+{{al|Tranquilizer}} - Epic Ability Hero Item
+* Added: +10% Cooldown Reduction
+}}
+{{PatchTableElement|2025-07-22|
+{{DevComment|Developer Comments: Ana has struggled to make an impact in the late game with unscoped weapon power build. This new epic item is designed to address that, giving her the tools to become a more reliable formidable threat.}}
+
+{{al|Unscoped Resources}} - Epic Weapon Hero Item
+* Added +15% Weapon Power.
+}}
+{{PatchTableElement|2025-07-08|
+{{DevComment|Developer Comments: Ana remains one of the most impactful heroes when it comes to empowering her teammates, and this patch leans further into that strength. We're enhancing her ability to turn the tide of battle with key utility, particularly by increasing the impact of Biotic Grenade to create more high-stakes, high-reward moments in critical team fights. These changes aim to make Ana an even more decisive force in coordinated play.}}
+
+{{al|Our Turn}} - Power
+* Decreased duration reduction to 25% (Down from 50%).
+
+{{al|My Turn}} - Power
+* Increased self [Nano Boost] duration to 100%. (Up from 50%).
+
+{{al|Your Full Potential}} - Power
+* Increased ultimate charge given to 35%. (Up from 25%).
+
+{{al|Time Out (old)}} - Power
+* Increased slow duration to 2.5s. (Up from 1.5s).
+
+{{al|Venomous}} - Power
+* Increased damage to 75. (Up from 50).
+}}
+{{PatchTableElement|2025-06-24|
+{{DevComment|Developer Comments: Double Dosage was originally designed to support aggressive plays. We’ve redesigned it to better serve as a forward-facing tool, rewarding players who take initiative and engage directly with the enemy.}}
+
+{{al|Double Dosage}} - Rare Ability Hero Item
+* Redesigned to work only on enemies, only up to 30%. Does not stack.
+* Decreased cooldown to 30% (Down from 35%).
+}}
+{{PatchTableElement|2025-05-29|
+{{DevComment|Developer Comments: We’re aiming to make Ana feel more agile and resilient in mid-range engagements, where she often finds herself most vulnerable. By improving her survivability, these changes should help her better reposition under pressure and stay active in fights without compromising her high-impact support role. Tactical Rifle is a well-loved power, but we've received consistent feedback that its targeting could feel more like a hindrance than a help. In high-pressure moments, the auto-aim was too frequently locking onto allies instead of enemies, disrupting damage output. We're refining its behavior to better prioritize threats and ensure it feels like a reliable tool in combat.}}
+
+{{al|Tactical Rifle (old)}} - Power
+* Reduced aim tracking angle by 50%.
+
+{{al|Dash Boots}} – Rare Ability Hero Item
+* Increased Movement Speed bonus to 10% (Up from 5%).
+* Decreased cooldown to 3 seconds (Down from 4 seconds).
+
+{{al|Cluster Core}} – Epic Ability Hero Item
+* Biotic Grenade cooldown is reduced by 2 seconds for each target it hits (up from 1 second).
+}}
+{{PatchTableElement|2025-05-15|
+{{DevComment|Developer Comments: Ana’s abilities feature some of the longest cooldowns in the support roster, and their impact hasn’t always matched that investment in Stadium. This update improves the effectiveness of her utility, helping her keep allies in the fight longer and better rewarding well-timed ability usage. These changes should give Ana more consistent value in extended engagements.}}
+
+{{al|Home Remedy}} - Power
+* Increased Overhealth gain to 200% (up from 100%).
+
+{{al|Dreamy}} - Power
+* Decreased heal to 80% (down from 100%).
+* Decreased duration to 4s (down from 8s).
+
+{{al|Venomous}} - Power
+* Increased damage to 50 (up from 30).
+
+{{al|Quick Scope}} – Rare Hero Weapon Item
+* Increased Weapon Power to +10% (up from 5%).
+
+{{al|I.V. Drip}} – Rare Hero Survival Item
+* Increased Overhealth to 150 (up from 100).
+}}
+{{PatchTableElement|2025-04-22|
+; Introducing Stadium
+* Tank Heroes: D.Va, Junker Queen, Orisa, Reinhardt, and Zarya.
+* Damage Heroes: Ashe, Cassidy, Genji Mei, Reaper, and Soldier: 76.
+* Support Heroes: '''Ana''', Juno, Kiriko, Lucio, Mercy, and Moira.
+}}
+</onlyinclude>{{PatchTableEnd}}
+
+{{StadiumNav}}
+[[Category:{{BASEPAGENAME}}]]
+[[Category:Stadium hero pages]]

@@ -1,0 +1,404 @@
+{{HeroTabs}}
+[[File: Pharah Stadium.png|thumb|310x310px]]
+'''{{BASEPAGENAME}}''' is a playable [[hero]] in the [[Stadium]] [[game mode]].
+
+== Ability interactions ==
+{{StadiumAbilityInteractions/header}}
+{{StadiumAbilityInteractions/row|Hover Jets | }}
+{{StadiumAbilityInteractions/row|Rocket Launcher | weaponPower=1 | maxAmmo=1 | attackSpeed=1 | weaponLifesteal=1 }}
+{{StadiumAbilityInteractions/row|Jet Dash | cooldownReduction=1 }}
+{{StadiumAbilityInteractions/row|Jump Jet | cooldownReduction=1 }}
+{{StadiumAbilityInteractions/row|Concussive Blast | abilityPower=1 | cooldownReduction=1 | abilityLifesteal=1 }}
+{{StadiumAbilityInteractions/row|Barrage | abilityPower=1 | abilityLifesteal=1 }}
+|}
+
+== Hero Items ==
+This is a list of hero-specific items. For a list of items available to all heroes, see [[Armory]].
+
+=== Weapon ===
+<!-- Rare -->
+
+<!-- Epic -->
+{{Ability details
+| ability_name = Blast Enhancer
+| ability_image = Blast_Enhancer.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Weapon Power;;15%::[Rocket Launcher] Explosion Radius;;25%
+| official_description = 
+| stadium_rarity = Epic
+| stadium_cost = 11000
+}}
+{{Ability details
+| ability_name = Precision Targeting
+| ability_image = Precision_Targeting.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Weapon Power;;20%
+| official_description = [Rocket Launcher] direct hits restore 1 ammo.
+| stadium_rarity = Epic
+| stadium_cost = 13500
+}}
+
+=== Ability ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Cairo Coolant
+| ability_image = Cairo_Coolant.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Health;;25::Cooldown Reduction;;5%
+| official_description = When you knock yourself back with [Concussive Blast], gain 20% Movement Speed for 3s.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+{{Ability details
+| ability_name = Overcharged Ordnance
+| ability_image = Overcharged_Ordnance.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Weapon Power;;10%::[Mini Rocket] Explosion Radius;;25%
+| official_description = 
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+
+
+<!-- Epic -->
+{{Ability details
+| ability_name = Helix Inhibitor
+| ability_image = Helix_Inhibitor.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Ability Power;;20%
+| official_description = [Concussive Blast] slows affected enemies by 20% for 2s.
+| stadium_rarity = Epic
+| stadium_cost = 11000
+}}
+
+=== Survival ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Flight Plan
+| ability_image = Flight_Plan.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Health;;25
+| official_description = After using [Jump Jet] or [Jet Dash], gain 25 Overhealth for 3s.
+| stadium_rarity = Rare
+| stadium_cost = 4500
+}}
+{{Ability details
+| ability_name = Tuned Turbines
+| ability_image = Tuned_Turbines.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Health;;25
+| official_description = [Hover Jets] consume 20% less fuel.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+
+<!-- Epic -->
+{{Ability details
+| ability_name = Ana's Aim-Assist
+| ability_image = Ana's_Aim-Assist.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Health;;50
+| official_description = [Rocket Launcher] hits heal 15% of you maximum health over 3s.
+| stadium_rarity = Epic
+| stadium_cost = 12000
+}}
+{{Ability details
+| ability_name = Forward Shielding
+| ability_image = Forward_Shielding.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Health;;25::Ability Power;;10%
+| official_description = When you use [Barrage], gain 25% of your Max Life as Overhealth for 3s.
+| stadium_rarity = Epic
+| stadium_cost = 11000
+}}
+
+== Powers ==
+{{Ability details
+| ability_name = Evasive Maneuvers
+| ability_image = Evasive_Maneuvers.png
+| ability_type = Stadium Power
+| affected_ability = Concussive Blast
+| official_description = After using [Jump Jet], [Concussive Blast] gains homing and hinders enemies for 1.50s on direct hit.
+}}
+
+{{Ability details
+| ability_name = Extra Charge
+| ability_image = Extra_Charge.png
+| ability_type = Stadium Power
+| affected_ability = Concussive Blast
+| official_description = [Concussive Blast] gains 1 extra charge.
+}}
+
+{{Ability details
+| ability_name = Launch Vector
+| ability_image = Launch_Vector.png
+| ability_type = Stadium Power
+| affected_ability = Concussive Blast
+| official_description = Whenever you knockback an enemy with [Concussive Blast], fire 3 homing mini-rockets at them.
+}}
+
+{{Ability details
+| ability_name = Blitz Barrage
+| ability_image = Blitz_Barrage.png
+| ability_type = Stadium Power
+| affected_ability = Barrage
+| official_description = Gain 40% Move Speed during [Barrage].<br>After using [Jet Dash], fire a [Barrage] with 60% fewer [Mini-Rockets].
+}}
+
+{{Ability details
+| ability_name = Carpet Bomb
+| ability_image = Carpet_Bomb.png
+| ability_type = Stadium Power
+| affected_ability = Barrage
+| official_description = Gain 40% Move Speed during [Barrage].<br>[Barrage] has 50% increased duration.
+}}
+
+{{Ability details
+| ability_name = Recursion Battery
+| ability_image = Recursion_Battery.png
+| ability_type = Stadium Power
+| affected_ability = Barrage
+| official_description = Mini rockets gain 50% Ability Lifesteal.
+}}
+
+{{Ability details
+| ability_name = Cyclic Salvo
+| ability_image = Cyclic_Salvo.png
+| ability_type = Stadium Power
+| affected_ability = Rocket Launcher
+| official_description = [Rocket Launcher] direct hits grant 10 fuel and reduce your cooldowns by 1s.
+}}
+
+{{Ability details
+| ability_name = Fuel Depot
+| ability_image = Fuel_Depot.png
+| ability_type = Stadium Power
+| affected_ability = Rocket Launcher
+| official_description = [Rocket Launcher] direct hits permanently increase your maximum fuel by 2, stacking up to 25 times.
+}}
+
+{{Ability details
+| ability_name = Triple Volley
+| ability_image = Triple_Volley.png
+| ability_type = Stadium Power
+| affected_ability = Rocket Launcher
+| official_description = After using an ability, your next [Primary Fire] fires 3 rockets that each deal 40% damage.
+}}
+
+{{Ability details
+| ability_name = Fuel Conversion
+| ability_image = Fuel_Conversion.png
+| ability_type = Stadium Power
+| affected_ability = Jet Dash
+| official_description = [Jet Dash] gains 50% cooldown reduction but now costs 65 fuel.
+}}
+
+{{Ability details
+| ability_name = Heat Seekers
+| ability_image = Heat_Seekers.png
+| ability_type = Stadium Power
+| affected_ability = Jet Dash
+| official_description = After using [Jet Dash], your next [Primary Fire] locks onto enemies.
+}}
+
+{{Ability details
+| ability_name = Speed Kills
+| ability_image = Speed_Kills.png
+| ability_type = Stadium Power
+| affected_ability = 
+| official_description = Dealing weapon damage grants 5% Movement Speed and 3% Attack Speed for 3s, stacking up to 6 times. Direct hits grant double stacks.
+}}
+
+
+== Example Builds ==
+These are example builds pre-built in [[Stadium]] meant to show some possibilities of what can be done in the mode.
+
+
+=== Who called in the fleet? ===
+Bombard your enemies from the orbit with a barrage of mini-rockets augmented by {{Ability Power|Ability Power}} and Cooldown Reduction.
+
+==== Powers ====
+* {{al|Carpet Bomb}}
+* {{al|Blitz Barrage}}
+* {{al|Recursion Battery}}
+* {{al|Launch Vector}}
+
+==== Early game ====
+* {{al|Compensator}}
+* {{al|Power Playbook}}
+* {{al|Winning Attitude}}
+* {{al|Multi-tool}}
+
+==== Late game ====
+* {{al|Nano Cola}}
+* {{al|Phantasmic Flux}}
+* {{al|Forward Shielding}}
+* {{al|Catalytic Crystal}}
+
+==== Flex ====
+* {{al|Flight Plan}}
+* {{al|Lumérico Fusion Drive}}
+* {{al|Sonic Recharger}}
+* {{al|Liquid Nitrogen}}
+
+=== That's a streak! ===
+Augment your rockets with {{Weapon Power|Weapon Power}} to land devastating direct hits.
+
+==== Powers ====
+* {{al|Triple Volley}}
+* {{al|Fuel Conversion}}
+* {{al|Heat Seekers}}
+* {{al|Cyclic Salvo}}
+
+==== Early game ====
+* {{al|Compensator}}
+* {{al|Weapon Grease}}
+* {{al|Armored Vest}}
+
+==== Late game ====
+* {{al|Talon Modification Module}}
+* {{al|Precision Targeting}}
+* {{al|Commander's Clip}}
+* {{al|Ana's Aim-Assist}}
+
+==== Flex ====
+* {{al|Flight Plan}}
+* {{al|Sonic Recharger}}
+* {{al|Aerial Distresser}}
+* {{al|Salvaged Slugs}}
+
+=== Justice protects the skies ===
+Assert your aerial superiority with more fuel, more rockets and more {{Weapon Power|Weapon Power}}.
+
+==== Powers ====
+* {{al|Fuel Depot}}
+* {{al|Triple Volley}}
+* {{al|Cyclic Salvo}}
+* {{al|Speed Kills}}
+
+==== Early game ====
+* {{al|Compensator}}
+* {{al|Weapon Grease}}
+* {{al|Armored Vest}}
+* {{al|Tuned Turbines}}
+
+==== Late game ====
+* {{al|Talon Modification Module}}
+* {{al|Blast Enhancer}}
+* {{al|Ana's Aim-Assist}}
+* {{al|Lumérico Fusion Drive}}
+
+==== Flex ====
+* {{al|Flight Plan}}
+* {{al|Salvaged Slugs}}
+* {{al|Sonic Recharger}}
+
+== Balance Change Log ==
+
+{{PatchTableStart}}<onlyinclude>
+{{PatchTableElement|2025-09-04|
+
+{{DevComment|Developer Comments: Pharah’s mini barrage build has been raining down a little too much fire, melting teams before they knew what hit them. This is the first step in dialing back that bursty damage while keeping the build exciting, with more tuning planned in future updates.}}
+
+{{al|Recursion Battery}} - Power
+* Lifesteal decreased to 25% (Down from 50%).
+
+{{al|Blitz Barrage}} - Power
+* Rocket number reduction increased to 75% (Up from 60%).
+
+{{al|Overcharged Ordnance}} - Rare Ability Hero Item
+* Cost increased to 5500 (Up from 4000).
+}}
+{{PatchTableElement|2025-08-26|
+* Added to the Stadium Hero roster.
+
+{{al|Evasive Maneuvers}} - Power
+* After using Jump Jet, Concussive Blast gains homing and hinders enemies for 1.5 seconds on direct hit.
+
+{{al|Extra Charge}} - Power
+* Concussive Blast gains 1 extra charge.
+
+{{al|Launch Vector}} - Power
+* Whenever you knockback an enemy with Concussive Blast, fire 3 homing mini-rockets at them.
+
+{{al|Blitz Barrage}} - Power
+* Gain 40% Move Speed during Barrage.
+* After using Jet Dash, fire a Barrage with 60% fewer Mini-Rockets.
+
+{{al|Carpet Bomb}} - Power
+* Gain 40% Move Speed during Barrage.
+* Barrage has 50% increased duration.
+
+{{al|Recursion Battery}} - Power
+* Mini-Rockets gain 50% Ability Lifesteal.
+
+{{al|Cyclic Salvo}} - Power
+* Rocket Launcher direct hits grant 10 fuel and reduce your cooldowns by 1 second.
+
+{{al|Fuel Depot}} - Power
+* Rocket Launcher direct hits permanently increase your maximum fuel by 2, stacking up to 25 times.
+
+{{al|Triple Volley}} - Power
+* After using an ability, your next Primary Fire fires 3 rockets that each deal 40% damage.
+
+{{al|Fuel Conversion}} - Power
+* Jet Dash gains 50% cooldown reduction but now costs 65 fuel.
+
+{{al|Heat Seekers}} - Power
+* After using Jet Dash, your next Primary Fire locks onto enemies.
+
+{{al|Speed Kills}} - Power
+* Dealing Weapon Damage grants 5% Move Speed and 3% Attack Speed for 3 seconds, stacking up to 6 times. Direct hits grant double stacks.
+
+{{al|Blast Enhancer}} - Epic Weapon Hero Item
+* 15% Weapon Power.
+* 25% Rocket Launcher Explosion Radius.
+* Cost: 11,000
+
+{{al|Precision Targeting}} - Epic Weapon Hero Item
+* 20% Weapon Power.
+* Rocket Launcher direct hits restore 1 ammo.
+* Cost: 13,500.
+
+{{al|Cairo Coolant}} - Rare Ability Hero Item
+* 25 Health.
+* 5% Cooldown Reduction.
+* When you knock yourself back with Concussive Blast, gain 20% Movement Speed for 3 seconds.
+* Cost: 4,000.
+
+{{al|Overcharged Ordnance}} - Rare Ability Hero Item
+* 10% Ability Power.
+* 25% Mini Rocket Explosion Radius.
+* Cost: 4,000.
+
+{{al|Helix Inhibitor}} - Epic Ability Hero Item
+* 20% Ability Power.
+* Concussive Blast slows affected enemies by 20% for 2 seconds.
+* Cost: 11,000.
+
+{{al|Flight Plan}} - Rare Survival Hero Item
+* 25 Health.
+* After using Jump Jet or Jet Dash, gain 25 Overhealth for 3 seconds.
+* Cost: 4,500.
+
+{{al|Tuned Turbines}} - Rare Survival Hero Item
+* 25 Health.
+* Hover Jets consume 20% less fuel.
+* Cost: 4,500.
+
+{{al|Forward Shielding}} - Epic Survival Hero Item
+* 25 Health.
+* 10% Ability Power.
+* When you use Barrage, gain 25% of your Max Life as Overhealth for 3 seconds.
+* Cost: 11,000.
+
+{{al|Ana's Aim-Assist|text=Ana's Aim Assist}} - Epic Survival Hero Item
+* 50 Health
+* Rocket Launcher direct hits heal 15% of your maximum health over 3 seconds.
+* Cost: 12,000.
+}}
+</onlyinclude>{{PatchTableEnd}}
+
+{{StadiumNav}}
+[[Category:{{BASEPAGENAME}}]]
+[[Category:Stadium hero pages]]

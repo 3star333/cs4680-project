@@ -1,0 +1,416 @@
+{{HeroTabs}}
+[[File: Juno Stadium.png|thumb|310x310px]]
+'''{{BASEPAGENAME}}''' is a playable [[hero]] in the [[Stadium]] [[game mode]].
+
+== Ability interactions ==
+{{StadiumAbilityInteractions/header}}
+{{StadiumAbilityInteractions/row|Mediblaster |weaponPower=1 |attackSpeed=1 |maxAmmo=1 |weaponLifesteal=1 }}
+{{StadiumAbilityInteractions/row|Pulsar Torpedoes |abilityPower=1 |cooldownReduction=1 |abilityLifesteal=1 }}
+{{StadiumAbilityInteractions/row|Glide Boost |cooldownReduction=1 }}
+{{StadiumAbilityInteractions/row|Hyper Ring |cooldownReduction=1 }}
+{{StadiumAbilityInteractions/row|Orbital Ray |abilityPower=1 |abilityLifesteal=1 }}
+|}
+
+== Hero Items ==
+This is a list of hero-specific items. For a list of items available to all heroes, see [[Armory]].
+
+=== Weapon ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Vantage Shot
+| ability_image = Vantage Shot.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Weapon Power;;5%
+| official_description = While airborne, [Mediblaster] deals 15% more damage.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+<!-- Epic -->
+{{Ability details
+| ability_name = Pulse Spike
+| ability_image = Pulse Spike.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Attack Speed;;10%::[Pulsar Torpedoes] Projectile Speed;;35%
+| official_description = After using [Pulsar Torpedoes], gain 25% Attack Speed for 4s.
+| stadium_rarity = Epic
+| stadium_cost = 11000
+}}
+{{Ability details
+| ability_name = Long Range Blaster
+| ability_image = Long Range Blaster.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Weapon Power;;15%
+| official_description = [Mediblaster] deals 15% increased damage and healing to targets farther than 12m away.
+| stadium_rarity = Epic
+| stadium_cost = 12000
+}}
+{{Ability details
+| ability_name = Gravitational Push
+| ability_image = Gravitational Push.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Weapon Power;;15%
+| official_description = During [Glide Boost], gain 20% Attack Speed and your [Quick Melee] knocks enemies back.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+
+=== Ability ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Lux Loop
+| ability_image = Lux Loop.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Ability Power;;10%::[Hyper Ring] Duration;;25%
+| official_description = 
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+<!-- Epic -->
+{{Ability details
+| ability_name = PulStar Destroyers
+| ability_image = Pulstar Destroyers.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Ability Lifesteal;;10%
+| official_description = [Pulsar Torpedoes] explode on hit, dealing {{Ability Power|35}} damage.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+{{Ability details
+| ability_name = Solar Shielding
+| ability_image = Solar Shielding.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Ability Power;;15%
+| official_description = Allies affected by [Hyper Ring] restore 25 Shields every 1s.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+{{Ability details
+| ability_name = Red Promise Regulator
+| ability_image = Red Promise Regulator.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Shields;;50::Ability Power;;15%
+| official_description = When you use [Orbital Ray], reset your cooldowns.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+
+=== Survival ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Lock-on Shield
+| ability_image = Lock-On Shield.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Health;;25
+| official_description = While aiming [Pulsar Torpedoes], gain Overhealth equal to 25% of your max Shields.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+<!-- Epic -->
+{{Ability details
+| ability_name = Boosted Rockets
+| ability_image = Boosted Rockets.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = [Glide Boost] Duration;;25%
+| official_description = During Glide Boost, gain 10% Damage Reduction
+| stadium_rarity = Epic
+| stadium_cost = 12000
+}}
+{{Ability details
+| ability_name = Sunburst Serum
+| ability_image = Sunburst Serum.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Shields;;75
+| official_description = [Orbital Ray] gains 25% increased healing.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+
+== Powers ==
+{{Ability details
+| ability_name = MediMaster
+| ability_image = Medimaster.png
+| ability_type = Stadium Power
+| affected_ability = Mediblaster
+| official_description = [Mediblaster] can now critically hit both allies and enemies.
+| headshot = yes
+| headshot_mod = 1.5
+}}
+{{Ability details
+| ability_name = Stinger
+| ability_image = Stinger.png
+| ability_type = Stadium Power
+| affected_ability = Mediblaster
+| official_description = [Mediblaster] deals an additional {{Ability_Power|10}} damage to enemies over 1s. (Does not stack).
+| ability_details =
+* ''Does not stack'' means that instead of applying new instances of DoT every shot, the duration of the first one is refreshed instead.
+}}
+{{Ability details
+| ability_name = Cosmic Coolant
+| ability_image = Cosmic Coolant.png
+| ability_type = Stadium Power
+| affected_ability = Pulsar Torpedoes
+| official_description = [Pulsar Torpedoes] cooldown is reduced by 0.5s for each target it hits.
+}}
+{{Ability details
+| ability_name = Medicinal Missiles
+| ability_image = Medicinal Missiles.png
+| ability_type = Stadium Power
+| affected_ability = Pulsar Torpedoes
+| official_description = [Pulsar Torpedoes] causes allies hit to receive 50% more healing for 3s.
+}}
+{{Ability details
+| ability_name = Pulsar Plus
+| ability_image = Pulsar Plus.png
+| ability_type = Stadium Power
+| affected_ability = Pulsar Torpedoes
+| official_description = [Pulsar Torpedoes] gains 1 additional charge.
+}}
+{{Ability details
+| ability_name = Blink Boosts
+| ability_image = Blink Boosts.png
+| ability_type = Stadium Power
+| affected_ability = Glide Boost
+| official_description = [Glide Boost] gains 2 additional charges and has a 40% reduced cooldown, but has 75% reduced duration.
+}}
+{{Ability details
+| ability_name = Torpedo Glide
+| ability_image = Torpedo Glide.png
+| ability_type = Stadium Power
+| affected_ability = Glide Boost
+| official_description = During [Glide Boost], every 50 damage you deal reduces the cooldown of [Pulsar Torpedoes] by 1s.
+}}
+{{Ability details
+| ability_name = Black Hole
+| ability_image = Black Hole Power.png
+| ability_type = Stadium Power
+| affected_ability = Hyper Ring
+| official_description = [Hyper Ring] slows the Move Speed of enemies who pass through it by 35% for 2s. 
+}}
+{{Ability details
+| ability_name = Hyper Healer
+| ability_image = Hyper Healer.png
+| ability_type = Stadium Power
+| affected_ability = Hyper Ring
+| official_description = Allies affected by [Hyper Ring] gain {{Ability_Power|75}} Overhealth.
+}}
+{{Ability details
+| ability_name = Rally Ring
+| ability_image = Rally Ring.png
+| ability_type = Stadium Power
+| affected_ability = Hyper Ring
+| official_description = Reduce [Hyper Ring]'s cooldown by 1s when an ally passes through it.
+}}
+{{Ability details
+| ability_name = Orbital Alignment
+| ability_image = Orbital Alignment.png
+| ability_type = Stadium Power
+| affected_ability = Orbital Ray
+| official_description = Enemies inside of [Orbital Ray] lose 35% Move Speed and float upward. Allies inside of it gain 25% Move Speed.
+}}
+{{Ability details
+| ability_name = Stellar Focus
+| ability_image = Stellar Focus.png
+| ability_type = Stadium Power
+| affected_ability = Orbital Ray
+| official_description = [Orbital Ray] now follows you and its duration is increased by 50%.
+}}
+
+== Removed Items and Powers ==
+{{Ability details
+| removed = 1
+| ability_name = Forti-Glide
+| ability_image = Forti-Glide.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = {{Life}} 75 Shields
+| official_description = During [Glide Boost], gains 10% Damage Reduction.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+| ability_details = 
+* Removed in Season 17.
+}}
+
+== Example Builds ==
+These are example builds pre-built in [[Stadium]] meant to show some possibilities of what can be done in the mode.
+
+=== Agressive Gliding ===
+Disrupt your enemies while gliding through the air.
+
+==== Powers ====
+*{{al|Stinger}}
+*{{al|Blink Boosts}}
+*{{al|Medicinal Missiles}}
+*{{al|Torpedo Glide}}
+
+==== Early game ====
+*{{al|Power Playbook}}
+*{{al|Weapon Grease}}
+*{{al|First Aid Kit}}
+*{{al|Vantage Shot}}
+
+==== Late game ====
+*{{al|Advanced Nanobiotics}}
+*{{al|Nano Cola}}
+*{{al|Boosted Rockets}}
+*{{al|Cybervenom}}
+
+==== Flex ====
+*{{al|Liquid Nitrogen}}
+*{{al|Three-tap Tommygun}}
+*{{al|Lumérico Fusion Drive}}
+*{{al|Superflexor}}
+
+=== Pulsars Inbound ===
+Blast torpedoes empowered by {{Ability Power|Ability Power}} all across the battlefield!
+
+==== Powers ====
+*{{al|Pulsar Plus}}
+*{{al|Cosmic Coolant}}
+*{{al|Medicinal Missiles}}
+*{{al|Stellar Focus}}
+
+==== Early game ====
+*{{al|Power Playbook}}
+*{{al|Shady Spectacles}}
+*{{al|Armored Vest}}
+*{{al|Lock-On Shield}}
+
+==== Late game ====
+*{{al|Nano Cola}}
+*{{al|Energized Bracers}}
+*{{al|Champion's Kit}}
+*{{al|Pulstar Destroyers}}
+
+==== Flex ====
+*{{al|Biotech Maximizer}}
+*{{al|Catalytic Crystal}}
+*{{al|Divine Intervention}}
+*{{al|Iridescent Iris}}
+
+=== Surgical Astronaut ===
+Place your Hyper Ring in advantageous positions and master your blaster with precise critical shots and {{Weapon Power|Weapon Power}}!
+
+==== Powers ====
+*{{al|Medimaster}}
+*{{al|Hyper Healer}}
+*{{al|Rally Ring}}
+*{{al|Black Hole}}
+
+==== Early game ====
+*{{al|Compensator}}
+*{{al|Weapon Grease}}
+*{{al|First Aid Kit}}
+*{{al|Advanced Nanobiotics}}
+
+==== Late game ====
+*{{al|Talon Modification Module}}
+*{{al|Vantage Shot}}
+*{{al|Long Range Blaster}}
+*{{al|The Closer}}
+
+==== Flex ====
+*{{al|Eye of the Spider}}
+*{{al|Pulse Spike}}
+*{{al|Amari's Antidote}}
+*{{al|Nebula Conduit}}
+
+== Balance Change Log ==
+{{PatchTableStart}}<onlyinclude>
+{{PatchTableElement|2025-09-16|
+{{DevComment|Developer comments: PulStar Destroyers were underwhelming compared to other Epic tier options. This boost should make this hero item feel far more destructive and worthy of its name.}}
+
+{{al|PulStar Destroyers}} - Epic Ability Hero Item
+* Damage increased to 35 (Up from 20).
+}}
+{{PatchTableElement|2025-08-26|
+{{DevComment|Developer Comments: Juno lost her blinky shoes, and her performance took a hit. While some players were happy to see her less airborne, it made it much harder for Juno to stay impactful. This buff helps her regain strength while making sure she doesn’t end up permanently zipping around the skies.}}
+
+{{al|Orbital Alignment}} - Power
+* Now enemies within the Orbital Ray will float up.
+
+{{al|Blink Boosts}} - Power
+* Increased cooldown reduction to 40% (Up from 30%).
+}}
+{{PatchTableElement|2025-07-24|
+{{DevComment|Developer Comments: Medimaster wasn’t quite delivering the payoff expected for a critical-focused builds. This buff increases its crit multiplier to better reward precision and reinforce its role as a high-risk, high-reward option for skilled players.}}
+
+{{al|Medimaster}} - Power
+* Increased critical scalar to 1.5 (Up from 1.25).
+}}
+{{PatchTableElement|2025-07-22|
+{{DevComment|Developer Comments: Stellar Focus lacked a clear standout strength compared to other power options, often feeling underwhelming in practice. This update aims to give it a more defined impact, helping it stand out as a meaningful and competitive choice in your build.}}
+
+{{al|Stellar Focus}} - Power
+* Increased duration to 50% (Up from 35%).
+}}
+{{PatchTableElement|2025-07-09|
+{{DevComment|Developer comments: Juno’s Blink Boosts have been dominating the skies, especially when paired with ability-survival items to gain overhealth and damage repeatedly. After reviewing performance data and player feedback, we've committed to a multi-step approach to bring this build back into balance. This update is the second step in that process, with more adjustments planned to ensure a healthier gameplay experience for both Juno players and their opponents.}}
+
+{{al|Blink Boosts}} - Power
+* Decreased Cooldown Reduction to 30% (Down from 65%).
+}}
+{{PatchTableElement|2025-07-08|
+{{DevComment|Developer Comments: At higher MMR tiers, Juno has earned the nickname "Flying Tracer" for good reason. Her survivability, especially after Round 3, made her extremely slippery and difficult to deal with. This base adjustment is focused on slightly reducing her survival capability to keep her challenging without feeling unfair to eliminate.}}
+
+{{al|Hyper Healer}} - Power
+* Decreased Overhealth to 75 (Down from 100).
+}}
+{{PatchTableElement|2025-06-24|
+{{DevComment|Developer Comments: Juno had a standout performance last season, with Pulsars delivering consistently high impact. For this season, we’re making targeted adjustments to slightly lower its peak output while opening up more room for build variety. The goal is to preserve her strength while encouraging a broader range of viable playstyles.}}
+
+{{al|Forti-Glide|text=Evasive Glide}} - Hero Item
+* Removed.
+
+{{al|Lock-On Shield}} - Rare Survival Hero Item.
+* Changed Item category from Ability to Survival.
+* Changed Item stat from 10% Ability Power to 25 Health.
+* Decreased Overhealth scalar to 25% (Down from 50%).
+
+{{al|Boosted Rockets}} - Epic Survival Hero Item.
+* Changed Item rarity from Rare to Epic.
+* Changed Item price from 4000 to 12000.
+* Updated Item effect: During Glide Boost, gain 10% Damage Reduction.
+
+{{al|Medicinal Missiles}} - Power
+* Removed additional 30 Healing.
+}}
+{{PatchTableElement|2025-05-29|
+{{DevComment|Developer Comments: Hyper Ring has seen frequent use in Juno’s kit, but it hasn’t kept pace with the impact of her other powers. We're giving it a boost to bring it in line with the rest of her options, making it a more competitive pick that rewards smart positioning and timing.}}
+
+{{al|Hyper Healer}} - Power
+* Increased Overhealth to 100 (Up from 50).
+
+{{al|Black Hole}} - Power
+* Increased Slow duration to 2 seconds. (Up from 1 second).
+}}
+{{PatchTableElement|2025-05-01|
+{{DevComment|Developer Comments: We know Juno has been very popular in Stadium but we’re addressing some of the most oppressive aspects of those builds in this update. We have found that on average, Juno was earning less Cash from damage and healing than other heroes, especially in the early rounds. We’re increasing this to help balance out with some of the Pulsar Torpedo build nerfs, as well as to help out the other Juno builds that are underperforming.
+
+Pulsar Torpedo enthusiasts have been everywhere you look in Stadium and sometimes it feels like there's always a Pulsar Torpedo chasing you. We're reducing the cooldown of Cosmic Coolant per hit to reduce some of her ability pacing.
+
+We felt that PulStar Destroyers had too much vertical power for damage focused Pulsar Torpedo builds. We've replaced the Ability Power with Ability Lifesteal to retain that aggressive playstyle.
+
+Solar Shielding was providing too much Ability Power combined with its effect at its current cost.}}
+
+* Increased the amount of Stadium Cash gained from damage and healing by 33.33%.
+
+{{al|Cosmic Coolant}} – Power
+* Cooldown per target hit reduced to 0.5 second (down from 1 second).
+
+{{al|PulStar Destroyers}} – Epic Ability Hero Power
+* Removed 15% Ability Power.
+* Added 10% Ability Lifesteal.
+
+{{al|Solar Shielding}} – Epic Ability Hero Power
+* Ability Power reduced to 15% (down from 25%).
+}}
+{{PatchTableElement|2025-04-22|
+; Introducing Stadium
+* Tank Heroes: D.Va, Junker Queen, Orisa, Reinhardt, and Zarya.
+* Damage Heroes: Ashe, Cassidy, Genji Mei, Reaper, and Soldier: 76.
+* Support Heroes: Ana, '''Juno''', Kiriko, Lucio, Mercy, and Moira.
+}}
+</onlyinclude>{{PatchTableEnd}}
+
+{{StadiumNav}}
+[[Category:{{BASEPAGENAME}}]]
+[[Category:Stadium hero pages]]

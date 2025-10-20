@@ -1,0 +1,413 @@
+{{HeroTabs}}
+[[File: Reinhardt Stadium.png|thumb|310x310px]]
+'''{{BASEPAGENAME}}''' is a playable [[hero]] in the [[Stadium]] [[game mode]].
+
+== Stat interactions ==
+{{StadiumAbilityInteractions/header}}
+{{StadiumAbilityInteractions/row|Rocket Hammer |weaponPower=1 |attackSpeed=1 |weaponLifesteal=1 |meleeDamage=1 }}
+{{StadiumAbilityInteractions/row|Barrier Field }}
+{{StadiumAbilityInteractions/row|Charge |abilityPower=1 |cooldownReduction=1 |abilityLifesteal=1 }}
+{{StadiumAbilityInteractions/row|Fire Strike |abilityPower=1 |cooldownReduction=1 |abilityLifesteal=1 }}
+{{StadiumAbilityInteractions/row|Earthshatter |abilityPower=1 |abilityLifesteal=1 }}
+|}
+
+== Hero Items ==
+This is a list of hero-specific items. For a list of items available to all heroes, see [[Armory]].
+
+=== Weapon ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Ironclad Cleats
+| ability_image = Ironclad_Cleats.png
+| ability_type = Hero Item (Weapon)
+| official_description = 
+| stadium_rarity = Rare
+| stadium_cost = 3750
+| stadium_buffs = Armor;;25::Weapon Power;;5%::Knockback Resist;;40%
+}}
+<!-- Epic -->
+{{Ability details
+| ability_name = Dampener Grip
+| ability_image = Dampener_Grip.png
+| ability_type = Hero Item (Weapon)
+| official_description = When you deal damage with [Rocket Hammer], reduce the cooldown of your abilities by 1s.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+| stadium_buffs = Ability Power;;15%::Attack Speed;;10%
+}}
+{{Ability details
+| ability_name = Plan Z
+| ability_image = Plan_Z.png
+| ability_type = Hero Item (Weapon)
+| official_description = Gain 3% Attack Speed every 100 missing Life, up to 30%.
+| stadium_rarity = Epic
+| stadium_cost = 11000
+| stadium_buffs = Weapon Power;;10%
+}}
+
+=== Ability ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Boost Recycler
+| ability_image = Boost_Recycler.png
+| ability_type = Hero Item (Ability)
+| official_description = If [Charge] is interrupted by the enemy, refund 50% of [Charge] cooldown.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+| stadium_buffs = Ability Power;;10%
+}}
+<!-- Epic -->
+{{Ability details
+| ability_name = Chimera's Maw
+| ability_image = Chimera's_Maw.png
+| ability_type = Hero Item (Ability)
+| official_description = For each additional enemy [Fire Strike] damages beyond the initial target, reduce [Fire Strike] cooldown by 5%.
+| stadium_rarity = Epic
+| stadium_cost = 4000
+| stadium_buffs = [Fire Strike] Radius;;50%::[Fire Strike] Projectile Speed;;25%
+}}
+{{Ability details
+| ability_name = Gryphon Glider
+| ability_image = Gryphon_Glider.png
+| ability_type = Hero Item (Ability)
+| official_description = You can now fly during [Charge].
+| stadium_rarity = Epic
+| stadium_cost = 10000
+| stadium_buffs = Health;;25::Ability Lifesteal;;10%
+}}
+=== Survival ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Crusader's Cure
+| ability_image = Crusader's_Cure.png
+| ability_type = Hero Item (Survival)
+| official_description = Using [Charge] cleanses all negative effects.
+| stadium_rarity = Rare
+| stadium_cost = 3750
+| stadium_buffs = Health;;25::Knockback Resist;;50%
+}}
+{{Ability details
+| ability_name = Overclocked Barrier
+| ability_image = Overclocked_Barrier.png
+| ability_type = Hero Item (Survival)
+| official_description = 
+| stadium_rarity = Rare
+| stadium_cost = 4000
+| stadium_buffs = Health;;25::[Barrier Field] Health;;20%::[Barrier Field] Size;;20%
+}}
+
+<!-- Epic -->
+{{Ability details
+| ability_name = Phoenix Protocol
+| ability_image = Phoenix_Protocol.png
+| ability_type = Hero Item (Survival)
+| official_description = [Barrier Field] regenerates 50% faster and starts regenerating 50% sooner after being destroyed.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+| stadium_buffs = Health;;25
+}}
+{{Ability details
+| ability_name = Wilhelmwagen
+| ability_image = Wilhelmwagen.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Armor;;25
+| official_description = While [Barrier Field] is deployed, you gain 30% Move Speed.
+| stadium_cost = 11000
+}}
+
+== Powers ==
+{{Ability details
+| ability_name = Amplification Barrier
+| ability_image = Amplification_Barrier.png
+| ability_type = Stadium Power
+| affected_ability = Barrier Field
+| official_description = Friendly projectiles that pass through your [Barrier Field] deal 15% more damage.
+}}
+{{Ability details
+| ability_name = Barrier Reconstruction
+| ability_image = Barrier_Reconstruction.png
+| ability_type = Stadium Power
+| affected_ability = Barrier Field
+| official_description = When you deal damage with [Rocket Hammer] or [Fire Strike], restore health to [Barrier Field] equal to 15% of [Barrier Field] Max Health.
+}}
+{{Ability details
+| ability_name = Infusion Generator
+| ability_image = Infusion_Generator.png
+| ability_type = Stadium Power
+| official_description = Increase [Barrier Field] Health by 250% of your Bonus Max Life.
+| stadium_rarity = 
+| stadium_cost = 
+| stadium_buffs = 
+}}
+{{Ability details
+| ability_name = To Me, My Friends!
+| ability_image = To_Me,_My_Friends!.png
+| ability_type = Stadium Power
+| affected_ability = Barrier Field
+| official_description = While [Barrier Field] is active, allies within 5m are healed equal to 5% of your Max Life every 1s.
+}}
+{{Ability details
+| ability_name = Shield Stampede
+| ability_image = Shield_Stampede.png
+| ability_type = Stadium Power
+| affected_ability = Charge
+| official_description = +50% [Charge] Knockback Power.<br>During [Charge], automatically deploy [Barrier Field].
+}}
+{{Ability details
+| ability_name = Vanguard
+| ability_image = Vanguard.png
+| ability_type = Stadium Power
+| affected_ability = Charge
+| official_description = [Charge] grants nearby allies Overhealth equal to 10% of your max Life and 20% Move Speed for 3s.
+}}
+{{Ability details
+| ability_name = Vroom Boom Boom
+| ability_image = Vroom_Boom_Boom.png
+| ability_type = Stadium Power
+| affected_ability = Charge
+| official_description = During [Charge], colliding with a wall triggers an explosion that deals 30% of [Charge]'s pin damage.
+}}
+{{Ability details
+| ability_name = Blazing Blitz
+| ability_image = Blazing_Blitz.png
+| ability_type = Stadium Power
+| affected_ability = Fire Strike
+| official_description = After using [Earthshatter], every [Rocket Hammer] swing launches a [Fire Strike] for 4s.
+}}
+{{Ability details
+| ability_name = Impact Burst
+| ability_image = Impact_Burst.png
+| ability_type = Stadium Power
+| affected_ability = Fire Strike
+| official_description = [Fire Strike] triggers an explosion the first time it hits an enemy, dealing 30% [Fire Strike] damage to other enemies in a 3m radius.
+| ability_details = * AoE damage does not affect the primary target.
+}}
+{{Ability details
+| ability_name = Magma Strike
+| ability_image = Magma_Strike.png
+| ability_type = Stadium Power
+| affected_ability = Fire Strike
+| official_description = Every second [Fire Strike] leaves a trail of lava that Burns enemies for 50% of [Fire Strike] damage.
+}}
+{{Ability details
+| ability_name = Feeling the Burn
+| ability_image = Feeling_The_Burn.png
+| ability_type = Stadium Power
+| affected_ability = Rocket Hammer
+| official_description = Every 3rd [Rocket Hammer] swing applies Burn, dealing 30% [Rocket Hammer] damage over 2s.
+| ability_details = * This damage does not trigger {{al|Smashing!}} or {{al|Dampener Grip}}.
+}}
+{{Ability details
+| ability_name = Smashing!
+| ability_image = Smashing!.png
+| ability_type = Stadium Power
+| affected_ability = Rocket Hammer
+| official_description = When you deal damage with [Rocket Hammer], gain 1% Move Speed and 3% Weapon Lifesteal for 2s, stacking up to 10 times.
+}}
+
+== Removed Powers and Items ==
+As opposed to being temporarily disabled, these Items and Powers have been permanently removed.
+{{Ability details
+| ability_name = Rocket Strike
+| ability_image = Rocket_Strike.png
+| ability_type = Hero Item (Ability)
+| official_description = 
+| stadium_rarity = Epic
+| stadium_cost = 10000
+| stadium_buffs = {{Ability_Power}} 10% Ability Power<br>25% Fire Strike Projectile Speed
+| ability_details = * Merged with Chimera's Maw
+* ''Removed in Season 17''
+}}
+
+{{Ability details
+| ability_name = Rocket Boots (Reinhardt)
+| ability_image = Rocket_Boots.png
+| ability_type = Hero Item (Survival)
+| official_description = Holding crouch increases the height of your next jump by up to 200%.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+| stadium_buffs = {{Life}} 25 Health
+| removed = 1
+| ability_details = * ''Removed in Season 19''
+}}
+
+== Example Builds ==
+=== Berserkerhardt ===
+Sustain in the midst of battle with rapid Hammer Swings hastened by {{Attack Speed|Attack Speed}}!
+
+==== Powers ====
+* {{al|Smashing!}}
+* {{al|Feeling The Burn}}
+* {{al|Vanguard}}
+* {{al|Barrier Reconstruction}}
+
+==== Early Game ====
+* {{al|Weapon Grease}}
+* {{al|Plasma Converter}}
+* {{al|Feathered Soles}}
+* {{al|Aftermarket Firing Pin}}
+
+==== Late Game ====
+* {{al|Wrist Wraps}}
+* {{al|Gloomgauntlet}}
+* {{al|Booster Jets}}
+* {{al|Plan Z}}
+
+==== Flex ====
+* {{al|Ironclad Cleats}}
+* {{al|Super Serum}}
+* {{al|Ogundimu Reduction Field}}
+* {{al|Divine Intervention}}
+
+=== Flame of Justice ===
+Burst down the enemy with Fire Strikes that spew lava, explode and are imbued with {{Weapon Power|Weapon Power}}! 
+
+==== Powers ====
+* {{al|Magma Strike}}
+* {{al|Impact Burst}}
+* {{al|Blazing Blitz}}
+* {{al|Vroom Boom Boom}}
+
+==== Early Game ====
+* {{al|Power Playbook}}
+* {{al|Shady Spectacles}}
+* {{al|First Aid Kit}}
+* {{al|Nano Cola}}
+
+==== Late Game ====
+* {{al|Energized Bracers}}
+* {{al|Chimera's Maw}}
+* {{al|Phantasmic Flux}}
+* {{al|Champion's Kit}}
+
+==== Flex ====
+* {{al|Boost Recycler}}
+* {{al|Jet Skates}}
+* {{al|Cybervenom}}
+
+=== Barrier Bulwark ===
+Protect your team with a huge Barrier, huge amounts of Life, and tons of Healing!
+
+==== Powers ====
+* {{al|To Me, My Friends!}}
+* {{al|Infusion Generator}}
+* {{al|Barrier Reconstruction}}
+* {{al|Amplification Barrier}}
+
+==== Early Game ====
+* {{al|Plasma Converter}}
+* {{al|Weapon Grease}}
+* {{al|First Aid Kit}}
+* {{al|Overclocked Barrier}}
+
+==== Late Game ====
+* {{al|Meka Z-Series}}
+* {{al|Wilhelmwagen}}
+* {{al|Phoenix Protocol}}
+* {{al|Rüstung Von Wilhelm}}
+
+==== Flex ====
+* {{al|Crusader Hydraulics}}
+* {{al|Kitsune Charm}}
+* {{al|Ogundimu Reduction Field}}
+* {{al|Divine Intervention}}
+
+== Balance Change Log ==
+{{PatchTableStart}}<onlyinclude>
+{{PatchTableElement|2025-10-14|
+{{DevComment|Developer Comments: Removing this item to remove redundancy with the new Exo Springs Gadget.}}
+
+{{al|Rocket Boots (Reinhardt)}}
+* Removed
+}}
+{{PatchTableElement|2025-06-24|
+{{DevComment|Developer Comments: We're shifting some power in the Fire Strike build to focus more on higher uptime of Fire Strike and Magma Strike's Trail of Lava, while pulling back from the high single target burst that Impact Burst enabled. We're also making some adjustments to Reinhardt's Barrier build to make it a more compelling option and have a smoother progression curve.}}
+
+{{al|Impact Burst}} - Power
+* Now only damages other enemies around primary target.
+* Explosion damage increased to 30% of Fire Strike damage (Up from 15%).
+
+{{al|Magma Strike}} - Power
+* Trail of lava now triggers on every second Fire Strike instead of every second Fire Strike cast within 2s.
+
+{{al|Chimera's Maw}} - Epic Hero Ability Item
+* Rarity changed to Epic (from Rare).
+* Added 25% Fire Strike Projectile Speed.
+* Added "For each additional enemy Fire Strike damages beyond the initial target, reduce Fire Strike cooldown by 5%".
+
+{{al|Rocket Strike}} - Epic Hero Ability Item
+* Removed.
+
+{{al|Wilhelmwagen}} - Epic Hero Survival Item
+* Changed to Epic Survival Item (from Power).
+* Added 50 Armor.
+* 11000 Cost.
+* Removed "you heal for 5% of the damage it mitigates".
+
+{{al|Infusion Generator}} - Power
+* Changed to Power (from Epic Survival Item).
+* Barrier Field Health increase now only increases from Bonus Max Life.
+* Barrier Field Health scaling increased to 250% (up from 100%).
+
+{{al|To Me, My Friends!|text=To Me, My Friends}} - Power
+* Increased healing based on Max Life to 5% (up from 4%).
+}}
+{{PatchTableElement|2025-05-29|
+{{DevComment|Developer Comments: The interaction between Feeling the Burn and effects that triggered off Rocket Hammer damage proved to be too strong, so we're removing it while giving some small improvements to some underutilized powers and items.}}
+
+{{al|Barrier Reconstruction}} - Power
+* Increased Barrier Health Restoration from Damage to 15% (up from 10%).
+
+{{al|Feeling the Burn}} - Power
+* No longer applies to Smashing and Dampener Grip.
+
+{{al|Dampener Grip}} – Epic Weapon Hero Item
+* Increased Ability Power to 15% (up from 10%).
+}}
+{{PatchTableElement|2025-05-20|
+{{DevComment|Developer comments: To compensate for the buff to Reinhardt's Fire Strike in Core Overwatch, we're decreasing the burst potential of Reinhardt's Fire Strike build and normalizing the max projectile speed Fire Strike can reach. We're also tuning down Reinhardt's Melee build to be a bit more counterable, which is performing too consistently given the high payoff of the build.}}
+
+{{al|Smashing!|text=Smashing}} - Power
+* Reduced Move Speed per stack to 1% (down from 2%).
+* Reduced Life Steal per stack to 3% (down from 5%).
+* Increased maximum stacks to 10 (up from 5).
+* Reduced duration to 2s (down from 3s).
+
+{{al|To Me, My Friends!}} - Power
+* Increased healing based on Max Life to 4% (up from 3%).
+
+{{al|Wilhelmwagen}} - Power
+* Decreased healing from damage mitigated to 5% (down from 15%).
+
+{{al|Rocket Strike}} - Epic Hero Ability Item
+* Decreased Fire Strike Projectile Speed to 25% (down from 50%).
+* Decreased Ability Power to 10% (down from 20%).
+
+{{al|Chimera's Maw}} - Rare Hero Ability Item
+* Decreased Ability Power to 5% (down from 10%).
+}}
+{{PatchTableElement|2025-05-08|
+{{DevComment|Developer Comments: Reinhardt has been overperforming, especially at lower levels. We're tuning down some of the powers that are most difficult to counterplay, such as Melee Reinhardt feeling inescapable due to his crazy amount of Move Speed or being one shot by an Impact Burst Fire Strike. As an important known issue with this balance change, the Move Speed per stack is currently not represented correctly on the tooltip but it is functionally set to 2%. This will be fixed in a future update.}}
+
+{{al|Impact Burst}} – Power
+* Reduced bonus damage to 15% (down from 20%).
+
+{{al|Smashing!|text=Smashing}} – Power
+* Reduced Move Speed per stack to 2% (down from 3%).
+}}
+{{PatchTableElement|2025-05-01|
+{{DevComment|Developer Comments: Reinhardt had a higher rate of earning Cash from damage and healing due to his range. However, Reinhardt has been overperforming and making a bit too much Cash so we’re pulling this back a bit.}}
+
+* Reduced the amount of Stadium Cash gained from damage and healing by 13.64%
+}}
+{{PatchTableElement|2025-04-22|
+; Introducing Stadium
+* Tank Heroes: D.Va, Junker Queen, Orisa, '''Reinhardt''', and Zarya.
+* Damage Heroes: Ashe, Cassidy, Genji, Mei, Reaper, and Soldier: 76.
+* Support Heroes: Ana, Juno, Kiriko, Lucio, Mercy, and Moira.
+}}
+</onlyinclude>{{PatchTableEnd}}
+
+{{StadiumNav}}
+[[Category:{{BASEPAGENAME}}]]
+[[Category:Stadium hero pages]]

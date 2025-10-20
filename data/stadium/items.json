@@ -1,0 +1,1953 @@
+[
+  {
+    "slug": "compensator",
+    "name": "Compensator",
+    "description": "| stadium_rarity = Common",
+    "cost": 1000,
+    "tags": [],
+    "ability_type": "General Item (Weapon)",
+    "buffs": [
+      {
+        "key": "Weapon Power",
+        "value": "5%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Compensator.png"
+    ]
+  },
+  {
+    "slug": "plasma-converter",
+    "name": "Plasma Converter",
+    "description": "| stadium_rarity = Common",
+    "cost": 1000,
+    "tags": [],
+    "ability_type": "General Item (Weapon)",
+    "buffs": [
+      {
+        "key": "Weapon Lifesteal",
+        "value": "10%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Plasma_Converter.png"
+    ]
+  },
+  {
+    "slug": "weapon-grease",
+    "name": "Weapon Grease",
+    "description": "| stadium_rarity = Common",
+    "cost": 1000,
+    "tags": [],
+    "ability_type": "General Item (Weapon)",
+    "buffs": [
+      {
+        "key": "Attack Speed",
+        "value": "5%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Weapon_Grease.png"
+    ]
+  },
+  {
+    "slug": "ammo-reserves",
+    "name": "Ammo Reserves",
+    "description": "| stadium_rarity = Common",
+    "cost": 1500,
+    "tags": [],
+    "ability_type": "General Item (Weapon)",
+    "buffs": [
+      {
+        "key": "Max Ammo",
+        "value": "20%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Ammo_Reserves.png"
+    ]
+  },
+  {
+    "slug": "frenzy-amplifier",
+    "name": "Frenzy Amplifier",
+    "description": "",
+    "cost": 1500,
+    "rarity": "Common",
+    "tags": [],
+    "ability_type": "General Item (Weapon)",
+    "buffs": [
+      {
+        "key": "| official_description = Eliminations grant 10% Attack Speed and 15% Move Speed for 3s.",
+        "value": ""
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Frenzy_Amplifier.png"
+    ]
+  },
+  {
+    "slug": "stratosphere-beacon",
+    "name": "Stratosphere Beacon",
+    "description": "Damage to airborne targets above 3m deals 10 bonus damage and slows enemy by 25% for 3s (15s Cooldown)",
+    "cost": 1500,
+    "rarity": "Common",
+    "tags": [],
+    "ability_type": "General Item (Weapon)",
+    "buffs": [
+      {
+        "key": "Health",
+        "value": "25"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Stratosphere_Beacon.png"
+    ]
+  },
+  {
+    "slug": "aftermarket-firing-pin",
+    "name": "Aftermarket Firing Pin",
+    "description": "| stadium_rarity = Rare",
+    "cost": 3750,
+    "tags": [],
+    "ability_type": "General Item (Weapon)",
+    "buffs": [
+      {
+        "key": "Attack Speed",
+        "value": "10%"
+      },
+      {
+        "key": "Move Speed",
+        "value": "5%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Aftermarket_Firing_Pin.png"
+    ]
+  },
+  {
+    "slug": "advanced-nanobiotics",
+    "name": "Advanced Nanobiotics",
+    "description": "After healing an ally, gain 10% Attack Speed for 3s.",
+    "cost": 4000,
+    "rarity": "Rare",
+    "tags": [],
+    "ability_type": "General Item (Weapon)",
+    "buffs": [
+      {
+        "key": "Weapon Power",
+        "value": "5%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Advanced_Nanobiotics.png"
+    ]
+  },
+  {
+    "slug": "shieldbuster",
+    "name": "Shieldbuster",
+    "description": "After dealing damage to Shields or Armor, gain 15% Attack Speed for 1s.",
+    "cost": 4000,
+    "rarity": "Rare",
+    "tags": [],
+    "ability_type": "General Item (Weapon)",
+    "buffs": [
+      {
+        "key": "Weapon Power",
+        "value": "5%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Shieldbuster.png"
+    ]
+  },
+  {
+    "slug": "stockpile",
+    "name": "Stockpile",
+    "description": "| stadium_rarity = Rare",
+    "cost": 4000,
+    "tags": [],
+    "ability_type": "General Item (Weapon)",
+    "buffs": [
+      {
+        "key": "Health",
+        "value": "10"
+      },
+      {
+        "key": "Attack Speed",
+        "value": "10%"
+      },
+      {
+        "key": "Max Ammo",
+        "value": "25%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Stockpile.png"
+    ]
+  },
+  {
+    "slug": "emergency-chip",
+    "name": "Emergency Chip",
+    "description": "Once per life, when you are below 150 Life, gain 15% Weapon Lifesteal and 50 overhealth for 5s",
+    "cost": 4000,
+    "rarity": "Rare",
+    "tags": [],
+    "ability_type": "General Item (Weapon)",
+    "buffs": [
+      {
+        "key": "Shields",
+        "value": "25"
+      },
+      {
+        "key": "Weapon Power",
+        "value": "5%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Emergency_Chip.png"
+    ]
+  },
+  {
+    "slug": "technoleech",
+    "name": "Technoleech",
+    "description": "| stadium_rarity = Rare",
+    "cost": 4500,
+    "tags": [],
+    "ability_type": "General Item (Weapon)",
+    "buffs": [
+      {
+        "key": "Health",
+        "value": "25"
+      },
+      {
+        "key": "Attack Speed",
+        "value": "5%"
+      },
+      {
+        "key": "Weapon Lifesteal",
+        "value": "10%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Technoleech.png"
+    ]
+  },
+  {
+    "slug": "icy-coolant",
+    "name": "Icy Coolant",
+    "description": "| stadium_rarity = Rare",
+    "cost": 5500,
+    "tags": [],
+    "ability_type": "General Item (Weapon)",
+    "buffs": [
+      {
+        "key": "Weapon Power",
+        "value": "10%"
+      },
+      {
+        "key": "Cooldown Reduction",
+        "value": "5%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Icy_Coolant.png"
+    ]
+  },
+  {
+    "slug": "talon-modification-module",
+    "name": "Talon Modification Module",
+    "description": "| stadium_rarity = Rare",
+    "cost": 6000,
+    "tags": [],
+    "ability_type": "General Item (Weapon)",
+    "buffs": [
+      {
+        "key": "Weapon Power",
+        "value": "15%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Talon_Modification_Module.png"
+    ]
+  },
+  {
+    "slug": "aerial-distresser",
+    "name": "Aerial Distresser",
+    "description": "Weapon damage to airborne enemies deal 25% bonus damage over 3s.",
+    "cost": 9000,
+    "rarity": "Epic",
+    "tags": [],
+    "ability_type": "General Item (Weapon)",
+    "buffs": [
+      {
+        "key": "Shields",
+        "value": "25"
+      },
+      {
+        "key": "Attack Speed",
+        "value": "10%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Aerial_Distresser.png"
+    ]
+  },
+  {
+    "slug": "codebreaker",
+    "name": "Codebreaker",
+    "description": "Ignore 50% of Armor's damage reduction.",
+    "cost": 10000,
+    "rarity": "Epic",
+    "tags": [],
+    "ability_type": "General Item (Weapon)",
+    "buffs": [
+      {
+        "key": "Weapon Power",
+        "value": "15%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Codebreaker.png"
+    ]
+  },
+  {
+    "slug": "salvaged-slugs",
+    "name": "Salvaged Slugs",
+    "description": "Dealing Weapon Damage to Barriers or Deployables has a 50% chance to restore 1 ammo.",
+    "cost": 9000,
+    "rarity": "Epic",
+    "tags": [],
+    "ability_type": "General Item (Weapon)",
+    "buffs": [
+      {
+        "key": "Health",
+        "value": "25"
+      },
+      {
+        "key": "Attack Speed",
+        "value": "10%"
+      },
+      {
+        "key": "Increased Damage to Barriers and Deployables",
+        "value": "30%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Salvaged_Slugs.png"
+    ]
+  },
+  {
+    "slug": "volskaya-ordnance",
+    "name": "Volskaya Ordnance",
+    "description": "Deal 5% more damage for every 100 Max Life the target has more than you, up to 20%.",
+    "cost": 9500,
+    "rarity": "Epic",
+    "tags": [],
+    "ability_type": "General Item (Weapon)",
+    "buffs": [
+      {
+        "key": "Attack Speed",
+        "value": "10%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Volskaya_Ordnance.png"
+    ]
+  },
+  {
+    "slug": "weapon-jammer",
+    "name": "Weapon Jammer",
+    "description": "Dealing Weapon Damage negates 10% of the target's bonus Attack Speed and increases your Attack Speed for 2s.",
+    "cost": 10000,
+    "rarity": "Epic",
+    "tags": [],
+    "ability_type": "General Item (Weapon)",
+    "buffs": [
+      {
+        "key": "Armor",
+        "value": "25"
+      },
+      {
+        "key": "Weapon Power",
+        "value": "10%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Weapon_Jammer.png"
+    ]
+  },
+  {
+    "slug": "amari-s-antidote",
+    "name": "Amari's Antidote",
+    "description": "While healing an ally below 50% Life with your weapon, deal 15% increased 15% increased Weapon Healing.",
+    "cost": 11000,
+    "rarity": "Epic",
+    "tags": [],
+    "ability_type": "General Item (Weapon)",
+    "buffs": [
+      {
+        "key": "Health",
+        "value": "25"
+      },
+      {
+        "key": "Weapon Power",
+        "value": "15%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Amari_s_Antidote.png"
+    ]
+  },
+  {
+    "slug": "commander-s-clip",
+    "name": "Commander's Clip",
+    "description": "When you use an ability, restore 10% of your Max Ammo.",
+    "cost": 10000,
+    "rarity": "Epic",
+    "tags": [],
+    "ability_type": "General Item (Weapon)",
+    "buffs": [
+      {
+        "key": "Attack Speed",
+        "value": "10%"
+      },
+      {
+        "key": "Max Ammo",
+        "value": "40%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Commander_s_Clip.png"
+    ]
+  },
+  {
+    "slug": "booster-jets",
+    "name": "Booster Jets",
+    "description": "When you use an ability, gain 10% Move Speed for 2s.",
+    "cost": 11000,
+    "rarity": "Epic",
+    "tags": [],
+    "ability_type": "General Item (Weapon)",
+    "buffs": [
+      {
+        "key": "Attack Speed",
+        "value": "20%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Booster_Jets.png"
+    ]
+  },
+  {
+    "slug": "el-sa-ka-suppressor",
+    "name": "El-Sa'ka Suppressor",
+    "description": "Critical Hits apply 30% Healing Reduction to the target for 2s.",
+    "cost": 11000,
+    "rarity": "Epic",
+    "tags": [],
+    "ability_type": "General Item (Weapon)",
+    "buffs": [
+      {
+        "key": "Weapon Power",
+        "value": "10%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "El-Sa_ka_Suppressor.png"
+    ]
+  },
+  {
+    "slug": "hardlight-accelerator",
+    "name": "Hardlight Accelerator",
+    "description": "When you use an ability, gain 5% Weapon Power for 3s, stacking up to 3 times.",
+    "cost": 11000,
+    "rarity": "Epic",
+    "tags": [],
+    "ability_type": "General Item (Weapon)",
+    "buffs": [
+      {
+        "key": "Weapon Power",
+        "value": "10%"
+      },
+      {
+        "key": "Cooldown Reduction",
+        "value": "10%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Hardlight_Accelerator.png"
+    ]
+  },
+  {
+    "slug": "the-closer",
+    "name": "The Closer",
+    "description": "Critical Hits reveal the target for 3s.",
+    "cost": 14500,
+    "rarity": "Epic",
+    "tags": [],
+    "ability_type": "General Item (Weapon)",
+    "buffs": [
+      {
+        "key": "Weapon Power",
+        "value": "20%"
+      },
+      {
+        "key": "Critical Damage",
+        "value": "10%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "The_Closer.png"
+    ]
+  },
+  {
+    "slug": "eye-of-the-spider",
+    "name": "Eye of the Spider",
+    "description": "Deal 10% increased damage to enemies below 30% Life.",
+    "cost": 14000,
+    "rarity": "Epic",
+    "tags": [],
+    "ability_type": "General Item (Weapon)",
+    "buffs": [
+      {
+        "key": "Weapon Power",
+        "value": "25%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Eye_of_the_Spider.png"
+    ]
+  },
+  {
+    "slug": "charged-plating",
+    "name": "Charged Plating",
+    "description": "",
+    "cost": 1000,
+    "rarity": "Common",
+    "tags": [],
+    "ability_type": "General Item (Ability)",
+    "buffs": [
+      {
+        "key": "| official_description = After you spend your Ultimate Charge, gain 25 Armor and 10% Ability Power for the rest of the round.",
+        "value": ""
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Charged_Plating.png"
+    ]
+  },
+  {
+    "slug": "power-playbook",
+    "name": "Power Playbook",
+    "description": "| stadium_rarity = Common",
+    "cost": 1000,
+    "tags": [],
+    "ability_type": "General Item (Ability)",
+    "buffs": [
+      {
+        "key": "Ability Power",
+        "value": "10%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Power_Playbook.png"
+    ]
+  },
+  {
+    "slug": "shady-spectacles",
+    "name": "Shady Spectacles",
+    "description": "| stadium_rarity = Common",
+    "cost": 1000,
+    "tags": [],
+    "ability_type": "General Item (Ability)",
+    "buffs": [
+      {
+        "key": "Ability Lifesteal",
+        "value": "10%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Shady_Spectacles.png"
+    ]
+  },
+  {
+    "slug": "winning-attitude",
+    "name": "Winning Attitude",
+    "description": "When you die, gain 15% Ultimate Charge.",
+    "cost": 1500,
+    "rarity": "Common",
+    "tags": [],
+    "ability_type": "General Item (Ability)",
+    "buffs": [
+      {
+        "key": "Health",
+        "value": "25"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Winning_Attitude.png"
+    ]
+  },
+  {
+    "slug": "custom-stock",
+    "name": "Custom Stock",
+    "description": "| stadium_rarity = Rare",
+    "cost": 3750,
+    "tags": [],
+    "ability_type": "General Item (Ability)",
+    "buffs": [
+      {
+        "key": "Health",
+        "value": "10"
+      },
+      {
+        "key": "Weapon Power",
+        "value": "5%"
+      },
+      {
+        "key": "Ability Power",
+        "value": "10%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Custom_Stock.png"
+    ]
+  },
+  {
+    "slug": "biolight-overflow",
+    "name": "Biolight Overflow",
+    "description": "When you spend your Ultimate Charge, grant nearby allies 75 Overhealth for 3s.",
+    "cost": 4000,
+    "rarity": "Rare",
+    "tags": [],
+    "ability_type": "General Item (Ability)",
+    "buffs": [
+      {
+        "key": "Health",
+        "value": "25"
+      },
+      {
+        "key": "Ability Power",
+        "value": "5%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Biolight_Overflow.png"
+    ]
+  },
+  {
+    "slug": "energized-bracers",
+    "name": "Energized Bracers",
+    "description": "| stadium_rarity = Rare",
+    "cost": 4000,
+    "tags": [],
+    "ability_type": "General Item (Ability)",
+    "buffs": [
+      {
+        "key": "Health",
+        "value": "10"
+      },
+      {
+        "key": "Ability Power",
+        "value": "10%"
+      },
+      {
+        "key": "Ability Lifesteal",
+        "value": "10%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Energized_Bracers.png"
+    ]
+  },
+  {
+    "slug": "junker-whatchamajig",
+    "name": "Junker Whatchamajig",
+    "description": "| stadium_rarity = Rare",
+    "cost": 4000,
+    "tags": [],
+    "ability_type": "General Item (Ability)",
+    "buffs": [
+      {
+        "key": "Health",
+        "value": "25"
+      },
+      {
+        "key": "Starting Ultimate Charge",
+        "value": "25%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Junker_Whatchamajig.png"
+    ]
+  },
+  {
+    "slug": "skyline-nanites",
+    "name": "Skyline Nanites",
+    "description": "Ability damage to airborne enemies deal 20% bonus damage over 2s",
+    "cost": 4000,
+    "rarity": "Rare",
+    "tags": [],
+    "ability_type": "General Item (Ability)",
+    "buffs": [
+      {
+        "key": "Ability Lifesteal",
+        "value": "10%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Skyline_Nanites.png"
+    ]
+  },
+  {
+    "slug": "wrist-wraps",
+    "name": "Wrist Wraps",
+    "description": "| stadium_rarity = Rare",
+    "cost": 4000,
+    "tags": [],
+    "ability_type": "General Item (Ability)",
+    "buffs": [
+      {
+        "key": "Health",
+        "value": "10"
+      },
+      {
+        "key": "Ability Power",
+        "value": "5%"
+      },
+      {
+        "key": "Attack Speed",
+        "value": "10%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Wrist_Wraps.png"
+    ]
+  },
+  {
+    "slug": "multi-tool",
+    "name": "Multi-Tool",
+    "description": "| stadium_rarity = Rare",
+    "cost": 4500,
+    "tags": [],
+    "ability_type": "General Item (Ability)",
+    "buffs": [
+      {
+        "key": "Ability Power",
+        "value": "10%"
+      },
+      {
+        "key": "Cooldown Reduction",
+        "value": "5%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Multi-tool.png"
+    ]
+  },
+  {
+    "slug": "vitality-amplifier",
+    "name": "Vitality Amplifier",
+    "description": "While above 50% Life gain 10% Ability_Power.<br>Otherwise gain 15% Ability Lifesteal and abilities refresh 10% faster.",
+    "cost": 5000,
+    "rarity": "Rare",
+    "tags": [],
+    "ability_type": "General Item (Ability)",
+    "buffs": [
+      {
+        "key": "Shields",
+        "value": "25"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Vitality_Amplifier.png"
+    ]
+  },
+  {
+    "slug": "nano-cola",
+    "name": "Nano Cola",
+    "description": "| stadium_rarity = Rare",
+    "cost": 6000,
+    "tags": [],
+    "ability_type": "General Item (Ability)",
+    "buffs": [
+      {
+        "key": "Ability Power",
+        "value": "20%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Nano_Cola_Item.png"
+    ]
+  },
+  {
+    "slug": "sonic-recharger",
+    "name": "Sonic Recharger",
+    "description": "Passive Life Regeneration can overheal up to 75.",
+    "cost": 9000,
+    "rarity": "Epic",
+    "tags": [],
+    "ability_type": "General Item (Ability)",
+    "buffs": [
+      {
+        "key": "Health",
+        "value": "25"
+      },
+      {
+        "key": "Ability Power",
+        "value": "10%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Sonic_Recharger.png"
+    ]
+  },
+  {
+    "slug": "biotech-maximizer",
+    "name": "Biotech Maximizer",
+    "description": "When you use an ability that heals, reduce its cooldown by 5% for each unique ally it heals.",
+    "cost": 10000,
+    "rarity": "Epic",
+    "tags": [],
+    "ability_type": "General Item (Ability)",
+    "buffs": [
+      {
+        "key": "Health",
+        "value": "25"
+      },
+      {
+        "key": "Ability Power",
+        "value": "10%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Biotech_Maximizer.png"
+    ]
+  },
+  {
+    "slug": "catalytic-crystal",
+    "name": "Catalytic Crystal",
+    "description": "Ability Damage and Healing grants 20% more Ultimate Charge.",
+    "cost": 10000,
+    "rarity": "Epic",
+    "tags": [],
+    "ability_type": "General Item (Ability)",
+    "buffs": [
+      {
+        "key": "Ability Power",
+        "value": "15%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Catalytic_Crystal.png"
+    ]
+  },
+  {
+    "slug": "lum-rico-fusion-drive",
+    "name": "Lumérico Fusion Drive",
+    "description": "When you use an ability, restore 50 Armor or Shields over 3s.",
+    "cost": 11000,
+    "rarity": "Epic",
+    "tags": [],
+    "ability_type": "General Item (Ability)",
+    "buffs": [
+      {
+        "key": "Armor",
+        "value": "50"
+      },
+      {
+        "key": "Ability Power",
+        "value": "15%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Lumérico_Fusion_Drive.png"
+    ]
+  },
+  {
+    "slug": "superflexor",
+    "name": "Superflexor",
+    "description": "When you deal Weapon Damage or Healing, gain 5% Ability Power for 3s, stacking up to 5 times.",
+    "cost": 10000,
+    "rarity": "Epic",
+    "tags": [],
+    "ability_type": "General Item (Ability)",
+    "buffs": [
+      {
+        "key": "Health",
+        "value": "25"
+      },
+      {
+        "key": "Weapon Power",
+        "value": "10%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Superflexor.png"
+    ]
+  },
+  {
+    "slug": "cybervenom",
+    "name": "Cybervenom",
+    "description": "Dealing Ability damage applies 30% healing reduction for 2s.",
+    "cost": 10500,
+    "rarity": "Epic",
+    "tags": [],
+    "ability_type": "General Item (Ability)",
+    "buffs": [
+      {
+        "key": "Ability Power",
+        "value": "10%"
+      },
+      {
+        "key": "Cooldown Reduction",
+        "value": "5%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Cybervenom.png"
+    ]
+  },
+  {
+    "slug": "three-tap-tommygun",
+    "name": "Three-Tap Tommygun",
+    "description": "After using an ability, for 3 seconds Weapon Damage deals additional damage equal to 1% of the target's Life.<br>(0.25s Cooldown).",
+    "cost": 9500,
+    "rarity": "Epic",
+    "tags": [],
+    "ability_type": "General Item (Ability)",
+    "buffs": [
+      {
+        "key": "Ability Power",
+        "value": "10%"
+      },
+      {
+        "key": "Attack Speed",
+        "value": "10%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Three-tap_Tommygun.png"
+    ]
+  },
+  {
+    "slug": "iridescent-iris",
+    "name": "Iridescent Iris",
+    "description": "After spending your Ultimate Charge, gain 100 Overhealth for 3s.",
+    "cost": 11000,
+    "rarity": "Epic",
+    "tags": [],
+    "ability_type": "General Item (Ability)",
+    "buffs": [
+      {
+        "key": "Ability Power",
+        "value": "20%"
+      },
+      {
+        "key": "Cooldown Reduction",
+        "value": "10%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Iridescent_Iris.png"
+    ]
+  },
+  {
+    "slug": "liquid-nitrogen",
+    "name": "Liquid Nitrogen",
+    "description": "Dealing Ability Damage slows the target's Move Speed by 10% and their bonus Move Speed by 15% for 3s.",
+    "cost": 11000,
+    "rarity": "Epic",
+    "tags": [],
+    "ability_type": "General Item (Ability)",
+    "buffs": [
+      {
+        "key": "Health",
+        "value": "25"
+      },
+      {
+        "key": "Ability Power",
+        "value": "10%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Liquid_Nitrogen.png"
+    ]
+  },
+  {
+    "slug": "mark-of-the-kitsune",
+    "name": "Mark of the Kitsune",
+    "description": "When you use an ability, your next instance of Weapon Damage or Healing deals {{Ability_Power|25",
+    "tags": [],
+    "ability_type": "General Item (Ability)",
+    "buffs": [
+      {
+        "key": "Ability Power",
+        "value": "10%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Mark_of_the_Kitsune.png"
+    ]
+  },
+  {
+    "slug": "champion-s-kit",
+    "name": "Champion's Kit",
+    "description": "| stadium_rarity = Epic",
+    "cost": 14000,
+    "tags": [],
+    "ability_type": "General Item (Ability)",
+    "buffs": [
+      {
+        "key": "Ability Power",
+        "value": "35%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Champion_s_Kit.png"
+    ]
+  },
+  {
+    "slug": "ballistic-buffer",
+    "name": "Ballistic Buffer",
+    "description": "After taking damage beyond 20m, gain 50 overhealth for 3s (15s cooldown)",
+    "cost": 1000,
+    "rarity": "Common",
+    "tags": [],
+    "ability_type": "General Item (Survival)",
+    "buffs": [
+      {
+        "key": "Health",
+        "value": "10"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Ballistic_Buffer.png"
+    ]
+  },
+  {
+    "slug": "electrolytes",
+    "name": "Electrolytes",
+    "description": "At the start of the round and every time you respawn, gain 100 unrecoverable Overhealth.",
+    "cost": 1000,
+    "rarity": "Common",
+    "tags": [],
+    "ability_type": "General Item (Survival)",
+    "buffs": [
+      {
+        "key": "Health",
+        "value": "10"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Electrolytes.png"
+    ]
+  },
+  {
+    "slug": "field-rations",
+    "name": "Field Rations",
+    "description": "While on the Objective, restore 8 Life every 1s.",
+    "cost": 1000,
+    "rarity": "Common",
+    "tags": [],
+    "ability_type": "General Item (Survival)",
+    "buffs": [
+      {
+        "key": "Health",
+        "value": "10"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Field_Rations.png"
+    ]
+  },
+  {
+    "slug": "running-shoes",
+    "name": "Running Shoes",
+    "description": "At the start of the round and when you respawn while not in Overtime, gain 30% Move Speed for 10s while out of combat.",
+    "cost": 1000,
+    "rarity": "Common",
+    "tags": [],
+    "ability_type": "General Item (Survival)",
+    "buffs": [
+      {
+        "key": "Health",
+        "value": "10"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Running_Shoes.png"
+    ]
+  },
+  {
+    "slug": "adrenaline-shot",
+    "name": "Adrenaline Shot",
+    "description": "Health Packs grant 20% Move Speed for 5s and 50 Overhealth.",
+    "cost": 1500,
+    "rarity": "Common",
+    "tags": [],
+    "ability_type": "General Item (Survival)",
+    "buffs": [
+      {
+        "key": "Health",
+        "value": "25"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Adrenaline_Shot.png"
+    ]
+  },
+  {
+    "slug": "armored-vest",
+    "name": "Armored Vest",
+    "description": "| stadium_rarity = Common",
+    "cost": 1500,
+    "tags": [],
+    "ability_type": "General Item (Survival)",
+    "buffs": [
+      {
+        "key": "Armor",
+        "value": "25"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Armored_Vest.png"
+    ]
+  },
+  {
+    "slug": "first-aid-kit",
+    "name": "First Aid Kit",
+    "description": "Reduce the time before your Life begins regenerating by 33%.",
+    "cost": 1500,
+    "rarity": "Common",
+    "tags": [],
+    "ability_type": "General Item (Survival)",
+    "buffs": [
+      {
+        "key": "Shields",
+        "value": "25"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "First_Aid_Kit.png"
+    ]
+  },
+  {
+    "slug": "reflex-coating",
+    "name": "Reflex Coating",
+    "description": "When you are stunned, slept, hindered or anti-healed, gain 75 Overhealth for 3s (20s Cooldown).",
+    "cost": 1500,
+    "rarity": "Common",
+    "tags": [],
+    "ability_type": "General Item (Survival)",
+    "buffs": [
+      {
+        "key": "Health",
+        "value": "25"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Reflex_Coating.png"
+    ]
+  },
+  {
+    "slug": "siphon-gloves",
+    "name": "Siphon Gloves",
+    "description": "[Quick Melee] damage heals for 25 Life.",
+    "cost": 1500,
+    "rarity": "Common",
+    "tags": [],
+    "ability_type": "General Item (Survival)",
+    "buffs": [
+      {
+        "key": "Health",
+        "value": "25"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Siphon_Gloves.png"
+    ]
+  },
+  {
+    "slug": "cushioned-padding",
+    "name": "Cushioned Padding",
+    "description": "When affected by Stun, Sleep, or Hinder, restore 10% of your max Life over 3s.",
+    "cost": 3750,
+    "rarity": "Rare",
+    "tags": [],
+    "ability_type": "General Item (Survival)",
+    "buffs": [
+      {
+        "key": "Shields",
+        "value": "25"
+      },
+      {
+        "key": "Negative Effect Duration",
+        "value": "-40%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Cushioned_Padding.png"
+    ]
+  },
+  {
+    "slug": "iron-eyes",
+    "name": "Iron Eyes",
+    "description": "You take 20% reduced damage from Critical Hits.",
+    "cost": 3750,
+    "rarity": "Rare",
+    "tags": [],
+    "ability_type": "General Item (Survival)",
+    "buffs": [
+      {
+        "key": "Shields",
+        "value": "25"
+      },
+      {
+        "key": "Move Speed",
+        "value": "5%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Iron_Eyes.png"
+    ]
+  },
+  {
+    "slug": "reinforced-titanium",
+    "name": "Reinforced Titanium",
+    "description": "While you have Shields, take 15% reduced Ability Damage and gain 5% Ability Power.",
+    "cost": 3750,
+    "rarity": "Rare",
+    "tags": [],
+    "ability_type": "General Item (Survival)",
+    "buffs": [
+      {
+        "key": "Shields",
+        "value": "25"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Reinforced_Titanium.png"
+    ]
+  },
+  {
+    "slug": "vishkar-condensor",
+    "name": "Vishkar Condensor",
+    "description": "Convert 150 Health into Shields.",
+    "cost": 3750,
+    "rarity": "Rare",
+    "tags": [],
+    "ability_type": "General Item (Survival)",
+    "buffs": [
+      {
+        "key": "Shields",
+        "value": "25"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Vishkar_Condensor.png"
+    ]
+  },
+  {
+    "slug": "bloodbound",
+    "name": "Bloodbound",
+    "description": "The last enemy to deal a final blow to you is Revealed when nearby. Deal 10% more damage to them and take 10% reduced damage from them.",
+    "cost": 4000,
+    "rarity": "Rare",
+    "tags": [],
+    "ability_type": "General Item (Survival)",
+    "buffs": [
+      {
+        "key": "Health",
+        "value": "25"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Bloodbound.png"
+    ]
+  },
+  {
+    "slug": "ironclad-exhaust-ports",
+    "name": "Ironclad Exhaust Ports",
+    "description": "When you use an ability, gain 25 Overhealth for 3s.",
+    "cost": 4000,
+    "rarity": "Rare",
+    "tags": [],
+    "ability_type": "General Item (Survival)",
+    "buffs": [
+      {
+        "key": "Health",
+        "value": "10"
+      },
+      {
+        "key": "Cooldown Reduction",
+        "value": "5%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Ironclad_Exhaust_Ports.png"
+    ]
+  },
+  {
+    "slug": "vital-e-tee",
+    "name": "Vital-E-Tee",
+    "description": "Convert 100 Health into Armor.",
+    "cost": 4000,
+    "rarity": "Rare",
+    "tags": [],
+    "ability_type": "General Item (Survival)",
+    "buffs": [
+      {
+        "key": "Armor",
+        "value": "10"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Vital-e-Tee.png"
+    ]
+  },
+  {
+    "slug": "crusader-hydraulics",
+    "name": "Crusader Hydraulics",
+    "description": "While you have Armor, take 10% reduced Weapon Damage and gain 5% Attack Speed.",
+    "cost": 4500,
+    "rarity": "Rare",
+    "tags": [],
+    "ability_type": "General Item (Survival)",
+    "buffs": [
+      {
+        "key": "Armor",
+        "value": "25"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Crusader_Hydraulics.png"
+    ]
+  },
+  {
+    "slug": "meka-z-series",
+    "name": "Meka Z-Series",
+    "description": "| stadium_rarity = Rare",
+    "cost": 5000,
+    "tags": [],
+    "ability_type": "General Item (Survival)",
+    "buffs": [
+      {
+        "key": "Health, Armor, Shields",
+        "value": "8%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Meka-Z_Series.png"
+    ]
+  },
+  {
+    "slug": "geneticist-s-vial",
+    "name": "Geneticist's Vial",
+    "description": "The first time you would die each round, revive instead with 250 Life after 3s.",
+    "cost": 9000,
+    "rarity": "Epic",
+    "tags": [],
+    "ability_type": "General Item (Survival)",
+    "buffs": [
+      {
+        "key": "Health",
+        "value": "25"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Geneticist_s_Vial.png"
+    ]
+  },
+  {
+    "slug": "divine-intervention",
+    "name": "Divine Intervention",
+    "description": "When you take more than 150 pre-mitigation damage at once, gain Overhealth equal to 20% of damage taken for 3s and start regenerating your Shields.",
+    "cost": 9500,
+    "rarity": "Epic",
+    "tags": [],
+    "ability_type": "General Item (Survival)",
+    "buffs": [
+      {
+        "key": "Shields",
+        "value": "50"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Divine_Intervention.png"
+    ]
+  },
+  {
+    "slug": "overdrive-core",
+    "name": "Overdrive Core",
+    "description": "Once per life, if you take damage that would reduce you below 30% Max Life, first gain 300 decaying Overhealth.",
+    "cost": 9500,
+    "rarity": "Epic",
+    "tags": [],
+    "ability_type": "General Item (Survival)",
+    "buffs": [
+      {
+        "key": "Shields",
+        "value": "25"
+      },
+      {
+        "key": "Weapon Power",
+        "value": "10%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Overdrive_Core.png"
+    ]
+  },
+  {
+    "slug": "gloomgauntlet",
+    "name": "Gloomgauntlet",
+    "description": "[Melee] damage grants 10% Move Speed and restores 5% of Max Life over 2s.",
+    "cost": 10000,
+    "rarity": "Epic",
+    "tags": [],
+    "ability_type": "General Item (Survival)",
+    "buffs": [
+      {
+        "key": "Armor",
+        "value": "50"
+      },
+      {
+        "key": "Melee Damage",
+        "value": "15%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Gloomgauntlet.png"
+    ]
+  },
+  {
+    "slug": "martian-mender",
+    "name": "Martian Mender",
+    "description": "Restore 3% of your Life every 1s.",
+    "cost": 10000,
+    "rarity": "Epic",
+    "tags": [],
+    "ability_type": "General Item (Survival)",
+    "buffs": [
+      {
+        "key": "Health",
+        "value": "25"
+      },
+      {
+        "key": "Cooldown Reduction",
+        "value": "10%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Martian_Mender.png"
+    ]
+  },
+  {
+    "slug": "phantasmic-flux",
+    "name": "Phantasmic Flux",
+    "description": "While at full Life, Lifesteal grants up to 100 Overhealth.",
+    "cost": 10000,
+    "rarity": "Epic",
+    "tags": [],
+    "ability_type": "General Item (Survival)",
+    "buffs": [
+      {
+        "key": "Weapon Power",
+        "value": "10%"
+      },
+      {
+        "key": "Ability Power",
+        "value": "10%"
+      },
+      {
+        "key": "Weapon Lifesteal",
+        "value": "15%"
+      },
+      {
+        "key": "Ability Lifesteal",
+        "value": "15%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Phantasmic_Flux.png"
+    ]
+  },
+  {
+    "slug": "r-stung-von-wilhelm",
+    "name": "Rüstung von Wilhelm",
+    "description": "While below 30% Life, gain 10% Damage Reduction.",
+    "cost": 10000,
+    "rarity": "Epic",
+    "tags": [],
+    "ability_type": "General Item (Survival)",
+    "buffs": [
+      {
+        "key": "Health, Armor, Shields",
+        "value": "15%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Rüstung_von_Wilhelm.png"
+    ]
+  },
+  {
+    "slug": "vanadium-injection",
+    "name": "Vanadium Injection",
+    "description": "While at 100% Ultimate Charge, gain:",
+    "tags": [],
+    "ability_type": "General Item (Survival)",
+    "buffs": [
+      {
+        "key": "Shields",
+        "value": "50"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Vanadium_Injection.png"
+    ]
+  },
+  {
+    "slug": "nebula-conduit",
+    "name": "Nebula Conduit",
+    "description": "Prevent 15% of incoming damage and instead take that prevented damage over 3s.",
+    "cost": 11000,
+    "rarity": "Epic",
+    "tags": [],
+    "ability_type": "General Item (Survival)",
+    "buffs": [
+      {
+        "key": "Health",
+        "value": "50"
+      },
+      {
+        "key": "Weapon Power",
+        "value": "10%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Nebula_Conduit.png"
+    ]
+  },
+  {
+    "slug": "ogundimu-reduction-field",
+    "name": "Ogundimu Reduction Field",
+    "description": "When you take damage, gain 0.5% damage reduction for 1s, stacking up to 20 times.",
+    "cost": 11000,
+    "rarity": "Epic",
+    "tags": [],
+    "ability_type": "General Item (Survival)",
+    "buffs": [
+      {
+        "key": "Armor",
+        "value": "50"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Ogundimu_Reduction_Field.png"
+    ]
+  },
+  {
+    "slug": "aura-repellant",
+    "name": "Aura Repellant",
+    "description": "On Use: Knockback all enemies within 8m.",
+    "cost": 1500,
+    "rarity": "Common",
+    "tags": [],
+    "ability_type": "Gadget",
+    "buffs": [
+      {
+        "key": "Health",
+        "value": "25"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Aura_Repellant.png"
+    ]
+  },
+  {
+    "slug": "barrier-snippet",
+    "name": "Barrier Snippet",
+    "description": "On Use: Gain 50 Overhealth for 3s.",
+    "cost": 1500,
+    "rarity": "Common",
+    "tags": [],
+    "ability_type": "Gadget",
+    "buffs": [
+      {
+        "key": "Health",
+        "value": "25"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Barrier_Snippet.png"
+    ]
+  },
+  {
+    "slug": "exo-springs",
+    "name": "Exo Springs",
+    "description": "Holding Crouch increases the height of your next jump by up to 250%.",
+    "cost": 1500,
+    "rarity": "Common",
+    "tags": [],
+    "ability_type": "Gadget",
+    "buffs": [
+      {
+        "key": "Health",
+        "value": "25"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Exo_Springs.png"
+    ]
+  },
+  {
+    "slug": "feathered-soles",
+    "name": "Feathered Soles",
+    "description": "On Use: Gain 25% Move Speed for 5s. Dealing damage removes this bonus.",
+    "cost": 1500,
+    "rarity": "Common",
+    "tags": [],
+    "ability_type": "Gadget",
+    "buffs": [
+      {
+        "key": "Health",
+        "value": "25"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Feathered_Soles.png"
+    ]
+  },
+  {
+    "slug": "med-kit",
+    "name": "Med Kit",
+    "description": "On Use: Restore 20 Life every 1s for 10s. Taking damage removes this bonus.",
+    "cost": 1500,
+    "rarity": "Common",
+    "tags": [],
+    "ability_type": "Gadget",
+    "buffs": [
+      {
+        "key": "Health",
+        "value": "25"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Med_Kit.png"
+    ]
+  },
+  {
+    "slug": "dashing-skates",
+    "name": "Dashing Skates",
+    "description": "On Use: Dash a short distance.",
+    "cost": 3750,
+    "rarity": "Rare",
+    "tags": [],
+    "ability_type": "Gadget",
+    "buffs": [
+      {
+        "key": "Health",
+        "value": "25"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Dashing_Skates.png"
+    ]
+  },
+  {
+    "slug": "field-support",
+    "name": "Field Support",
+    "description": "On Use: Place a Healing Field at your location that restores 50 Life every 1s for 3s.",
+    "cost": 4000,
+    "rarity": "Rare",
+    "tags": [],
+    "ability_type": "Gadget",
+    "buffs": [
+      {
+        "key": "Armor",
+        "value": "25"
+      },
+      {
+        "key": "Weapon Power",
+        "value": "5%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Field_Support.png"
+    ]
+  },
+  {
+    "slug": "kitsune-snippet",
+    "name": "Kitsune Snippet",
+    "description": "On Use: Gain 50 Overhealth and 20% Move Speed for 3s. If you are debuffed, gain an additional 100.",
+    "cost": 4000,
+    "rarity": "Rare",
+    "tags": [],
+    "ability_type": "Gadget",
+    "buffs": [
+      {
+        "key": "Shields",
+        "value": "25"
+      },
+      {
+        "key": "Cooldown Reduction",
+        "value": "5%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Kitsune_Snippet.png"
+    ]
+  },
+  {
+    "slug": "kitsune-charm",
+    "name": "Kitsune Charm",
+    "description": "On Use: Cleanse yourself of most negative effects, restore 75 Life, and gain Invulnerability and 75% Move Speed for 0.65s.",
+    "cost": 9000,
+    "rarity": "Epic",
+    "tags": [],
+    "ability_type": "Gadget",
+    "buffs": [
+      {
+        "key": "Shields",
+        "value": "50"
+      },
+      {
+        "key": "Incoming Negative Effect Duration",
+        "value": "-40%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Kitsune_Charm.png"
+    ]
+  },
+  {
+    "slug": "jet-skates",
+    "name": "Jet Skates",
+    "description": "On Use: Dash a short distance.",
+    "cost": 9500,
+    "rarity": "Epic",
+    "tags": [],
+    "ability_type": "Gadget",
+    "buffs": [
+      {
+        "key": "Health",
+        "value": "25"
+      },
+      {
+        "key": "Weapon Power",
+        "value": "10%"
+      },
+      {
+        "key": "Ability Power",
+        "value": "10%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Jet_Skates.png"
+    ]
+  },
+  {
+    "slug": "necrotic-repellant",
+    "name": "Necrotic Repellant",
+    "description": "On Use: Knockback and slow all enemies within 8m and apply 30% Healing Reduction for 3s.",
+    "cost": 10000,
+    "rarity": "Epic",
+    "tags": [],
+    "ability_type": "Gadget",
+    "buffs": [
+      {
+        "key": "Shields",
+        "value": "50"
+      },
+      {
+        "key": "Ability Power",
+        "value": "15%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Necrotic_Repellant.png"
+    ]
+  },
+  {
+    "slug": "super-serum",
+    "name": "Super Serum",
+    "description": "On Use: Increase your total Attack Speed 50% by but deal 15% reduced Weapon Damage for 5s. Reload all your Ammo.",
+    "cost": 10000,
+    "rarity": "Epic",
+    "tags": [],
+    "ability_type": "Gadget",
+    "buffs": [
+      {
+        "key": "Health",
+        "value": "25"
+      },
+      {
+        "key": "Attack Speed",
+        "value": "10%"
+      },
+      {
+        "key": "Weapon Lifesteal",
+        "value": "10%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Super_Serum.png"
+    ]
+  },
+  {
+    "slug": "colossus-core",
+    "name": "Colossus Core",
+    "description": "On Use: Gain Unstoppable, 25% Damage Reduction, 25% Max Life, and grow in size, but deal 50% reduced damage and healing for 3s.",
+    "cost": 11000,
+    "rarity": "Epic",
+    "tags": [],
+    "ability_type": "Gadget",
+    "buffs": [
+      {
+        "key": "Health, Shields, and Armor",
+        "value": "+10%"
+      },
+      {
+        "key": "Knockback Resist",
+        "value": "+40%"
+      },
+      {
+        "key": "Slow Resist",
+        "value": "+40%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Colossus_Core.png"
+    ]
+  },
+  {
+    "slug": "refresher",
+    "name": "Refresher",
+    "description": "Reduce all Ability cooldowns by 8s.",
+    "cost": 13000,
+    "rarity": "Epic",
+    "tags": [],
+    "ability_type": "Gadget",
+    "buffs": [
+      {
+        "key": "Health",
+        "value": "25"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Refresher.png"
+    ]
+  },
+  {
+    "slug": "heartbeat-sensor",
+    "name": "Heartbeat Sensor",
+    "description": "Enemies below 30% Life are Revealed to you.",
+    "cost": 1500,
+    "rarity": "Common",
+    "tags": [],
+    "ability_type": "General Item (Survival)",
+    "buffs": [
+      {
+        "key": "Move Speed",
+        "value": "5%"
+      }
+    ],
+    "sourceTitle": "Stadium/Items",
+    "imageFilenames": [
+      "Heartbeat_Sensor.png"
+    ]
+  }
+]

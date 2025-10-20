@@ -1,0 +1,400 @@
+{{HeroTabs}}
+[[File: Junker Queen Stadium.png|thumb|310x310px]]
+'''{{BASEPAGENAME}}''' is a playable [[hero]] in the [[Stadium]] [[game mode]].
+
+== Stat interactions ==
+{{StadiumAbilityInteractions/header}}
+{{StadiumAbilityInteractions/row|Scattergun |weaponPower=1 |attackSpeed=1 |maxAmmo=1 |weaponLifesteal=1 }}
+{{StadiumAbilityInteractions/row|Jagged Blade |abilityPower=1 |cooldownReduction=1 |abilityLifesteal=1 }}
+{{StadiumAbilityInteractions/row|Commanding Shout |abilityPower=1 |cooldownReduction=1 }}
+{{StadiumAbilityInteractions/row|Carnage |abilityPower=1 |cooldownReduction=1 |abilityLifesteal=1 }}
+{{StadiumAbilityInteractions/row|Rampage|abilityPower=1 |abilityLifesteal=1 }}
+|}
+
+== Hero Items ==
+This is a list of hero-specific items. For a list of items available to all heroes, see [[Armory]].
+
+=== Weapon ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Gutpunch Gauntlet
+| ability_image = Gutpunch_Gauntlet.png
+| ability_type = Hero Item (Weapon)
+| official_description = While not holding [Jagged Blade], Quick Melee deals 75% more damage and knocks back.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+| stadium_buffs = Weapon Power;;10%
+}}
+{{Ability details
+| ability_name = Monarch's Decree
+| ability_image = Monarch's_Decree.png
+| ability_type = Hero Item (Weapon)
+| official_description = [Commanding Shout] grants you 15% Attack Speed.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+| stadium_buffs = Weapon Power;;5%
+}}
+<!-- Epic -->
+{{Ability details
+| ability_name = Shred and Lead
+| ability_image = Shred_and_Lead.png
+| ability_type = Hero Item (Weapon)
+| official_description = When you [Wound] an enemy gain 10% Attack Speed for 4s, stacking up to 3 times.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+| stadium_buffs = Max Ammo;;33%::Weapon Lifesteal;;10%
+}}
+{{Ability details
+| ability_name = Bloodhound Mask
+| ability_image = Bloodhound_Mask.png
+| ability_type = Hero Item (Weapon)
+| official_description = Gain 5% Weapon Power for each enemy with a [Wound] within 12m.
+| stadium_rarity = Epic
+| stadium_cost = 12000
+| stadium_buffs = Weapon Power;;15%
+}}
+
+=== Ability ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Bigger Magnet
+| ability_image = Bigger_Magnet.png
+| ability_type = Hero Item (Ability)
+| official_description = [Jagged Blade]'s pull strength is increased by 35%. Pulls downward if the enemy is airborne.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+| stadium_buffs = Ability Power;;10%
+}}
+<!-- Epic -->
+{{Ability details
+| ability_name = Tinker Tracksuit
+| ability_image = Tinker_Tracksuit.png
+| ability_type = Hero Item (Ability)
+| official_description = [Rampage] and [Carnage] hits grant 10% Attack Speed for 4s.
+| stadium_rarity = Epic
+| stadium_cost = 9500
+| stadium_buffs = Cooldown Reduction;;5%::Ability Lifesteal;;10%
+}}
+{{Ability details
+| ability_name = Booming Voice
+| ability_image = Booming_Voice.png
+| ability_type = Hero Item (Ability)
+| official_description = [Commanding Shout] will affect allies that are out of line of sight.
+| stadium_rarity = Epic
+| stadium_cost = 11000
+| stadium_buffs = Ability Power;;15%::[Commanding Shout] Radius;;50%
+}}
+
+=== Survival ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Dez'z Damage Damperners
+| ability_image = Dez's_Damage_Dampeners.png
+| ability_type = Hero Item (Survival)
+| official_description = When knocked back, gain 25% increased movement speed for 3s.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+| stadium_buffs = Health;;25::Knockback Resist;;50%
+}}
+{{Ability details
+| ability_name = Rebellious Spirit
+| ability_image = Rebellious_Spirit.png
+| ability_type = Hero Item (Survival)
+| official_description = When [Wound] gets removed instead of expiring, gain 10% of Max Life as Overhealth, up to 150.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+| stadium_buffs = Health;;25
+}}
+{{Ability details
+| ability_name = Slicing Spree
+| ability_image = Slicing_Spree.png
+| ability_type = Hero Item (Survival)
+| official_description = While within 12m of an enemy with a [Wound], gain 5% Move Speed and 10% Attack Speed.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+| stadium_buffs = Move Speed;;5%
+}}
+<!-- Epic -->
+{{Ability details
+| ability_name = Scav Scraps
+| ability_image = Scav_Scraps.png
+| ability_type = Hero Item (Survival)
+| official_description = [Carnage] and [Jagged Blade] impact damage grants Overhealth equal to 40% of damage dealt.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+| stadium_buffs = Health;;50::Cooldown Reduction;;5%
+}}
+{{Ability details
+| ability_name = Thick Skull
+| ability_image = Thick_Skull.png
+| ability_type = Hero Item (Survival)
+| official_description = While casting [Rampage] or [Carnage], gain 75% damage reduction.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+| stadium_buffs = Armor;;50
+}}
+{{Ability details
+| ability_name = Undying Loyalty
+| ability_image = Undying_Loyalty.png
+| ability_type = Hero Item (Survival)
+| official_description = Allies affected by [Commading Shout] are healed of 5% of Junker Queen's Life every second.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+| stadium_buffs = Health;;50::[Commanding Shout] Overhealth;;30%
+}}
+
+== Powers ==
+{{Ability details
+| ability_name = Thrill of Battle
+| ability_image = Thrill_of_Battle.png
+| ability_type = Stadium Power
+| affected_ability = Adrenaline Rush
+| official_description = [Adrenaline Rush] also heals allies within 12m for 100% of the amount it heals you.
+}}
+{{Ability details
+| ability_name = Royal Bullets
+| ability_image = Royal_Bullets.png
+| ability_type = Stadium Power
+| affected_ability = Scattergun
+| official_description = [Scattergun] critical hit applies [Wound] for {{Weapon_Power|40}} damage over 2s.
+}}
+{{Ability details
+| ability_name = Twist the Knife
+| ability_image = Twist_The_Knife.png
+| ability_type = Stadium Power
+| affected_ability = Scattergun
+| official_description = [Scattergun] critical hits extend the duration of all [Wounds] on the target by 2.0s.
+}}
+{{Ability details
+| ability_name = Blade Parade
+| ability_image = Blade_Parade.png
+| ability_type = Stadium Power
+| affected_ability = Jagged Blade
+| official_description = Holding [Jagged Blade] charges it, increasing its damage by up to 100% and causing it to knockback.
+| duration = 0.65 seconds (max charge)
+}}
+{{Ability details
+| ability_name = Cut 'Em, Gracie!
+| ability_image = Cut_'Em,_Gracie!.png
+| ability_type = Stadium Power
+| affected_ability = Jagged Blade
+| official_description = Each enemy hit by [Jagged Blade] while it returns to you reduces its cooldown by 2s and is slowed by 35% for 1s.
+| mspeed_slow = -35%
+| duration = 1 second
+}}
+{{Ability details
+| ability_name = Let's Go Win
+| ability_image = Let's_Go_Win.png
+| ability_type = Stadium Power
+| affected_ability = Commanding Shout
+| official_description = Eliminations reduce the cooldown of [Commanding Shout] by 50%.
+}}
+{{Ability details
+| ability_name = Merciless Magnetism
+| ability_image = Merciless_Magnetism.png
+| ability_type = Stadium Power
+| affected_ability = Commanding Shout
+| official_description = Using [Commanding Shout] causes your Jagged Blade to home to a target.
+| range = 25 meters
+}}
+{{Ability details
+| ability_name = Reckoner's Roar
+| ability_image = Reckoner's_Roar.png
+| ability_type = Stadium Power
+| affected_ability = Commanding Shout
+| official_description = Using [Commanding Shout] [Wounds] enemies within 10m for {{Ability_Power|30}} damage over 3s.
+}}
+{{Ability details
+| ability_name = Chop Chop
+| ability_image = Chop_Chop.png
+| ability_type = Stadium Power
+| affected_ability = Carnage
+| official_description = [Carnage] gains an additional charge but its cooldown reduction per hit is reduced to 1s.
+}}
+{{Ability details
+| ability_name = Soaring Stone
+| ability_image = Soaring_Stone.png
+| ability_type = Stadium Power
+| affected_ability = Carnage
+| official_description = [Carnage] becomes a leaping strike if you jump during its cast time.
+}}
+{{Ability details
+| ability_name = Bloodcrazed
+| ability_image = Bloodcrazed.png
+| ability_type = Stadium Power
+| affected_ability = Rampage
+| official_description = [Rampage] and [Carnage] gives 15% of Max Life as Overhealth per hit.
+}}
+{{Ability details
+| ability_name = Bow Down
+| ability_image = Bow_Down.png
+| ability_type = Stadium Power
+| affected_ability = Rampage
+| official_description = [Rampage] now also knocks down enemies hit for 1.5s.
+}}
+
+== Example Builds ==
+=== Wasteland Berserker ===
+Leap into the fray, bursting and sustaining with tons of Carnages sharpened with {{Ability Power|Ability Power}}!
+
+==== Powers ====
+* {{al|Chop Chop}}
+* {{al|Soaring Stone}}
+* {{al|Reckoner's Roar}}
+* {{al|Bloodcrazed}}
+
+==== Early Game ====
+* {{al|Power Playbook}}
+* {{al|Shady Spectacles}}
+* {{al|Siphon Gloves}}
+* {{al|Nano Cola}}
+
+==== Late Game ====
+* {{al|Energized Bracers}}
+* {{al|Multi-Tool}}
+* {{al|Champion's Kit}}
+* {{al|Scav Scraps}}
+
+==== Flex ====
+* {{al|Kitsune Charm}}
+* {{al|Thick Skull}}
+* {{al|Liquid Nitrogen}}
+* {{al|Lumérico Fusion Drive}}
+
+=== Shrapnel Shotgunner ===
+Inflict deep wounds and tons of damage at close range with your {{Weapon Power|Weapon Power}} enhanced Shotgun.
+
+==== Powers ====
+* {{al|Royal Bullets}}
+* {{al|Twist The Knife}}
+* {{al|Thrill Of Battle}}
+* {{al|Bow Down}}
+
+==== Early Game ====
+* {{al|Compensator}}
+* {{al|Plasma Converter}}
+* {{al|Armored Vest}}
+* {{al|Technoleech}}
+
+==== Late Game ====
+* {{al|Monarch's Decree}}
+* {{al|Talon Modification Module}}
+* {{al|Bloodhound Mask}}
+* {{al|Shred and Lead}}
+
+==== Flex ====
+* {{al|Jet Skates}}
+* {{al|Eye Of The Spider}}
+* {{al|Booster Jets}}
+* {{al|Nebula Conduit}}
+
+=== Throw and Pull ===
+Land the powerful Knife and pull the enemy to you, feeding the enemy to your team. Repeat.
+
+==== Powers ====
+* {{al|Blade Parade}}
+* {{al|Merciless Magnetism}}
+* {{al|Cut 'Em, Gracie!}}
+* {{al|Let's Go Win}}
+
+==== Early Game ====
+* {{al|Power Playbook}}
+* {{al|Shady Spectacles}}
+* {{al|Siphon Gloves}}
+* {{al|Bigger Magnet}}
+
+==== Late Game ====
+* {{al|Nano Cola}}
+* {{al|Energized Bracers}}
+* {{al|Booming Voice}}
+* {{al|Champion's Kit}}
+
+==== Flex ====
+* {{al|Iridescent Iris}}
+* {{al|Liquid Nitrogen}}
+* {{al|Undying Loyalty}}
+
+== Balance Change Log ==
+{{PatchTableStart}}<onlyinclude>
+{{PatchTableElement|2025-09-04|
+{{DevComment|Developer Comments: Royal Bullets was winning duels a little too royally, popping targets with minimal setup. This trim keeps it snappy and satisfying without letting it wear the crown in every build.}}
+
+{{al|Royal Bullets}} - Power
+* Damage decreased to 40 (Down from 50).
+}}
+
+{{PatchTableElement|2025-08-26|
+{{DevComment|Developer Comments: Time to sharpen the blade. Junker Queen’s axe has been stealing the spotlight for a while now, but we want her knife and blade build to cut in on the action too. With more enemies taking to the skies this season, this buff gives her the edge she needs to bring them crashing back down.}}
+
+{{al|Merciless Magnetism}} - Power
+* Increased distance to 25 meters (Up from 15 meters).
+
+{{al|Twist The Knife}} - Power
+* Increased duration to 2 seconds (Up from 1 seconds).
+
+{{al|Blade Parade}} - Power
+* Decreased charge time to 0.65 seconds (Down from 1 seconds).
+
+{{al|Cut 'Em, Gracie!}} - Power
+* Added: Hit enemies are slowed by 35% for 1 seconds.
+
+{{al|Royal Bullets}} - Power
+* Decreased duration to 2s. (Down from 3s).
+* Removed distance condition.
+
+{{al|Thrill of Battle}} - Power
+* Increased heal to 100% (Up from 50%).
+
+{{al|Bigger Magnet}} - Rare Ability Hero Item
+* Now pulls downward if the enemy is airborne.
+}}
+{{PatchTableElement|2025-06-24|
+{{DevComment|Developer Comments: Shout and Chop has proven to be a highly effective combo for Junker Queen, often giving her a bit too much reliability in close-range engagements. This change is a first step toward dialing back that effectiveness, while still preserving the aggressive playstyle that makes her so satisfying to play.}}
+
+{{al|Let's Go Win}} - Power
+* Decreased cooldown reduction to 50% (down from 100%).
+
+{{al|Cut 'Em, Gracie!}} - Power
+* Increased reduction on cooldown to 2s per enemy hit (up from 1s).
+}}
+{{PatchTableElement|2025-05-29|
+{{DevComment|Developer Comments: Junker Queen’s axe has been doing most of the heavy lifting lately, leaving her shotgun and knife feeling a bit neglected. This update gives both of those tools some much-needed love to round out her kit and encourage more varied playstyles. We’re also adding a buff to Thick Skull to help her better withstand burst damage, giving her more staying power in fast-paced fights.}}
+
+{{al|Royal Bullets}} - Power
+* Increased range to 15 meters (Up from 12 meters).
+* Increased damage to 50 (Up from 30).
+
+{{al|Twist The Knife}} - Power
+* Increased Wounds extension to 1 second (Up from 0.5 seconds).
+
+{{al|Blade Parade}} - Power
+* Increased Damage to 100% (Up from 35%).
+
+{{al|Merciless Magnetism}} - Power
+* Increased range to 15 meters (Up from 12 meters).
+
+{{al|Thick Skull}} – Epic Survival Hero Item
+* Increased Damage Reduction to 75% (Up from 50%).
+}}
+{{PatchTableElement|2025-05-08|
+{{DevComment|Developer Comments: Junker Queen thrives when she can close the distance and brawl up close, and her current mobility has been allowing her to engage too freely. We're toning down her gap-closing potential to make her positioning more deliberate and reduce her ability to aggressively dive into enemy lines without consequence. This should encourage more thoughtful engagements while preserving her core bruiser identity.}}
+
+{{al|Booming Voice}} – Epic Ability Item
+* Reduced Ability Power to 15% (down from 25%).
+
+{{al|Slicing Spree}} – Rare Hero Survival Item
+* Reduced Move Speed stat to 5% (down from 10%).
+* Reduced Move Speed while near an enemy with a Wound to 5% (down from 10%).
+* Increased Attack Speed while near an enemy with a Wound to 10% (up from 5%).
+}}
+{{PatchTableElement|2025-04-22|
+; Introducing Stadium
+* Tank Heroes: D.Va, '''Junker Queen''', Orisa, Reinhardt, and Zarya.
+* Damage Heroes: Ashe, Cassidy, Genji, Mei, Reaper, and Soldier: 76.
+* Support Heroes: Ana, Juno, Kiriko, Lucio, Mercy, and Moira.
+}}
+</onlyinclude>{{PatchTableEnd}}
+
+{{StadiumNav}}
+[[Category:{{BASEPAGENAME}}]]
+[[Category:Stadium hero pages]]

@@ -1,0 +1,407 @@
+{{HeroTabs}}
+[[File: Kiriko Stadium.png|thumb|310x310px]]
+'''{{BASEPAGENAME}}''' is a playable [[hero]] in the [[Stadium]] [[game mode]].
+
+== Stat interactions ==
+{{StadiumAbilityInteractions/header}}
+{{StadiumAbilityInteractions/row|Healing Ofuda |weaponPower=1 |attackSpeed=1 }}
+{{StadiumAbilityInteractions/row|Kunai |weaponPower=1 |attackSpeed=1 |maxAmmo=1 |weaponLifesteal=1 }}
+{{StadiumAbilityInteractions/row|Swift Step |cooldownReduction=1 }}
+{{StadiumAbilityInteractions/row|Protection Suzu |abilityPower=1 |cooldownReduction=1 }}
+{{StadiumAbilityInteractions/row|Kitsune Rush }}
+|}
+
+== Hero Items ==
+This is a list of hero-specific items. For a list of items available to all heroes, see [[Armory]].
+
+=== Weapon ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Asa's Armaments
+| ability_image = kiriko-weapon-rare-asa's-armaments.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Attack Speed;;10%
+| official_description = [Kunai] bounce off surfaces 1 time.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+{{Ability details
+| ability_name = Farsight Focus Sash
+| ability_image = kiriko-weapon-rare-farsight-focus-sash.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Weapon Power;;10%
+| official_description = When you deal damage gain 200% [Healing Ofuda] Projectile Speed for 5s.
+| stadium_rarity = Rare
+| stadium_cost = 5000
+}}
+{{Ability details
+| ability_name = Teamwork Toolkit
+| ability_image = Teamwork Toolkit.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Weapon Power;;10%
+| official_description = When you heal an ally, grant them 10% Move Speed for 3s.
+| stadium_rarity = Rare
+| stadium_cost = 5000
+}}
+<!-- Epic -->
+{{Ability details
+| ability_name = Spirit's Guidance
+| ability_image = Spirit's Guidance.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Weapon Power;;15%:: [Healing Ofuda] Projectile Speed;;100%
+| official_description = 
+| stadium_rarity = Epic
+| stadium_cost = 12000
+}}
+{{Ability details
+| ability_name = Ryõta's Reloader
+| ability_image = Ryõta's Reloader.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Reload Speed;;35%
+| official_description = After using an ability, restore 100% of your ammo.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+
+=== Ability ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Eye of the Yokai
+| ability_image = Eye of the Yokai.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Ability Power;;10%:: [Kitsune Rush] Duration;;35%
+| official_description = 
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+{{Ability details
+| ability_name = Cyclist Gloves
+| ability_image = Cyclist Gloves.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = 
+| official_description = When you use an ability, gain 20% Attack Speed for 3s.
+| stadium_rarity = Rare
+| stadium_cost = 5000
+}}
+<!-- Epic -->
+{{Ability details
+| ability_name = Donut Delivery
+| ability_image = Donut Delivery.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Cooldown Reduction;;5%
+| official_description = [Swift Step] heals nearby allies by {{Ability_Power|80}} Life over 2s.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+{{Ability details
+| ability_name = Our Bikes
+| ability_image = Our Bikes.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Health;;25::Ability Power;;15%
+| official_description = Allies affected by [Kitsune Rush] are healed for {{Ability_Power|80}} every 1s.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+{{Ability details
+| ability_name = Talisman of Velocity
+| ability_image = Talisman of Velocity.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Ability Power;;15%
+| official_description = [Protection Suzu] grants 25% Attack Speed and 25% Move Speed for 4s.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+
+=== Survival ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Kitsune Kicks
+| ability_image = Kitsune Kicks.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Move Speed;;10%
+| official_description = Gain the ability to [Double Jump].
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+<!-- Epic -->
+{{Ability details
+| ability_name = Goddess's Aura
+| ability_image = Goddess's Aura.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Health;;25
+| official_description = After using [Swift Step], gain {{Ability_Power|100}} Overhealth for 4s.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+{{Ability details
+| ability_name = Talisman of Life
+| ability_image = Talisman of Life.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Ability Power;;15%
+| official_description = [Protection Suzu] grants {{Ability_Power|80}} Overhealth for 5s.
+| stadium_rarity = Epic
+| stadium_cost = 11000
+}}
+
+== Powers ==
+{{Ability details
+| ability_name = Foxy Fireworks
+| ability_image = Foxy_Fireworks.png
+| ability_type = Stadium Power
+| affected_ability = Kunai
+| official_description = After reloading, your next 3 thrown [Kunai] explode on contact, dealing {{Weapon_Power|20}} damage to nearby enemies.
+| damage = {{Weapon_Power|20 - 5}} (splash, enemy)<br> {{Weapon_Power|10 - 5}} (splash, self)
+| radius = 3.5 meter radius (explosion)
+| ability_details = * Explosive Kunais have the same projectile speed as regular kunais.
+* The description is not accurate: The first 3 kunais of the magazine are replaced by explosive kunais. That means that refilling items and powers can replenish explosive kunais without having to reload whenever the current ammo count increases above this threshold.
+** As such, the player can theoretically have infinite explosive kunais if it deals a critical hit with an explosive kunai combined with {{al|Keen Kunai}} or other ammo restoration effects.
+* When paired with {{al|Triple Threat}} Power, the additional kunais on the sides will become explosive but will be affected by gravity.
+* The explosive kunais will not bounce off surfaces, when equipped with {{al|Asa's Armaments}} Item.
+}}
+{{Ability details
+| ability_name = Keen Kunai
+| ability_image = Keen_Kunai.png
+| ability_type = Stadium Power
+| affected_ability = Kunai
+| official_description = [Kunai] critical hits decrease active ability cooldowns by 15% and refund 3 ammo.
+}}
+{{Ability details
+| ability_name = Triple Threat
+| ability_image = Triple_Threat.png
+| ability_type = Stadium Power
+| affected_ability = Kunai
+| official_description = After using [Swift Step], for 4s, your secondary fire throws 2 additional [Kunai] in a spread that deal 50% less damage.
+| ability_details = * Additional Kunai will consume ammo, however both additional Kunais will still be fire even if Kiriko has less than 3 ammo remaining.
+}}
+{{Ability details
+| ability_name = Leaf on the Wind
+| ability_image = Leaf_On_The_Wind.png
+| ability_type = Stadium Power
+| affected_ability = Healing Ofuda
+| official_description = [Healing Ofuda] bounces to another ally up to 2 times, healing for 30% of the normal amount.
+}}
+{{Ability details
+| ability_name = Self-Care
+| ability_image = Self-Care.png
+| ability_type = Stadium Power
+| affected_ability = Healing Ofuda
+| official_description = When you use [Healing Ofuda], each ofuda thrown heals you for 3% of your max Life.
+| ability_details = 
+}}
+{{Ability details
+| ability_name = Supported Shooting
+| ability_image = Supported_Shooting.png
+| ability_type = Stadium Power
+| affected_ability = Healing Ofuda
+| official_description = When [Healing Ofuda] heals allies, grant them 20% increased Attack Speed for 3s.
+}}
+{{Ability details
+| ability_name = Clone Conjuration
+| ability_image = Clone_Conjuration.png
+| ability_type = Stadium Power
+| affected_ability = Swift Step
+| official_description = After using [Swift Step], create a clone of yourself that lasts for 4s. Clone has 65% less damage and healing
+| ability_details = * The clone can use primary and secondary fire and quick melee, dealing 35% of Kiriko's damage and healing, but cannot use any of her abilities.
+** There is a short delay after spawning before the clone can attack or heal.
+** If possible, the clone will prioritize healing nearby allies instead of trying to deal damage.
+** Clone's healing and damage contribute to earning Stadium Cash but do not generate ultimate charge.
+* The clone doesn't benefit from any other Power the player already possesses.
+* The clone benefits from the passive Weapon Damage and Attack Speed stat bonuses from Items, but does not appear to benefit from their conditional effects.
+* The clone has ~40 health, increased by Ability Power.
+* The enemy team will see the name of the player who summoned the clone below its health bar, but to the ally team and in the kill feed it is labeled as "Kiriko".
+}}
+{{Ability details
+| ability_name = Fleet Foot
+| ability_image = Fleet_Foot.png
+| ability_type = Stadium Power
+| affected_ability = Swift Step
+| official_description = [Swift Step] can be used directionally without a target. Cooldown is increased by 35% when used without a target.
+| ability_details = * Has a minimum distance (~4-5m) required to activate the ability.
+* The teleport may occasionally fail, starting the cooldown without teleporting and triggering any associated effects.
+}}
+{{Ability details
+| ability_name = Cleansing Charge
+| ability_image = Cleansing_Charge.png
+| ability_type = Stadium Power
+| affected_ability = Protection Suzu
+| official_description = When you cleanse negative effects with [Protection Suzu], gain 5% Ultimate Charge for each hero cleansed.
+}}
+{{Ability details
+| ability_name = Two-Zu
+| ability_image = Two-Zu.png
+| ability_type = Stadium Power
+| affected_ability = Protection Suzu
+| official_description = [Protection Suzu] gains an additional charge.
+}}
+{{Ability details
+| ability_name = Crossing Guard
+| ability_image = Crossing_Guard.png
+| ability_type = Stadium Power
+| affected_ability = Kitsune Rush
+| official_description = [Kitsune Rush] now also reduces enemies Move Speed by 50% for 2s.
+}}
+{{Ability details
+| ability_name = Spirit Veil
+| ability_image = Spirit_Veil.png
+| ability_type = Stadium Power
+| affected_ability = Kitsune Rush
+| official_description = Using [Kitsune Rush] cleanses Kiriko of negative effects and makes her Invulnerable for 4s.
+}}
+
+== Example Builds ==
+These are example builds pre-built in [[Stadium]] meant to show some possibilities of what can be done in the mode.
+
+=== Fox Power ===
+Use your abilities to save your allies and seal the victory with a powerful Ultimate, empowered with {{Ability Power|Ability Power}}.
+
+==== Powers ====
+*{{al|Fleet Foot}}
+*{{al|Spirit Veil}}
+*{{al|Two-zu}}
+*{{al|Crossing Guard}}
+
+==== Early game ====
+*{{al|Compensator}}
+*{{al|Weapon Grease}}
+*{{al|Winning Attitude}}
+*{{al|Junker Whatchamajig}}
+
+==== Late game ====
+*{{al|Eye of the Yokai}}
+*{{al|Donut Delivery}}
+*{{al|Catalytic Crystal}}
+*{{al|Our Bikes}}
+
+==== Flex ====
+*{{al|Talisman of Life}}
+*{{al|Talisman of Velocity}}
+*{{al|Biotech Maximizer}}
+*{{al|Champion's Kit}}
+
+=== Shrine Maiden ===
+Enhance Ofuda Healing through cloning techniques, increased targets, and {{Weapon Power|Weapon Power}}!
+
+==== Powers ====
+*{{al|Leaf on the Wind}}
+*{{al|Supported Shooting}}
+*{{al|Clone Conjuration}}
+*{{al|Self-Care}}
+
+==== Early game ====
+*{{al|Compensator}}
+*{{al|Weapon Grease}}
+*{{al|First Aid Kit}}
+*{{al|Teamwork Toolkit}}
+
+==== Late game ====
+*{{al|Talon Modification Module}}
+*{{al|Farsight Focus Sash}}
+*{{al|Spirit's Guidance}}
+*{{al|Amari's Antidote}}
+
+==== Flex ====
+*{{al|Eye of the Spider}}
+*{{al|The Closer}}
+*{{al|Booster Jets}}
+*{{al|Weapon Jammer}}
+
+=== Kanezaka Kunoichi ===
+Assasinate unsuspecting foes with explosive Kunais sharpened with {{Weapon Power|Weapon Power}}
+
+==== Powers ====
+*{{al|Foxy Fireworks}}
+*{{al|Keen Kunai}}
+*{{al|Fleet Foot}}
+*{{al|Triple Threat}}
+
+==== Early game ====
+*{{al|Compensator}}
+*{{al|Weapon Grease}}
+*{{al|Armored Vest}}
+*{{al|Cyclist Gloves}}
+
+==== Late game ====
+*{{al|Talon Modification Module}}
+*{{al|Aftermarket Firing Pin}}
+*{{al|Ryõta's Reloader}}
+*{{al|Talisman of Life}}
+
+==== Flex ====
+*{{al|The Closer}}
+*{{al|Eye of the Spider}}
+*{{al|Hardlight Accelerator}}
+*{{al|Booster Jets}}
+
+== Balance Change Log ==
+{{PatchTableStart}}<onlyinclude>
+{{PatchTableElement|2025-09-16|
+{{DevComment|Developer comments: We’ve trimmed the numbers so talismans aren’t quite so magical, and donuts aren’t quite so nutritious. Sometimes too many sprinkles really are a bad thing.}}
+
+{{al|Donut Delivery}} - Epic Ability Hero Item
+* Cooldown Reduction decreased to 5% (Down from 10%).
+* Healing decreased to 80 (Down from 120).
+
+{{al|Talisman of Life}} - Epic Survival Hero Item
+* Ability Power decreased to 15% (Down from 20%).
+* Overhealth decreased to 80 (Down from 100).
+}}
+{{PatchTableElement|2025-07-22|
+{{DevComment|Developer Comments: Kiriko’s clone is reworked to serve a more utility-focused role, rather than functioning as the overly lethal auto-turret it once was. This change should help her contribute more reliably to team utility and generate Stadium Cash more consistently. In addition, Fleet Foot has been updated based on popular feedback, requiring a bit more commitment when diving into the backline, reinforcing the risk-reward dynamic of aggressive plays.}}
+
+{{al|Clone Conjuration}} - Power
+* Now the Clone's heal and damage contributes to earning Stadium Cash.
+* Now there is a short delay before the Clone starts healing or dealing damage after being spawned.
+* Clone's health has been reduced and can be increased by Ability Power.
+
+{{al|Fleet Foot}} - Power
+* Swift Step cooldown is increased by 30% when used without a target.
+
+{{al|Foxy Fireworks}} - Power
+* Projectile speed is now the same as regular kunai.
+}}
+{{PatchTableElement|2025-07-08|
+{{al|Clone Conjuration}} - Power
+* Clone now deals 65% less healing and damage.
+* Increased duration to 4s (Up from 2.5s.)
+}}
+{{PatchTableElement|2025-06-27|
+{{DevComment|We have identified that Kiriko's clone is causing significant gameplay disruption and can be a source of frustration for players. While more comprehensive adjustments are planned for a future update, we are implementing an interim solution to mitigate its immediate impact in the current meta game.}}
+
+{{al|Clone Conjuration}}
+* Decreased duration to 2.5s (Down from 5s).
+}}
+{{PatchTableElement|2025-06-24|
+{{DevComment|Developer Comments: Soothing Step was designed to be a core part of Kiriko’s ability power-focused build, enabling her to serve as a highly mobile healer. This update brings it more in line with other build options while reinforcing her role as a capable burst healer in fast-paced fights. Additionally, Self-Care has been redesigned—both to address a bug and to make its healing more accurately reflect Kiriko’s healing output.}}
+
+{{al|Donut Delivery|text=Soothing Step}} - Power
+* Increased Healing to 120 (Up from 80).
+* Replaced stat: From 10% Ability power to 10% Cooldown reduction.
+
+{{al|Triple Threat}} - Power
+* Spread reduced by 50%.
+
+{{al|Self-Care}}
+* Redesigned to: When you use Healing Ofuda, each Ofuda thrown heals you for 3% of max life.
+}}
+{{PatchTableElement|2025-05-29|
+{{DevComment|Developer Comments: Self-Care was falling short in terms of sustain, especially in longer engagements. This buff gives it a more meaningful impact, allowing players to recover more effectively and stay in the fight longer without relying solely on external healing.}}
+
+{{al|Self-Care}} - Power
+* Increased heal to 15% (Up from 5%).
+}}
+{{PatchTableElement|2025-05-01|
+{{DevComment|Developer Comments: Kiriko was consistently earning a bit too much Cash from damage and healing.}}
+
+* Reduced the amount of Stadium Cash gained from damage and healing by 16.67%.
+}}
+{{PatchTableElement|2025-04-22|
+; Introducing Stadium
+* Tank Heroes: D.Va, Junker Queen, Orisa, Reinhardt, and Zarya.
+* Damage Heroes: Ashe, Cassidy, Genji Mei, Reaper, and Soldier: 76.
+* Support Heroes: Ana, Juno, '''Kiriko''', Lucio, Mercy, and Moira.
+}}
+</onlyinclude>{{PatchTableEnd}}
+
+{{StadiumNav}}
+[[Category:{{BASEPAGENAME}}]]
+[[Category:Stadium hero pages]]

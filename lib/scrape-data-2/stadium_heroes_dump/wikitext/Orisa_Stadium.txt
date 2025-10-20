@@ -1,0 +1,397 @@
+{{HeroTabs}}
+[[File: Orisa Stadium.png|thumb|310x310px]]
+'''{{BASEPAGENAME}}''' is a playable [[hero]] in the [[Stadium]] [[game mode]].
+
+== Ability interactions ==
+{{StadiumAbilityInteractions/header}}
+{{StadiumAbilityInteractions/row|Augmented Fusion Driver |weaponPower=1 |attackSpeed=1 |weaponLifesteal=1 }}
+{{StadiumAbilityInteractions/row|Energy Javelin |abilityPower=1 |cooldownReduction=1 |abilityLifesteal=1 }}
+{{StadiumAbilityInteractions/row|Fortify |abilityPower=1 |cooldownReduction=1 }}
+{{StadiumAbilityInteractions/row|Javelin Spin |abilityPower=1 |cooldownReduction=1 |abilityLifesteal=1 }}
+{{StadiumAbilityInteractions/row|Terra Surge |abilityPower=1 |abilityLifesteal=1 }}
+|}
+
+== Hero Items ==
+This is a list of hero-specific items. For a list of items available to all heroes, see [[Armory]].
+
+=== Weapon ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Electro Lights
+| ability_image = Electro_Lights.png
+| ability_type = Hero Item (Weapon)
+| official_description = Recover from being Overheated 50% faster.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+| stadium_buffs = Attack Speed;;10%
+}}
+{{Ability details
+| ability_name = Enhanced Target Sensors
+| ability_image = Enhanced_Target_Sensors.png
+| ability_type = Hero Item (Weapon)
+| official_description = Deal 25% more damage to enemies farther than 12m away.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+| stadium_buffs = 
+}}
+{{Ability details
+| ability_name = Optimized Energy
+| ability_image = Optimized_Energy.png
+| ability_type = Hero Item (Weapon)
+| official_description = Critical hits reduce your Heat by 5%.
+| stadium_rarity = Rare
+| stadium_cost = 5000
+| stadium_buffs = Weapon Power;;10%
+}}
+
+=== Ability ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Arcfinder
+| ability_image = Arcfinder.png
+| ability_type = Hero Item (Ability)
+| official_description = Energy Javelin deals 25% increased damage to enemies farther than 12m away.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+| stadium_buffs = Cooldown Reduction;;5%
+}}
+{{Ability details
+| ability_name = Elite Rotator Cuff
+| ability_image = Elite_Rotator_Cuff.png
+| ability_type = Hero Item (Ability)
+| official_description = 
+| stadium_rarity = Rare
+| stadium_cost = 4000
+| stadium_buffs = Ability Power;;10%::[Javelin Spin] Duration;;35%
+}}
+{{Ability details
+| ability_name = Refraction Tiles
+| ability_image = Refraction_Tiles.png
+| ability_type = Hero Item (Ability)
+| official_description = While Javelin Spin is active, gain 50% damage reduction from beams.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+| stadium_buffs = Armor;;25
+}}
+<!-- Epic -->
+{{Ability details
+| ability_name = Efi's Theorem
+| ability_image = Efi's_Theorem.png
+| ability_type = Hero Item (Ability)
+| official_description = 
+| stadium_rarity = Epic
+| stadium_cost = 10000
+| stadium_buffs = Ability Lifesteal;;20%::[Fortify] Duration;;50%
+}}
+{{Ability details
+| ability_name = 3D-printed Lance
+| ability_image = 3D-Printed_Lance.png
+| ability_type = Hero Item (Ability)
+| official_description = Energy Javelin cooldown is reduced by 15%, but each use generates 25 Heat.
+| stadium_rarity = Epic
+| stadium_cost = 11000
+| stadium_buffs = Ability Power;;15%
+}}
+{{Ability details
+| ability_name = Oladele-Copter Blades
+| ability_image = Oladele-copter_Blades.png
+| ability_type = Hero Item (Ability)
+| official_description = While Using Javelin Spin, gain free flight and 20% Move Speed.
+| stadium_rarity = Epic
+| stadium_cost = 12000
+| stadium_buffs = Ability Power;;15%
+}}
+
+=== Survival ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Charged Chassis
+| ability_image = Charged_Chassis.png
+| ability_type = Hero Item (Survival)
+| official_description = Fortify grants additional Overhealth equal to 10% of your max Life.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+| stadium_buffs = Health;;25
+}}
+{{Ability details
+| ability_name = Siphonic Spear
+| ability_image = Siphonic_Spear.png
+| ability_type = Hero Item (Survival)
+| official_description = When you deal damage with Energy Javelin, heal 10% of your max Life over 3s.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+| stadium_buffs = Health;;25
+}}
+{{Ability details
+| ability_name = Solar Regenergy
+| ability_image = Solar_Regenergy.png
+| ability_type = Hero Item (Survival)
+| official_description = After using an ability, restore Armor equal to 3% of your max Life.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+| stadium_buffs = Health;;25
+}}
+<!-- Epic -->
+{{Ability details
+| ability_name = HollaGram Helmet
+| ability_image = HollaGram_Helmet.png
+| ability_type = Hero Item (Survival)
+| official_description = When you use Fortify, allies within line of sight gain Unstoppable for 2s.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+| stadium_buffs = Armor;;50
+}}
+
+== Powers ==
+{{Ability details
+| ability_name = Scorched Earth
+| ability_image = Scorched_Earth_Orisa.png
+| ability_type = Stadium Power
+| affected_ability = Augmented Fusion Driver
+| official_description = When you Overheat, apply Burning to enemies within 6m, dealing damage equal to 25% of your max Life over 5s.
+}}
+{{Ability details
+| ability_name = Shield Divergence
+| ability_image = Shield_Divergence.png
+| ability_type = Stadium Power
+| affected_ability = Augmented Fusion Driver
+| official_description = When you Overheat, deploy a Barrier with {{Ability_Power|600}} Health in front.|ability_details
+* Barrier gains extra health from passive health gain.
+}}
+{{Ability details
+| ability_name = Advanced Throwbotics
+| ability_image = Advanced_Throwbotics.png
+| ability_type = Stadium Power
+| affected_ability = Javelin Spin
+| official_description = When you use Javelin Spin, launch an Energy Javelin with 75% damage
+| ability_details = * The javelin is shot after 0.5s and Javelin Spin must be ongoing to shoot. Canceling Javelin Spin will also cancel shooting the javelin.
+}}
+{{Ability details
+| ability_name = Hot Rotate-O
+| ability_image = Hot_Rotate-O.png
+| ability_type = Stadium Power
+| affected_ability = Javelin Spin
+| official_description = Javelin Spin gains 35% Cooldown Reduction but now generates Heat.
+}}
+{{Ability details
+| ability_name = Spynstem Update
+| ability_image = Spynstem_Update.png
+| ability_type = Stadium Power
+| affected_ability = Javelin Spin
+| official_description = Javelin Spin now deflects projectiles and grants 20% of damage dealt as Ultimate Charge.
+}}
+{{Ability details
+| ability_name = Factory Reset
+| ability_image = Factory_Reset.png
+| ability_type = Stadium Power
+| affected_ability = Fortify
+| official_description = While Fortify is active, Javelin Spin and Energy Javelin gain 25% Cooldown Reduction.
+}}
+{{Ability details
+| ability_name = Hooves of Steel
+| ability_image = Hooves_of_Steel.png
+| ability_type = Stadium Power
+| affected_ability = Fortify
+| official_description = After Fortify ends, gain Shields equal to 50% of the damage received during Fortify. Resets when you next use Fortify.
+}}
+{{Ability details
+| ability_name = Restortify
+| ability_image = Restortify.png
+| ability_type = Stadium Power
+| affected_ability = Fortify
+| official_description = While Fortify is active, heal for 5% of your maximum health every 1s.
+}}
+{{Ability details
+| ability_name = Ride with Me
+| ability_image = Ride_With_Me.png
+| ability_type = Stadium Power
+| affected_ability = Fortify
+| official_description = While Fortify is active grant allies 30% Move Speed and Overhealth equal to 10% of your max Life.
+}}
+{{Ability details
+| ability_name = Lassoed
+| ability_image = Lassoed.png
+| ability_type = Stadium Power
+| affected_ability = Energy Javelin
+| official_description = On impact, Energy Javelin will pull enemies within 4m towards itself.
+| ability_details = * If a javelin hits an enemy, nearby enemies are pulled to the enemy's position instead of where it was hit.
+* If a javelin hits the environment, it just pulls nearby enemies.
+* If a javelin hits a barrier, the pull will not activate.
+}}
+{{Ability details
+| ability_name = Centripetal Charge
+| ability_image = Centripetal_Charge.png
+| ability_type = Stadium Power
+| affected_ability = Terra Surge
+| official_description = 25% Ultimate Cost reduction. After using Terra Surge, reset your ability cooldowns.
+}}
+{{Ability details
+| ability_name = Supercharger
+| ability_image = Supercharger.png
+| ability_type = Stadium Power
+| affected_ability = Terra Surge
+| official_description = When you use Terra Surge, drop a Supercharger that increases the damage of nearby allies by 25% for 15s.
+| health = 400
+| duration = 15 seconds
+| damage_amp = +25% dealt
+}}
+
+== Example Builds ==
+=== Fortified Colossus ===
+Protect your team with supportive Fortifies, while looking for a huge Ultimate moment!
+
+==== Powers ====
+* {{al|Hooves Of Steel}}
+* {{al|Ride With Me}}
+* {{al|Centripetal Charge}}
+* {{al|Supercharger}}
+
+==== Early Game ====
+* {{al|Compensator}}
+* {{al|Power Playbook}}
+* {{al|Armored Vest}}
+* {{al|Solar Regenergy}}
+
+==== Late Game ====
+* {{al|Charged Chassis}}
+* {{al|Junker Whatchamajig}}
+* {{al|Efi's Theorem}}
+* {{al|Hollagram Helmet}}
+
+==== Flex ====
+* {{al|Necrotic Repellant}}
+* {{al|Catalytic Crystal}}
+* {{al|Martian Mender}}
+* {{al|Ogundimu Reduction Field}}
+
+=== Overclocked Guardian ===
+Use Overheat to your advantage, burning nearby enemies and protecting your team.
+
+==== Powers ====
+* {{al|Shield Divergence}}
+* {{al|Hot Rotate-o}}
+* {{al|Scorched Earth}}
+* {{al|Restortify}}
+
+==== Early Game ====
+* {{al|Compensator}}
+* {{al|Weapon Grease}}
+* {{al|Armored Vest}}
+* {{al|Electro Lights}}
+
+==== Late Game ====
+* {{al|Wrist Wraps}}
+* {{al|Ironclad Exhaust Ports}}
+* {{al|3D-Printed Lance}}
+* {{al|Rüstung von Wilhelm}}
+
+==== Flex ====
+* {{al|Super Serum}}
+* {{al|Efi's Theorem}}
+* {{al|Divine Intervention}}
+* {{al|Cybervenom}}
+
+=== Spin To Win ===
+Update Javelin Spin to deflect and launch projectiles for maximum disruption, enhanced with {{Ability Power|Ability Power}}.
+
+==== Powers ====
+* {{al|Advanced Throwbotics}}
+* {{al|Spynstem Update}}
+* {{al|Factory Reset}}
+* {{al|Lassoed}}
+
+==== Early Game ====
+* {{al|Power Playbook}}
+* {{al|Shady Spectacles}}
+* {{al|First Aid Kit}}
+* {{al|Elite Rotator Cuff}}
+
+==== Late Game ====
+* {{al|Siphonic Spear}}
+* {{al|Biolight Overflow}}
+* {{al|Champion's Kit}}
+* {{al|Iridescent Iris}}
+
+==== Flex ====
+* {{al|Oladele copter Blades}}
+* {{al|Lumérico Fusion Drive}}
+* {{al|Liquid Nitrogen}}
+
+== Balance Change Log ==
+{{PatchTableStart}}<onlyinclude>
+{{PatchTableElement|2025-10-14|
+{{DevComment|Developer Comments: Orisa’s ability power build was falling off in the late game, leaving her damage underwhelming compared to other options. This update gives her more scaling so she can stay a real threat as matches go longer.}}
+
+{{al|Advanced Throwbotics}} - Power
+* Damage increased to 75% (Up from 50%).
+}}
+{{PatchTableElement|2025-09-16|
+{{DevComment|Developer comments: These updates give Orisa more durability and impact. Scorched Earth hits harder, her barriers scale better with her role, and Supercharger now has the staying power to anchor big moments in a fight.}}
+
+{{al|Scorched Earth}} - Power
+* Damage increased to 25% (Up from 20%).
+
+{{al|Shield Divergence}} - Power
+* Barrier now gains extra health from passive health gain.
+
+{{al|Supercharger}} - Power
+* Supercharger base health increased to 400 (Up from 200).
+}}
+{{PatchTableElement|2025-09-04|
+{{DevComment|Developer Comments: Orisa was having a tough time holding her ground against beam-heavy foes like Zarya. This update gives her a sturdier answer so she can stare down beams a bit longer and keep the frontline strong.}}
+
+{{al|Refraction Tiles}} - Rare Survival Hero Item
+* Damage reduction increased to 75% (Up from 50%).
+}}
+
+{{PatchTableElement|2025-07-22|
+{{DevComment|Developer Comments: Orisa’s javelin-focused build has been effective at disrupting enemies, but it also came with some clunky interactions that impacted its reliability and clarity. This patch addresses those rough edges to smooth out the experience and help her disruption tools to feel more responsive and intuitive to use.}}
+
+{{al|Advanced Throwbotics}} - Power
+* Now shoots the javelin after 0.5s and the Javelin Spin must be ongoing to shoot. Canceling Javelin Spin will also cancel shooting the javelin.
+
+{{al|Lassoed}} - Power
+* If a javelin hits an enemy, nearby enemies are pulled to the enemy's position now instead of where it was hit.
+* If a javelin hits the environment, it just pulls nearby enemies.
+* If a javelin hits a barrier, the pull will not activate.
+}}
+{{PatchTableElement|2025-06-24|
+{{DevComment|Developer Comments: These 2 items have been underperforming, lacking the stat needed to be more impactful. This update addresses that by adding item stat to them.}}
+
+{{al|Siphonic Spear}} - Rare Survival Hero Item.
+* Added stat: 25 Health.
+
+{{al|Arcfinder}} - Rare Ability Hero Item.
+* Added stat: 5% Cooldown reduction.
+}}
+{{PatchTableElement|2025-05-29|
+{{DevComment|Developer Comments: Orisa’s Overheat build was underperforming, especially when it came to holding the line against aggressive pushes. It lacked the punch needed to deter advancing enemies or force them to reposition. This buff aims to bolster her ability to apply pressure and make her presence more threatening when anchoring space.}}
+
+{{al|Scorched Earth}} - Power
+* Increased damage to 20% (Up from 10%).
+
+{{al|Electro Lights}} – Rare Hero Weapon Item
+* Increased recovery rate to 50% (Up from 25%).
+}}
+{{PatchTableElement|2025-05-01|
+{{DevComment|Developer Comments: We've observed many scenarios where it feels like Orisa can become invincible. In combination with some of her other powers and items, we felt that Restorify was healing too much.
+
+Solar Regenergy was too efficient for its cost, so we’re tuning it back to be more in line with items of similar cost.}}
+
+{{al|Restortify}} – Powers
+* Reduced healing to 5% of your Max Life every 1 second (down from 10%).
+
+{{al|Solar Regenergy}} – Rare Survival Hero Item
+* Reduced Armor Restoration to 3% of Max Life (down from 5%).
+}}
+{{PatchTableElement|2025-04-22|
+; Introducing Stadium
+* Tank Heroes: D.Va, Junker Queen, '''Orisa''', Reinhardt, and Zarya.
+* Damage Heroes: Ashe, Cassidy, Genji, Mei, Reaper, and Soldier: 76.
+* Support Heroes: Ana, Juno, Kiriko, Lucio, Mercy, and Moira.
+}}
+</onlyinclude>{{PatchTableEnd}}
+
+{{StadiumNav}}
+[[Category:{{BASEPAGENAME}}]]
+[[Category:Stadium hero pages]]

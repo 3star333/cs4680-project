@@ -1,0 +1,2737 @@
+[
+  {
+    "slug": "2-frag-2-frurious",
+    "name": "2 Frag 2 Frurious",
+    "icon": "2_Frag_2_Frurious.png",
+    "affectedAbility": "Frag Launcher",
+    "description": "[Frag Launcher] has a 25% chance to shoot an additional projectile that deals 66% reduced damage.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "advanced-throwbotics",
+    "name": "Advanced Throwbotics",
+    "icon": "Advanced_Throwbotics.png",
+    "affectedAbility": "Javelin Spin",
+    "description": "When you use Javelin Spin, launch an Energy Javelin with 75% damage",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "aftershock-sojourn",
+    "name": "Aftershock (Sojourn)",
+    "icon": "Aftershock_Power.png",
+    "affectedAbility": "Railgun Alt Fire",
+    "description": "Charged Shot final blows trigger an explosion equal to 75% of the shot's damage.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "all-grown-up",
+    "name": "All Grown Up",
+    "icon": "All_Grown_Up.png",
+    "affectedAbility": "Deploy Turret",
+    "description": "While [Overload] is active, [Turrets] are upgraded 1 Level, to a maximum of Level 3.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "alternate-ending",
+    "name": "Alternate Ending",
+    "icon": "Alternate_Ending.png",
+    "affectedAbility": "Recall",
+    "description": "When you use [Recall], heal allies within 6m for 100% of the damage they have taken in the last 3s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "amplification-barrier",
+    "name": "Amplification Barrier",
+    "icon": "Amplification_Barrier.png",
+    "affectedAbility": "Barrier Field",
+    "description": "Friendly projectiles that pass through your [Barrier Field] deal 15% more damage.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "apogee-alignment",
+    "name": "Apogee Alignment",
+    "icon": "Apogee_Alignment.png",
+    "affectedAbility": "| official_description = When you use an ability, create 2 [Hyperspheres] that orbit around you. They explode on contact but deal 50% reduced damage.",
+    "description": "",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "artsy-dartsy",
+    "name": "Artsy Dartsy",
+    "icon": "Artsy_Dartsy.png",
+    "affectedAbility": "Biotic Rifle",
+    "description": "While scoped with [Biotic Rifle], Ana can shoot [Sleep Dart] through the [Biotic Rifle] with 150% increased projectile speed.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "astrophysical",
+    "name": "Astrophysical",
+    "icon": "Astrophysical.png",
+    "affectedAbility": "| official_description = [Quick Melee] causes enemies hit to levitate into the air for 1s.<br>(10s Cooldown)",
+    "description": "",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "aura-farming",
+    "name": "Aura Farming",
+    "icon": "Aura_Farming.png",
+    "affectedAbility": "Inspire",
+    "description": "When [Inspire] is triggered by an ability, all heroes affected by it gain Overhealth equal to 5% of your Max Life for 5s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "auto-recall",
+    "name": "Auto Recall",
+    "icon": "Auto_Recall.png",
+    "affectedAbility": "Recall",
+    "description": "Once per round, if you would die, instead use [Recall] for free. Spending your ultimate charge reduces [Recall]'s cooldown by 50%.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "avalanche",
+    "name": "Avalanche",
+    "icon": "Avalanche.png",
+    "affectedAbility": "Blizzard",
+    "description": "Visible enemies within 20m of Blizzard are slowed by 25%.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "b-o-b-jr",
+    "name": "B.O.B. Jr.",
+    "icon": "B.O.B._Jr..png",
+    "affectedAbility": "B.O.B.",
+    "description": "[B.O.B.] costs 50% less Ultimate Charge but has reduced Life, 20% reduced Attack Speed, and is significantly smaller.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "back-off",
+    "name": "Back Off",
+    "icon": "Back_Off.png",
+    "affectedAbility": "Biotic Field",
+    "description": "Enemies within your [Biotic Field] take damage equal to 100% of its healing output.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "backstabber",
+    "name": "Backstabber",
+    "icon": "Backstabber_Power.png",
+    "affectedAbility": "Hellfire Shotguns",
+    "description": "After using an ability, your next shot deals 50% additional damage over 3s to enemies struck from behind.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "bango",
+    "name": "Bango!",
+    "icon": "Bango_.png",
+    "affectedAbility": "Frag Launcher",
+    "description": "[Frag Launcher] Direct Hits without bouncing Burn for 20% additional damage over 2s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "barbed-shot",
+    "name": "Barbed Shot",
+    "icon": "Barbed_Shot.png",
+    "affectedAbility": "Bonespur",
+    "description": "[Bonespur] shots also fire 2 [Spike Guard] spikes at hit targets for {{Ability Power|10",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "barrel-roll",
+    "name": "Barrel Roll",
+    "icon": "Barrel_Roll.png",
+    "affectedAbility": "Combat Roll",
+    "description": "[Combat Roll] takes you 50% further and deals {{Ability_Power|65",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "barrier-benefits",
+    "name": "Barrier Benefits",
+    "icon": "Barrier_Benefits.png",
+    "affectedAbility": "Particle Barrier",
+    "description": "When [Barriers] expire, grant Overhealth equal to 100% of remaining [Barrier] Health to the target for 2s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "barrier-reconstruction",
+    "name": "Barrier Reconstruction",
+    "icon": "Barrier_Reconstruction.png",
+    "affectedAbility": "Barrier Field",
+    "description": "When you deal damage with [Rocket Hammer] or [Fire Strike], restore health to [Barrier Field] equal to 15% of [Barrier Field] Max Health.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "battle-medic",
+    "name": "Battle Medic",
+    "icon": "Battle_Medic.png",
+    "affectedAbility": "Caduceus Blaster",
+    "description": "Every 1s your Staff is attached, [Caduceus Blaster] gains 3% Attack Speed (stacks 10 times) until you reload or swap to your Staff.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "beat-drop",
+    "name": "Beat Drop",
+    "icon": "Beat_Drop_Power.png",
+    "affectedAbility": "Sound Barrier",
+    "description": "20% Ultimate Cost Reduction.<br>Landing on an enemy with [Sound Barrier] deals up to {{Ability_Power|250",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "big-bang",
+    "name": "Big Bang",
+    "icon": "Big_Bang.png",
+    "affectedAbility": "Frag Launcher",
+    "description": "When a [Frag Launcher] shot bounces, increase its projectile size by 33%.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "bingo",
+    "name": "Bingo!",
+    "icon": "Bingo_.png",
+    "affectedAbility": "Frag Launcher",
+    "description": "[Frag Launcher] Direct Hits without bouncing reduce cooldown of abilities by 25%.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "biotic-bullseye",
+    "name": "Biotic Bullseye",
+    "icon": "Biotic_Bullseye.png",
+    "affectedAbility": "Biotic Field",
+    "description": "While in [Biotic Field], critical hits restore 10% Max Ammo and extend the duration of Biotic Field by 0.5s, up to 5s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "black-hole",
+    "name": "Black Hole",
+    "icon": "Black_Hole_Power.png",
+    "affectedAbility": "Hyper Ring",
+    "description": "[Hyper Ring] slows the Move Speed of enemies who pass through it by 35% for 2s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "blacksmith",
+    "name": "Blacksmith",
+    "icon": "Blacksmith.png",
+    "affectedAbility": "Forge Hammer",
+    "description": "Hitting an ally with [Forge Hammer] heals them for 66% of [Forge Hammer] damage.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "blade-parade",
+    "name": "Blade Parade",
+    "icon": "Blade_Parade.png",
+    "affectedAbility": "Jagged Blade",
+    "description": "Holding [Jagged Blade] charges it, increasing its damage by up to 100% and causing it to knockback.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "blazing-blitz",
+    "name": "Blazing Blitz",
+    "icon": "Blazing_Blitz.png",
+    "affectedAbility": "Fire Strike",
+    "description": "After using [Earthshatter], every [Rocket Hammer] swing launches a [Fire Strike] for 4s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "blink-boosts",
+    "name": "Blink Boosts",
+    "icon": "Blink_Boosts.png",
+    "affectedAbility": "Glide Boost",
+    "description": "[Glide Boost] gains 2 additional charges and has a 40% reduced cooldown, but has 75% reduced duration.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "blink-of-an-eye",
+    "name": "Blink Of An Eye",
+    "icon": "Blink_of_an_Eye.png",
+    "affectedAbility": "Blink",
+    "description": "Critical hits reduce the cooldown of [Blink] by 0.04s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "blitz-barrage",
+    "name": "Blitz Barrage",
+    "icon": "Blitz_Barrage.png",
+    "affectedAbility": "Barrage",
+    "description": "Gain 40% Move Speed during [Barrage].<br>After using [Jet Dash], fire a [Barrage] with 60% fewer [Mini-Rockets].",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "blizznado",
+    "name": "Blizznado",
+    "icon": "Blizznado.png",
+    "affectedAbility": "Blizzard",
+    "description": "While within [Blizzard], heal 15% of your life every 1s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "bloodcrazed",
+    "name": "Bloodcrazed",
+    "icon": "Bloodcrazed.png",
+    "affectedAbility": "Rampage",
+    "description": "[Rampage] and [Carnage] gives 15% of Max Life as Overhealth per hit.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "bonerot",
+    "name": "Bonerot",
+    "icon": "Bonerot.png",
+    "affectedAbility": "Bonespur",
+    "description": "Ammo gained from [Spike Guard] deals {{Weapon Power|10",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "bow-down",
+    "name": "Bow Down",
+    "icon": "Bow_Down.png",
+    "affectedAbility": "Rampage",
+    "description": "[Rampage] now also knocks down enemies hit for 1.5s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "bringin-the-pain",
+    "name": "Bringin' The Pain",
+    "icon": "Bringin__the_Pain.png",
+    "affectedAbility": "Downpour",
+    "description": "[Downpour] costs 20% less Ultimate Charge. After using [Downpour], immediately reset all cooldowns and gain 25% Cooldown Reduction for 10s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "bullet-time",
+    "name": "Bullet Time",
+    "icon": "Bullet_Time.png",
+    "affectedAbility": "Recall",
+    "description": "When you use [Recall], drop a temporal field that slows projectiles by 95% for 6s and you take 25% less damage from Hitscan for 3s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "bullseye",
+    "name": "Bullseye",
+    "icon": "Bullseye.png",
+    "affectedAbility": "Peacekeeper",
+    "description": "Critical hit reduces [Combat Roll]'s cooldown by 2s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "bunny-hop",
+    "name": "Bunny Hop",
+    "icon": "Bunny_Hop.png",
+    "affectedAbility": "Violent Leap",
+    "description": "Using [Violent Leap] without using Slash refunds 2s of cooldown for [Violent Leap] and [Jagged Wall].",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "burst-aid",
+    "name": "Burst Aid",
+    "icon": "Burst_Aid.png",
+    "affectedAbility": "Rocket Flail",
+    "description": "Ability: Use [Reload] to consume all [Repair Pack] charges. For each charge, heal 25% of Max Life and gain 10% Attack Speed for 3s. (10s Cooldown).",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "calamity",
+    "name": "Calamity",
+    "icon": "Calamity.png",
+    "affectedAbility": "Coach Gun",
+    "description": "Using [Coach Gun] reloads 2 Ammo. [The Viper]'s next 2 hits deal {{Ability_Power|40",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "carpet-bomb",
+    "name": "Carpet Bomb",
+    "icon": "Carpet_Bomb.png",
+    "affectedAbility": "Barrage",
+    "description": "Gain 40% Move Speed during [Barrage].<br>[Barrage] has 50% increased duration.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "centripetal-charge",
+    "name": "Centripetal Charge",
+    "icon": "Centripetal_Charge.png",
+    "affectedAbility": "Terra Surge",
+    "description": "25% Ultimate Cost reduction. After using Terra Surge, reset your ability cooldowns.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "chain-grasp",
+    "name": "Chain Grasp",
+    "icon": "Chain_Grasp.png",
+    "affectedAbility": "Biotic Grasp",
+    "description": "After using [Biotic Orb], [Biotic Grasp]'s secondary fire chains to 2 additional targets within 10m for 3s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "chaingun",
+    "name": "Chaingun",
+    "icon": "Chaingun.png",
+    "affectedAbility": "Heavy Pulse Rifle",
+    "description": "While continuously shooting [Pulse Rifle], each shot grants 0.4% Weapon Power, stacking up to 100 times.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "chop-chop",
+    "name": "Chop Chop",
+    "icon": "Chop_Chop.png",
+    "affectedAbility": "Carnage",
+    "description": "[Carnage] gains an additional charge but its cooldown reduction per hit is reduced to 1s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "circle-of-strife",
+    "name": "Circle of Strife",
+    "icon": "Circle_of_Strife.png",
+    "affectedAbility": "Transcendence",
+    "description": "While using [Transcendence], apply [Discord Orb] to all enemies within range.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "circuit-breaker",
+    "name": "Circuit Breaker",
+    "icon": "Circuit_Breaker.png",
+    "affectedAbility": "Tesla Cannon",
+    "description": "Electric damage is increased by 5%. Gain 15% of Electric damage as Overhealth, up to 100.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "cleansing-charge",
+    "name": "Cleansing Charge",
+    "icon": "Cleansing_Charge.png",
+    "affectedAbility": "Protection Suzu",
+    "description": "When you cleanse negative effects with [Protection Suzu], gain 5% Ultimate Charge for each hero cleansed.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "clocked",
+    "name": "Clocked",
+    "icon": "Clocked.png",
+    "affectedAbility": "Rivet Gun",
+    "description": "[Turret] damage marks enemies for 8s. Gain 25% Weapon Lifesteal and 15% increased Weapon Damage against marked enemies.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "clone-conjuration",
+    "name": "Clone Conjuration",
+    "icon": "Clone_Conjuration.png",
+    "affectedAbility": "Swift Step",
+    "description": "After using [Swift Step], create a clone of yourself that lasts for 4s. Clone has 65% less damage and healing",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "cold-blaster",
+    "name": "Cold Blaster",
+    "icon": "Cold_Blaster.png",
+    "affectedAbility": "Blizzard",
+    "description": "[Endothermic Blaster]'s primary fire does 20% increased damage to enemies within [Blizzard].",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "come-get-yer-armor",
+    "name": "Come Get Yer Armor",
+    "icon": "Come_Get_Yer_Armor.png",
+    "affectedAbility": "Overload",
+    "description": "When you use [Overload], throw 2 Armor Packs that grant Armor equal to 20% of your Max Life. Armor Packs do not stack.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "comfy-cloud",
+    "name": "Comfy Cloud",
+    "icon": "Comfy_Cloud.png",
+    "affectedAbility": "Sleep Dart",
+    "description": "[Sleep Dart] explodes on contact, hitting targets within 3m, but Sleep has 50% reduced duration.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "commotion-cycle",
+    "name": "Commotion Cycle",
+    "icon": "Commotion_Cycle.png",
+    "affectedAbility": "Disruptor Shot",
+    "description": "Dealing damage with [Charged Shot] refunds up to 35% of [Disruptor Shot]'s cooldown, based on the Charge spent.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "conductor-chase",
+    "name": "Conductor Chase",
+    "icon": "Conductor_Chase.png",
+    "affectedAbility": "Railgun",
+    "description": "Generate 25% more [Railgun] Charge. [Railgun] Charge decays 75% slower.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "consecrated-ground",
+    "name": "Consecrated Ground",
+    "icon": "Consecrated_Ground.png",
+    "affectedAbility": "Rally",
+    "description": "+25% Starting Ultimate Charge.<br>While [Rally] is active, trigger [Inspire] every 1.5s and ability cooldowns refresh 25% faster.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "containment-shield",
+    "name": "Containment Shield",
+    "icon": "Containment_Shield.png",
+    "affectedAbility": "Particle Barrier",
+    "description": "[Barrier] heals the target for 5% of your Max Life every 1s and grants 20% Move Speed while active.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "cosmic-coolant",
+    "name": "Cosmic Coolant",
+    "icon": "Cosmic_Coolant.png",
+    "affectedAbility": "Pulsar Torpedoes",
+    "description": "[Pulsar Torpedoes] cooldown is reduced by 0.5s for each target it hits.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "coulder",
+    "name": "Coulder",
+    "icon": "Coulder.png",
+    "affectedAbility": "Cryo-Freeze",
+    "description": "[Cryo-Freeze] now encases you in a rolling iceball that can knock back enemies and deal {{Ability_Power|20",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "countermeasures",
+    "name": "Countermeasures",
+    "icon": "Countermeasures.png",
+    "affectedAbility": "Defense Matrix",
+    "description": "When you mitigate 150 damage with [Defense Matrix], automatically fire 2 [Micro Missiles].",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "cratered",
+    "name": "Cratered",
+    "icon": "Cratered.png",
+    "affectedAbility": "Helix Rockets",
+    "description": "Increase [Helix Rocket] explosion radius by 40% and explosion damage by 15%.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "crepuscular-circle",
+    "name": "Crepuscular Circle",
+    "icon": "Tethered_Tourniquet.png",
+    "affectedAbility": "Valkyrie",
+    "description": "While [Valkyrie] is active, the healing and damage boost of [Caduceus Staff] are automatically applied to nearby allies.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "cross-orbal",
+    "name": "Cross-Orbal",
+    "icon": "Cross-Orbal.png",
+    "affectedAbility": "Biotic Orb",
+    "description": "[Biotic Orb] launches an additional [Biotic Orb] of the other type with 50% reduced capacity.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "crossing-guard",
+    "name": "Crossing Guard",
+    "icon": "Crossing_Guard.png",
+    "affectedAbility": "Kitsune Rush",
+    "description": "[Kitsune Rush] now also reduces enemies Move Speed by 50% for 2s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "crowd-pleaser",
+    "name": "Crowd Pleaser",
+    "icon": "Crowd_Pleaser.png",
+    "affectedAbility": "Soundwave",
+    "description": "After using Soundwave, heal all allies affected by [Crossfade] for 33% of [Soundwave]'s damage. This healing is doubled while [Amp It Up] is active.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "cryclone",
+    "name": "Cryclone",
+    "icon": "Cryclone.png",
+    "affectedAbility": "Cryo-Freeze",
+    "description": "[Cryo-Freeze] spawns a mini [Blizzard] that slows enemies.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "cut-em-gracie",
+    "name": "Cut 'Em, Gracie!",
+    "icon": "Cut__Em__Gracie_.png",
+    "affectedAbility": "Jagged Blade",
+    "description": "Each enemy hit by [Jagged Blade] while it returns to you reduces its cooldown by 2s and is slowed by 35% for 1s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "cybernetic-speed",
+    "name": "Cybernetic Speed",
+    "icon": "Cybernetic_Speed.png",
+    "affectedAbility": "Shuriken",
+    "description": "Dealing damage with [Shuriken] grants 2% Attack Speed for 3s, stacking up to 15 times.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "cyclic-salvo",
+    "name": "Cyclic Salvo",
+    "icon": "Cyclic_Salvo.png",
+    "affectedAbility": "Rocket Launcher",
+    "description": "[Rocket Launcher] direct hits grant 10 fuel and reduce your cooldowns by 1s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "cyclone",
+    "name": "Cyclone",
+    "icon": "Cyclone.png",
+    "affectedAbility": "| official_description = When you use [Updraft], fire a [Take Aim] bolt at your crosshair.",
+    "description": "",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "dead-man-walking",
+    "name": "Dead Man Walking",
+    "icon": "Dead_Man_Walking.png",
+    "affectedAbility": "Peacekeeper",
+    "description": "Eliminating an enemy with a critical hit grants 1 Max Ammo for the round, up to 4.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "death-step",
+    "name": "Death Step",
+    "icon": "Death_Step.png",
+    "affectedAbility": "Shadow Step",
+    "description": "After using [Shadow Step], cast [Death Blossom] for 1.5s with 50% reduced damage.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "deconstruction",
+    "name": "Deconstruction",
+    "icon": "Deconstruction.png",
+    "affectedAbility": "Biotic Grasp",
+    "description": "After you spend 50 [Biotic Energy], deal 20% increased damage for 6s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "deep-pockets",
+    "name": "Deep Pockets",
+    "icon": "Deep_Pockets.png",
+    "affectedAbility": "Revdraw Crossbow",
+    "description": "When you use an ability, restore 40% of your Max Ammo.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "deflect-o-bot",
+    "name": "Deflect-o-bot",
+    "icon": "Deflect-o-Bot.png",
+    "affectedAbility": "Deflect",
+    "description": "+50% Deflected Projectile Speed.<br>During the first 1.5s of [Deflect], automatically deflect projectiles towards enemies.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "destruction-s-divide-stadium",
+    "name": "Destruction's Divide (Stadium)",
+    "icon": "Destruction_s_Divide_Power.png",
+    "affectedAbility": "Coalescence",
+    "description": "[Coalescence] can be toggled between pure healing or pure damage, with 30% greater effect.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "discord-fever",
+    "name": "Discord Fever",
+    "icon": "Discord_Fever.png",
+    "affectedAbility": "Orb of Discord",
+    "description": "When [Discord Orb] is applied to a target they take {{Ability Power|50",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "discord-inferno",
+    "name": "Discord Inferno",
+    "icon": "Discord_Inferno.png",
+    "affectedAbility": "Orb of Discord",
+    "description": "When you critically hit a target affected by your [Discord Orb], the [Orb of Destruction] explodes, dealing {{Ability Power|50",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "distortion",
+    "name": "Distortion",
+    "icon": "Distortion.png",
+    "affectedAbility": "Caduceus Staff",
+    "description": "Allies boosted by [Caduceus Staff] gain 20% Lifesteal.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "double-barreled",
+    "name": "Double Barreled",
+    "icon": "Double_Barreled.png",
+    "affectedAbility": "Coach Gun",
+    "description": "[Coach Gun] gains an additional charge.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "double-helix",
+    "name": "Double Helix",
+    "icon": "Double_Helix.png",
+    "affectedAbility": "Helix Rockets",
+    "description": "[Helix Rocket] fires a second homing [Helix Rocket] that deals 70% reduced damage.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "dragon-s-breath",
+    "name": "Dragon's Breath",
+    "icon": "Dragon_s_Breath.png",
+    "affectedAbility": "Dragonblade",
+    "description": "[Dragonblade] swings launch a large piercing projectile that deals 50% of [Dragonblade]'s damage.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "dreamy",
+    "name": "Dreamy",
+    "icon": "Dreamy.png",
+    "affectedAbility": "Sleep Dart",
+    "description": "[Sleep Dart] can hit allies, healing 80% of their max Life over 4s instead of putting them to sleep.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "dual-harmony",
+    "name": "Dual Harmony",
+    "icon": "Dual_Harmony_Power.png",
+    "affectedAbility": "Orb of Harmony",
+    "description": "Gain a 2nd [Harmony Orb], but they both heal 35% less.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "dwarlord",
+    "name": "Dwarlord",
+    "icon": "Dwarlord.png",
+    "affectedAbility": "Overload",
+    "description": "[Overload] grants all allies within 5m Overhealth equal to 50% of [Overload] Overhealth and 10% Attack Speed.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "early-detonation",
+    "name": "Early Detonation",
+    "icon": "Early_Detonation.png",
+    "affectedAbility": "Dynamite",
+    "description": "Shooting [Dynamite] reloads 5 Ammo and reduces the cooldown of [Dynamite] by 3s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "easy-rider",
+    "name": "Easy Rider",
+    "icon": "Easy_Rider.png",
+    "affectedAbility": "Deadeye",
+    "description": "While using [Deadeye], gain {{Ability_Power|100",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "electro-cluster",
+    "name": "Electro Cluster",
+    "icon": "Electro_Cluster.png",
+    "affectedAbility": "Tesla Cannon",
+    "description": "+25% [Tesla Cannon] Primary Fire Max Range.<br>[Tesla Cannon]'s Primary Fire deals 3% increased damage per enemy being hit.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "empowering-you",
+    "name": "Empowering You",
+    "icon": "Empowering_You.png",
+    "affectedAbility": "Biotic Grasp",
+    "description": "[Biotic Grasp]'s secondary fire can target allies, increasing their damage by 15%.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "enhanced-targeting-system",
+    "name": "Enhanced Targeting System",
+    "icon": "Enhanced_Targeting_System.png",
+    "affectedAbility": "Overclock",
+    "description": "During [Overclock], [Railgun] Primary Fire automatically targets enemies.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "enlightenment",
+    "name": "Enlightenment",
+    "icon": "Enlightenment.png",
+    "affectedAbility": "Orb of Harmony",
+    "description": "Allies affected by [Harmony Orb] are healed for 35% of the damage you deal.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "equivalent-exchange",
+    "name": "Equivalent Exchange",
+    "icon": "Equivalent_Exchange.png",
+    "affectedAbility": "Resurrect",
+    "description": "You have 3 charges of [Resurrect] with 33% reduced cast time, but their cooldowns only reset at the start of a round.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "ethereal-excision",
+    "name": "Ethereal Excision",
+    "icon": "Ethereal_Excision.png",
+    "affectedAbility": "Biotic Grasp",
+    "description": "While aiming at an enemy's head with [Biotic Grasp]'s secondary fire, gain 30% Move Speed, 30% Lifesteal, and restore 100% more Biotic Energy.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "evasive-maneuvers",
+    "name": "Evasive Maneuvers",
+    "icon": "Evasive_Maneuvers.png",
+    "affectedAbility": "Concussive Blast",
+    "description": "After using [Jump Jet], [Concussive Blast] gains homing and hinders enemies for 1.50s on direct hit.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "event-horizon",
+    "name": "Event Horizon",
+    "icon": "Event_Horizon.png",
+    "affectedAbility": "Kinetic Grasp",
+    "description": "Damage absorbed by [Kinetic Grasp] also restores [Experimental Barrier]'s health. Excess is converted to Overhealth.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "experimental-tech",
+    "name": "Experimental Tech",
+    "icon": "Experimental_Tech.png",
+    "affectedAbility": "Disruptor Shot",
+    "description": "[Disruptor Shot] slows enemies within its area for 15% and grants 33% of its damage dealt as [Railgun] Charge.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "express-detonation",
+    "name": "Express Detonation",
+    "icon": "Express_Detonation.png",
+    "affectedAbility": "Self-Destruct",
+    "description": "[Self-Destruct] explodes 15% faster.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "extendothermics",
+    "name": "Extendothermics",
+    "icon": "Extendothermics.png",
+    "affectedAbility": "Endothermic Blaster",
+    "description": "[Endothermic Blaster]'s primary fire range is increased by 6m.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "extra-charge",
+    "name": "Extra Charge",
+    "icon": "Extra_Charge.png",
+    "affectedAbility": "Concussive Blast",
+    "description": "[Concussive Blast] gains 1 extra charge.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "facetanking",
+    "name": "Facetanking",
+    "icon": "Facetanking.png",
+    "affectedAbility": "Defense Matrix",
+    "description": "[Defense Matrix] heals you for 30% of the damage it blocks.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "factory-reset",
+    "name": "Factory Reset",
+    "icon": "Factory_Reset.png",
+    "affectedAbility": "Fortify",
+    "description": "While Fortify is active, Javelin Spin and Energy Javelin gain 25% Cooldown Reduction.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "falconer",
+    "name": "Falconer",
+    "icon": "Falconer.png",
+    "affectedAbility": "Nano Boost",
+    "description": "[Nano Boost] also gives 20% increased Attack Speed and 10% Ultimate Charge",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "fast-forward",
+    "name": "Fast Forward",
+    "icon": "Fast_Forward.png",
+    "affectedAbility": "Sonic Amplifier",
+    "description": "While above 50% Move Speed, increase damage by 30%.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "feeling-the-burn",
+    "name": "Feeling the Burn",
+    "icon": "Feeling_The_Burn.png",
+    "affectedAbility": "Rocket Hammer",
+    "description": "Every 3rd [Rocket Hammer] swing applies Burn, dealing 30% [Rocket Hammer] damage over 2s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "fine-tuned-thrusters",
+    "name": "Fine-Tuned Thrusters",
+    "icon": "Fine-Tuned_Thrusters.png",
+    "affectedAbility": "Power Slide",
+    "description": "Gain 25% Damage Reduction during [Power Slide]. [Power Slide] has 100% increased Duration.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "first-responder",
+    "name": "First Responder",
+    "icon": "First_Responder.png",
+    "affectedAbility": "Resurrect",
+    "description": "When you [Resurrect] an ally, you both gain {{Ability_Power",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "fission-field",
+    "name": "Fission Field",
+    "icon": "Fission_Field.png",
+    "affectedAbility": "Particle Barrier",
+    "description": "[Projected Barrier] also applies to 1 additional ally within 10m, but has 25% reduced maximum [Energy] gain and 20% reduced duration.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "flash-fist",
+    "name": "Flash Fist",
+    "icon": "Flash_Fist.png",
+    "affectedAbility": "Quick Melee",
+    "description": "For 1s after using [Blink], your next [Quick Melee] is affected by Ability Power, deals 10 extra damage, and knocks enemies back.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "flash-in-the-pan",
+    "name": "Flash in the Pan",
+    "icon": "Flash_In_The_Pan.png",
+    "affectedAbility": "Flashbang",
+    "description": "Eliminating an enemy recently damaged by [Flashbang] grants 20% Ultimate Charge.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "fleet-foot",
+    "name": "Fleet Foot",
+    "icon": "Fleet_Foot.png",
+    "affectedAbility": "Swift Step",
+    "description": "[Swift Step] can be used directionally without a target. Cooldown is increased by 35% when used without a target.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "flying-kick",
+    "name": "Flying Kick",
+    "icon": "Flying_Kick.png",
+    "affectedAbility": "| official_description = While airborne, [Quick Melee] becomes a dash kick that stuns if it knocks an enemy back into a wall. (5s Cooldown)",
+    "description": "",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "focused-fusion",
+    "name": "Focused Fusion",
+    "icon": "Focused_Fusion.png",
+    "affectedAbility": "Fusion Cannons",
+    "description": "[Fusion Cannon]'s spread is reduced by 50% and damage falloff range is 20m farther.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "forager",
+    "name": "Forager",
+    "icon": "Forager.png",
+    "affectedAbility": "Revdraw Crossbow",
+    "description": "For 2s after using [Quick Dash], [Revdraw Crossbow] hits heal you for 5% of your Max Life.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "foresight",
+    "name": "Foresight",
+    "icon": "Foresight.png",
+    "affectedAbility": "Pulse Pistols",
+    "description": "After using [Blink], your next {{Max Ammo|4",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "forged-in-fire",
+    "name": "Forged in Fire",
+    "icon": "Forged_In_Fire.png",
+    "affectedAbility": "Forge Hammer",
+    "description": "While [Overload] is active, every Forge Hammer Swing explodes, dealing bonus damage equal to 10% of your Max Life in a 3m radius.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "forged-under-fire",
+    "name": "Forged Under Fire",
+    "icon": "Forged_Under_Fire.png",
+    "affectedAbility": "Deflect",
+    "description": "While [Deflect] is active, heal 60% of the damage it prevents.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "fortress",
+    "name": "Fortress",
+    "icon": "Fortress.png",
+    "affectedAbility": "Jagged Wall",
+    "description": "[Jagged Wall] becomes 35% larger. [Jagged Wall] knockback applies {{Ability Power|40",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "fountain-of-soothe",
+    "name": "Fountain of Soothe",
+    "icon": "Fountain_of_Soothe.png",
+    "affectedAbility": "Sleep Dart",
+    "description": "[Sleep Dart] spawns a [Biotic Grenade] with 50% damage, healing and duration on impact.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "foxy-fireworks",
+    "name": "Foxy Fireworks",
+    "icon": "Foxy_Fireworks.png",
+    "affectedAbility": "Kunai",
+    "description": "After reloading, your next 3 thrown [Kunai] explode on contact, dealing {{Weapon_Power|20",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "frontliners",
+    "name": "Frontliners",
+    "icon": "Frontliners.png",
+    "affectedAbility": "Biotic Field",
+    "description": "Allies in range of your [Biotic Field] when it spawns gain Overhealth equal to 25% of your max Life for 3s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "frost-armor",
+    "name": "Frost Armor",
+    "icon": "Frost_Armor.png",
+    "affectedAbility": "Endothermic Blaster",
+    "description": "Gain Armor equal to 5% of the primary fire damage you deal, up to 100, until the end of the round.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "frost-nova",
+    "name": "Frost Nova",
+    "icon": "Frost_Nova.png",
+    "affectedAbility": "Cryo-Freeze",
+    "description": "When [Cryo-Freeze] ends, knock back nearby enemies, dealing {{Ability_Power|60",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "fuel-conversion",
+    "name": "Fuel Conversion",
+    "icon": "Fuel_Conversion.png",
+    "affectedAbility": "Jet Dash",
+    "description": "[Jet Dash] gains 50% cooldown reduction but now costs 65 fuel.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "fuel-depot",
+    "name": "Fuel Depot",
+    "icon": "Fuel_Depot.png",
+    "affectedAbility": "Rocket Launcher",
+    "description": "[Rocket Launcher] direct hits permanently increase your maximum fuel by 2, stacking up to 25 times.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "full-house",
+    "name": "Full House",
+    "icon": "Full_House.png",
+    "affectedAbility": "Peacekeeper",
+    "description": "For each Ammo available, [Peacekeeper]'s primary fire gains 1% increased damage, up to 25%.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "gachabomb",
+    "name": "Gachabomb",
+    "icon": "Gachabomb.png",
+    "affectedAbility": "Total Mayhem",
+    "description": "+20% [Total Mayhem] Explosion Radius.<br>[Total Mayhem] creates a random number of additional bombs.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "get-stuffed",
+    "name": "Get Stuffed!",
+    "icon": "Get_Stuffed_.png",
+    "affectedAbility": "Quick Melee",
+    "description": "[Quick Melee] hits grant 5% Ultimate Charge.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "ghosted",
+    "name": "Ghosted",
+    "icon": "Ghosted.png",
+    "affectedAbility": "Wraith Form",
+    "description": "While in [Wraith Form], passing through enemies slows their Move speed and Attack Speed by 30% for 3s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "god-ray",
+    "name": "God Ray",
+    "icon": "God_Ray.png",
+    "affectedAbility": "Whip Shot",
+    "description": "Ability damage to targets over 10m away Burns them for 4% bonus damage for every 1m the ability travelled.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "gotta-have-faith",
+    "name": "Gotta Have Faith",
+    "icon": "Gotta_Have_Faith.png",
+    "affectedAbility": "Orb of Harmony",
+    "description": "[Harmony Orb] targets can be out of your line of sight for 10s longer before [Harmony Orb] returns to you.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "graviton-anomaly",
+    "name": "Graviton Anomaly",
+    "icon": "Graviton_Anomaly.png",
+    "affectedAbility": "Graviton Surge",
+    "description": "25% Ultimate Cost Reduction<br>[Graviton Surge] base damage is increased to 30 and increased by [Energy], but has 50% reduced duration.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "hanamura-healing",
+    "name": "Hanamura Healing",
+    "icon": "Hanamura_Healing.png",
+    "affectedAbility": "Swift Strike",
+    "description": "Critical hits and [Swift Strike] grant Overhealth equal to 25% of their damage dealt for 5s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "hard-stuck",
+    "name": "Hard Stuck",
+    "icon": "Hard_Stuck.png",
+    "affectedAbility": "Disruptor Shot",
+    "description": "[Disruptor Shot] can stick to enemies. Stuck [Disruptor Shots] deal 50% less damage.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "harvest-fest",
+    "name": "Harvest Fest",
+    "icon": "Harvest_Fest.png",
+    "affectedAbility": "Hellfire Shotguns",
+    "description": "[Hellfire Shotgun] hits have a 10% change to spawn a [Soul Globe]. When picked up, restore 25% Life, 25% Ammo, and gain 25% Move Speed fpr 3s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "hashimoto-s-bane",
+    "name": "Hashimoto's Bane",
+    "icon": "Hashimoto_s_Bane.png",
+    "affectedAbility": "Shuriken",
+    "description": "After using an ability, your next secondary fire throws 2 extra [Shuriken] that seek enemies but deal 50% less damage.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "head-honcho",
+    "name": "Head Honcho",
+    "icon": "Head_Honcho.png",
+    "affectedAbility": "The Viper",
+    "description": "Each unshoped shot you land increases the damage of the next scoped shot you land by 5%, up to 15%.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "heat-seekers",
+    "name": "Heat Seekers",
+    "icon": "Heat_Seekers.png",
+    "affectedAbility": "Jet Dash",
+    "description": "After using [Jet Dash], your next [Primary Fire] locks onto enemies.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "here-to-spot-you",
+    "name": "Here to Spot You",
+    "icon": "Here_To_Spot_You.png",
+    "affectedAbility": "Particle Barrier",
+    "description": "[Projected Barrier] pulls you to the targeted ally and heals you for 20% of Max Life over 3s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "hidden-blade",
+    "name": "Hidden Blade",
+    "icon": "Hidden_Blade.png",
+    "affectedAbility": "Swift Strike",
+    "description": "Gain 60% Melee Lifesteal and increase [Quick Melee] damage by 15.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "hit-me-again",
+    "name": "Hit Me Again",
+    "icon": "Hit_Me_Again.png",
+    "affectedAbility": "Spike Guard",
+    "description": "Each fired [Spike Guard] spike hit reduces [Violent Leap]'s cooldown by 0.1s. [Spike Guard] Movement Speed penalty is reduced by 90%.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "home-remedy",
+    "name": "Home Remedy",
+    "icon": "Home_Remedy.png",
+    "affectedAbility": "Biotic Grenade",
+    "description": "[Biotic Grenade] grants Overhealth equal to 200% of its healing.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "hooves-of-steel",
+    "name": "Hooves of Steel",
+    "icon": "Hooves_of_Steel.png",
+    "affectedAbility": "Fortify",
+    "description": "After Fortify ends, gain Shields equal to 50% of the damage received during Fortify. Resets when you next use Fortify.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "hop-boom",
+    "name": "Hop Boom",
+    "icon": "Hop_Boom.png",
+    "affectedAbility": "Concussion Mine",
+    "description": "After launching yourself with [Concussion Mine], detonate a [Concussion Mine] whenever you land with 30% reduced effectiveness.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "hot-potato",
+    "name": "Hot Potato",
+    "icon": "Hot_Potato.png",
+    "affectedAbility": "Flashbang",
+    "description": "[Flashbang] adds 3 extra Ammo on hit until [Peacekeeper] is reloaded.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "hot-rotate-o",
+    "name": "Hot Rotate-O",
+    "icon": "Hot_Rotate-O.png",
+    "affectedAbility": "Javelin Spin",
+    "description": "Javelin Spin gains 35% Cooldown Reduction but now generates Heat.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "hunker-down",
+    "name": "Hunker Down",
+    "icon": "Hunker_Down.png",
+    "affectedAbility": "Helix Rockets",
+    "description": "When [Helix Rocket] deals damage, create a [Biotic Field] with a 50% reduced duration at your position.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "hyper-healer",
+    "name": "Hyper Healer",
+    "icon": "Hyper_Healer.png",
+    "affectedAbility": "Hyper Ring",
+    "description": "Allies affected by [Hyper Ring] gain {{Ability_Power|75",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "hyperloop",
+    "name": "Hyperloop",
+    "icon": "Hyperloop_power.png",
+    "affectedAbility": "Hyperspheres",
+    "description": "[Hyperspheres] direct hits reduce the cooldown of [Accretion] by 0.8 seconds.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "iaido-strike",
+    "name": "Iaido Strike",
+    "icon": "Iaido_Strike.png",
+    "affectedAbility": "Deflect",
+    "description": "After [Deflect] ends, quickly swing your [Dragonblade] once.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "iceberg",
+    "name": "Iceberg",
+    "icon": "Iceberg.png",
+    "affectedAbility": "Ice Wall",
+    "description": "[Ice Wall] spawns a mini [Blizzard] that slows enemies.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "ignition-burst",
+    "name": "Ignition Burst",
+    "icon": "Ignition_Burst.png",
+    "affectedAbility": "Boosters",
+    "description": "[Boosters] leave a trail of lava that deals {{Ability_Power|80",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "impact-burst",
+    "name": "Impact Burst",
+    "icon": "Impact_Burst.png",
+    "affectedAbility": "Fire Strike",
+    "description": "[Fire Strike] triggers an explosion the first time it hits an enemy, dealing 30% [Fire Strike] damage to other enemies in a 3m radius.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "incendiary-blast",
+    "name": "Incendiary Blast",
+    "icon": "Incendiary_Blast.png",
+    "affectedAbility": "Coach Gun",
+    "description": "[Coach Gun] applies Burning, dealing {{Ability_Power|100",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "incendiary-rounds",
+    "name": "Incendiary Rounds",
+    "icon": "Incendiary_Rounds.png",
+    "affectedAbility": "The Viper",
+    "description": "While scoped, hitting the same target without missing deals {{Weapon_Power|30",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "infusion-generator",
+    "name": "Infusion Generator",
+    "icon": "Infusion_Generator.png",
+    "description": "Increase [Barrier Field] Health by 250% of your Bonus Max Life.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "inner-peace",
+    "name": "Inner Peace",
+    "icon": "Inner_Peace.png",
+    "affectedAbility": "Orb of Harmony",
+    "description": "Gain a [Harmony Orb] that is always attached to you. It heals for 75% less.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "instant-karma",
+    "name": "Instant Karma",
+    "icon": "Instant_Karma.png",
+    "affectedAbility": "Orb of Discord",
+    "description": "When a target of your [Discord Orb] damages you, restore 50% of that damage over 2s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "it-s-a-nother-trap",
+    "name": "It's A(nother) Trap!",
+    "icon": "It_s_A_nother__Trap_.png",
+    "affectedAbility": "Steel Trap",
+    "description": "Gain 1 additional charge of [Steel Trap].",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "it-s-orbin-time",
+    "name": "It's Orbin' Time",
+    "icon": "It_s_Orbin__Time.png",
+    "affectedAbility": "Orb of Destruction",
+    "description": "[Orb of Destruction]'s secondary fire can charge up to 3 additional orbs.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "juiced",
+    "name": "Juiced",
+    "icon": "Juiced.png",
+    "affectedAbility": "Jagged Wall",
+    "description": "When [Jagged Wall] is spawned, heal all allies within 12m by {{Ability Power|100",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "just-roll-with-it",
+    "name": "Just Roll with It",
+    "icon": "Just_Roll_With_It.png",
+    "affectedAbility": "Combat Roll",
+    "description": "[Combat Roll] gains additional 25% damage reduction and heals 30% of your Life over 3s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "keen-kunai",
+    "name": "Keen Kunai",
+    "icon": "Keen_Kunai.png",
+    "affectedAbility": "Kunai",
+    "description": "[Kunai] critical hits decrease active ability cooldowns by 15% and refund 3 ammo.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "laceration",
+    "name": "Laceration",
+    "icon": "Laceration.png",
+    "affectedAbility": "Swift Strike",
+    "description": "[Swift Strike] deals 35% additional damage over 3s to enemies hit.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "lassoed",
+    "name": "Lassoed",
+    "icon": "Lassoed.png",
+    "affectedAbility": "Energy Javelin",
+    "description": "On impact, Energy Javelin will pull enemies within 4m towards itself.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "launch-vector",
+    "name": "Launch Vector",
+    "icon": "Launch_Vector.png",
+    "affectedAbility": "Concussive Blast",
+    "description": "Whenever you knockback an enemy with [Concussive Blast], fire 3 homing mini-rockets at them.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "leaf-on-the-wind",
+    "name": "Leaf on the Wind",
+    "icon": "Leaf_On_The_Wind.png",
+    "affectedAbility": "Healing Ofuda",
+    "description": "[Healing Ofuda] bounces to another ally up to 2 times, healing for 30% of the normal amount.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "legendary-loadout",
+    "name": "Legendary Loadout",
+    "icon": "Legendary_Loadout.png",
+    "affectedAbility": "Micro Missiles",
+    "description": "[Micro Missiles] are replaced with 6 Heavy Rockets, which deal 350% more explosive damage and have 100% increased radius.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "let-off-some-steam",
+    "name": "Let Off Some Steam",
+    "icon": "Let_Off_Some_Steam.png",
+    "affectedAbility": "Overload",
+    "description": "While [Overload] is not active, Weapon Damage and Weapon Healing reduces [Overload] Cooldown by 10%.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "let-s-bounce",
+    "name": "Let's Bounce",
+    "icon": "Let_s_Bounce.png",
+    "affectedAbility": "Soundwave",
+    "description": "[Soundwave] has 25% increased knockback and deals bonus damage equal to 50% of [Soundwave]'s damage if the target hits a wall.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "let-s-go-win",
+    "name": "Let's Go Win",
+    "icon": "Let_s_Go_Win.png",
+    "affectedAbility": "Commanding Shout",
+    "description": "Eliminations reduce the cooldown of [Commanding Shout] by 50%.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "lifelift",
+    "name": "Lifelift",
+    "icon": "Lifelift.png",
+    "affectedAbility": "Particle Barrier",
+    "description": "+50% [Particle Barrier] Size.<br>Increase [Barrier] Health by 50% of Bonus Max Life from Items.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "lightning-rod",
+    "name": "Lightning Rod",
+    "icon": "Lightning_Rod.png",
+    "affectedAbility": "Tesla Cannon Alt Fire",
+    "description": "Hits with [Tesla Cannon]'s fully charged secondary fire bounce to all other enemies within 6m for 50% reduced damage.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "lille-f-lde",
+    "name": "Lille Fælde",
+    "icon": "Lille_Fælde.png",
+    "affectedAbility": "Bola Shot",
+    "description": "After using [Updraft], your next [Take Aim] while airborne instead fires a mini [Bola Shot] that no longer pulls and has 30% reduced effectiveness.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "lindholm-wall",
+    "name": "Lindholm Wall",
+    "icon": "Lindholm_Wall.png",
+    "affectedAbility": "Barrier Shield",
+    "description": "Increase [Barrier Shield] size by 60% and [Barrier Shield] Health by 100%. [Shield Bash] can hit multiple enemies.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "lock-and-load",
+    "name": "Lock and Load",
+    "icon": "Lock_and_Load.png",
+    "affectedAbility": "Power Slide",
+    "description": "During [Power Slide], [Railgun] restores 100% of your Max Ammo every 1s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "lunar-leap",
+    "name": "Lunar Leap",
+    "icon": "Lunar_Leap.png",
+    "affectedAbility": "Jump Pack",
+    "description": "Gain 2% bonus Ultimate Charge per enemy damaged by [Jump Pack]'s landing. While using [Jump Pack], gain 5% of Max Life as Overhealth every 1s, up to {{Ability Power|100",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "maces-to-faces",
+    "name": "Maces to Faces",
+    "icon": "Maces_to_Faces.png",
+    "affectedAbility": "Whip Shot",
+    "description": "[Whip Shot]'s size is increased by 1m and can hit multiple enemies. [Inspire] lasts 1s longer when triggered by [Whip Shot].",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "maestro",
+    "name": "Maestro",
+    "icon": "Maestro_power.png",
+    "affectedAbility": "Gravitic Flux",
+    "description": "50% Ultimate Cost Reduction.<br>[Gravitic Flux] Radius is reduced by 35% and refunds 50% of Ultimate Charge if no enemies are affected.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "magma-strike",
+    "name": "Magma Strike",
+    "icon": "Magma_Strike.png",
+    "affectedAbility": "Fire Strike",
+    "description": "Every second [Fire Strike] leaves a trail of lava that Burns enemies for 50% of [Fire Strike] damage.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "magmini",
+    "name": "Magmini",
+    "icon": "Magmini.png",
+    "affectedAbility": "Molten Core",
+    "description": "When you use [Overload], gain 2 Ammo of Molten Core with 66% reduced damage and duration.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "major-flex",
+    "name": "Major Flex",
+    "icon": "Major_Flex.png",
+    "affectedAbility": "Particle Barrier",
+    "description": "[Barrier] knocks back and deals {{Ability_Power|25",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "man-on-the-run",
+    "name": "Man on the Run",
+    "icon": "Man_On_The_Run.png",
+    "affectedAbility": "Heavy Pulse Rifle",
+    "description": "During [Sprint], restore 10% of your Ammo every 1s and increase your Max Ammo by 10% until you reload, stacking up to 10 times.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "mass-driver",
+    "name": "Mass Driver",
+    "icon": "Mass_Driver.png",
+    "affectedAbility": "Accretion",
+    "description": "[Accretion] projectiles that pass through [Experimental Barrier] gain 300% Projectile Speed and deal 20% increased damage.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "medicinal-missiles",
+    "name": "Medicinal Missiles",
+    "icon": "Medicinal_Missiles.png",
+    "affectedAbility": "Pulsar Torpedoes",
+    "description": "[Pulsar Torpedoes] causes allies hit to receive 50% more healing for 3s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "medimaster",
+    "name": "MediMaster",
+    "icon": "Medimaster.png",
+    "affectedAbility": "Mediblaster",
+    "description": "[Mediblaster] can now critically hit both allies and enemies.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "megaphone",
+    "name": "Megaphone",
+    "icon": "Megaphone.png",
+    "affectedAbility": "Amp It Up",
+    "description": "+15% [Amp It Up] Duration<br>While [Amp It Up] is active, [Crossfade] radius is increased by 150%.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "meka-punch",
+    "name": "MEKA Punch",
+    "icon": "MEKA_Punch.png",
+    "affectedAbility": "Boosters",
+    "description": "While using [Boosters], [Quick Melee] has 50% more Attack Speed. MEKA Punch eliminations reset the cooldown of [Boosters].",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "mender-bender",
+    "name": "Mender Bender",
+    "icon": "Mender_Bender.png",
+    "affectedAbility": "Shield Bash",
+    "description": "After using [Shield Bash], heal 33% [Barrier Shield] Health and trigger [Inspire].",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "merciless-magnetism",
+    "name": "Merciless Magnetism",
+    "icon": "Merciless_Magnetism.png",
+    "affectedAbility": "Commanding Shout",
+    "description": "Using [Commanding Shout] causes your Jagged Blade to home to a target.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "mighty-gust",
+    "name": "Mighty Gust",
+    "icon": "Mighty_Gust.png",
+    "affectedAbility": "Updraft",
+    "description": "[Updraft] launches a wind blast towards your crosshair, knocking back enemies and dealing {{Ability_Power|40",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "mixtape",
+    "name": "Mixtape",
+    "icon": "Mixtape.png",
+    "affectedAbility": "Crossfade",
+    "description": "When switching to [Healing Boost], [Crossfade] heals for 75% of [Crossfade] healing for every 1s [Speed Boost] was active.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "molten-munitions",
+    "name": "Molten Munitions",
+    "icon": "Molten_Munitions.png",
+    "affectedAbility": "Dynamite",
+    "description": "When [Dynamite] explodes on the ground, it leaves lava that Burns enemies for {{Ability_Power|80",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "moon-landing",
+    "name": "Moon Landing",
+    "icon": "Moon_Landing.png",
+    "affectedAbility": "Jump Pack",
+    "description": "Heal for 7% of Max Life per enemy damaged by [Jump Pack]'s landing.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "multiball",
+    "name": "Multiball",
+    "icon": "Multiball.png",
+    "affectedAbility": "Biotic Orb",
+    "description": "[Biotic Orb] launches 2 additional orbs of the chosen type with 85% reduced effectiveness.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "my-business-my-rules",
+    "name": "My Business, My Rules",
+    "icon": "My_Business__My_Rules.png",
+    "affectedAbility": "The Viper",
+    "description": "When you deal damage to a Burning enemy with [The Viper], reduce the cooldown of your abilities by 10%.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "my-turn",
+    "name": "My Turn",
+    "icon": "My_Turn.png",
+    "affectedAbility": "Nano Boost",
+    "description": "[Nano Boost] also applies to yourself for 100% of its duration.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "nanonade",
+    "name": "NanoNade",
+    "icon": "NanoNade.png",
+    "affectedAbility": "Biotic Grenade",
+    "description": "[Biotic Grenade] applies [Nano Boost] with 25% effectiveness to all allies for 1.5s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "needle-storm",
+    "name": "Needle Storm",
+    "icon": "Needle_Storm.png",
+    "affectedAbility": "Spike Guard",
+    "description": "[Spike Guard] now fires at all enemies in front of Hazard",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "no-limits",
+    "name": "No Limits",
+    "icon": "No_Limits_power.png",
+    "affectedAbility": "Particle Cannon",
+    "description": "Maximum [Energy] increased to 125. [Energy] always decays above 100 [Energy] at a 150% faster rate.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "no-scope-needed",
+    "name": "No Scope Needed",
+    "icon": "No_Scope_Needed.png",
+    "affectedAbility": "Biotic Rifle",
+    "description": "Landing unscoped shots with [Biotic Rifle] grants 10% Attack Speed for 2s, stacking up to 3 times.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "off-the-wall",
+    "name": "Off The Wall",
+    "icon": "Off_The_Wall.png",
+    "affectedAbility": "Jagged Wall",
+    "description": "When [Jagged Wall is spawned], knock back enemies within 8m after 1.5s for {{Ability Power|80",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "on-me",
+    "name": "On Me!",
+    "icon": "On_Me_.png",
+    "affectedAbility": "Biotic Field",
+    "description": "[Biotic Field] moves with you and grants you 20% increased max Health while active.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "optimal-overflow",
+    "name": "Optimal Overflow",
+    "icon": "Optimal_Overflow.png",
+    "affectedAbility": "Biotic Grasp",
+    "description": "After you spend 50 [Biotic Energy], launch the last selected [Biotic Orb] with 75% reduced duration.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "optimizer",
+    "name": "Optimizer",
+    "icon": "Optimizer.png",
+    "affectedAbility": "Repair Pack",
+    "description": "For each [Repair Pack] active, increase [Repair Pack] Healing by 10% and heal yourself for 5% of your Max Life every 1s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "orbital-alignment",
+    "name": "Orbital Alignment",
+    "icon": "Orbital_Alignment.png",
+    "affectedAbility": "Orbital Ray",
+    "description": "Enemies inside of [Orbital Ray] lose 35% Move Speed and float upward. Allies inside of it gain 25% Move Speed.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "orbital-barrier",
+    "name": "Orbital Barrier",
+    "icon": "Orbital_Barrier.png",
+    "affectedAbility": "Experimental Barrier",
+    "description": "Get a mini [Experimental Barrier] that orbits around you. It has 50% reduced health.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "our-turn",
+    "name": "Our Turn",
+    "icon": "Our_Turn.png",
+    "affectedAbility": "Nano Boost",
+    "description": "[Nano Boost] also affects other allies in your line of sight, but it has 25% reduced duration on them.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "out-with-a-bang",
+    "name": "Out With a Bang",
+    "icon": "Out_with_a_Bang.png",
+    "affectedAbility": "Dynamite",
+    "description": "When [Dynamite] explodes, it spawns 3 sticky explosives that deal 30% reduced damage.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "overcharge",
+    "name": "Overcharge",
+    "icon": "Overcharge.png",
+    "affectedAbility": "Railgun",
+    "description": "Maximum [Railgun] Charge increased to 150. Fully-charged attacks and abilities still only consume up to 100% Charge.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "overstocked",
+    "name": "Overstocked",
+    "icon": "Overstocked.png",
+    "affectedAbility": "Micro Missiles",
+    "description": "Gain 1 extra charge of [Micro Missiles].",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "packstacker",
+    "name": "Packstacker",
+    "icon": "Packstacker.png",
+    "affectedAbility": "Repair Pack",
+    "description": "[Repair Pack] duration is increased by 50%. Ability damage extends the duration of all active [Repair Pack] by 1s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "particle-accelerator",
+    "name": "Particle Accelerator",
+    "icon": "Particle_Accelerator.png",
+    "affectedAbility": "Particle Cannon",
+    "description": "Gain 15% Attack Speed for [Particle Cannon]'s secondary fire. After using an ability, quadruple this bonus for 5 seconds.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "partners-in-crime",
+    "name": "Partners in Crime",
+    "icon": "Partners_in_Crime.png",
+    "affectedAbility": "B.O.B.",
+    "description": "You are healed for 100% of [B.O.B.]'s damage dealt and [B.O.B.] is healed for 100% of your damage dealt.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "party-protector",
+    "name": "Party Protector",
+    "icon": "Party_Protector.png",
+    "affectedAbility": "Self-Destruct",
+    "description": "When you use [Self-Destruct], allies within [Self-Destruct] radius gain {{Ability_Power|250",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "peak-performance",
+    "name": "Peak Performance",
+    "icon": "Peak_Performance.png",
+    "affectedAbility": "Revdraw Crossbow",
+    "description": "While firing [Revdraw Crossbow], your fall speed is decreased by 80%.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "peripheral-pulse",
+    "name": "Peripheral Pulse",
+    "icon": "Peripheral_Pulse.png",
+    "affectedAbility": "Tactical Visor",
+    "description": "During [Tactical Visor], [Pulse Rifle] shoots at 1 additional enemy, dealing 50% damage.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "permafrost",
+    "name": "Permafrost",
+    "icon": "Permafrost_Power.png",
+    "affectedAbility": "Endothermic Blaster",
+    "description": "Gain bonus health multiplier equal to 50% of your ability power. While above 30% ability power, grow 15% in size.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "phantasm",
+    "name": "Phantasm",
+    "icon": "Phantasm.png",
+    "affectedAbility": "Biotic Orb",
+    "description": "When you use [Fade], spawn a stationary copy of the last selected [Biotic Orb] with 50% reduced duration.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "philharmonic-fortitude",
+    "name": "Philharmonic Fortitude",
+    "icon": "Philharmonic_Fortitude.png",
+    "affectedAbility": "Experimental Barrier",
+    "description": "Experimental Barrier has 25% increased Max Health. Barrier health regenerates constantly but 50% slower while deployed.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "piercing-beam",
+    "name": "Piercing Beam",
+    "icon": "Piercing_Beam.png",
+    "affectedAbility": "Particle Cannon",
+    "description": "Above 80 [Energy], [Particle Cannon]'s Primary Fire will pierce enemies.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "pinpoint-prescription",
+    "name": "Pinpoint Prescription",
+    "icon": "Pinpoint_Prescription.png",
+    "affectedAbility": "Biotic Rifle",
+    "description": "[Biotic Rifle] can now critically hit both allies and enemies.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "pocket-bomb",
+    "name": "Pocket Bomb",
+    "icon": "Pocket_Bomb.png",
+    "affectedAbility": "Pulse Bomb",
+    "description": "When you use [Recall], throw a [Pulse Bomb] that deals 60% less damage.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "pocket-projector",
+    "name": "Pocket Projector",
+    "icon": "Pocket_Projector.png",
+    "affectedAbility": "Barrier Projector",
+    "description": "Activating a [Barrier Projector] attaches an additional, smaller [Barrier Projector] to Winston with 5% health.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "positive-reinforcement",
+    "name": "Positive Reinforcement",
+    "icon": "Positive_Reinforcement.png",
+    "affectedAbility": "Deploy Turret",
+    "description": "When a [Turret] is placed, it gains {{Ability Power|200",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "pre-workout",
+    "name": "Pre-workout",
+    "icon": "Pre-Workout.png",
+    "affectedAbility": "Energy",
+    "description": "Gain Weapon Lifesteal and Ability Lifesteal equal to 15% of [Energy].",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "precarious-potency",
+    "name": "Precarious Potency",
+    "icon": "Precarious_Potency.png",
+    "affectedAbility": "Biotic Grasp",
+    "description": "Allies healed by your [Biotic Grasp] are healed for an additional 25% of [Biotic Grasp]'s healing over 5s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "primal-punch",
+    "name": "Primal Punch",
+    "icon": "Primal_Punch.png",
+    "affectedAbility": "Jump Pack",
+    "description": "[Melee] or [Jump Pack] eliminations reset [Jump Pack] cooldown.<br>For every 25 Armor you have, gain 5% [Melee] Damage.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "primal-slam",
+    "name": "Primal Slam",
+    "icon": "Primal_Slam.png",
+    "affectedAbility": "Primal Rage",
+    "description": "While using [Jump Pack], press jump to quickly slam towards your current facing direction. During [Primal Rage], slam speed is increased by 50%.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "protective-beam",
+    "name": "Protective Beam",
+    "icon": "Protective_Beam.png",
+    "affectedAbility": "Caduceus Staff",
+    "description": "[Caduceus Staff] targets above 80% Life gain 10% Damage Reduction.<br>[Caduceus Staff] stays tethered 1s longer to allies not in line of sight.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "pulsar-plus",
+    "name": "Pulsar Plus",
+    "icon": "Pulsar_Plus.png",
+    "affectedAbility": "Pulsar Torpedoes",
+    "description": "[Pulsar Torpedoes] gains 1 additional charge.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "quantum-clip",
+    "name": "Quantum Clip",
+    "icon": "Quantum_Clip.png",
+    "affectedAbility": "Blink",
+    "description": "If you use [Blink] while reloading, gain 25% Max Ammo and 10% Weapon Lifesteal until you reload.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "quick-draw",
+    "name": "Quick Draw",
+    "icon": "Quick_Draw_Power.png",
+    "affectedAbility": "Peacekeeper",
+    "description": "After using [Combat Roll], [Peacekeeper]'s next primary fire can auto-aim within 15m while under cooldown.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "radio-edit",
+    "name": "Radio Edit",
+    "icon": "Radio_Edit.png",
+    "affectedAbility": "Amp It Up",
+    "description": "After using [Amp It Up], trigger a [Sound Barrier] with 85% reduced Overhealth.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "rainin-lead",
+    "name": "Rainin' Lead",
+    "icon": "Rainin__Lead.png",
+    "affectedAbility": "Total Mayhem",
+    "description": "After launching yourself, drop 1 [Total Mayhem] bomb with 25% reduced damage every 0.3s while airborne.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "rally-ring",
+    "name": "Rally Ring",
+    "icon": "Rally_Ring.png",
+    "affectedAbility": "Hyper Ring",
+    "description": "Reduce [Hyper Ring]'s cooldown by 1s when an ally passes through it.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "reckoner-s-roar",
+    "name": "Reckoner's Roar",
+    "icon": "Reckoner_s_Roar.png",
+    "affectedAbility": "Commanding Shout",
+    "description": "Using [Commanding Shout] [Wounds] enemies within 10m for {{Ability_Power|30",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "recursion-battery",
+    "name": "Recursion Battery",
+    "icon": "Recursion_Battery.png",
+    "affectedAbility": "Barrage",
+    "description": "Mini rockets gain 50% Ability Lifesteal.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "redux",
+    "name": "Redux",
+    "icon": "Redux.png",
+    "affectedAbility": "Revdraw Crossbow",
+    "description": "[Revdraw Crossbow] hits against targets stuck by a [Take Aim] bolt or [Bola Shot] reduce the cooldown of your abilities by 5% and refunds 1 ammo.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "reload-therapy",
+    "name": "Reload Therapy",
+    "icon": "Reload_Therapy.png",
+    "affectedAbility": "The Viper",
+    "description": "When you reload a shot, restore 10% of your Life.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "renaissance",
+    "name": "Renaissance",
+    "icon": "Renaissance.png",
+    "affectedAbility": "Resurrect",
+    "description": "After successfully using [Resurrect] activate [Valkyrie] for 5s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "restortify",
+    "name": "Restortify",
+    "icon": "Restortify.png",
+    "affectedAbility": "Fortify",
+    "description": "While Fortify is active, heal for 5% of your maximum health every 1s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "reverb",
+    "name": "Reverb",
+    "icon": "Reverb.png",
+    "affectedAbility": "Soundwave",
+    "description": "After using [Soundwave,] for 2s you can use [Soundwave] again with 75% reduced effectiveness.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "reverberation-rounds",
+    "name": "Reverberation Rounds",
+    "icon": "Reverberation_Rounds.png",
+    "affectedAbility": "Railgun",
+    "description": "After firing a fully-charged [Charged Shot], gain 25% increased [Charged Shot] projectile size for 5s (stacking up to 3 times).",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "revolving-ruin",
+    "name": "Revolving Ruin",
+    "icon": "Revolving_Ruin.png",
+    "affectedAbility": "Hellfire Shotguns",
+    "description": "Close-range (7m) [Hellfire Shotgun] hits grant 4% Attack Speed for 1s, stacking up to 10 times.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "ride-with-me",
+    "name": "Ride with Me",
+    "icon": "Ride_With_Me.png",
+    "affectedAbility": "Fortify",
+    "description": "While Fortify is active grant allies 30% Move Speed and Overhealth equal to 10% of your max Life.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "righteous-cleave",
+    "name": "Righteous Cleave",
+    "icon": "Righteous_Cleave.png",
+    "affectedAbility": "Rocket Flail",
+    "description": "After using [Shield Bash] or [Whipshot], your next damaging [Rocket Flail] swing heals allies within 10m for 100% of damage dealt.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "rip-roll",
+    "name": "Rip Roll",
+    "icon": "Rip_Roll.png",
+    "affectedAbility": "RIP-Tire",
+    "description": "20% Ultimate Cost Reduction.<br>During your ultimate, enter your [Rip Tire]. Launch out when it's destroyed or triggered.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "riveting",
+    "name": "Riveting",
+    "icon": "Riveting.png",
+    "affectedAbility": "Rivet Gun",
+    "description": "Every 5th [Rivet Gun] shot shoots both your Primary and Secondary Fire. The bonus shot deals 10% reduced damage.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "royal-bullets",
+    "name": "Royal Bullets",
+    "icon": "Royal_Bullets.png",
+    "affectedAbility": "Scattergun",
+    "description": "[Scattergun] critical hit applies [Wound] for {{Weapon_Power|40",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "sacred-shuriken",
+    "name": "Sacred Shuriken",
+    "icon": "Sacred_Shuriken.png",
+    "affectedAbility": "Shuriken",
+    "description": "[Shuriken]'s primary fire throws 2 additional [Shuriken] that don't consume any ammo.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "scientific-deathod",
+    "name": "Scientific Deathod",
+    "icon": "Scientific_Deathod.png",
+    "affectedAbility": "Fade",
+    "description": "While using [Fade], passing through enemies grants 5% Ultimate Charge and Overhealth equal to 15% of your max Life.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "scorched-earth",
+    "name": "Scorched Earth",
+    "icon": "Scorched_Earth_Orisa.png",
+    "affectedAbility": "Augmented Fusion Driver",
+    "description": "When you Overheat, apply Burning to enemies within 6m, dealing damage equal to 25% of your max Life over 5s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "seekerpoint",
+    "name": "Seekerpoint",
+    "icon": "Seekerpoint.png",
+    "affectedAbility": "| official_description = When [Take Aim] bolt sticks an enemy, automatically fire 3 additional crossbow shots at them that deal 66% reduced damage.",
+    "description": "",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "seeking-salvation",
+    "name": "Seeking Salvation",
+    "icon": "Seeking_Salvation.png",
+    "affectedAbility": "Orb of Destruction",
+    "description": "[Orb of Destruction]'s secondary fire projectiles home when aimed at a target below 35% Life.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "seismic-shot",
+    "name": "Seismic Shot",
+    "icon": "Seismic_Shot.png",
+    "affectedAbility": "| official_description = [Take Aim] explosion radius is increased by 50%. Double this if the bolt is stuck to a target.",
+    "description": "",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "self-care",
+    "name": "Self-Care",
+    "icon": "Self-Care.png",
+    "affectedAbility": "Healing Ofuda",
+    "description": "When you use [Healing Ofuda], each ofuda thrown heals you for 3% of your max Life.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "serenity",
+    "name": "Serenity",
+    "icon": "Serenity.png",
+    "affectedAbility": "Caduceus Staff",
+    "description": "[Sympathetic Recovery] heals for 10% more and heals you even while you are healing a full health ally.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "shared-siphon",
+    "name": "Shared Siphon",
+    "icon": "Shared_Siphon.png",
+    "affectedAbility": "Hellfire Shotguns",
+    "description": "[The Reaping] also heals the nearest ally within 10m for 30% of Reaper's damage dealt.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "shield-divergence",
+    "name": "Shield Divergence",
+    "icon": "Shield_Divergence.png",
+    "affectedAbility": "Augmented Fusion Driver",
+    "description": "When you Overheat, deploy a Barrier with {{Ability_Power|600",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "shield-stampede",
+    "name": "Shield Stampede",
+    "icon": "Shield_Stampede.png",
+    "affectedAbility": "Charge",
+    "description": "+50% [Charge] Knockback Power.<br>During [Charge], automatically deploy [Barrier Field].",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "shrouded-shrapnel",
+    "name": "Shrouded Shrapnel",
+    "icon": "Shrouded_Shrapnel.png",
+    "affectedAbility": "Hellfire Shotguns",
+    "description": "Using [Wraith Form] increases the number of pellets per shot in your next magazine by 25% and its spread by 50%.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "signature-shift",
+    "name": "Signature Shift",
+    "icon": "Signature_Shift.png",
+    "affectedAbility": "Sonic Amplifier",
+    "description": "After using an ability, your next [Sonic Amplifier] shot shoots a volley of 6 ammo with 80% increased projectile size.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "silent-as-the-grave",
+    "name": "Silent as the Grave",
+    "icon": "Silent_As_The_Grave.png",
+    "affectedAbility": "Shadow Step",
+    "description": "Your footsteps and [Shadow Step] are significantly quieter.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "singularity",
+    "name": "Singularity",
+    "icon": "Singularity.png",
+    "affectedAbility": "Accretion",
+    "description": "[Accertion] splash damage is increased by 75% and enemies are pulled towards its explosion.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "sk-ldkastning",
+    "name": "Sköldkastning",
+    "icon": "Sköldkastning.png",
+    "affectedAbility": "Shield Bash",
+    "description": "After using [Shield Bash], your next [Rocket Flail] swing projects a Shield Boomerang that deals 40% [Shield Bash] damage.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "slapnel",
+    "name": "Slapnel",
+    "icon": "Slapnel.png",
+    "affectedAbility": "| official_description = [Quick Melee] hits explode for up to 100% [Quick Melee] damage, knocking you and targets back (6s Cooldown).",
+    "description": "",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "slasher",
+    "name": "Slasher",
+    "icon": "Slasher.png",
+    "affectedAbility": "Violent Leap",
+    "description": "[Violent Leap]'s Slash shoots a piercing projectile that deals {{Ability Power|80",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "sleep-regimen-old",
+    "name": "Sleep Regimen (old)",
+    "icon": "Sleep_Regimen.png",
+    "affectedAbility": "Sleep Dart",
+    "description": "Gain 50 Health.<br>When you apply Sleep to an enemy gain 10 Health, up to 150.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "slowball",
+    "name": "Slowball",
+    "icon": "Slowball.png",
+    "affectedAbility": "Endothermic Blaster",
+    "description": "[Endothermic Blaster]'s secondary fire now shoots a snowball that applies 15% slow on hit or 30% on critical hit for 1s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "smashing",
+    "name": "Smashing!",
+    "icon": "Smashing_.png",
+    "affectedAbility": "Rocket Hammer",
+    "description": "When you deal damage with [Rocket Hammer], gain 1% Move Speed and 3% Weapon Lifesteal for 2s, stacking up to 10 times.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "snowball-flight",
+    "name": "Snowball Flight",
+    "icon": "Snowball_Flight.png",
+    "affectedAbility": "Ice Wall",
+    "description": "Jumping while mid-air creates a large [Ice Wall] pillar under you.<br>(12s Cooldown).",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "so-cooked",
+    "name": "So Cooked",
+    "icon": "So_Cooked.png",
+    "affectedAbility": "Bola Shot",
+    "description": "[Bola Shot]'s damaging zone deals 30% more damage and lingers for 3s. [Bola Shot] eliminations count towards [Bounty Hunting].",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "soaring-stone",
+    "name": "Soaring Stone",
+    "icon": "Soaring_Stone.png",
+    "affectedAbility": "Carnage",
+    "description": "[Carnage] becomes a leaping strike if you jump during its cast time.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "sonic-boom",
+    "name": "Sonic Boom",
+    "icon": "Sonic_Boom.png",
+    "affectedAbility": "Sonic Amplifier",
+    "description": "[Sonic Amplifier] and [Quick Melee] Damage heals all allies affected by [Crossfade] equal to 30% of damage dealt.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "soot-shaker",
+    "name": "Soot Shaker",
+    "icon": "Soot_Shaker.png",
+    "affectedAbility": "Frag Launcher",
+    "description": "After detonating [Concussion Mine], gain 15% increased Attack Speed for 1.50s and restore 20% Max Ammo.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "soul-control",
+    "name": "Soul Control",
+    "icon": "Soul_Control.png",
+    "affectedAbility": "Transcendence",
+    "description": "[Transcendence] can be cancelled early, saving up to 75% of your Ultimate Charge.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "speed-kills",
+    "name": "Speed Kills",
+    "icon": "Speed_Kills.png",
+    "affectedAbility": "| official_description = Dealing weapon damage grants 5% Movement Speed and 3% Attack Speed for 3s, stacking up to 6 times. Direct hits grant double stacks.",
+    "description": "",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "spirit-of-sojiro",
+    "name": "Spirit of Sojiro",
+    "icon": "Spirit_of_Sojiro.png",
+    "affectedAbility": "Deflect",
+    "description": "When [Deflect] stops incoming damage, reduce the cooldown of [Swift Strike] by 1s, up to 5s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "spirit-veil",
+    "name": "Spirit Veil",
+    "icon": "Spirit_Veil.png",
+    "affectedAbility": "Kitsune Rush",
+    "description": "Using [Kitsune Rush] cleanses Kiriko of negative effects and makes her Invulnerable for 4s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "spirited-to-slay",
+    "name": "Spirited to Slay",
+    "icon": "Spirited_To_Slay.png",
+    "affectedAbility": "Hellfire Shotguns",
+    "description": "Eliminations reduce your cooldown of [Wraith Form] by 50% and [Shadow Step] by 100%",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "spynstem-update",
+    "name": "Spynstem Update",
+    "icon": "Spynstem_Update.png",
+    "affectedAbility": "Javelin Spin",
+    "description": "Javelin Spin now deflects projectiles and grants 20% of damage dealt as Ultimate Charge.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "stat-boost",
+    "name": "Stat Boost",
+    "icon": "Stat_Boost.png",
+    "affectedAbility": "Boosters",
+    "description": "During the first 2s of [Boosters], [Defense Matrix] recovers 125% faster.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "stellar-focus",
+    "name": "Stellar Focus",
+    "icon": "Stellar_Focus.png",
+    "affectedAbility": "Orbital Ray",
+    "description": "[Orbital Ray] now follows you and its duration is increased by 50%.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "stinger",
+    "name": "Stinger",
+    "icon": "Stinger.png",
+    "affectedAbility": "Mediblaster",
+    "description": "[Mediblaster] deals an additional {{Ability_Power|10",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "strangle-step",
+    "name": "Strangle Step",
+    "icon": "Strangle_Step.png",
+    "affectedAbility": "Shadow Step",
+    "description": "+15% [Shadow Step] Cast Speed.<br>After using [Shadow Step], double your Lifesteal for 3s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "sunrise",
+    "name": "Sunrise",
+    "icon": "Sunrise.png",
+    "affectedAbility": "Deadeye",
+    "description": "Using [Deadeye] slows all visible enemies by 35% for 2.5s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "sunset",
+    "name": "Sunset",
+    "icon": "Sunset.png",
+    "affectedAbility": "Deadeye",
+    "description": "[Deadeye] eliminations grant 15% Ultimate Charge each.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "super-visor",
+    "name": "Super Visor",
+    "icon": "Super_Visor.png",
+    "affectedAbility": "Tactical Visor",
+    "description": "After using [Helix Rocket], activate [Tactical Visor] for 0.50s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "supercharger",
+    "name": "Supercharger",
+    "icon": "Supercharger.png",
+    "affectedAbility": "Terra Surge",
+    "description": "When you use Terra Surge, drop a Supercharger that increases the damage of nearby allies by 25% for 15s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "supply-surge",
+    "name": "Supply Surge",
+    "icon": "Supply_Surge.png",
+    "affectedAbility": "Caduceus Staff",
+    "description": "Reloading [Caduceus Staff] grants allies affected by it 20% Move Speed for 2s, restores 50% Ammo and reduces their cooldowns by 3s. (10s Cooldown)",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "supported-shooting",
+    "name": "Supported Shooting",
+    "icon": "Supported_Shooting.png",
+    "affectedAbility": "Healing Ofuda",
+    "description": "When [Healing Ofuda] heals allies, grant them 20% increased Attack Speed for 3s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "surge-protector",
+    "name": "Surge Protector",
+    "icon": "Surge_Protector.png",
+    "affectedAbility": "Barrier Projector",
+    "description": "Allies within [Barrier Projector] gain {{Ability Power|25",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "swedish-sauna",
+    "name": "Swedish Sauna",
+    "icon": "Swedish_Sauna.png",
+    "affectedAbility": "Molten Core",
+    "description": "[Molten Core] heals allied heroes within it for 50% of [Molten Core] Damage every 1s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "symphonic-syzygy",
+    "name": "Symphonic Syzygy",
+    "icon": "Symphonic_Syzygy.png",
+    "affectedAbility": "Kinetic Grasp",
+    "description": "When [Kintic Grasp] ends, for every 100 damage absorbed gain 10% Attack Speed for 4s, stacking up to 4 times.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "t-racer",
+    "name": "T.Racer",
+    "icon": "T.RACER.png",
+    "affectedAbility": "Recall",
+    "description": "[Blink] teleports you 3m farther and grants you 10% Move Speed for 1s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "tactical-rifle-old",
+    "name": "Tactical Rifle (old)",
+    "icon": "Tactical_Rifle.png",
+    "affectedAbility": "Biotic Rifle",
+    "description": "While scoped, [Biotic Rifle] will lock on to allies for guaranteed hits.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "temportal",
+    "name": "Temportal",
+    "icon": "Temportal.png",
+    "affectedAbility": "Recall",
+    "description": "[Recall] leaves behind a temporal portal. An ally can interact with it to travel back in time 3s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "tesla-field",
+    "name": "Tesla Field",
+    "icon": "Tesla_Field.png",
+    "affectedAbility": "Barrier Projector",
+    "description": "Enemies within [Barrier Projector] take {{Ability Power|40",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "tethered-tourniquet",
+    "name": "Tethered Tourniquet",
+    "icon": "Tethered_Tourniquet.png",
+    "affectedAbility": "Caduceus Blaster",
+    "description": "After swapping to [Caduceus Blaster], [Caduceus Staff] automatically heals allies at 100% effectiveness for every 1s you spent tethered, up to 10s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "the-whambulance",
+    "name": "The Whambulance",
+    "icon": "The_Whambulance.png",
+    "affectedAbility": "Guardian Angel",
+    "description": "When Guardian Angel ends, heal your target for {{Ability_Power",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "thick-skin",
+    "name": "Thick Skin",
+    "icon": "Thick_Skin.png",
+    "affectedAbility": "Primal Rage",
+    "description": "When activating [Primal Rage], Winston gains additional Armor equal to 100% of Max Armor.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "think-flasht",
+    "name": "Think Flasht",
+    "icon": "Think_Flasht.png",
+    "affectedAbility": "Peacekeeper",
+    "description": "When you start a [Combat Roll], leave a [Flashbang] behind.<br>Flashbang's hinder duration is increased by 50%.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "thread-the-needle",
+    "name": "Thread the Needle",
+    "icon": "Thread_The_Needle.png",
+    "affectedAbility": "| official_description = [Take Aim] bolts pierce enemies. Additional explosions deal 66% reduced damage.",
+    "description": "",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "threads-of-fate",
+    "name": "Threads of Fate",
+    "icon": "Threads_of_Fate.png",
+    "affectedAbility": "Caduceus Staff",
+    "description": "[Caduceus Staff] chains to your previous target for 3s, at 35% effectiveness.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "thrill-of-battle",
+    "name": "Thrill of Battle",
+    "icon": "Thrill_of_Battle.png",
+    "affectedAbility": "Adrenaline Rush",
+    "description": "[Adrenaline Rush] also heals allies within 12m for 100% of the amount it heals you.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "time-out-old",
+    "name": "Time Out (old)",
+    "icon": "Time_Out.png",
+    "affectedAbility": "Biotic Grenade",
+    "description": "[Biotic Grenade] now knocks enemies back and reduces their Move Speed by 50% for 2.5s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "timelapse",
+    "name": "Timelapse",
+    "icon": "Timelapse.png",
+    "affectedAbility": "Pulse Pistols",
+    "description": "Hitting 2 consecutive shots on the same target without missing deals {{Weapon Power|1",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "to-me-my-friends",
+    "name": "To Me, My Friends!",
+    "icon": "To_Me__My_Friends_.png",
+    "affectedAbility": "Barrier Field",
+    "description": "While [Barrier Field] is active, allies within 5m are healed equal to 5% of your Max Life every 1s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "tokki-slam",
+    "name": "Tokki Slam",
+    "icon": "Tokki_Slam.png",
+    "affectedAbility": "Boosters",
+    "description": "During [Boosters], use crouch to slam the ground, dealing damage equal to 25% of your max Armor plus Shield and knocking up enemies hit.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "torpedo-glide",
+    "name": "Torpedo Glide",
+    "icon": "Torpedo_Glide.png",
+    "affectedAbility": "Glide Boost",
+    "description": "During [Glide Boost], every 50 damage you deal reduces the cooldown of [Pulsar Torpedoes] by 1s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "track-and-field",
+    "name": "Track and Field",
+    "icon": "Track_and_Field.png",
+    "affectedAbility": "Biotic Field",
+    "description": "During [Sprint], [Biotic Field] cooldown refreshes 150% faster.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "trap-ii-esquire",
+    "name": "Trap II, Esquire",
+    "icon": "Trap_II__Esquire.png",
+    "affectedAbility": "Steel Trap",
+    "description": "After [Concussion Mine] has landed for 0.5s, detonating it will spawn a mini [Steel Trap] that slows instead of immobilizing.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "triage-unit",
+    "name": "Triage Unit",
+    "icon": "Triage_Unit.png",
+    "affectedAbility": "Guardian Angel",
+    "description": "When using [Guardian Angel] on allies below 50% Life, they receive 25% more healing from you for 3s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "trinisphere",
+    "name": "Trinisphere",
+    "icon": "Trinisphere.png",
+    "affectedAbility": "Hyperspheres",
+    "description": "Your primary fire launches a third [Hypersphere] that deals 75% reduced damage.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "triple-threat",
+    "name": "Triple Threat",
+    "icon": "Triple_Threat.png",
+    "affectedAbility": "Kunai",
+    "description": "After using [Swift Step], for 4s, your secondary fire throws 2 additional [Kunai] in a spread that deal 50% less damage.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "triple-volley",
+    "name": "Triple Volley",
+    "icon": "Triple_Volley.png",
+    "affectedAbility": "Rocket Launcher",
+    "description": "After using an ability, your next [Primary Fire] fires 3 rockets that each deal 40% damage.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "turriplets",
+    "name": "Turriplets",
+    "icon": "Turriplets.png",
+    "affectedAbility": "Deploy Turret",
+    "description": "You can have 3 [Turrets] active. They start at Level 1, have 50% Health and 66% Attack Speed, and can be upgraded temporarily with [Forge Hammer] hits for up to 15s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "twice-as-ice",
+    "name": "Twice As Ice",
+    "icon": "Twice_As_Ice.png",
+    "affectedAbility": "Ice Wall",
+    "description": "When you use [Cryo-Freeze], reset the next cooldown of [Ice-Wall] and the next Snowball Flight.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "twin-fang",
+    "name": "Twin Fang",
+    "icon": "Twin_Fang.png",
+    "affectedAbility": "Violent Leap",
+    "description": "After using [Violent Leap], your next shot of [Bonespur] fires a free second shot for 65% damage.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "twist-the-knife",
+    "name": "Twist the Knife",
+    "icon": "Twist_The_Knife.png",
+    "affectedAbility": "Scattergun",
+    "description": "[Scattergun] critical hits extend the duration of all [Wounds] on the target by 2.0s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "two-zu",
+    "name": "Two-Zu",
+    "icon": "Two-Zu.png",
+    "affectedAbility": "Protection Suzu",
+    "description": "[Protection Suzu] gains an additional charge.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "ultrawide-matrix",
+    "name": "Ultrawide Matrix",
+    "icon": "Ultrawide_Matrix.png",
+    "affectedAbility": "Defense Matrix",
+    "description": "Increase the size of [Defense Matrix] by 50% and its duration by 25%.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "unconventional-tactics",
+    "name": "Unconventional Tactics",
+    "icon": "Unconventional_Tactics.png",
+    "affectedAbility": "Power Slide",
+    "description": "[Power Slide] spawns a mini [Disruptor Shot] when you start sliding and when you jump.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "vampiric-touch",
+    "name": "Vampiric Touch",
+    "icon": "Vampiric_Touch.png",
+    "affectedAbility": "Hellfire Shotguns",
+    "description": "Hits with [Quick Melee] mark enemies for 5s. Allies gain 20% Lifesteal against marked enemies.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "vanguard",
+    "name": "Vanguard",
+    "icon": "Vanguard.png",
+    "affectedAbility": "Charge",
+    "description": "[Charge] grants nearby allies Overhealth equal to 10% of your max Life and 20% Move Speed for 3s.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "venomous",
+    "name": "Venomous",
+    "icon": "Venomous.png",
+    "affectedAbility": "Biotic Grenade",
+    "description": "[Biotic Grenade] deals an additional {{Ability_Power|60",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "vivace",
+    "name": "Vivace",
+    "icon": "Vivace.png",
+    "affectedAbility": "Wall Ride",
+    "description": "Every 1s you are [Wallriding], gain 3% Move Speed and 1.5% Attack Speed for 5s, stacking up to 10 times.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "voidhoppers",
+    "name": "Voidhoppers",
+    "icon": "Voidhoppers.png",
+    "affectedAbility": "Fade",
+    "description": "[Fade] also phases other allies within 8m for 0.25s and grants them Overhealth equal to 20% of your max Life.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "volatile-volt",
+    "name": "Volatile Volt",
+    "icon": "Volatile_Volt.png",
+    "affectedAbility": "Tesla Cannon Alt Fire",
+    "description": "[Tesla Cannon]'s secondary fire can critically hit for 175% damage.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "volley-deux",
+    "name": "Volley à Deux",
+    "icon": "Volley_à_Deux.png",
+    "affectedAbility": "Revdraw Crossbow",
+    "description": "Every fifth [Revdraw Crossbow] shot fires an additional 2 bolts in a spread that deal 50% reduced damage.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "volskaya-vortex",
+    "name": "Volskaya Vortex",
+    "icon": "Volskaya_Vortex.png",
+    "affectedAbility": "Particle Barrier",
+    "description": "After a [Barrier] is cast, [Particle Cannon]'s next secondary fire spawns a slowing vortex that deals {{Ability_Power|80",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "vroom-boom-boom",
+    "name": "Vroom Boom Boom",
+    "icon": "Vroom_Boom_Boom.png",
+    "affectedAbility": "Charge",
+    "description": "During [Charge], colliding with a wall triggers an explosion that deals 30% of [Charge]'s pin damage.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "wallvibing",
+    "name": "Wallvibing",
+    "icon": "Wallvibing.png",
+    "affectedAbility": "Wall Ride",
+    "description": "While Wallriding or airborne, gain temporary Overhealth equal to 4% of your life every 1s, up to 40%.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "whirlwhip",
+    "name": "Whirlwhip",
+    "icon": "Whirlwhip.png",
+    "affectedAbility": "Rocket Flail",
+    "description": "After using [Shield Bash] or [Whipshot], your next [Rocket Flail] swing hits all enemies around you within 5m.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "woof-woof",
+    "name": "Woof Woof!",
+    "icon": "Woof_Woof_.png",
+    "affectedAbility": "Violent Leap",
+    "description": "Each hit from [Violent Leap] charges [Spike Guard] with 15% bonus energy. Gain 30% Extra [Spike Guard] Resource.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "wraith-renewal",
+    "name": "Wraith Renewal",
+    "icon": "Wraith_Renewal.png",
+    "affectedAbility": "Wraith Form",
+    "description": "While in [Wraith Form], restore 7% of your Life every 1s. Double this while below 50% Life.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "wyrm-s-maw",
+    "name": "Wyrm's Maw",
+    "icon": "Wyrm_s_Maw.png",
+    "affectedAbility": "Swift Strike",
+    "description": "Targets hit by [Shuriken] take 10% more damage from [Swift Strike] for 4s, stacking up to 5 times.",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "your-full-potential",
+    "name": "Your Full Potential",
+    "icon": "Your_Full_Potential.png",
+    "affectedAbility": "Nano Boost",
+    "description": "[Nano Boost] also grants the target 35% Ultimate Charge and {{Ability_Power|200",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "zero-gravity",
+    "name": "Zero Gravity",
+    "icon": "Zero_Gravity.png",
+    "affectedAbility": "| official_description = When you use an ability, gain the ability to fly for 4 seconds. While flying gain 15% damage reduction and increased Movement Speed.",
+    "description": "",
+    "type": "Stadium Power"
+  },
+  {
+    "slug": "zoom-zoom-zoom",
+    "name": "Zoom Zoom Zoom",
+    "icon": "Zoom_Zoom_Zoom.png",
+    "affectedAbility": "Power Slide",
+    "description": "During [Power Slide], gain 25% Attack Speed and 50% Weapon Lifesteal.",
+    "type": "Stadium Power"
+  }
+]

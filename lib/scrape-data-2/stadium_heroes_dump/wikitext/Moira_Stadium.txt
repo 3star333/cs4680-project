@@ -1,0 +1,257 @@
+{{HeroTabs}}
+[[File: Moira Stadium.png|thumb|310x310px]]
+'''{{BASEPAGENAME}}''' is a playable [[hero]] in the [[Stadium]] [[game mode]].
+
+== Stat interactions ==
+{{StadiumAbilityInteractions/header}}
+{{StadiumAbilityInteractions/row|Biotic Grasp |weaponPower=1 |attackSpeed=1 |weaponLifesteal=1 }}
+{{StadiumAbilityInteractions/row|Biotic Orb |abilityPower=1 |cooldownReduction=1 |abilityLifesteal=1 }}
+{{StadiumAbilityInteractions/row|Fade |cooldownReduction=1 }}
+{{StadiumAbilityInteractions/row|Coalescence |abilityPower=1 |abilityLifesteal=1 |attackSpeed=1 }}
+|}
+
+== Hero Items ==
+This is a list of hero-specific items. For a list of items available to all heroes, see [[Armory]].
+
+=== Weapon ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Bio-needles
+| ability_image = Bio-needles.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Attack Speed;;10%
+| official_description = [Biotic Grasp]'s secondary fire restores 50% more [Biotic Energy].
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+{{Ability details
+| ability_name = High Capacity Tubing
+| ability_image = High Capacity Tubing.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Weapon Power;;10%::Max [Biotic Energy];;50
+| official_description = 
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+<!-- Epic -->
+{{Ability details
+| ability_name = Alternative Energy
+| ability_image = Alternative Energy.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Ability Power;;10%::Attack Speed;;15%
+| official_description = When you use [Fade], refill your [Biotic Energy].
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+{{Ability details
+| ability_name = Subatomic Splitter
+| ability_image = Subatomic Splitter.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Weapon Power;;10%::[Biotic Grasp] Secondary Fire Range;;15%
+| official_description = 
+| stadium_rarity = Epic
+| stadium_cost = 11000
+}}
+
+=== Ability ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Smart Orbs
+| ability_image = Smart Orbs.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Ability Power;;5%
+| official_description = [Biotic Orb] moves 50% slower while it is healing or dealing damage.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+{{Ability details
+| ability_name = Levitation Shawl
+| ability_image = Levitation Shawl.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Ability Power;;10%
+| official_description = During [Coalescence], gain free flight.
+| stadium_rarity = Rare
+| stadium_cost = 4500
+}}
+<!-- Epic -->
+{{Ability details
+| ability_name = Coalegion
+| ability_image = Coalegion.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Health;;25::Ability Power;;15%
+| official_description = Allies healed by [Coalascence] deal 15% increased damage.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+{{Ability details
+| ability_name = Extendrils
+| ability_image = Extendrils.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Ability Power;;15%::[Biotic Orb] Tendril Range;;30%
+| official_description = 
+| stadium_rarity = Epic
+| stadium_cost = 11000
+}}
+
+=== Survival ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Abyss Boots
+| ability_image = Abyss Boots.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Health;;25
+| official_description = While using [Fade], you jump 30% higher.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+<!-- Epic -->
+
+== Powers ==
+{{Ability details
+| ability_name = Chain Grasp
+| ability_image = Chain_Grasp.png
+| ability_type = Stadium Power
+| affected_ability = Biotic Grasp
+| official_description = After using [Biotic Orb], [Biotic Grasp]'s secondary fire chains to 2 additional targets within 10m for 3s.
+}}
+{{Ability details
+| ability_name = Deconstruction
+| ability_image = Deconstruction.png
+| ability_type = Stadium Power
+| affected_ability = Biotic Grasp
+| official_description = After you spend 50 [Biotic Energy], deal 20% increased damage for 6s.
+}}
+{{Ability details
+| ability_name = Empowering You
+| ability_image = Empowering_You.png
+| ability_type = Stadium Power
+| affected_ability = Biotic Grasp
+| official_description = [Biotic Grasp]'s secondary fire can target allies, increasing their damage by 15%.
+}}
+{{Ability details
+| ability_name = Ethereal Excision
+| ability_image = Ethereal_Excision.png
+| ability_type = Stadium Power
+| affected_ability = Biotic Grasp
+| official_description = While aiming at an enemy's head with [Biotic Grasp]'s secondary fire, gain 30% Move Speed, 30% Lifesteal, and restore 100% more Biotic Energy.
+}}
+{{Ability details
+| ability_name = Optimal Overflow
+| ability_image = Optimal_Overflow.png
+| ability_type = Stadium Power
+| affected_ability = Biotic Grasp
+| official_description = After you spend 50 [Biotic Energy], launch the last selected [Biotic Orb] with 75% reduced duration.
+}}
+{{Ability details
+| ability_name = Precarious Potency
+| ability_image = Precarious_Potency.png
+| ability_type = Stadium Power
+| affected_ability = Biotic Grasp
+| official_description = Allies healed by your [Biotic Grasp] are healed for an additional 25% of [Biotic Grasp]'s healing over 5s.
+}}
+{{Ability details
+| ability_name = Cross-Orbal
+| ability_image = Cross-Orbal.png
+| ability_type = Stadium Power
+| affected_ability = Biotic Orb
+| official_description = [Biotic Orb] launches an additional [Biotic Orb] of the other type with 50% reduced capacity.
+}}
+{{Ability details
+| ability_name = Multiball
+| ability_image = Multiball.png
+| ability_type = Stadium Power
+| affected_ability = Biotic Orb
+| official_description = [Biotic Orb] launches 2 additional orbs of the chosen type with 85% reduced effectiveness.
+}}
+{{Ability details
+| ability_name = Phantasm
+| ability_image = Phantasm.png
+| ability_type = Stadium Power
+| affected_ability = Biotic Orb
+| official_description = When you use [Fade], spawn a stationary copy of the last selected [Biotic Orb] with 50% reduced duration.
+}}
+{{Ability details
+| ability_name = Scientific Deathod
+| ability_image = Scientific_Deathod.png
+| ability_type = Stadium Power
+| affected_ability = Fade
+| official_description = While using [Fade], passing through enemies grants 5% Ultimate Charge and Overhealth equal to 15% of your max Life.
+}}
+{{Ability details
+| ability_name = Voidhoppers
+| ability_image = Voidhoppers.png
+| ability_type = Stadium Power
+| affected_ability = Fade
+| official_description = [Fade] also phases other allies within 8m for 0.25s and grants them Overhealth equal to 20% of your max Life.
+}}
+{{Ability details
+| ability_name = Destruction's Divide (Stadium)
+| ability_image = Destruction's_Divide_Power.png
+| ability_type = Stadium Power
+| affected_ability = Coalescence
+| official_description = [Coalescence] can be toggled between pure healing or pure damage, with 30% greater effect.
+}}
+
+== Example Builds ==
+These are example builds pre-built in [[Stadium]] meant to show some possibilities of what can be done in the mode.
+
+=== Orb Doctor ===
+==== Powers ====
+*{{al|Cross-orbal}}
+*{{al|Multiball}}
+*{{al|Phantasm}}
+*{{al|Optimal Overflow}}
+==== Items ====
+===== Common =====
+*{{al|Power Playbook}}
+*{{al|Shady Spectacles}}
+*{{al|Winning Attitude}}
+===== Rare =====
+*{{al|Energized Bracers}}
+*{{al|Multi-tool}}
+*{{al|Nano Cola}}
+===== Epic =====
+*{{al|Cybervenom}}
+*{{al|Extendrils}}
+*{{al|Champion's Kit}}
+
+=== Witch of Pain ===
+==== Powers ====
+*{{al|Chain Grasp}}
+*{{al|Deconstruction}}
+*{{al|Ethereal Excision}}
+*{{al|Precarious Potency}}
+==== Items ====
+===== Common =====
+*{{al|Compensator}}
+*{{al|Weapon Grease}}
+*{{al|Heartbeat Sensor}}
+===== Rare =====
+*{{al|Aftermarket Firing Pin}}
+*{{al|Technoleech}}
+*{{al|Talon Modification Module}}
+===== Epic =====
+*{{al|Weapon Jammer}}
+*{{al|Subatomic Splitter}}
+*{{al|Eye of the Spider}}
+
+== Balance Change Log ==
+{{PatchTableStart}}<onlyinclude>
+{{PatchTableElement|2025-05-08|{{DevComment|Developer Comments: We're adding some small buffs to some of the less popular Powers in hopes to better enable some new build paths.}}
+
+{{al|Precarious Potency}} – Power
+* Increased healing to 25% of Biotic Grasp's healing (up from 20%).
+
+{{al|Destruction's Divide (Stadium)}} – Power
+* Increased Coalescence effectiveness when toggled to 30% (up from 25%).
+}}
+{{PatchTableElement|2025-04-22|; Introducing Stadium
+* Tank Heroes: D.Va, Junker Queen, Orisa, Reinhardt, and Zarya.
+* Damage Heroes: Ashe, Cassidy, Genji, Mei, Reaper, and Soldier: 76.
+* Support Heroes: Ana, Juno, Kiriko, Lucio, Mercy, and '''Moira'''.
+}}
+</onlyinclude>{{PatchTableEnd}}
+
+{{StadiumNav}}
+[[Category:{{BASEPAGENAME}}]]
+[[Category:Stadium hero pages]]

@@ -1,0 +1,1421 @@
+This is a list of '''General Items''', purchasable by every hero in [[Stadium]].
+
+== Weapon ==
+===Common===
+{{Ability details
+| ability_name = Compensator
+| hero_name = All heroes
+| ability_image = Compensator.png
+| ability_type = General Item (Weapon)
+| stadium_buffs = Weapon Power;;5%
+| official_description = 
+| stadium_rarity = Common
+| stadium_cost = 1000
+}}
+{{Ability details
+| ability_name = Plasma Converter
+| hero_name = All heroes
+| ability_image = Plasma_Converter.png
+| ability_type = General Item (Weapon)
+| stadium_buffs = Weapon Lifesteal;;10%
+| official_description = 
+| stadium_rarity = Common
+| stadium_cost = 1000
+}}
+{{Ability details
+| ability_name = Weapon Grease
+| hero_name = All heroes
+| ability_image = Weapon_Grease.png
+| ability_type = General Item (Weapon)
+| stadium_buffs = Attack Speed;;5% 
+| official_description = 
+| stadium_rarity = Common
+| stadium_cost = 1000
+}}
+{{Ability details
+| ability_name = Ammo Reserves
+| hero_name = All heroes
+| ability_image = Ammo_Reserves.png
+| ability_type = General Item (Weapon)
+| stadium_buffs = Max Ammo;;20%
+| official_description = 
+| stadium_rarity = Common
+| stadium_cost = 1500
+}}
+{{Ability details
+| ability_name = Frenzy Amplifier
+| hero_name = All heroes
+| ability_image = Frenzy_Amplifier.png
+| ability_type = General Item (Weapon)
+| stadium_buffs = 
+| official_description = Eliminations grant 10% Attack Speed and 15% Move Speed for 3s.
+| stadium_rarity = Common
+| stadium_cost = 1500
+}}
+{{Ability details
+| ability_name = Stratosphere Beacon
+| hero_name = All heroes
+| ability_image = Stratosphere_Beacon.png
+| ability_type = General Item (Weapon)
+| stadium_buffs = Health;;25
+| official_description = Damage to airborne targets above 3m deals 10 bonus damage and slows enemy by 25% for 3s (15s Cooldown)
+| stadium_rarity = Common
+| stadium_cost = 1500
+}}
+
+=== Rare ===
+{{Ability details
+| ability_name = Aftermarket Firing Pin
+| hero_name = All heroes
+| ability_image = Aftermarket_Firing_Pin.png
+| ability_type = General Item (Weapon)
+| stadium_buffs = Attack Speed;;10%::Move Speed;;5%
+| official_description = 
+| stadium_rarity = Rare
+| stadium_cost = 3750
+}}
+{{Ability details
+| ability_name = Advanced Nanobiotics
+| hero_name = All heroes
+| ability_image = Advanced Nanobiotics.png
+| ability_type = General Item (Weapon)
+| stadium_buffs = Weapon Power;;5%
+| official_description = After healing an ally, gain 10% Attack Speed for 3s.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+{{Ability details
+| ability_name = Shieldbuster
+| hero_name = All heroes
+| ability_image = Shieldbuster.png
+| ability_type = General Item (Weapon)
+| stadium_buffs = Weapon Power;;5%
+| official_description = After dealing damage to Shields or Armor, gain 15% Attack Speed for 1s.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+{{Ability details
+| ability_name = Stockpile
+| hero_name = All heroes
+| ability_image = Stockpile.png
+| ability_type = General Item (Weapon)
+| stadium_buffs = Health;;10::Attack Speed;;10%::Max Ammo;;25%
+| official_description = 
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+{{Ability details
+| ability_name = Emergency Chip
+| hero_name = All heroes
+| ability_image = Emergency_Chip.png
+| ability_type = General Item (Weapon)
+| stadium_buffs = Shields;;25::Weapon Power;;5%
+| official_description = Once per life, when you are below 150 Life, gain 15% Weapon Lifesteal and 50 overhealth for 5s
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+{{Ability details
+| ability_name = Technoleech
+| hero_name = All heroes
+| ability_image = Technoleech.png
+| ability_type = General Item (Weapon)
+| stadium_buffs = Health;;25::Attack Speed;;5%::Weapon Lifesteal;;10%
+| official_description = 
+| stadium_rarity = Rare
+| stadium_cost = 4500
+}}
+{{Ability details
+| ability_name = Icy Coolant
+| hero_name = All heroes
+| ability_image = Icy_Coolant.png
+| ability_type = General Item (Weapon)
+| stadium_buffs = Weapon Power;;10%::Cooldown Reduction;;5%
+| official_description = 
+| stadium_rarity = Rare
+| stadium_cost = 5500
+}}
+{{Ability details
+| ability_name = Talon Modification Module
+| hero_name = All heroes
+| ability_image = Talon_Modification_Module.png
+| ability_type = General Item (Weapon)
+| stadium_buffs = Weapon Power;;15%
+| official_description = 
+| stadium_rarity = Rare
+| stadium_cost = 6000
+}}
+
+===Epic===
+{{Ability details
+| ability_name = Aerial Distresser
+| hero_name = All heroes
+| ability_image = Aerial Distresser.png
+| ability_type = General Item (Weapon)
+| stadium_buffs = Shields;;25::Attack Speed;;10%
+| official_description = Weapon damage to airborne enemies deal 25% bonus damage over 3s.
+| stadium_rarity = Epic
+| stadium_cost = 9000
+}}
+{{Ability details
+| ability_name = Codebreaker
+| hero_name = All heroes
+| ability_image = Codebreaker.png
+| ability_type = General Item (Weapon)
+| stadium_buffs = Weapon Power;;15%
+| official_description = Ignore 50% of Armor's damage reduction.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+{{Ability details
+| ability_name = Salvaged Slugs
+| hero_name = All heroes
+| ability_image = Salvaged_Slugs.png
+| ability_type = General Item (Weapon)
+| stadium_buffs = Health;;25::Attack Speed;;10%::Increased Damage to Barriers and Deployables;;30%
+| official_description = Dealing Weapon Damage to Barriers or Deployables has a 50% chance to restore 1 ammo.
+| stadium_rarity = Epic
+| stadium_cost = 9000
+}}
+{{Ability details
+| ability_name = Volskaya Ordnance
+| hero_name = All heroes
+| ability_image = Volskaya_Ordnance.png
+| ability_type = General Item (Weapon)
+| stadium_buffs = Attack Speed;;10%
+| official_description = Deal 5% more damage for every 100 Max Life the target has more than you, up to 20%.
+| stadium_rarity = Epic
+| stadium_cost = 9500
+}}
+{{Ability details
+| ability_name = Weapon Jammer
+| hero_name = All heroes
+| ability_image = Weapon Jammer.png
+| ability_type = General Item (Weapon)
+| stadium_buffs = Armor;;25::Weapon Power;;10%
+| official_description = Dealing Weapon Damage negates 10% of the target's bonus Attack Speed and increases your Attack Speed for 2s.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+{{Ability details
+| ability_name = Amari's Antidote
+| hero_name = All heroes
+| ability_image = Amari's_Antidote.png
+| ability_type = General Item (Weapon)
+| stadium_buffs = Health;;25::Weapon Power;;15%
+| official_description = While healing an ally below 50% Life with your weapon, deal 15% increased 15% increased Weapon Healing.
+| stadium_rarity = Epic
+| stadium_cost = 11000
+}}
+{{Ability details
+| ability_name = Commander's Clip
+| hero_name = All heroes
+| ability_image = Commander's_Clip.png
+| ability_type = General Item (Weapon)
+| stadium_buffs = Attack Speed;;10%::Max Ammo;;40%
+| official_description = When you use an ability, restore 10% of your Max Ammo.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+{{Ability details
+| ability_name = Booster Jets
+| hero_name = All heroes
+| ability_image = Booster Jets.png
+| ability_type = General Item (Weapon)
+| stadium_buffs = Attack Speed;;20%
+| official_description = When you use an ability, gain 10% Move Speed for 2s.
+| stadium_rarity = Epic
+| stadium_cost = 11000
+}}
+{{Ability details
+| ability_name = El-Sa'ka Suppressor
+| hero_name = All heroes
+| ability_image = El-Sa'ka_Suppressor.png
+| ability_type = General Item (Weapon)
+| stadium_buffs = Weapon Power;;10%
+| official_description = Critical Hits apply 30% Healing Reduction to the target for 2s.
+| stadium_rarity = Epic
+| stadium_cost = 11000
+}}
+{{Ability details
+| ability_name = Hardlight Accelerator
+| hero_name = All heroes
+| ability_image = Hardlight Accelerator.png
+| ability_type = General Item (Weapon)
+| stadium_buffs = Weapon Power;;10%::Cooldown Reduction;;10%
+| official_description = When you use an ability, gain 5% Weapon Power for 3s, stacking up to 3 times.
+| stadium_rarity = Epic
+| stadium_cost = 11000
+}}
+{{Ability details
+| ability_name = The Closer
+| hero_name = All heroes
+| ability_image = The Closer.png
+| ability_type = General Item (Weapon)
+| stadium_buffs = Weapon Power;;20%::Critical Damage;;10%
+| official_description = Critical Hits reveal the target for 3s.
+| stadium_rarity = Epic
+| stadium_cost = 14500
+}}
+{{Ability details
+| ability_name = Eye of the Spider
+| hero_name = All heroes
+| ability_image = Eye of the Spider.png
+| ability_type = General Item (Weapon)
+| stadium_buffs = Weapon Power;;25%
+| official_description = Deal 10% increased damage to enemies below 30% Life.
+| stadium_rarity = Epic
+| stadium_cost = 14000
+}}
+
+== Ability ==
+=== Common ===
+{{Ability details
+| ability_name = Charged Plating
+| hero_name = All heroes
+| ability_image = Charged_Plating.png
+| ability_type = General Item (Ability)
+| stadium_buffs = 
+| official_description = After you spend your Ultimate Charge, gain 25 Armor and 10% Ability Power for the rest of the round.
+| stadium_rarity = Common
+| stadium_cost = 1000
+}}
+{{Ability details
+| ability_name = Power Playbook
+| hero_name = All heroes
+| ability_image = Power Playbook.png
+| ability_type = General Item (Ability)
+| stadium_buffs = Ability Power;;10%
+| official_description = 
+| stadium_rarity = Common
+| stadium_cost = 1000
+}}
+{{Ability details
+| ability_name = Shady Spectacles
+| hero_name = All heroes
+| ability_image = Shady Spectacles.png
+| ability_type = General Item (Ability)
+| stadium_buffs = Ability Lifesteal;;10%
+| official_description = 
+| stadium_rarity = Common
+| stadium_cost = 1000
+}}
+{{Ability details
+| ability_name = Winning Attitude
+| hero_name = All heroes
+| ability_image = Winning Attitude.png
+| ability_type = General Item (Ability)
+| stadium_buffs = Health;;25
+| official_description = When you die, gain 15% Ultimate Charge.
+| stadium_rarity = Common
+| stadium_cost = 1500
+}}
+
+=== Rare ===
+{{Ability details
+| ability_name = Custom Stock
+| hero_name = All heroes
+| ability_image = Custom Stock.png
+| ability_type = General Item (Ability)
+| stadium_buffs = Health;;10::Weapon Power;;5%::Ability Power;;10%
+| official_description = 
+| stadium_rarity = Rare
+| stadium_cost = 3750
+}}
+{{Ability details
+| ability_name = Biolight Overflow
+| hero_name = All heroes
+| ability_image = Biolight Overflow.png
+| ability_type = General Item (Ability)
+| stadium_buffs = Health;;25::Ability Power;;5%
+| official_description = When you spend your Ultimate Charge, grant nearby allies 75 Overhealth for 3s.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+{{Ability details
+| ability_name = Energized Bracers
+| hero_name = All heroes
+| ability_image = Energized Bracers.png
+| ability_type = General Item (Ability)
+| stadium_buffs = Health;;10::Ability Power;;10%::Ability Lifesteal;;10%
+| official_description = 
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+{{Ability details
+| ability_name = Junker Whatchamajig
+| hero_name = All heroes
+| ability_image = Junker Whatchamajig.png
+| ability_type = General Item (Ability)
+| stadium_buffs = Health;;25::Starting Ultimate Charge;;25%
+| official_description = 
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+{{Ability details
+| ability_name = Skyline Nanites
+| hero_name = All heroes
+| ability_image = Skyline Nanites.png
+| ability_type = General Item (Ability)
+| stadium_buffs = Ability Lifesteal;;10%
+| official_description = Ability damage to airborne enemies deal 20% bonus damage over 2s
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+{{Ability details
+| ability_name = Wrist Wraps
+| hero_name = All heroes
+| ability_image = Wrist Wraps.png
+| ability_type = General Item (Ability)
+| stadium_buffs = Health;;10::Ability Power;;5%::Attack Speed;;10%
+| official_description = 
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+{{Ability details
+| ability_name = Multi-Tool
+| hero_name = All heroes
+| ability_image = Multi-tool.png
+| ability_type = General Item (Ability)
+| stadium_buffs = Ability Power;;10%::Cooldown Reduction;;5%
+| official_description = 
+| stadium_rarity = Rare
+| stadium_cost = 4500
+}}
+{{Ability details
+| ability_name = Vitality Amplifier
+| hero_name = All heroes
+| ability_image = Vitality Amplifier.png
+| ability_type = General Item (Ability)
+| stadium_buffs = Shields;;25
+| official_description = While above 50% Life gain 10% Ability_Power.<br>Otherwise gain 15% Ability Lifesteal and abilities refresh 10% faster.
+| stadium_rarity = Rare
+| stadium_cost = 5000
+}}
+{{Ability details
+| ability_name = Nano Cola
+| hero_name = All heroes
+| ability_image = Nano Cola Item.png
+| ability_type = General Item (Ability)
+| stadium_buffs = Ability Power;;20%
+| official_description = 
+| stadium_rarity = Rare
+| stadium_cost = 6000
+}}
+
+=== Epic ===
+{{Ability details
+| ability_name = Sonic Recharger
+| hero_name = All heroes
+| ability_image = Sonic_Recharger.png
+| ability_type = General Item (Ability)
+| stadium_buffs = Health;;25::Ability Power;;10%
+| official_description = Passive Life Regeneration can overheal up to 75.
+| stadium_rarity = Epic
+| stadium_cost = 9000
+}}
+{{Ability details
+| ability_name = Biotech Maximizer
+| hero_name = All heroes
+| ability_image = Biotech Maximizer.png
+| ability_type = General Item (Ability)
+| stadium_buffs = Health;;25::Ability Power;;10%
+| official_description = When you use an ability that heals, reduce its cooldown by 5% for each unique ally it heals.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+{{Ability details
+| ability_name = Catalytic Crystal
+| hero_name = All heroes
+| ability_image = Catalytic Crystal.png
+| ability_type = General Item (Ability)
+| stadium_buffs = Ability Power;;15%
+| official_description = Ability Damage and Healing grants 20% more Ultimate Charge.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+{{Ability details
+| ability_name = Lumérico Fusion Drive
+| hero_name = All heroes
+| ability_image = Lumérico_Fusion_Drive.png
+| ability_type = General Item (Ability)
+| stadium_buffs = Armor;;50::Ability Power;;15%
+| official_description = When you use an ability, restore 50 Armor or Shields over 3s.
+| stadium_rarity = Epic
+| stadium_cost = 11000
+}}
+{{Ability details
+| ability_name = Superflexor
+| hero_name = All heroes
+| ability_image = Superflexor.png
+| ability_type = General Item (Ability)
+| stadium_buffs = Health;;25::Weapon Power;;10%
+| official_description = When you deal Weapon Damage or Healing, gain 5% Ability Power for 3s, stacking up to 5 times.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+{{Ability details
+| ability_name = Cybervenom
+| hero_name = All heroes
+| ability_image = Cybervenom.png
+| ability_type = General Item (Ability)
+| stadium_buffs = Ability Power;;10%:: Cooldown Reduction;;5%
+| official_description = Dealing Ability damage applies 30% healing reduction for 2s.
+| stadium_rarity = Epic
+| stadium_cost = 10500
+}}
+{{Ability details
+| ability_name = Three-Tap Tommygun
+| hero_name = All heroes
+| ability_image = Three-tap_Tommygun.png
+| ability_type = General Item (Ability)
+| stadium_buffs = Ability Power;;10%::Attack Speed;;10%
+| official_description = After using an ability, for 3 seconds Weapon Damage deals additional damage equal to 1% of the target's Life.<br>(0.25s Cooldown).
+| stadium_rarity = Epic
+| stadium_cost = 9500
+| ability_details = * Subject to the weapon's damage falloff.
+}}
+{{Ability details
+| ability_name = Iridescent Iris
+| hero_name = All heroes
+| ability_image = Iridescent_Iris.png
+| ability_type = General Item (Ability)
+| stadium_buffs = Ability Power;;20%:: Cooldown Reduction;;10%
+| official_description = After spending your Ultimate Charge, gain 100 Overhealth for 3s.
+| stadium_rarity = Epic
+| stadium_cost = 11000
+}}
+{{Ability details
+| ability_name = Liquid Nitrogen
+| hero_name = All heroes
+| ability_image = Liquid Nitrogen.png
+| ability_type = General Item (Ability)
+| stadium_buffs = Health;;25::Ability Power;;10%
+| official_description = Dealing Ability Damage slows the target's Move Speed by 10% and their bonus Move Speed by 15% for 3s.
+| stadium_rarity = Epic
+| stadium_cost = 11000
+}}
+{{Ability details
+| ability_name = Mark of the Kitsune
+| hero_name = All heroes
+| ability_image = Mark_of_the_Kitsune.png
+| ability_type = General Item (Ability)
+| stadium_buffs = Ability Power;;10%
+| official_description = When you use an ability, your next instance of Weapon Damage or Healing deals {{Ability_Power|25}} bonus damage or healing.
+| stadium_rarity = Epic
+| stadium_cost = 11000
+| ability_details = * Subject to the weapon's damage falloff.
+}}
+{{Ability details
+| ability_name = Champion's Kit
+| hero_name = All heroes
+| ability_image = Champion's Kit.png
+| ability_type = General Item (Ability)
+| stadium_buffs = Ability Power;;35%
+| official_description = 
+| stadium_rarity = Epic
+| stadium_cost = 14000
+}}
+
+== Survival ==
+=== Common ===
+{{Ability details
+| ability_name = Ballistic Buffer
+| hero_name = All heroes
+| ability_image = Ballistic_Buffer.png
+| ability_type = General Item (Survival)
+| stadium_buffs = Health;;10
+| official_description = After taking damage beyond 20m, gain 50 overhealth for 3s (15s cooldown)
+| stadium_rarity = Common
+| stadium_cost = 1000
+}}
+{{Ability details
+| ability_name = Electrolytes
+| hero_name = All heroes
+| ability_image = Electrolytes.png
+| ability_type = General Item (Survival)
+| stadium_buffs = Health;;10
+| official_description = At the start of the round and every time you respawn, gain 100 unrecoverable Overhealth.
+| stadium_rarity = Common
+| stadium_cost = 1000
+}}
+{{Ability details
+| ability_name = Field Rations
+| hero_name = All heroes
+| ability_image = Field Rations.png
+| ability_type = General Item (Survival)
+| stadium_buffs = Health;;10
+| official_description = While on the Objective, restore 8 Life every 1s.
+| stadium_rarity = Common
+| stadium_cost = 1000
+}}
+{{Ability details
+| ability_name = Running Shoes
+| hero_name = All heroes
+| ability_image = Running Shoes.png
+| ability_type = General Item (Survival)
+| stadium_buffs = Health;;10
+| official_description = At the start of the round and when you respawn while not in Overtime, gain 30% Move Speed for 10s while out of combat.
+| stadium_rarity = Common
+| stadium_cost = 1000
+}}
+{{Ability details
+| ability_name = Adrenaline Shot
+| hero_name = All heroes
+| ability_image = Adrenaline Shot.png
+| ability_type = General Item (Survival)
+| stadium_buffs = Health;;25
+| official_description = Health Packs grant 20% Move Speed for 5s and 50 Overhealth.
+| stadium_rarity = Common
+| stadium_cost = 1500
+}}
+{{Ability details
+| ability_name = Armored Vest
+| hero_name = All heroes
+| ability_image = Armored Vest.png
+| ability_type = General Item (Survival)
+| stadium_buffs = Armor;;25
+| official_description = 
+| stadium_rarity = Common
+| stadium_cost = 1500
+}}
+{{Ability details
+| ability_name = First Aid Kit
+| hero_name = All heroes
+| ability_image = First Aid Kit.png
+| ability_type = General Item (Survival)
+| stadium_buffs = Shields;;25
+| official_description = Reduce the time before your Life begins regenerating by 33%.
+| stadium_rarity = Common
+| stadium_cost = 1500
+| ability_details = 
+* Also reduces the regeneration delay of [[shield]]s.
+}}
+{{Ability details
+| ability_name = Reflex Coating
+| hero_name = All heroes
+| ability_image = Reflex_Coating.png
+| ability_type = General Item (Survival)
+| stadium_buffs = Health;;25
+| official_description = When you are stunned, slept, hindered or anti-healed, gain 75 Overhealth for 3s (20s Cooldown).
+| stadium_rarity = Common
+| stadium_cost = 1500
+}}
+{{Ability details
+| ability_name = Siphon Gloves
+| hero_name = All heroes
+| ability_image = Siphon Gloves.png
+| ability_type = General Item (Survival)
+| stadium_buffs = Health;;25
+| official_description = [Quick Melee] damage heals for 25 Life.
+| stadium_rarity = Common
+| stadium_cost = 1500
+| ability_details =
+* Does '''not''' affect melee weapons that can be activated with the Quick Melee input, such as {{al|Rocket Hammer}} and {{al|Dragonblade}}.
+}}
+
+===Rare===
+{{Ability details
+| ability_name = Cushioned Padding
+| hero_name = All heroes
+| ability_image = Cushioned Padding.png
+| ability_type = General Item (Survival)
+| stadium_buffs = Shields;;25:: Negative Effect Duration;;-40%
+| official_description = When affected by Stun, Sleep, or Hinder, restore 10% of your max Life over 3s.
+| stadium_rarity = Rare
+| stadium_cost = 3750
+}}
+{{Ability details
+| ability_name = Iron Eyes
+| hero_name = All heroes
+| ability_image = Iron Eyes.png
+| ability_type = General Item (Survival)
+| stadium_buffs = Shields;;25::Move Speed;;5%
+| official_description = You take 20% reduced damage from Critical Hits.
+| stadium_rarity = Rare
+| stadium_cost = 3750
+}}
+{{Ability details
+| ability_name = Reinforced Titanium
+| hero_name = All heroes
+| ability_image = Reinforced Titanium.png
+| ability_type = General Item (Survival)
+| stadium_buffs = Shields;;25
+| official_description = While you have Shields, take 15% reduced Ability Damage and gain 5% Ability Power.
+| stadium_rarity = Rare
+| stadium_cost = 3750
+}}
+{{Ability details
+| ability_name = Vishkar Condensor
+| hero_name = All heroes
+| ability_image = Vishkar Condensor.png
+| ability_type = General Item (Survival)
+| stadium_buffs = Shields;;25
+| official_description = Convert 150 Health into Shields.
+| stadium_rarity = Rare
+| stadium_cost = 3750
+}}
+{{Ability details
+| ability_name = Bloodbound
+| hero_name = All heroes
+| ability_image = Bloodbound.png
+| ability_type = General Item (Survival)
+| stadium_buffs = Health;;25
+| official_description = The last enemy to deal a final blow to you is Revealed when nearby. Deal 10% more damage to them and take 10% reduced damage from them.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+{{Ability details
+| ability_name = Ironclad Exhaust Ports
+| hero_name = All heroes
+| ability_image = Ironclad Exhaust Ports.png
+| ability_type = General Item (Survival)
+| stadium_buffs = Health;;10::Cooldown Reduction;;5%
+| official_description = When you use an ability, gain 25 Overhealth for 3s.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+| ability_details = * Overhealth does not stack. Subsequent uses refresh the amount and duration.
+* Also affects ultimate abilities.
+* Passive abilities do not grant overhealth even if they are accessed through a button press.
+* Abilities that have a multiple activation stages only grant overhealth on the initial activation. For example, {{al|Concussion Mine}} grants overhealth when it is thrown, but will not grant overhealth again when it is detonated.
+* Abilities that employ a confirmation input such as, {{al|Biotic Orb}} and {{al|Pulsar Torpedoes}}, grants overhealth when it is fired.
+* Overhealth is granted instantly when the button is pressed, except for {{al|Shadow Step}}, which grants the overhealth upon arrival.
+* The effect cannot be triggered by abilities that are toggleable or have no cooldown. This includes:
+** D,Va's {{al|Defense Matrix}}
+** Reinhardt's {{al|Barrier Field}}
+** Sigma's {{al|Experimental Barrier}}
+** Soldier: 76's {{al|Sprint}}
+** Lúcio's {{al|Crossfade}}
+** Zenyatta's {{al|Orb of Harmony}} and {{al|Orb of Discord}}
+* Following Power and Item based abilities can trigger the effect:
+** D.Va's {{al|Busan Blaster}}
+** Sigma's {{al|Astrophysical}} (on-hit only)
+** Genji's {{al|Iaido Strike}} (while Dragonblade is not active)
+** Junkrat's {{al|Slapnel}}
+** Mei's {{al|Snowball Flight}}
+** Ana's {{al|Dash Boots}}
+** Mercy's {{al|Renaissance}} (while Valkyrie is not active)
+** Zenyatta's {{al|Flying Kick}}
+}}
+{{Ability details
+| ability_name = Vital-E-Tee
+| hero_name = All heroes
+| ability_image = Vital-e-Tee.png
+| ability_type = General Item (Survival)
+| stadium_buffs = Armor;;10
+| official_description = Convert 100 Health into Armor.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+{{Ability details
+| ability_name = Crusader Hydraulics
+| hero_name = All heroes
+| ability_image = Crusader Hydraulics.png
+| ability_type = General Item (Survival)
+| stadium_buffs = Armor;;25
+| official_description = While you have Armor, take 10% reduced Weapon Damage and gain 5% Attack Speed.
+| stadium_rarity = Rare
+| stadium_cost = 4500
+}}
+{{Ability details
+| ability_name = Meka Z-Series
+| hero_name = All heroes
+| ability_image = Meka-Z Series.png
+| ability_type = General Item (Survival)
+| stadium_buffs = Health, Armor, Shields;;8%
+| official_description = 
+| stadium_rarity = Rare
+| stadium_cost = 5000
+}}
+
+=== Epic ===
+{{Ability details
+| ability_name = Geneticist's Vial
+| hero_name = All heroes
+| ability_image = Geneticist's Vial.png
+| ability_type = General Item (Survival)
+| stadium_buffs = Health;;25
+| official_description = The first time you would die each round, revive instead with 250 Life after 3s.
+| stadium_rarity = Epic
+| stadium_cost = 9000
+}}
+{{Ability details
+| ability_name = Divine Intervention
+| hero_name = All heroes
+| ability_image = Divine Intervention.png
+| ability_type = General Item (Survival)
+| stadium_buffs = Shields;;50
+| official_description = When you take more than 150 pre-mitigation damage at once, gain Overhealth equal to 20% of damage taken for 3s and start regenerating your Shields.
+| stadium_rarity = Epic
+| stadium_cost = 9500
+}}
+{{Ability details
+| ability_name = Overdrive Core
+| hero_name = All heroes
+| ability_image = Overdrive_Core.png
+| ability_type = General Item (Survival)
+| stadium_buffs = Shields;;25::Weapon Power;;10%
+| official_description = Once per life, if you take damage that would reduce you below 30% Max Life, first gain 300 decaying Overhealth.
+| stadium_rarity = Epic
+| stadium_cost = 9500
+}}
+{{Ability details
+| ability_name = Gloomgauntlet
+| hero_name = All heroes
+| ability_image = Gloomgauntlet.png
+| ability_type = General Item (Survival)
+| stadium_buffs = Armor;;50::Melee Damage;;15%
+| official_description = [Melee] damage grants 10% Move Speed and restores 5% of Max Life over 2s.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+{{Ability details
+| ability_name = Martian Mender
+| hero_name = All heroes
+| ability_image = Martian Mender.png
+| ability_type = General Item (Survival)
+| stadium_buffs = Health;;25::Cooldown Reduction;;10%
+| official_description = Restore 3% of your Life every 1s.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+{{Ability details
+| ability_name = Phantasmic Flux
+| hero_name = All heroes
+| ability_image = Phantasmic Flux.png
+| ability_type = General Item (Survival)
+| stadium_buffs = Weapon Power;;10%::Ability Power;;10%::Weapon Lifesteal;;15%::Ability Lifesteal;;15%
+| official_description = While at full Life, Lifesteal grants up to 100 Overhealth.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+{{Ability details
+| ability_name = Rüstung von Wilhelm
+| hero_name = All heroes
+| ability_image = Rüstung von Wilhelm.png
+| ability_type = General Item (Survival)
+| stadium_buffs = Health, Armor, Shields;;15%
+| official_description = While below 30% Life, gain 10% Damage Reduction.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+{{Ability details
+| ability_name = Vanadium Injection
+| hero_name = All heroes
+| ability_image = Vanadium Injection.png
+| ability_type = General Item (Survival)
+| stadium_buffs = Shields;;50
+| official_description = While at 100% Ultimate Charge, gain:
+:{{Life}} 50 Health
+:{{Weapon_Power}} 10% Weapon Power
+:{{Ability_Power}} 10% Ability Power
+:{{Attack_Speed}} 10% Attack Speed
+:{{Cooldown_Reduction}} 10% Cooldown Reduction
+:{{Move_Speed}} 10% Move Speed
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+{{Ability details
+| ability_name = Nebula Conduit
+| hero_name = All heroes
+| ability_image = Nebula Conduit.png
+| ability_type = General Item (Survival)
+| stadium_buffs = Health;;50::Weapon Power;;10%
+| official_description = Prevent 15% of incoming damage and instead take that prevented damage over 3s.
+| stadium_rarity = Epic
+| stadium_cost = 11000
+}}
+{{Ability details
+| ability_name = Ogundimu Reduction Field
+| hero_name = All heroes
+| ability_image = Ogundimu Reduction Field.png
+| ability_type = General Item (Survival)
+| stadium_buffs = Armor;;50
+| official_description = When you take damage, gain 0.5% damage reduction for 1s, stacking up to 20 times.
+| stadium_rarity = Epic
+| stadium_cost = 11000
+}}
+
+== Gadgets==
+Gadgets are a new, activatable item type released in ''Season 19''.
+
+=== Common ===
+{{Ability details
+| ability_name = Aura Repellant
+| hero_name = All heroes
+| key = gadget
+| cooldown = 35 seconds
+| ability_image = Aura_Repellant.png
+| ability_type = Gadget
+| stadium_buffs = Health;;25
+| official_description = On Use: Knockback all enemies within 8m.
+| stadium_rarity = Common
+| stadium_cost = 1500
+}}
+
+{{Ability details
+| ability_name = Barrier Snippet
+| hero_name = All heroes
+| key = gadget
+| cooldown = 45 seconds
+| ability_image = Barrier_Snippet.png
+| ability_type = Gadget
+| stadium_buffs = Health;;25
+| official_description = On Use: Gain 50 Overhealth for 3s.
+| stadium_rarity = Common
+| stadium_cost = 1500
+}}
+
+{{Ability details
+| ability_name = Exo Springs
+| hero_name = All heroes
+| key = gadget
+| cooldown = 20 seconds
+| ability_image = Exo_Springs.png
+| ability_type = Gadget
+| stadium_buffs = Health;;25
+| official_description = Holding Crouch increases the height of your next jump by up to 250%.
+| stadium_rarity = Common
+| stadium_cost = 1500
+}}
+
+{{Ability details
+| ability_name = Feathered Soles
+| hero_name = All heroes
+| key = gadget
+| cooldown = 20 seconds
+| ability_image = Feathered_Soles.png
+| ability_type = Gadget
+| stadium_buffs = Health;;25
+| official_description = On Use: Gain 25% Move Speed for 5s. Dealing damage removes this bonus.
+| stadium_rarity = Common
+| stadium_cost = 1500
+}}
+
+{{Ability details
+| ability_name = Med Kit
+| hero_name = All heroes
+| key = gadget
+| cooldown = 25 seconds
+| ability_image = Med_Kit.png
+| ability_type = Gadget
+| stadium_buffs = Health;;25
+| official_description = On Use: Restore 20 Life every 1s for 10s. Taking damage removes this bonus.
+| stadium_rarity = Common
+| stadium_cost = 1500
+}}
+
+=== Rare ===
+{{Ability details
+| ability_name = Dashing Skates
+| hero_name = All heroes
+| key = gadget
+| cooldown = 20 seconds
+| ability_image = Dashing_Skates.png
+| ability_type = Gadget
+| stadium_buffs = Health;;25
+| official_description = On Use: Dash a short distance.
+| stadium_rarity = Rare
+| stadium_cost = 3750
+}}
+
+{{Ability details
+| ability_name = Field Support
+| hero_name = All heroes
+| key = gadget
+| cooldown = 20 seconds
+| ability_image = Field_Support.png
+| ability_type = Gadget
+| stadium_buffs = Armor;;25::Weapon Power;;5%
+| official_description = On Use: Place a Healing Field at your location that restores 50 Life every 1s for 3s.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+
+
+{{Ability details
+| ability_name = Kitsune Snippet
+| hero_name = All heroes
+| key = gadget
+| cooldown = 35 seconds
+| ability_image = Kitsune_Snippet.png
+| ability_type = Gadget
+| stadium_buffs = Shields;;25::Cooldown Reduction;;5%
+| official_description = On Use: Gain 50 Overhealth and 20% Move Speed for 3s. If you are debuffed, gain an additional 100.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+
+=== Epic ===
+{{Ability details
+| ability_name = Kitsune Charm
+| hero_name = All heroes
+| key = gadget
+| cooldown = 45 seconds
+| ability_image = Kitsune_Charm.png
+| ability_type = Gadget
+| stadium_buffs = Shields;;50::Incoming Negative Effect Duration;;-40%
+| official_description = On Use: Cleanse yourself of most negative effects, restore 75 Life, and gain Invulnerability and 75% Move Speed for 0.65s.
+| stadium_rarity = Epic
+| stadium_cost = 9000
+}}
+
+{{Ability details
+| ability_name = Jet Skates
+| hero_name = All heroes
+| key = gadget
+| cooldown = 12 seconds
+| ability_image = Jet_Skates.png
+| ability_type = Gadget
+| stadium_buffs = Health;;25::Weapon Power;;10%::Ability Power;;10%
+| official_description = On Use: Dash a short distance.
+| stadium_rarity = Epic
+| stadium_cost = 9500
+}}
+
+{{Ability details
+| ability_name = Necrotic Repellant
+| hero_name = All heroes
+| key = gadget
+| cooldown = 20 seconds
+| ability_image = Necrotic_Repellant.png
+| ability_type = Gadget
+| stadium_buffs = Shields;;50::Ability Power;;15%
+| official_description = On Use: Knockback and slow all enemies within 8m and apply 30% Healing Reduction for 3s.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+
+{{Ability details
+| ability_name = Super Serum
+| hero_name = All heroes
+| key = gadget
+| cooldown = 35 seconds
+| ability_image = Super_Serum.png
+| ability_type = Gadget
+| stadium_buffs = Health;;25::Attack Speed;;10%::Weapon Lifesteal;;10%
+| official_description = On Use: Increase your total Attack Speed 50% by but deal 15% reduced Weapon Damage for 5s. Reload all your Ammo.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+
+{{Ability details
+| ability_name = Colossus Core
+| hero_name = All heroes
+| key = gadget
+| cooldown = 45 seconds
+| ability_image = Colossus_Core.png
+| ability_type = Gadget
+| stadium_buffs = Health, Shields, and Armor;;+10%::Knockback Resist;;+40%::Slow Resist;;+40%
+| official_description = On Use: Gain Unstoppable, 25% Damage Reduction, 25% Max Life, and grow in size, but deal 50% reduced damage and healing for 3s.
+| stadium_rarity = Epic
+| stadium_cost = 11000
+}}
+
+{{Ability details
+| ability_name = Refresher
+| hero_name = All heroes
+| key = gadget
+| cooldown = 75 seconds
+| ability_image = Refresher.png
+| ability_type = Gadget
+| stadium_buffs = Health;;25
+| official_description = Reduce all Ability cooldowns by 8s.
+| stadium_rarity = Epic
+| stadium_cost = 13000
+}}
+
+== Removed Items ==
+
+{{Ability details
+| ability_name = Heartbeat Sensor
+| hero_name = All heroes
+| ability_image = Heartbeat Sensor.png
+| ability_type = General Item (Survival)
+| stadium_buffs = Move Speed;;5%
+| official_description = Enemies below 30% Life are Revealed to you.
+| stadium_rarity = Common
+| stadium_cost = 1500
+| removed = 1
+}}
+
+== Balance Change Log ==
+{{PatchTableStart}}
+<onlyinclude>
+{{PatchTableElement|2025-10-14|
+
+;Introducing... Gadgets!
+{{DevComment|Developer comments: We're continuing our goal of improving our General Item selection to give you the agency you need to address more matchups and further customize your playstyle. We're introducing Gadgets, which are Active Items that grant you a bonus ability with a cooldown when you purchase them. Gadgets appear in the HUD, near your existing abilities. They can be activated with a customizable hotkey and you can have one equipped at a time.
+
+* Your control bindings for certain inputs may have been changed to accommodate for the new "Use Gadget" input.
+* For keyboard inputs, Gadget activation is by default bound to the 3 key.
+* For controller inputs, Gadget activation is by default bound to the Directional Pad Up Key.}}
+
+;New Gadgets Added
+
+{{al|Aura Repellant}} - Common Gadget
+* New Gadget.
+* 25 Health.
+* On Use: Knockback all enemies within 8m. (35s Cooldown).
+* Cost: 1500.
+
+{{al|Barrier Snippet}} - Common Gadget
+* New Gadget.
+* 25 Health.
+* On Use: Gain 50 Overhealth for 3s. (45s Cooldown).
+* Cost: 1500.
+
+{{al|Exo Springs}} - Common Gadget
+* New Gadget.
+* 25 Health.
+* Holding Crouch increases the height of your next jump by up to 250%. (20s Cooldown).
+* Cost: 1500.
+
+{{al|Feathered Soles}} - Common Gadget
+* New Gadget.
+* 25 Health.
+* On Use: Gain 25% Move Speed for 5s. Dealing damage removes this bonus. (20s Cooldown).
+* Cost: 1500.
+
+{{al|Med Kit}} - Common Gadget
+* New Gadget.
+* 25 Health.
+* On Use: Restore 20 Life every 1s for 10s. Taking damage removes this bonus. (25s Cooldown).
+* Cost: 1500.
+
+{{al|Dashing Skates}} - Rare Gadget
+* New Gadget.
+* 25 Health.
+* On Use: Dash a short distance. (20s Cooldown).
+* Cost: 3750.
+
+{{al|Field Support}} - Rare Gadget
+* New Gadget.
+* 25 Armor.
+* 5% Weapon Power
+* On Use: Place a Healing Field at your location that restores 50 Life every 1s for 3s. (20s Cooldown).
+*  Cost: 4000.
+
+{{al|Kitsune Charm}} - Rare Gadget
+* New Gadget.
+* 25 Shields.
+* 5% Cooldown Reduction.
+* On Use: Gain 50 Overhealth and 20% Move Speed for 3s. If you are debuffed, gain an additional 100. (35s Cooldown).
+* Cost: 4000.
+
+{{al|Kitsune Charm}} - Epic Gadget
+* New Gadget.
+* 50 Shields.
+* -40% Incoming Negative Effect Duration.
+* On Use: Cleanse yourself of most negative effects, restore 75 Life, and gain Invulnerability and 75% Move Speed for 0.65s. (45s Cooldown).
+* Cost: 9000.
+
+{{al|Jet Skates}} - Epic Gadget
+*New Gadget.
+* 25 Health.
+* 10% Weapon Power.
+* 10% Ability Power.
+* On Use: Dash a short distance. (12s Cooldown).
+* Cost: 9500.
+
+{{al|Necrotic Repellant}} - Epic Gadget
+* New Gadget.
+* 50 Shields.
+* 15% Ability Power.
+* On Use: Knockback and slow all enemies within 8m and apply 30% Healing Reduction for 3s. (20s Cooldown).
+* Cost: 10000.
+
+{{al|Super Serum}} - Epic Gadget
+* New Gadget.
+* 25 Health.
+* 10% Attack Speed.
+* 10% Weapon Lifesteal.
+* On Use: Increase your total Attack Speed 50% by but deal 15% reduced Weapon Damage for 5s. Reload all your Ammo. (35s Cooldown).
+*  Cost: 10000.
+
+{{al|Colossus Core}} - Epic Gadget
+* New Gadget.
+* +10% Health, Shields, and Armor.
+* +40% Knockback Resist.
+* +40% Slow Resist.
+* On Use: Gain Unstoppable, 25% Damage Reduction, 25% Max Life, and grow in size, but deal 50% reduced damage and healing for 3s. (45s Cooldown).
+* Cost: 11000.
+
+{{al|Refresher}} - Epic Gadget
+* New Gadget.
+* 25 Health.
+* Reduce all Ability cooldowns by 8s. (75s Cooldown).
+* Cost: 13000.
+
+General Items
+
+{{al|Stratosphere Beacon}} - Common Weapon General Item
+* Rarity changed to Common (from Rare).
+* Cost reduced to 1500 (Down from 4000).
+* Bonus damage and slow to airborne enemies now procs from both Weapon and Ability damage.
+* Removed 5% Weapon Power.
+
+{{al|Salvaged Slugs}} - Epic Weapon General Item
+* Added increased damage and ammo refund on damage to deployables, such as Torbjörn's Turret.
+
+{{al|Liquid Nitrogen}} - Epic Ability General Item
+* Slow on Ability Damage reduced to 10% (Down from 20%).
+* Added 15% increased Slow to Bonus Move Speed, from abilities and items.
+
+{{al|LumériCo Fusion Drive}} - Epic Ability General Item
+* Cost increased to 11000 (up from 10000).
+
+{{al|Heartbeat Sensor}} - Common Survival General Item
+* Removed.
+
+{{al|Reflex Coating}} - Common Survival General Item
+* New Item.
+* 25 Health.
+* When you are stunned, slept, or hindered, or anti-healed, gain 75 Overhealth for 3s. (20s Cooldown).
+* 1500 Cost.
+}}
+{{PatchTableElement|2025-10-01|General Item Updates
+
+{{al|Codebreaker}} - Epic General Weapon Item
+* Cost increased to 10000 (up from 9000).
+}}
+
+{{PatchTableElement|2025-09-16|{{DevComment|Developer comments: With the introduction of Tracer, we're adjusting some of our "On Ability" items to be more in bounds on heroes with low ability cooldowns.}}
+
+{{al|Ironclad Exhaust Ports}} - Rare Survival General Item
+* Overhealth now only stacks up to 1 time.
+* Added 10 Health.
+
+{{al|Three-Tap Tommygun}} - Epic Ability General Item
+* Added damage falloff to additional damage equal to target's Life.
+* Added internal timer of 0.25s between subsequent procs of the additional damage.
+* Changed from "After using an ability, your next 3 instances of Weapon Damage deal additional damage equal to 3% of the target's Life" to "After using an ability, for 3s Weapon Damage deals additional damage equal to 1% of the target's Life. (Cooldown: 0.25s)".
+* Cost reduced to 9500 (Down from 10500).
+
+{{al|Mark of the Kitsune}} - Epic Ability General Item
+* Added damage falloff to additional damage.
+}}
+{{PatchTableElement|2025-08-26|{{DevComment|Developer Comments: These general item changes are aimed at overall making you feel like you have more viable options to select within the Armory. We're improving situational itemization in the common and rare tiers, particularly against fliers. We're also adding some more survivability, particularly in some of the less popular rare items, so there's more options for damage-oriented builds in the mid-game.}}
+
+{{al|Ballistic Buffer}} - Common Survival General Item
+* New Common Survival General Item.
+* +10 Health.
+* After taking damage beyond 20m, gain 50 Overhealth for 3s (15s cooldown).
+* 1,000 Cost.
+
+{{al|Stratosphere Beacon|text=Icarus Protocol}} - Rare Weapon General Item
+* New Rare Weapon General Item.
+* +25 Health.
+* +5% Weapon Power.
+* Weapon Damage to airborne targets above 3m deals 10 bonus damage and slows the enemy by 25% for 3s (10s cooldown).
+* 4,000 Cost.
+
+{{al|Skyline Nanites}} - Rare Ability General Item
+* New Rare Ability General Item.
+* +10% Ability Lifesteal.
+* Ability Damage to airborne enemies above 3m deals 20% bonus damage over 3s.
+* 4,000 Cost.
+
+{{al|Electrolytes}} - Common Survival General Item
+* Added 10 Health.
+
+{{al|Running Shoes|text=Field Rations}} - Common Survival General Item
+* Changed to Move Speed every time you respawn instead of just the first time you respawn.
+* Move Speed increased to 30% (Up from 20%).
+
+{{al|First Aid Kit}} - Common Survival General Item
+* Now also reduces Shield Regeneration time.
+
+{{al|Stockpile}} - Rare Weapon General Item
+* Added 10 Health.
+
+{{al|Emergency Chip}} - Rare Weapon General Item
+* Changed from "While you are below 150 Life, gain 15% Weapon Lifesteal" to "Every life, if you would go below 150 Health, gain 50 Overhealth and 15% Weapon Lifesteal for 3s".
+
+{{al|Technoleech}} - Rare Weapon General Item
+* Added 25 Health.
+* 5% Weapon Power changed to 5% Attack Speed.
+
+{{al|Custom Stock}} - Rare Weapon General Item
+* Added 10 Health.
+
+{{al|Wrist Wraps}} - Rare Ability General Item
+* Added 10 Health.
+
+{{al|Junker Whatchamajig}} - Rare Ability General Item
+* Added 25 Health.
+
+{{al|Vitality Amplifier}} - Rare Ability General Item
+* Changed to now while above 50% Life, gain 10% Ability Power, but otherwise, gain 15% Ability Lifesteal and abilities refresh 10% faster.
+* Cost increased to 5,000 (Up from 4,500).
+
+{{al|Vishkar Condensor}} - Rare Survival General Item
+* Increase Health to Shield Conversion to 150 (Up from 100).
+* Decreased cost to 3,750 (Down from 4,000).
+
+{{al|Reinforced Titanium}} - Rare General Survival Item
+* Added 5% Ability Power while you have Shields.
+
+{{al|Iron Eyes}} - Rare Survival General Item
+* Added 5% Move Speed.
+* Decreased cost to 3,750 (Down from 4,000).
+
+{{al|Bloodbound}} - Rare Survival General Item
+* Rarity changed to Rare (Down from Epic).
+* Cost reduced to 4,000 (Down from 9,000).
+
+{{al|Crusader Hydraulics}} - Rare Survival General Item
+* Added 5% Attack Speed when you have Armor.
+
+
+* Changed from "heal for 20% of damage taken" to "gain Overhealth equal to 20% of damage taken for 3s".
+* Damage Condition now tracks pre-mitigation damage for synergy with other damage reduction effects.
+* Damage Condition now tracks damage within a 0.2s period.
+
+{{al|Sonic Recharger}} - Epic Ability General Item
+* Cost decreased to 9,000 (Down from 9,500).
+
+{{al|Overdrive Core}} - Epic Weapon General Item
+* Cost decreased to 9,500 (Down from 10,000).
+}}
+{{PatchTableElement|2025-07-22|{{al|Ironclad Exhaust Ports}} - Rare Survival General Item
+* Each stack of Overhealth granted now expires individually instead of refreshing the duration of all stacks of Overhealth granted from this Item.
+
+{{DevComment|Developer Comments: Ironclad Exhaust Ports have been too powerful on certain heroes with low base ability cooldowns and crowding out other survival options at that price point. We're making this more consistent with other Overhealth stacking effects to bring the payoff down to a healthier level.}}
+}}
+{{PatchTableElement|2025-06-24|{{al|Aerial Distresser}} - Epic General Weapon Item
+* New Item
+* 25 Shield
+* 10% Attack Speed
+* Weapon hits to airborne enemies deal 25% bonus damage over 3s.
+* 10000 Cost.
+
+{{al|Overdrive Core}} - Epic General Survival Item
+* New Item
+* 25 Shield
+* 10% Weapon Power
+* Once per life, if you take damage that would reduce you below 30% Max Life, you first gain 300 decaying Overhealth.
+* 10000 Cost.
+
+{{al|Sonic Recharger|text=Sonic Recharge}} - Epic General Ability Item
+* New Item
+* 25 Shield
+* 10% Ability Power
+* Passive Life Regeneration can overheal up to 75.
+* 9500 Cost.
+
+{{al|Vitality Amplifier}} - Rare General Ability Item
+* New Item
+* 25 Shield
+* 10% Ability Lifesteal
+* While you are above 80% Life, gain 10% Ability Power.
+* 4500 Cost.
+
+{{al|Emergency Chip}} - Rare General Weapon Item
+* New Item
+* 25 Shield
+* 5% Weapon Power
+* While you are below 150 Life, gain 15% Weapon Lifesteal.
+* 4500 Cost.
+
+{{al|Electrolytes}}
+* Cost reduced to 1000 (Down from 1500).
+
+{{al|Iron Eyes}}
+* Cost reduced to 4000 (Down from 4500).
+
+{{al|Salvaged Slugs}}
+* Cost reduced to 9000 (Down from 9500).
+
+{{al|Cushioned Padding}}
+* Cost reduced to 3750 (Down from 4000).
+
+{{al|Biolight Overflow}}
+* Overhealth increased to 75 (Up from 50).
+
+{{al|Divine Intervention}}
+* Life restored from taking more than 100 damage increased to 20% (Up from 15%).
+
+
+* The following now triggers On Ability use effects: Zenyatta's Flying Kick, Mei's Snowball Flight, and Ana's Dash Boots.
+
+{{DevComment|Developer Comments: We're adding additional general items to help combat fliers, such as Freja and Mercy, and give more survivability options to damage centric builds, particularly against high amounts of burst. We're also buffing up some of our situational itemization to lower the opportunity cost of purchasing them.}}
+}}
+{{PatchTableElement|2025-05-20|{{DevComment|Developer comments: Stacking large amounts of Weapon Power or Ability Power have become too prevalent, crowding out other itemization options. We are lowering the cost efficiency of these items to promote greater item diversity and weaken builds that rely on high amounts of burst through stacking Weapon or Ability Power. We're also strengthening some weaker item options.}}
+
+{{al|Champion's Kit}} - Epic Ability Item
+* Increased cost to 14000 (up from 13500).
+* Decreased Ability Power to 35% (down from 40%).
+
+{{al|The Closer}} - Epic Weapon Item
+* Increased cost to 14500 (up from 13000).
+
+{{al|Eye of the Spider}} - Epic Weapon Item
+* Increased cost to 14000 (up from 13500).
+
+{{al|Nano Cola}} - Rare Ability Item
+* Increased cost to 6000 (up from 5500).
+
+{{al|Talon Modification Module}} - Rare General Weapon Item
+* Increased cost to 6000 (up from 5500).
+
+{{al|Gloomgauntlet}} - Epic Survival Item
+* Increased cost to 10000 (up from 9500).
+
+{{al|Icy Coolant}} - Rare Weapon Item
+* Increased cost to 5500 (up from 5000).
+
+{{al|Multi-Tool}} - Rare Ability Item
+* Decreased cost to 4500 (down from 5000).
+* Decreased Cooldown Reduction to 5% (down from 10%).
+* Increased Ability Power to 10% (up from 5%).
+
+{{al|Bloodbound}} - Epic Survival Item
+* Decreased cost to 9000 (down from 9500).
+
+{{al|Geneticist's Vial}} - Epic Survival Item
+* Increased Life after reviving to 250 (up from 200).
+
+{{al|Electrolytes}} - Common Survival Item
+* Now gives 100 Overhealth every time you respawn (instead of just at the start of the round).
+* Increased cost to 1500 (up from 1000).
+
+{{al|Adrenaline Shot}} – Common Survival Item
+* Increased Health to 25 (up from 10).
+* Increased cost to 1500 (up from 1000).
+}}
+{{PatchTableElement|2025-05-08|{{DevComment|Developer Comments: Nebula Conduit has been too efficient of a purchase given the strength of its effect. We're reducing some of the Weapon Power to put more focus on its niche and less of an obvious choice in Weapon focused builds. Booster Jets was too easily enabling builds that benefit from Move Speed, especially for a certain Tank that swings a large hammer. Generally, we're going to be looking at peeling back some of the Move Speed increases as we felt we went a bit too far. We're hoping that will help out our less mobile heroes feel like they have a better chance in Stadium.}}
+
+{{al|Booster Jets}} – Epic Weapon Item
+* Reduced Move Speed when using an ability to 10% (down from 20%).
+
+{{al|Nebula Conduit}} – Epic Survival Item
+* Reduced Weapon Power to 5% (down from 10%).
+}}
+{{PatchTableElement|2025-04-25|; Weapon Items
+{{al|Salvaged Slugs}} – Epic Weapon Item
+* Increased ammo restoration chance to 50% (up from 40%).
+* Increased damage to barriers to 30% (up from 25%).
+
+{{DevComment|Developer Comments: Reinhardt and Zarya have been performing well so far. We're increasing the power of this Item to help players combat their powerful barriers.}}
+{{al|Volskaya Ordnance}} – Epic Weapon Item
+* Increased the weapon damage per 100 Max Life to 5% (up from 3%).
+* Increased the extra weapon damage capacity to 20% (up from 15%).
+
+{{DevComment|Developer Comments: We've observed that sometimes tanks can be a bit too... well, tanky! Volskaya Ordnance was a tough Item to make work for not a big enough pay off, so we're adding a little bit of power here to make it a more efficient Item to buy in those cases.}}
+
+;Survival Items
+{{al|Iron Eyes}} – Rare Survival Item
+* Damage Reduction against incoming Critical Hits increased to 20% (up from 15%).
+
+{{DevComment|Developer Comments: We're increasing the Damage Reduction of Iron Eyes to give players more powerful tools to combat builds with high burst damage.}}
+
+{{al|Reinforced Titanium}} – Rare Survival Item
+* Damage Reduction against incoming Ability Damage while you have Shields increased to 15% (up from 10%).
+
+{{DevComment|Developer Comments: We're increasing the Damage Reduction of Reinforced Titanium to give players more powerful tools to combat builds with high burst damage.}}
+}}
+{{PatchTableElement|2025-04-22|* Introducing Stadium
+}}</onlyinclude>
+{{PatchTableEnd}}
+
+{{StadiumNav}}

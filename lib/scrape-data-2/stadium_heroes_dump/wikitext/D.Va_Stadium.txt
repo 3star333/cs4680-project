@@ -1,0 +1,459 @@
+{{HeroTabs}}
+[[File: D.Va Stadium.png|thumb|310x310px]]
+'''D.Va''' is a playable [[Heroes|hero]] in the [[Stadium]] [[game mode]].
+
+== Stat interactions ==
+{{StadiumAbilityInteractions/header}}
+{{StadiumAbilityInteractions/row|Fusion Cannons |weaponPower=1 |attackSpeed=1 |weaponLifesteal=1 }}
+{{StadiumAbilityInteractions/row|Light Gun |weaponPower=1 |attackSpeed=1 |maxAmmo=1 |weaponLifesteal=1 }}
+{{StadiumAbilityInteractions/row|Boosters |abilityPower=1 |cooldownReduction=1 |abilityLifesteal=1 }}
+{{StadiumAbilityInteractions/row|Micro Missiles |abilityPower=1 |cooldownReduction=1 |abilityLifesteal=1 }}
+{{StadiumAbilityInteractions/row|Self-Destruct |abilityPower=1 |abilityLifesteal=1 }}
+{{StadiumAbilityInteractions/row|Call Mech |abilityPower=1 |abilityLifesteal=1 }}
+|}
+
+== Hero Items ==
+This is a list of hero-specific items. For a list of items available to all heroes, see [[Armory]].
+
+=== Weapon ===
+<!--Epic -->
+{{Ability details
+| ability_name = Multi-Task Mod
+| ability_image = Multi-Task_Mod.png
+| ability_type = Hero Item (Weapon)
+| official_description = [Fusion Cannons] can now be fired using [Defense Matrix].
+| stadium_rarity = Epic
+| stadium_cost = 10000
+| stadium_buffs = Weapon Power;;10%
+}}
+
+=== Ability ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Dae-Hyun's Detonator
+| ability_image = Dae-hyun's_Detonator.png
+| ability_type = Hero Item (Ability)
+| official_description = If your [Mech] detonates while mid-air, increase [Self-Destruction] damage and range by 100%.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+| stadium_buffs = Ability Lifesteal;;15%
+| ability_details = * Danger warning sign is shown to the enemies if they are within the blast radius.
+}}
+{{Ability details
+| ability_name = Mastermind's Mitigator
+| ability_image = Mastermind's_Mitigator.png
+| ability_type = Hero Item (Ability)
+| official_description = Every 200 damage you mitigate with [Defense Matrix] reduces [Micro Missiles] cooldown by 1 s.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+{{Ability details
+| ability_name = Vesuvius Protocol
+| ability_image = Vesuvius_Protocol.png
+| ability_type = Hero Item (Ability)
+| official_description = Using [Self-Destruct] drops lava nearby that deals {{Ability_Power|80}} damage every 1s.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+| stadium_buffs = Ability Power;;10%
+}}
+<!-- Epic -->
+{{Ability details
+| ability_name = Busan Blaster
+| ability_image = Busan_Blaster.png
+| ability_type = Hero Item (Ability)
+| official_description = [Light Gun] gains a secondary fire, which charges up to fire a explosive piercing shot that deals {{Ability_Power|80}} damage.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+| stadium_buffs = Ability Power;;20%
+| ability_details = * Does not generate Ultimate Charge.
+}}
+{{Ability details
+| ability_name = Macro Missile
+| ability_image = Macro_Missile.png
+| ability_type = Hero Item (Ability)
+| official_description = [Micro Missiles] deal 25% increased damage and have significantly increased knockback.
+| stadium_rarity = Epic
+| stadium_cost = 12000
+}}
+{{Ability details
+| ability_name = Onslaught Ordinance
+| ability_image = Onslaught_Ordinance.png
+| ability_type = Hero Item (Ability)
+| official_description = The quantity and duration of [Micro Missiles] is increased by 20%.
+| stadium_rarity = Epic
+| stadium_cost = 12000
+| stadium_buffs = Ability Power;;15%
+}}
+
+=== Survival ===
+<!-- Common -->
+{{Ability details
+| ability_name = Refraction Armor
+| ability_image = Refraction_Armor.png
+| ability_type = Hero Item (Survival)
+| stadium_rarity = Common
+| stadium_cost = 2000
+| stadium_buffs = Armor;;25
+| official_description = While you have Armor, gain 15% damage reduction against beams.
+}}
+<!-- Rare -->
+{{Ability details
+| ability_name = Galvanized Core
+| ability_image = Galvanized_Core.png
+| ability_type = Hero Item (Survival)
+| stadium_rarity = Rare
+| stadium_cost = 4000
+| stadium_buffs = Health;;25::[Boosters] Duration;;25%
+}}
+{{Ability details
+| ability_name = Plot Armor
+| ability_image = Plot_Armor.png
+| ability_type = Hero Item (Survival)
+| official_description = While [Defense Matrix] is active, gain 65% damage reduction against beams.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+| stadium_buffs = Armor;;25
+| ability_details = * Damage reduced is counted as damage mitigated by Defense Matrix.
+}}
+{{Ability details
+| ability_name = Solo Spec
+| ability_image = Solo_Spec.png
+| ability_type = Hero Item (Survival)
+| official_description = While [Defense Matrix] is active, gain Shields equal to 10% of the damage mitigated, up to 100. Resets when your [Mech] is destroyed.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+| stadium_buffs = Armor;;25
+}}
+<!-- Epic -->
+{{Ability details
+| ability_name = APM AMP
+| ability_image = APM_AMP.png
+| ability_type = Hero Item (Survival)
+| official_description = When you use [Boosters], other allies within 16m gain 25% Move Speed for 2s.
+| stadium_rarity = Epic
+| stadium_cost = 9000
+| stadium_buffs = Shields;;50
+}}
+{{Ability details
+| ability_name = Chip-damage Diverter
+| ability_image = Chip-Damage_Diverter.png
+| ability_type = Hero Item (Survival)
+| official_description = When you deal damage to Barriers while in your [Mech], gain Shields equal to 10% of damage dealt, up to 200. Resets when your [Mech] is destroyed.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+| stadium_buffs = Health;;50
+}}
+{{Ability details
+| ability_name = Singijeon's Pulse Plating
+| ability_image = Singijeon's_Pulse_Plating.png
+| ability_type = Hero Item (Survival)
+| official_description = Gain 10% of damage mitigated by [Defense Matrix] as Ultimate Charge.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+| stadium_buffs = Health;;50
+}}
+{{Ability details
+| ability_name = Nano Cola™ Nitrous<!-- Alt+0153 -->
+| ability_image = Nano_Cola™_Nitrous.png
+| ability_type = Hero Item (Survival)
+| official_description = When you eject from your [Mech], gain [Nano Boost] for 4s.
+| stadium_rarity = Epic
+| stadium_cost = 11000
+| stadium_buffs = Health;;50
+}}
+
+== Powers ==
+{{Ability details
+| ability_name = Focused Fusion
+| ability_image = Focused_Fusion.png
+| ability_type = Stadium Power
+| affected_ability = Fusion Cannons
+| official_description = [Fusion Cannon]'s spread is reduced by 50% and damage falloff range is 20m farther.
+}}
+{{Ability details
+| ability_name = Legendary Loadout
+| ability_image = Legendary_Loadout.png
+| ability_type = Stadium Power
+| affected_ability = Micro Missiles
+| official_description = [Micro Missiles] are replaced with 6 Heavy Rockets, which deal 350% more explosive damage and have 100% increased radius.
+}}
+{{Ability details
+| ability_name = Overstocked
+| ability_image = Overstocked.png
+| ability_type = Stadium Power
+| affected_ability = Micro Missiles
+| official_description = Gain 1 extra charge of [Micro Missiles].
+}}
+{{Ability details
+| ability_name = Countermeasures
+| ability_image = Countermeasures.png
+| ability_type = Stadium Power
+| affected_ability = Defense Matrix
+| official_description = When you mitigate 150 damage with [Defense Matrix], automatically fire 2 [Micro Missiles].
+}}
+{{Ability details
+| ability_name = Facetanking
+| ability_image = Facetanking.png
+| ability_type = Stadium Power
+| affected_ability = Defense Matrix
+| official_description = [Defense Matrix] heals you for 30% of the damage it blocks.
+}}
+{{Ability details
+| ability_name = Ultrawide Matrix
+| ability_image = Ultrawide_Matrix.png
+| ability_type = Stadium Power
+| affected_ability = Defense Matrix
+| official_description = Increase the size of [Defense Matrix] by 50% and its duration by 25%.
+}}
+{{Ability details
+| ability_name = Ignition Burst
+| ability_image = Ignition_Burst.png
+| ability_type = Stadium Power
+| affected_ability = Boosters
+| official_description = [Boosters] leave a trail of lava that deals {{Ability_Power|80}} damage every 1s.
+}}
+{{Ability details
+| ability_name = MEKA Punch
+| ability_image = MEKA_Punch.png
+| ability_type = Stadium Power
+| affected_ability = Boosters
+| official_description = While using [Boosters], [Quick Melee] has 50% more Attack Speed. MEKA Punch eliminations reset the cooldown of [Boosters].
+}}
+{{Ability details
+| ability_name = Stat Boost
+| ability_image = Stat_Boost.png
+| ability_type = Stadium Power
+| affected_ability = Boosters
+| official_description = During the first 2s of [Boosters], [Defense Matrix] recovers 125% faster.
+}}
+{{Ability details
+| ability_name = Tokki Slam
+| ability_image = Tokki_Slam.png
+| ability_type = Stadium Power
+| affected_ability = Boosters
+| official_description = During [Boosters], use crouch to slam the ground, dealing damage equal to 25% of your max Armor plus Shield and knocking up enemies hit.
+}}
+{{Ability details
+| ability_name = Express Detonation
+| ability_image = Express_Detonation.png
+| ability_type = Stadium Power
+| affected_ability = Self-Destruct
+| official_description = [Self-Destruct] explodes 15% faster.
+}}
+{{Ability details
+| ability_name = Party Protector
+| ability_image = Party_Protector.png
+| ability_type = Stadium Power
+| affected_ability = Self-Destruct
+| official_description = When you use [Self-Destruct], allies within [Self-Destruct] radius gain {{Ability_Power|250}} Overhealth for 8s.
+}}
+
+== Example Builds ==
+=== Tokki Rush ===
+Rush in, disrupt from above! Mobilize Tokki and land on enemies to show them who's boss.
+
+==== Powers ====
+* {{al|Meka Punch}}
+* {{al|Tokki Slam}}
+* {{al|Ignition Burst}}
+* {{al|Express Detonation}}
+
+==== Early Game ====
+* {{al|Compensator}}
+* {{al|Weapon Grease}}
+* {{al|Armored Vest}}
+* {{al|Vital-E-Tee}}
+
+==== Late Game ====
+* {{al|Meka Z-Series}}
+* {{al|Gloomgauntlet}}
+* {{al|Lumérico Fusion Drive}}
+* {{al|Ogundimu Reduction Field}}
+
+==== Flex ====
+* {{al|Plot Armor}}
+* {{al|Kitsune Charm}}
+* {{al|Weapon Jammer}}
+* {{al|Nano Cola™ Nitrous}}
+
+=== Ballistics Expert ===
+Upgrade your Mech's offensive capabilities to assault your enemies from a distance with {{Ability Power|Ability Power}}!
+
+==== Powers ====
+* {{al|Legendary Loadout}}
+* {{al|Overstocked}}
+* {{al|Countermeasures}}
+* {{al|Stat Boost}}
+
+==== Early Game ====
+* {{al|Power Playbook}}
+* {{al|Shady Spectacles}}
+* {{al|Armored Vest}}
+* {{al|Energized Bracers}}
+
+==== Late Game ====
+* {{al|Mastermind's Mitigator}}
+* {{al|Nano Cola}}
+* {{al|Onslaught Ordinance}}
+* {{al|Macro Missile}}
+
+==== Flex ====
+* {{al|Necrotic Repellant}}
+* {{al|Champion's Kit}}
+* {{al|Lumérico Fusion Drive}}
+* {{al|Cybervenom}}
+
+=== Protector Pilot ===
+Defend and protect with an empowered Defense Matrix!
+
+==== Powers ====
+* {{al|Ultrawide Matrix}}
+* {{al|Facetanking}}
+* {{al|Stat Boost}}
+* {{al|Party Protector}}
+
+==== Early Game ====
+* {{al|Compensator}}
+* {{al|Weapon Grease}}
+* {{al|Armored Vest}}
+* {{al|Solo Spec}}
+
+==== Late Game ====
+* {{al|Icy Coolant}}
+* {{al|Talon Modification Module}}
+* {{al|Multi-Task Mod}}
+* {{al|Singijeon's Pulse Plating}}
+
+==== Flex ====
+* {{al|Super Serum}}
+* {{al|Hardlight Accelerator}}
+* {{al|El-Sa'ka Suppressor}}
+* {{al|Eye Of The Spider}}
+
+== Balance Change Log ==
+{{PatchTableStart}}<onlyinclude>
+{{PatchTableElement|2025-09-04|
+{{DevComment|Developer Comments: D.Va’s early weapon power spike created by the low cost 20% weapon power epic was providing disproportionate efficiency compared to similar options. This allowed her to secure early eliminations too reliably and snowball matches ahead of curve. Additionally, her Facetanking builds offered above-average durability relative to other tanks. This update reduces both the efficiency of her early weapon power scaling and the overall survivability of Facetanking strategies to better align with intended balance.}}
+
+{{al|Facetanking}} - Power
+* Healing decreased to 30% (Down from 40%).
+
+{{al|Multi-Task Mod}} - Epic Weapon Hero Item
+* Weapon power decreased to 10% (Down from 20%).
+}}
+{{PatchTableElement|2025-08-26|
+{{DevComment|Developer Comments: D.Va's Defense Matrix and Tokki Slam builds have been overperforming compared to other tank options, giving her too much consistency across different situations. We are tuning both down slightly to bring their effectiveness more in line with other tanks, ensuring healthier balance and more diverse build choices.}}
+
+{{al|Tokki Slam}} - Power
+* Decreased damage to 25% (Down from 30%).
+
+{{al|Facetanking|text=Face Tanking}} - Power
+* Decreased healing to 40% (Down from 50%).
+}}
+{{PatchTableElement|2025-07-24|
+{{DevComment|Developer Comments: Micro Missile build has been delivering consistently high damage output, often exceeding expectations in both burst and sustained fights. This update tones down its effectiveness slightly to bring it more in line with other build options, while still preserving its core playstyle and impact.}}
+
+{{al|Countermeasures}} - Power
+* Increased damage required to mitigate to 150 (Up from 100).
+}}
+{{PatchTableElement|2025-07-22|
+{{DevComment|Developer Comments: D.Va has been having a tough time in early rounds, especially against beam-heavy heroes that counter her defensive tools. To address this, we're introducing a new hero item aimed at improving her effectiveness in those matchups. Additionally, her solo survivability has been lagging behind other tanks, so this patch includes improvements to help her stay in the fight longer and thrive even without immediate team support.}}
+
+{{al|TOKKI Slam}} - Power
+* Now the damage scales from both armor and shield combined.
+
+{{al|Facetanking}} - Power
+* Increased healing scalar to 50% (up from 30%).
+
+{{al|Refraction Armor}} - Normal Survival Hero Item
+* New Hero Item
+* +25 Armor
+* While you have Armor, gain 15% damage reduction against beams.
+* Cost: 2000
+}}
+{{PatchTableElement|2025-07-08|
+{{DevComment|Developer Comments: Tokki Slam was originally toned down due to its disruptive potential, but after observing its performance over a full season, it’s clear the impact was reduced a bit too much. We’re bringing some power back to the ability to give D.Va that big slam-dunk moment she deserves which is rewarding well-timed engages with satisfying payoff.}}
+
+{{al|Tokki Slam}} - Power
+* Increased Tokki Slam's damage scalar to 30% (Up from 20%).
+}}
+{{PatchTableElement|2025-06-24|
+{{DevComment|Developer Comments: After a full season of play, it's clear that D.Va isn’t standing out as a top-tier tank pick in the current meta. While this update focuses on improving clarity and consistency, we’re keeping a close eye on her performance and have additional changes planned to help her hold her own against the fierce competition in Stadium.}}
+
+{{al|MEKA Punch}} - Power
+* Booster elimination also resets cooldown of boosters.
+* During boosters, quick melee now gains 50% attack speed (instead of 75% damage).
+
+{{al|Dae-hyun's Detonator}} - Rare Ability Hero Item
+* Now shows danger warning sign to the enemy if the enemy is within the blast radius.
+* Decreased radius to 100% (down from 200%).
+
+{{al|Nano Cola™ Nitrous}} - Epic Survival Hero Item
+* Increased health stat to 50 (up from 25).
+* Removed stat: health increase 5%.
+}}
+{{PatchTableElement|2025-05-29|
+{{DevComment|Developer Comments: D.Va's been having a hard time asserting space effectively, especially when trying to control key areas. Buffing Lava should help her create more threatening zones and discourage enemies from waltzing into her turf uninvited. As for Focused Fusion—the concept was solid, but in practice it struggled to keep up when enemies were practically doing laps around her. We're adjusting just a bit, so it doesn’t feel like D.Va brought a sniper rifle to a knife fight but still have the ability to hit enemies from near and far.}}
+
+{{al|Focused Fusion}} - Power
+* Decreased Fusion Cannon spread to 50% (Down from 66%).
+
+{{al|Ignition Burst}} - Power
+* Increased Lava damage to 80 (Up from 30).
+
+{{al|Vesuvius Protocol}} – Rare Ability Hero Item
+* Increased Lava damage to 80 (Up from 30).
+}}
+{{PatchTableElement|2025-05-08|
+{{DevComment|Developer Comments: D.Va has been struggling in matchups against beam-focused heroes like Zarya, where her defensive tools feel less effective. We're adding some synergy with Defense Matrix Powers/Items when using it to mitigate Beam damage. We're also adding some power to some of the builds that utilize her main defensive tool, Defense Matrix, in hopes to allow them to have a bit more flexibility and apply more pressure in team fights.}}
+
+{{al|Countermeasures}} – Power
+* Decreased mitigation requirement to 100 (down from 150).
+
+{{al|Mastermind's Mitigator}} – Rare Ability Hero Item
+* Decreased damage mitigation requirement to 200 (down from 300).
+
+{{al|Stat Boost}} – Power
+* Increased Defense Matrix recovery rate to 125% (up from 100%).
+
+{{al|Ultrawide Matrix}} – Power
+* Defense Matrix duration increased to 25% (up from 20%).
+
+{{al|Multi-Task Mod}} – Epic Weapon Hero Item
+* Increased Weapon Power to 20% (up from 10%).
+
+{{al|Singijeon's Pulse Plating}} – Epic Survival Hero Item
+* Increased Ultimate Charge gain to 10% (up from 5%).
+
+{{al|Plot Armor}} – Rare Survival Hero Item
+* Damage reduced now gets counted as damage mitigated by Defense Matrix.
+}}
+{{PatchTableElement|2025-05-01|
+{{DevComment|Developer Comments: Nano Cola™ Nitrous has been making it too difficult for opponents to take down D.Va while out of her mech and allowing her to get her mech back consistently. These changes will help add some risk of being out of her mech back into her kit.
+
+Busan Blaster was allowing D.Va to get her mech back instantly, which was not the intention of this item's design.}}
+
+{{al|Nano Cola™ Nitrous}} – Epic Survival Hero Item
+* Health reduced to 25 (down from 50).
+* Reduced Max Life increase to 5% (down from 25%).
+* Reduced duration of Nano Boost to 4 seconds (down from 8 seconds).
+
+{{al|Busan Blaster}} – Epic Ability Hero Item
+* No longer generates Ultimate Charge.
+}}
+{{PatchTableElement|2025-04-25|
+{{DevComment|Developer Comments: We want to make sure that every Hero has answers to their potential counter so we're increasing D.Va's ability to combat Zarya’s beam damage.}}
+
+{{al|Plot Armor}} – Rare Hero Survival Item
+* Increased damage reduction against Beams to 65% (up from 30%).
+}}
+{{PatchTableElement|2025-04-22|
+; Introducing Stadium
+* Tank Heroes: '''D.Va''', Junker Queen, Orisa, Reinhardt, and Zarya.
+* Damage Heroes: Ashe, Cassidy, Genji, Mei, Reaper, and Soldier: 76.
+* Support Heroes: Ana, Juno, Kiriko, Lucio, Mercy, and Moira.
+}}
+</onlyinclude>{{PatchTableEnd}}
+{{StadiumNav}}
+[[Category:D.Va]]
+[[Category:Stadium hero pages]]

@@ -1,0 +1,259 @@
+{{HeroTabs}}
+[[File: Genji Stadium.png|thumb|310x310px]]
+'''{{BASEPAGENAME}}''' is a playable [[hero]] in the [[Stadium]] [[game mode]].
+
+== Stat interactions ==
+{{StadiumAbilityInteractions/header}}
+{{StadiumAbilityInteractions/row|Shuriken |weaponPower=1 |attackSpeed=1 |maxAmmo=1 |weaponLifesteal=1 }}
+{{StadiumAbilityInteractions/row|Swift Strike |abilityPower=1 |cooldownReduction=1 |abilityLifesteal=1 }}
+{{StadiumAbilityInteractions/row|Deflect |cooldownReduction=1 }}
+{{StadiumAbilityInteractions/row|Dragonblade |weaponPower=1 |attackSpeed=1 |weaponLifesteal=1 |meleeDamage=1}}
+|}
+
+== Hero Items ==
+This is a list of hero-specific items. For a list of items available to all heroes, see [[Armory]].
+
+=== Weapon ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Spiked Grip
+| ability_image = Spiked_Grip.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Max Ammo;;30%
+| official_description = While climbing, restore 20% of your ammo every 1s.
+| stadium_rarity = Rare
+| stadium_cost = 3750
+}}
+<!-- Epic -->
+{{Ability details
+| ability_name = Enduring Edge
+| ability_image = Enduring_Edge.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Weapon Power;;10%::[Dragonblade] Duration;;4s
+| official_description = 
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+{{Ability details
+| ability_name = Swift-loader
+| ability_image = Swift-Loader.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Attack Speed;;10%::Max Ammo;;30%
+| official_description = Damaging an enemy with [Swift Strike] restores 20% of your ammo.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+{{Ability details
+| ability_name = Ambusher Optics
+| ability_image = Ambusher_Optics.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Melee Damage;;25%
+| official_description = [Quick Melee] can critically hit when striking enemies from behind, dealing 50% increased damage.
+| stadium_rarity = Epic
+| stadium_cost = 11000
+}}
+
+=== Ability ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Ninja Soles
+| ability_image = Ninja_Soles.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Cooldown Reduction;;5%::Move Speed during [Deflect];;15%
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+{{Ability details
+| ability_name = Traversal Kinetics
+| ability_image = Traversal_Kinetics.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = 
+| official_description = [Swift Strike] cooldown is reduced by 50% if it deals no damage.
+| stadium_rarity = Rare
+| stadium_cost = 3750
+}}
+<!-- Epic -->
+{{Ability details
+| ability_name = Clean Sweep
+| ability_image = Clean_Sweep.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Ability Power;;15%::Ability Lifesteal;;15%::[Swift Strike] Width;;50%
+| official_description = 
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+{{Ability details
+| ability_name = Deflecting Dash
+| ability_image = Deflecting_Dash.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Ability Power;;15%
+| official_description = During [Swift Strike], deflect incoming projectiles toward your reticle.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+
+=== Survival ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Anti-beam Coating
+| ability_image = Anti-Beam_Coating.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Armor;;25::Attack Speed;;5%
+| official_description = [Deflect] now blocks Beam attacks.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+{{Ability details
+| ability_name = Equilibrium Gear
+| ability_image = Equilibrium_Gear.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Health;;25
+| official_description = While climbing, heal 5% of your Life every 1s.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+{{Ability details
+| ability_name = Sparrowhawk Feather
+| ability_image = Sparrowhawk_Feather.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Health;;25
+| official_description = Gain an additional jump.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+<!-- Epic -->
+{{Ability details
+| ability_name = Slicy Coolant
+| ability_image = Slicy_Coolant.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Armor;;50::Cooldown Reduction;;5%::[Deflect] Duration;;1s
+| official_description = 
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+{{Ability details
+| ability_name = Transference Delta
+| ability_image = Transference_Delta.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Ultimate Cost Reduction;;15%
+| official_description = Convert 100 Health into Armor.<br>When you spend your Ultimate Charge, restore your Armor fully.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+
+== Powers ==
+{{Ability details
+| ability_name = Cybernetic Speed
+| ability_image = Cybernetic_Speed.png
+| ability_type = Stadium Power
+| affected_ability = Shuriken
+| official_description = Dealing damage with [Shuriken] grants 2% Attack Speed for 3s, stacking up to 15 times.
+}}
+{{Ability details
+| ability_name = Hashimoto's Bane
+| ability_image = Hashimoto's_Bane.png
+| ability_type = Stadium Power
+| affected_ability = Shuriken
+| official_description = After using an ability, your next secondary fire throws 2 extra [Shuriken] that seek enemies but deal 50% less damage.
+}}
+{{Ability details
+| ability_name = Sacred Shuriken
+| ability_image = Sacred_Shuriken.png
+| ability_type = Stadium Power
+| affected_ability = Shuriken
+| official_description = [Shuriken]'s primary fire throws 2 additional [Shuriken] that don't consume any ammo.
+}}
+{{Ability details
+| ability_name = Hanamura Healing
+| ability_image = Hanamura_Healing.png
+| ability_type = Stadium Power
+| affected_ability = Swift Strike
+| official_description = Critical hits and [Swift Strike] grant Overhealth equal to 25% of their damage dealt for 5s.
+}}
+{{Ability details
+| ability_name = Hidden Blade
+| ability_image = Hidden_Blade.png
+| ability_type = Stadium Power
+| affected_ability = Swift Strike
+| official_description = Gain 60% Melee Lifesteal and increase [Quick Melee] damage by 15.
+}}
+{{Ability details
+| ability_name = Laceration
+| ability_image = Laceration.png
+| ability_type = Stadium Power
+| affected_ability = Swift Strike
+| official_description = [Swift Strike] deals 35% additional damage over 3s to enemies hit.
+}}
+{{Ability details
+| ability_name = Wyrm's Maw
+| ability_image = Wyrm's_Maw.png
+| ability_type = Stadium Power
+| affected_ability = Swift Strike
+| official_description = Targets hit by [Shuriken] take 10% more damage from [Swift Strike] for 4s, stacking up to 5 times.
+}}
+{{Ability details
+| ability_name = Deflect-o-bot
+| ability_image = Deflect-o-Bot.png
+| ability_type = Stadium Power
+| affected_ability = Deflect
+| official_description = +50% Deflected Projectile Speed.<br>During the first 1.5s of [Deflect], automatically deflect projectiles towards enemies.
+}}
+{{Ability details
+| ability_name = Forged Under Fire
+| ability_image = Forged_Under_Fire.png
+| ability_type = Stadium Power
+| affected_ability = Deflect
+| official_description = While [Deflect] is active, heal 60% of the damage it prevents.
+}}
+{{Ability details
+| ability_name = Iaido Strike
+| ability_image = Iaido_Strike.png
+| ability_type = Stadium Power
+| affected_ability = Deflect
+| official_description = After [Deflect] ends, quickly swing your [Dragonblade] once.
+}}
+{{Ability details
+| ability_name = Spirit of Sojiro
+| ability_image = Spirit_of_Sojiro.png
+| ability_type = Stadium Power
+| affected_ability = Deflect
+| official_description = When [Deflect] stops incoming damage, reduce the cooldown of [Swift Strike] by 1s, up to 5s.
+}}
+{{Ability details
+| ability_name = Dragon's Breath
+| ability_image = Dragon's_Breath.png
+| ability_type = Stadium Power
+| affected_ability = Dragonblade
+| official_description = [Dragonblade] swings launch a large piercing projectile that deals 50% of [Dragonblade]'s damage.
+}}
+
+== Balance Change Log ==
+{{PatchTableStart}}<onlyinclude>
+{{PatchTableElement|2025-06-24|
+{{DevComment|Developer Comments: Melee Genji builds have become very prominent, which is awesome! However, the bursty backstab build is a bit too consistent and can feel hard to interact with. We're reducing the damage ceiling for this build but upping it's sustain to compensate. We're also adding a little bit more power to the Ability Power Swift strike build to make its key pieces feel a bit more impactful early on in a match. We'll be looking at making a larger set of changes to Genji in a future update.}}
+
+{{al|Hidden Blade}} - Power
+* Reduced Quick Melee damage to 15 (down from 25).
+* Increased Melee Lifesteal to 60% (up from 50%).
+
+{{al|Ambusher Optics}} - Item
+* Increased cost to 11,000 (up from 10,000).
+
+{{al|Laceration}} - Power
+* Increased damage over time to 35% of Swift Strike's damage (up from 25%).
+* Fixed an issue where this power did not benefit from Ability Lifesteal.
+
+{{al|Clean Sweep}} - Item
+* Increase Ability Power to 15% (up from 10%).
+}}
+{{PatchTableElement|2025-04-22|
+; Introducing Stadium
+* Tank Heroes: D.Va, Junker Queen, Orisa, Reinhardt, and Zarya.
+* Damage Heroes: Ashe, Cassidy, '''Genji''', Mei, Reaper, and Soldier: 76.
+* Support Heroes: Ana, Juno, Kiriko, Lucio, Mercy, and Moira.
+}}
+</onlyinclude>{{PatchTableEnd}}
+
+{{StadiumNav}}
+[[Category:{{BASEPAGENAME}}]]
+[[Category:Stadium hero pages]]

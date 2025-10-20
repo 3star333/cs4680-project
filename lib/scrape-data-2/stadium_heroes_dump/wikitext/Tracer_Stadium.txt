@@ -1,0 +1,323 @@
+{{HeroTabs}}
+[[File:Tracer Stadium.png|thumb|310x310px]]<!-- [[File: Tracer Stadium.png|thumb|300px]] Remove comment when file is uploaded. -->
+'''{{BASEPAGENAME}} ''' is a playable [[hero]] in the [[Stadium]] [[game mode]].
+
+== Ability interactions ==
+{{StadiumAbilityInteractions/header}} 
+{{StadiumAbilityInteractions/row|Pulse Pistols |weaponPower=1 |attackSpeed=1 |maxAmmo=1 |weaponLifesteal=1 |reloadSpeed=1 }} 
+{{StadiumAbilityInteractions/row|Blink |cooldownReduction=1 }} 
+{{StadiumAbilityInteractions/row|Recall |cooldownReduction=1 }} 
+{{StadiumAbilityInteractions/row|Pulse Bomb |abilityPower=1 |abilityLifesteal=1 }} 
+|}
+
+{{Ability details
+| ability_name = Stadium: Chronal Crux
+| ability_image = Life.svg
+| ability_type = Stadium Passive
+| official_description = Gains 35% less Health, Armor, and Shields from items and cash.
+}}<!-- Remember to update HP buff values if the penalty amount changes!! -->
+
+== Hero Items ==
+This is a list of hero-specific items. For a list of items available to all heroes, see [[Armory]].
+
+=== Weapon ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Pulse Detector
+| ability_image = Pulse_Detector.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = weapon power;;10%::max ammo;;10%
+| official_description = The last enemy hit by [Pulse Pistols] is Revealed for 1s.
+| stadium_rarity = Rare
+| stadium_cost = 5500
+}}
+<!-- Epic -->
+{{Ability details
+| ability_name = Underworld Quickloader
+| ability_image = Underworld_Quickloader.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = weapon power;;10%::attack speed;;10%
+| official_description = [Pulse Pistol] hits grant 1% Reload Speed, stacking up to 30 times. Resets on reload.
+| stadium_rarity = Epic
+| stadium_cost = 12000
+}}
+=== Ability ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Drag Reducers
+| ability_image = Drag_Reducers.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = ability power;;10%::[Pulse Bomb] Throw Distance;;100%
+| official_description = 
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+<!-- Epic -->
+{{Ability details
+| ability_name = Chrono Bomb
+| ability_image = Chrono_Bomb.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = ability power;;20%::[Pulse Bomb] Explosion Radius;;50%
+| official_description = Enemies stuck or hit by [Pulse Bomb] are slowed by 30% and lose 30% bonus Attack Speed for 2s.
+| stadium_rarity = Epic
+| stadium_cost = 10500
+}}
+=== Survival ===
+{{hatnote|Health, Armor, and Shield values presented here have been scaled according to Tracer's Stadium Passive.}}
+<!-- Rare -->
+{{Ability details
+| ability_name = Emily's Affection
+| ability_image = Emily's_Affection.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = health;;19
+| official_description = After using [Recall], gain 50 Overhealth for 5s.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+{{Ability details
+| ability_name = Iggy's Ignition
+| ability_image = Iggy's_Ignition.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = attack speed;;5%::move speed;;5%
+| official_description = If you use [Blink] while airborne, gain an air jump.
+| stadium_rarity = Rare
+| stadium_cost = 3750
+}}
+<!-- Epic -->
+{{Ability details
+| ability_name = Oxton Overdrive
+| ability_image = Oxton_Overdrive.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = health;;16
+| official_description = <nowiki>When you use [Recall]], restore 2 charges of [Blink].</nowiki>
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+{{Ability details
+| ability_name = Slipstream Salve
+| ability_image = Slipstream_Salve.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = health;;16
+| official_description = [Recall] always restores at least 70% of your life.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+{{Ability details
+| ability_name = Custom Kicks
+| ability_type = Hero Item (Survival)
+| stadium_buffs = health;;33
+| official_description = <nowiki>When you use [Blink]], grant yourself and your allies within 6m 10% Move Speed for 1s.</nowiki>
+| stadium_rarity = Epic
+| stadium_cost = 10000
+| ability_image = Custom_Kicks.png
+}}
+
+== Powers ==
+{{Ability details
+| ability_name = Flash Fist
+| ability_image = Flash_Fist.png
+| affected_ability = Quick Melee
+| ability_type = Stadium Power
+| official_description = For 1s after using [Blink], your next [Quick Melee] is affected by Ability Power, deals 10 extra damage, and knocks enemies back.
+}}
+{{Ability details
+| ability_name = Get Stuffed!
+| ability_image = Get_Stuffed!.png
+| affected_ability = Quick Melee
+| ability_type = Stadium Power
+| official_description = [Quick Melee] hits grant 5% Ultimate Charge.
+}} 
+{{Ability details
+| ability_name = Blink Of An Eye
+| ability_image = Blink_of_an_Eye.png
+| affected_ability = Blink
+| ability_type = Stadium Power
+| official_description = Critical hits reduce the cooldown of [Blink] by 0.04s.
+}} 
+{{Ability details
+| ability_name = Quantum Clip
+| ability_image = Quantum_Clip.png
+| ability_type = Stadium Power
+| affected_ability = Blink
+| official_description = If you use [Blink] while reloading, gain 25% Max Ammo and 10% Weapon Lifesteal until you reload.
+}}
+{{Ability details
+| ability_name = Alternate Ending
+| ability_image = Alternate_Ending.png
+| ability_type = Stadium Power
+| affected_ability = Recall
+| official_description = When you use [Recall], heal allies within 6m for 100% of the damage they have taken in the last 3s.
+}}
+{{Ability details
+| ability_name = Auto Recall
+| ability_image = Auto_Recall.png
+| ability_type = Stadium Power
+| affected_ability = Recall
+| official_description = Once per round, if you would die, instead use [Recall] for free. Spending your ultimate charge reduces [Recall]'s cooldown by 50%.
+}}
+{{Ability details
+| ability_name = Bullet Time
+| ability_image = Bullet_Time.png
+| ability_type = Stadium Power
+| affected_ability = Recall
+| official_description = When you use [Recall], drop a temporal field that slows projectiles by 95% for 6s and you take 25% less damage from Hitscan for 3s.
+}}
+{{Ability details
+| ability_name = T.Racer
+| ability_image = T.RACER.png
+| ability_type = Stadium Power
+| affected_ability = Recall
+| official_description = [Blink] teleports you 3m farther and grants you 10% Move Speed for 1s.
+}}
+{{Ability details
+| ability_name = Temportal
+| ability_image = Temportal.png
+| ability_type = Stadium Power
+| affected_ability = Recall
+| official_description = [Recall] leaves behind a temporal portal. An ally can interact with it to travel back in time 3s.
+| ability_details = * Lasts up to 8 seconds
+}}
+{{Ability details
+| ability_name = Foresight
+| ability_image = Foresight.png
+| ability_type = Stadium Power
+| affected_ability = Pulse Pistols
+| official_description = After using [Blink], your next {{Max Ammo|4}} shots within 2s auto-aim to targets within 10m.
+}}
+{{Ability details
+| ability_name = Timelapse
+| ability_image = Timelapse.png
+| ability_type = Stadium Power
+| affected_ability = Pulse Pistols
+| official_description = Hitting 2 consecutive shots on the same target without missing deals {{Weapon Power|1}} extra damage over 2s.
+}}
+{{Ability details
+| ability_name = Pocket Bomb
+| ability_image = Pocket_Bomb.png
+| ability_type = Stadium Power
+| affected_ability = Pulse Bomb
+| official_description = When you use [Recall], throw a [Pulse Bomb] that deals 60% less damage.
+}} 
+
+== Example Builds ==
+These are example builds pre-built in [[Stadium]] meant to show some possibilities of what can be done in the mode.
+
+== Balance Change Log ==
+{{PatchTableStart}}<onlyinclude><!-- this part between the onlyinclude tags is transcluded to main page's change log -->
+{{PatchTableElement|2025-10-01|{{DevComment|Developer Comments: Tracer has been performing well across the board. We're making it a bit harder for her to reach high amounts of health to make sure there is still risk involved in her engagements. We're also hitting some of her Weapon focused Powers with a few buffs to her other builds. We'll be continuing to keep a very close eye on Tracer as we know she has a very strong relationship with Stadium's stat increases.}}
+
+{{al|Stadium: Chronal Crux}} - Stadium Passive
+* Now gains 35% less Health, Armor, and Shields from items and cash (previously 25% less).
+
+{{al|Alternate Ending}} - Power
+* Healing increased to 100% of damage taken (up from 75%).
+
+{{al|Blink of An Eye}} - Power
+* Cooldown reduction reduced to 0.04s (down from 0.05s).
+
+{{al|Foresight}} - Power
+* Auto-aim reduced to 4 shots (down from 6).
+
+{{al|Temportal}} - Power
+* Increased the portal's duration to 8s (up from 6s).
+
+{{al|Chrono Bomb}} - Epic Ability Hero Item
+* Increased Ability Power to 20% (up from 15%).
+* Increased cost to 10500 (up from 10000).
+}}
+
+{{PatchTableElement|2025-09-16|* Added to the Stadium Roster.
+
+{{al|Stadium: Chronal Crux|text=Chronal Crux}} - Stadium Passive
+* Gains 25% less Health, Armor, and Shields from items and cash.
+
+{{al|Flash Fist}} - Power
+* For 1 second after using Blink, your next Quick Melee is affected by Ability Power, deals 10 extra damage, and knocks enemies back.
+
+{{al|Get Stuffed!}} - Power
+* Quick Melee hit grant 5% Ultimate Charge.
+
+{{al|Blink of an Eye}} - Power
+* Critical hits reduce the cooldown of Blink by 0.05 seconds.
+
+{{al|Quantum Clip}} - Power
+* If you use Blink while reloading, gain 25% Max Ammo and 10% Weapon Lifesteal until you reload.
+
+{{al|T.Racer}}- Power
+* Blink teleports you 3 meters farther and grants you 10% Move Speed for 1 second.
+
+{{al|Alternate Ending}}- Power
+* When you use Recall, heal allies within 6 meters for 75% of the damage they have taken in the last 3 seconds.
+
+{{al|Auto Recall}}- Power
+* Once per round, if you would die, instead use Recall for free. Spending your Ultimate Charge reduces Recall's cooldown by 50%.
+
+{{al|Bullet Time}}- Power
+* When you use Recall, drop a temporal field that slows projectiles by 95% for 6 seconds and you take 25% less damage from Hitscan for 3 seconds.
+
+{{al|Temportal|text=Temporal}}- Power
+* Recall leaves behind a temporal field portal. An ally can interact with it to travel back in time 3 seconds.
+
+{{al|Foresight}}- Power
+* After using Blink, your next 6 shots within 2 seconds auto-aim to targets within 10 meters.
+
+{{al|Timelapse}}- Power
+* Hitting 2 consecutive shots on the same target without missing deals 1 extra damage over 2 seconds.
+
+{{al|Pocket Bomb}}- Power
+* When you use Recall, throw a Pulse Bomb that deals 60% less damage.
+
+{{al|Pulse Detector}} - Rare Weapon Hero Item
+* 10% Weapon Power.
+* 10% Max Ammo.
+* The last enemy hit by Pulse Pistols is revealed for 1 second.
+* Cost: 5,500.
+
+{{al|Underworld Quickloader}} - Epic Weapon Hero Item
+* 10% Weapon Power.
+* 10% Attack Speed.
+* Pulse Pistols hits grant 1% Reload Speed stacking up to 30 times. Resets on reload.
+* Cost: 12,000.
+
+{{al|Drag Reducers}} - Rare Ability Hero Item
+* 10% Ability Power.
+* 100% Pulse Bomb Throw Distance.
+* Cost: 4,000.
+
+{{al|Chrono Bomb}} - Epic Ability Hero Item
+* 15% Ability Power.
+* 50% Pulse Bomb Explosion Radius.
+* Enemies Stuck or hit by Pulse Bomb are slowed by 30% and lose 30% bonus Attack Speed for 2 seconds.
+* Cost: 10,000.
+
+{{al|Emily's Affection}} - Rare Survival Hero Item
+* 19 Health.
+* After using Recall, gain 50 Overheath for 5 seconds.
+* Cost: 4,000.
+
+{{al|Iggy's Ignition}} - Rare Survival Hero Item
+* 5% Attack Speed.
+* 5% Move Speed.
+* If you use Blink while Airborne, gain an air jump.
+* Cost: 3,750.
+
+{{al|Custom Kicks}} - Epic Survival Hero Item
+* 38 Health.
+* When you use Blink, grant yourself and allies within 6 meters 10% Move Speed for 1 second.
+* Cost: 10,000.
+
+{{al|Oxton Overdrive}} - Epic Survival Hero Item
+* 19 Health.
+* When you use Recall, restore 2 charges of Blink.
+* Cost: 10,000.
+
+{{al|Slipstream Salve}} - Epic Survival Hero Item
+* 19 Health.
+* Recall always restores at least 70% of your life.
+* Cost: 10,000.
+}}
+</onlyinclude>{{PatchTableEnd}}
+
+{{StadiumNav}} 
+[[Category:{{BASEPAGENAME}} ]]
+[[Category:Stadium hero pages]]

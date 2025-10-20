@@ -1,0 +1,384 @@
+{{HeroTabs}}
+[[File: Lúcio Stadium.png|thumb|310x310px]]
+'''{{BASEPAGENAME}}''' is a playable [[hero]] in the [[Stadium]] [[game mode]].
+
+== Stat interactions ==
+{{StadiumAbilityInteractions/header}}
+{{StadiumAbilityInteractions/row|Sonic Amplifier |weaponPower=1 |attackSpeed=1 |maxAmmo=1 |weaponLifesteal=1}}
+{{StadiumAbilityInteractions/row|Soundwave |abilityPower=1 |cooldownReduction=1 |abilityLifesteal=1 }}
+{{StadiumAbilityInteractions/row|Crossfade |abilityPower=1 |cooldownReduction=1 }}
+{{StadiumAbilityInteractions/row|Amp It Up |abilityPower=1 |cooldownReduction=1 }}
+{{StadiumAbilityInteractions/row|Sound Barrier |abilityPower=1 }}
+|}
+
+== Hero Items ==
+This is a list of hero-specific items. For a list of items available to all heroes, see [[Armory]].
+
+=== Weapon ===
+<!-- Epic -->
+{{Ability details
+| ability_name = B-Side Bop
+| ability_image = B-Side Bop.png
+| ability_type = Hero Item (Weapon)
+| official_description = After using [Soundwave], your next [Quick Melee] grants decaying Overhealth equal to 200% of damage dealt.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+| stadium_buffs = Health;;50::Melee Damage;;25%
+}}
+{{Ability details
+| ability_name = Riff Repeater
+| ability_image = Riff Repeater.png
+| ability_type = Hero Item (Weapon)
+| official_description = [Sonic Amplifier] projectiles ricochet off walls 3 times.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+| stadium_buffs = Weapon Power;;15%
+}}
+
+=== Ability ===
+<!-- Rare -->
+{{Ability details
+| ability_name = &num;1 Single<!-- cargo does not like using character '#' directly in a query, so we'll have to write it using the html reference both here and al-templates to get around it -->
+| ability_image = 1 Single.png
+| ability_type = Hero Item (Ability)
+| official_description = When allies leave your [Crossfade] area, the effect lingers for 2s.
+| stadium_rarity = Rare
+| stadium_cost = 4500
+| stadium_buffs = Ability Power;;5%
+}}
+{{Ability details
+| ability_name = Lofly Beats
+| ability_image = Lofly Beats.png
+| ability_type = Hero Item (Ability)
+| official_description = While in [Speed Boost], [Soundwave] also knocks you back.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+| stadium_buffs = Weapon Power;;5%::Ability Power;;5%
+}}
+{{Ability details
+| ability_name = Nano Boop
+| ability_image = Nano Boop.png
+| ability_type = Hero Item (Ability)
+| official_description = [Environmental Kills] grant Nano Boost for 5s.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+| stadium_buffs = Cooldown Reduction;;5%
+}}
+<!-- Epic -->
+{{Ability details
+| ability_name = Airwaves
+| ability_image = Airwaves.png
+| ability_type = Hero Item (Ability)
+| official_description = [Sound Barrier] effectiveness is increased by 25% for every 1s [Sound Barrier] is channeled, up to 50%.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+| stadium_buffs = Health;;25::Ability Power;;15%
+}}
+{{Ability details
+| ability_name = All-Out Auditiva
+| ability_image = All-Out Auditiva.png
+| ability_type = Hero Item (Ability)
+| official_description = 
+| stadium_rarity = Epic
+| stadium_cost = 10000
+| stadium_buffs = Ability Power;;15%::[Amp It Up] Duration;;25%
+}}
+
+=== Survival ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Speed Skates
+| ability_image = Speed Skates.png
+| ability_type = Hero Item (Survival)
+| official_description = After [Wallriding], gain 30% Move Speed for 2s.
+| stadium_rarity = Rare
+| stadium_cost = 3750
+| stadium_buffs = Health;;25
+}}
+<!-- Epic -->
+{{Ability details
+| ability_name = Hip Hop
+| ability_image = Hip Hop.png
+| ability_type = Hero Item (Survival)
+| official_description = After [Wallriding], gain an additional jump while airborne.
+| stadium_rarity = Epic
+| stadium_cost = 9500
+| stadium_buffs = Weapon Power;;10%::Ability Power;;10%
+}}
+
+== Powers ==
+{{Ability details
+| ability_name = Fast Forward
+| ability_image = Fast_Forward.png
+| ability_type = Stadium Power
+| affected_ability = Sonic Amplifier
+| official_description = While above 50% Move Speed, increase damage by 30%.
+}}
+{{Ability details
+| ability_name = Signature Shift
+| ability_image = Signature_Shift.png
+| ability_type = Stadium Power
+| affected_ability = Sonic Amplifier
+| official_description = After using an ability, your next [Sonic Amplifier] shot shoots a volley of 6 ammo with 80% increased projectile size.
+}}
+{{Ability details
+| ability_name = Sonic Boom
+| ability_image = Sonic_Boom.png
+| ability_type = Stadium Power
+| affected_ability = Sonic Amplifier
+| official_description = [Sonic Amplifier] and [Quick Melee] Damage heals all allies affected by [Crossfade] equal to 30% of damage dealt.
+}}
+{{Ability details
+| ability_name = Mixtape
+| ability_image = Mixtape.png
+| ability_type = Stadium Power
+| affected_ability = Crossfade
+| official_description = When switching to [Healing Boost], [Crossfade] heals for 75% of [Crossfade] healing for every 1s [Speed Boost] was active.
+}}
+{{Ability details
+| ability_name = Megaphone
+| ability_image = Megaphone.png
+| ability_type = Stadium Power
+| affected_ability = Amp It Up
+| official_description = +15% [Amp It Up] Duration<br>While [Amp It Up] is active, [Crossfade] radius is increased by 150%.
+}}
+{{Ability details
+| ability_name = Radio Edit
+| ability_image = Radio_Edit.png
+| ability_type = Stadium Power
+| affected_ability = Amp It Up
+| official_description = After using [Amp It Up], trigger a [Sound Barrier] with 85% reduced Overhealth.
+}}
+{{Ability details
+| ability_name = Vivace
+| ability_image = Vivace.png
+| ability_type = Stadium Power
+| affected_ability = Wall Ride
+| official_description = Every 1s you are [Wallriding], gain 3% Move Speed and 1.5% Attack Speed for 5s, stacking up to 10 times.
+}}
+{{Ability details
+| ability_name = Wallvibing
+| ability_image = Wallvibing.png
+| ability_type = Stadium Power
+| affected_ability = Wall Ride
+| official_description = While Wallriding or airborne, gain temporary Overhealth equal to 4% of your life every 1s, up to 40%.
+}}
+{{Ability details
+| ability_name = Crowd Pleaser
+| ability_image = Crowd_Pleaser.png
+| ability_type = Stadium Power
+| affected_ability = Soundwave
+| official_description = After using Soundwave, heal all allies affected by [Crossfade] for 33% of [Soundwave]'s damage. This healing is doubled while [Amp It Up] is active.
+}}
+{{Ability details
+| ability_name = Let's Bounce
+| ability_image = Let's_Bounce.png
+| ability_type = Stadium Power
+| affected_ability = Soundwave
+| official_description = [Soundwave] has 25% increased knockback and deals bonus damage equal to 50% of [Soundwave]'s damage if the target hits a wall.
+}}
+{{Ability details
+| ability_name = Reverb
+| ability_image = Reverb.png
+| ability_type = Stadium Power
+| affected_ability = Soundwave
+| official_description = After using [Soundwave,] for 2s you can use [Soundwave] again with 75% reduced effectiveness.
+}}
+{{Ability details
+| ability_name = Beat Drop
+| ability_image = Beat_Drop_Power.png
+| ability_type = Stadium Power
+| affected_ability = Sound Barrier
+| official_description = 20% Ultimate Cost Reduction.<br>Landing on an enemy with [Sound Barrier] deals up to {{Ability_Power|250}} damage.
+}}
+
+== Example Builds ==
+These are example builds pre-built in [[Stadium]] meant to show some possibilities of what can be done in the mode.
+
+=== Super Booper ===
+Slam the enemy with lethal Soundwaves, booping them off ledges or into walls for massive {{Ability Power|Ability Power}} damage!
+
+==== Powers ====
+*{{al|Reverb}}
+*{{al|Let's Bounce}}
+*{{al|Crowd Pleaser}}
+*{{al|Fast Forward}}
+
+==== Early game ====
+*{{al|Power Playbook}}
+*{{al|Compensator}}
+*{{al|Siphon Gloves}}
+*{{al|Nano Cola}}
+
+==== Late game ====
+*{{al|Custom Stock}}
+*{{al|Energized Bracers}}
+*{{al|Lumérico Fusion Drive}}
+*{{al|Champion's Kit}}
+
+===== Flex =====
+*{{al|Nano Boop}}
+*{{al|Sonic Recharger}}
+*{{al|Cybervenom}}
+*{{al|Liquid Nitrogen}}
+
+=== Speed Demon ===
+Farm highlight reel clips with your crazy mobility and surprising burst augmented by {{Weapon Power|Weapon Power}}!
+
+==== Powers ====
+*{{al|Fast Forward}}
+*{{al|Signature Shift}}
+*{{al|Sonic Boom}}
+*{{al|Reverb}}
+
+==== Early game ====
+*{{al|Compensator}}
+*{{al|Power Playbook}}
+*{{al|Siphon Gloves}}
+*{{al|Speed Skates}}
+
+==== Late game ====
+*{{al|Talon Modification Module}}
+*{{al|Lofly Beats}}
+*{{al|Hardlight Accelerator}}
+*{{al|Eye of the Spider}}
+
+===== Flex =====
+*{{al|Hip Hop}}
+*{{al|Overdrive Core}}
+*{{al|El-Sa'ka Suppressor}}
+*{{al|Nebula Conduit}}
+
+=== Audio Medic ===
+Support your team to victory with mini Sound Barriers and tons of Healing, empowered by {{Ability Power|Ability Power}}
+
+==== Powers ====
+*{{al|Megaphone}}
+*{{al|Crowd Pleaser}}
+*{{al|Radio Edit}}
+*{{al|Mixtape}}
+
+==== Early game ====
+*{{al|Power Playbook}}
+*{{al|Compensator}}
+*{{al|Winning Attitude}}
+*{{al|&num;1 Single}}
+
+==== Late game ====
+*{{al|Nano Cola}}
+*{{al|Multi-Tool}}
+*{{al|All-Out Auditiva}}
+*{{al|Biotech Maximizer}}
+
+===== Flex =====
+*{{al|Catalytic Crystal}}
+*{{al|Sonic Recharger}}
+*{{al|Cybervenom}}
+*{{al|Three-tap Tommygun}}
+
+== Balance Change Log ==
+{{PatchTableStart}}<onlyinclude>
+{{PatchTableElement|2025-10-14|
+{{DevComment|Developer Comments: We're tuning down Lúcio's most consistent build and buffing some lesser picked options to allow for increased variety in his build paths. We're also reworking Reverb to a version with more balance levers, so we can better fine tune its power level.}}
+
+{{al|Reverb}} - Power
+* Reworked to "After using Soundwave, within 4s you can use it again with 75% reduced effectiveness." (changed from "Gain 1 extra charge of Soundwave").
+
+{{al|Crowd Pleaser}} - Power
+* Healing now scales off of Soundwave's Damage (changed from 20 Flat Healing scaling with Ability Power).
+
+{{al|Let's Bounce}} - Power
+* Bonus damage now scales off of Soundwave's Damage (instead of 25 Flat Damage scaling with Ability Power).
+
+{{al|Wallvibing}} - Power
+* Max Life Overhealth every 1s increased to 4% (up from 3%).
+
+{{al|Mixtape}} - Power
+* Heal for every 1s Speed Boost was active increased to 75% of Crossfade Healing (up from 50%).
+
+{{al|&num;1 Single}} - Rare Ability Hero Item
+* Cost increased to 4500 (up from 4000).
+
+{{al|Hip Hop}} – Epic Survival Hero Item
+* Added 10% Weapon Power and 10% Ability Power.
+* Removed 25 Health.
+* Cost increased to 9500 (up from 9000).
+}}
+{{PatchTableElement|2025-08-26|
+{{DevComment|Developer Comments: More dunking.}}
+
+{{al|Beat Drop}} - Power
+* Increased Max Damage from landing on an enemy with Sound Barrier to 250 (Up from 200).
+}}
+{{PatchTableElement|2025-06-24|
+{{DevComment|Developer Comments: Due to the buffs to Lucio's Crossfade Healing in the core game, we're decoupling Crowd Pleaser's healing from Crossfade. This will make Crowd Pleaser feel more impactful when outside of Amp It Up, while ensuring the healing during Amp It Up is within bounds. We're also reworking Vivace to have a more specialized niche, as well as buffing Sonic Boom to enable more build options.}}
+
+{{al|Crowd Pleaser}} - Power
+* Healing adjusted from 100% of Crossfade Healing to 20 Healing that is doubled while Amp It Up is active.
+
+{{al|Vivace}} - Power
+* Removed "While you are Wallriding, Soundwave cooldown refreshes 25% faster and adds 1 Max Ammo every 1s until you reload".
+* Added "Every 1s Wallriding, you gain 3% Move Speed and 1.5% Attack Speed for 5s, stacking up to 10 times".
+
+{{al|Sonic Boom}} - Power
+* Healing now also triggers on Quick Melee damage.
+}}
+{{PatchTableElement|2025-05-08|
+{{DevComment|Developer Comments: Lúcio's Ability Power Healing builds have continued to give too much healing output for how accessible and consistent they are, and have been overperforming at all levels of play. We're tuning down the healing output here because of how consistently effective it is. Lúcio's Weapon Power builds have mostly been crowded out by Ability Power builds, in both output and consistency. We're adding a bit more power here to encourage some more build variety.}}
+
+{{al|Crowd Pleaser}} – Power
+* Healing reduced to 100% of Crossfade healing (down from 150%).
+
+{{al|Let's Bounce}} - Power
+* Reduced Wall Slam damage to 25 (down from 40).
+* Reduced Knockback Increase to 25% (down from 30%).
+
+{{al|Sonic Boom}} – Power
+* Increased Healing to 30% of damage dealt (up from 20%).
+
+{{al|Fast Forward}} – Power
+* Increased damage increase to 30% (up from 25%).
+
+{{al|&num;1 Single}} – Rare Ability Hero Item
+* Reduced Ability Power to 5% (down from 10%).
+
+{{al|All-Out Auditiva|text=All Out Auditiva}} – Epic Ability Hero Item
+* Reduced Ability Power to 15% (down from 20%).
+* Reduced Amp It Up Duration to 25% (down from 33%).
+}}
+{{PatchTableElement|2025-05-01|
+{{DevComment|Developer Comments: On average, Lúcio was gaining less than average Cash from damage and healing, so giving him a small bump here.
+
+In combination with Amp It Up, Crowd Pleaser was allowing for too much burst healing that was outside of acceptable output ranges.
+
+Amp It Up healbot builds have been a little too consistent so we’re shaving a little off from Megaphone.
+
+Weapon Power Lúcio builds have been overshadowed by Ability Power Healing and Soundwave builds. We’re adding more consistency to Signature Shift to make it a more reliable and accessible option.
+
+B-Side Bop has a very low pick rate, so we’re adding more Health to make it a more attractive option and add more power to less popular Lúcio builds.}}
+
+* Increased the amount of Stadium Cash gained from damage and healing by 10%.
+
+{{al|Crowd Pleaser}} – Power
+* Healing reduced to 150% of Crossfade healing (down from 200%).
+
+{{al|Megaphone}} – Power
+* Amp It Up duration reduced to 15% (down from 20%).
+
+{{al|Signature Shift}} – Power
+* Increased Projectile Size increased to 80% (up from 20%).
+
+{{al|B-Side Bop}} – Epic Weapon Hero Item
+* Health increased to 50 (up from 25).
+}}
+{{PatchTableElement|2025-04-22|
+; Introducing Stadium
+* Tank Heroes: D.Va, Junker Queen, Orisa, Reinhardt, and Zarya.
+* Damage Heroes: Ashe, Cassidy, Genji Mei, Reaper, and Soldier: 76.
+* Support Heroes: Ana, Juno Kiriko, '''Lucio''', Mercy, and Moira.
+}}
+</onlyinclude>{{PatchTableEnd}}
+
+{{StadiumNav}}
+[[Category:{{BASEPAGENAME}}]]
+[[Category:Stadium hero pages]]

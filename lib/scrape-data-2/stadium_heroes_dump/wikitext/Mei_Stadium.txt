@@ -1,0 +1,278 @@
+{{HeroTabs}}
+[[File: Mei Stadium.png|thumb|310x310px]]
+'''{{BASEPAGENAME}}''' is a playable [[hero]] in the [[Stadium]] [[game mode]].
+
+== Ability interactions ==
+{{StadiumAbilityInteractions/header}}
+{{StadiumAbilityInteractions/row|Endothermic Blaster |weaponPower=1 |attackSpeed=1 |maxAmmo=1 |weaponLifesteal=1 }}
+{{StadiumAbilityInteractions/row|Cryo-Freeze |abilityPower=1 |cooldownReduction=1 }}
+{{StadiumAbilityInteractions/row|Ice Wall |abilityPower=1 |cooldownReduction=1 }}
+{{StadiumAbilityInteractions/row|Blizzard |abilityPower=1 }}
+|}
+
+== Hero Items ==
+This is a list of hero-specific items. For a list of items available to all heroes, see [[Armory]].
+
+=== Weapon ===
+<!-- Rare -->
+<!-- Epic -->
+{{Ability details
+| ability_name = Focused Flurries
+| ability_image = Focused_Flurries.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Attack Speed;;15%
+| official_description = Max Ammo is increased by 75% but reloading takes 50% longer.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+{{Ability details
+| ability_name = Snowboot
+| ability_image = Snowboot.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Attack Speed;;15%
+| official_description = Frozen ground increases Mei's Movement Speed by 35%.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+{{Ability details
+| ability_name = Himalayan Hat
+| ability_image = Himalayan_Hat.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Attack Speed;;10%
+| official_description = While [Blizzard] is activated, gain 10% Attack Speed.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+| ability details = * According to patch notes on June 24, this grants 15% bonus attack speed during Blizzard instead of 10% as labeled in the tooltip.
+}}
+
+=== Ability ===
+<!-- Rare -->
+<!-- Epic -->
+{{Ability details
+| ability_name = Sturdy Snowfort
+| ability_image = Sturdy_Snowfort.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Ability Power;;15%
+| official_description = Ability Power is increased by 5% per each spawned Ice Pillars.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+{{Ability details
+| ability_name = Ecopoint Cryobed
+| ability_image = Ecopoint_Cryobed.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = 
+| official_description = On near death, go into Cryo-Freeze and gain 15% Ultimate Charge. Can happen once every round.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+{{Ability details
+| ability_name = Icy Veins
+| ability_image = Icy_Veins.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Ability Power;;10%
+| official_description = [Blizzard] deals 100% increased base damage.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+
+=== Survival ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Coldspot
+| ability_image = Coldspot.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Health;;25
+| official_description = Primary fire and [Blizzard] can remove burn. Primary Fire applies 35% Slow for 1.50s to an airborne enemy.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+{{Ability details
+| ability_name = Meicicle
+| ability_image = Meicicle.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Health;;25
+| official_description = [Cryo-Freeze] duration is increased by 25%.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+<!-- Epic -->
+{{Ability details
+| ability_name = Ice Sheet
+| ability_image = Ice_Sheet.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Health;;25
+| official_description = [Ice Wall] duration is increased by 1s and health is increased by 100%.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+
+== Powers ==
+{{Ability details
+| ability_name = Extendothermics
+| ability_image = Extendothermics.png
+| ability_type = Stadium Power
+| affected_ability = Endothermic Blaster
+| official_description = [Endothermic Blaster]'s primary fire range is increased by 6m.
+}}
+{{Ability details
+| ability_name = Frost Armor
+| ability_image = Frost_Armor.png
+| ability_type = Stadium Power
+| affected_ability = Endothermic Blaster
+| official_description = Gain Armor equal to 5% of the primary fire damage you deal, up to 100, until the end of the round.
+}}
+{{Ability details
+| ability_name = Permafrost
+| ability_image = Permafrost_Power.png
+| ability_type = Stadium Power
+| affected_ability = Endothermic Blaster
+| official_description = Gain bonus health multiplier equal to 50% of your ability power. While above 30% ability power, grow 15% in size.
+}}
+{{Ability details
+| ability_name = Slowball
+| ability_image = Slowball.png
+| ability_type = Stadium Power
+| affected_ability = Endothermic Blaster
+| official_description = [Endothermic Blaster]'s secondary fire now shoots a snowball that applies 15% slow on hit or 30% on critical hit for 1s.
+}}
+{{Ability details
+| ability_name = Iceberg
+| ability_image = Iceberg.png
+| ability_type = Stadium Power
+| affected_ability = Ice Wall
+| official_description = [Ice Wall] spawns a mini [Blizzard] that slows enemies.
+}}
+{{Ability details
+| ability_name = Snowball Flight
+| ability_image = Snowball_Flight.png
+| ability_type = Stadium Power
+| affected_ability = Ice Wall
+| official_description = Jumping while mid-air creates a large [Ice Wall] pillar under you.<br>(12s Cooldown).
+}}
+{{Ability details
+| ability_name = Twice As Ice
+| ability_image = Twice_As_Ice.png
+| ability_type = Stadium Power
+| affected_ability = Ice Wall
+| official_description = When you use [Cryo-Freeze], reset the next cooldown of [Ice-Wall] and the next Snowball Flight.
+}}
+{{Ability details
+| ability_name = Coulder
+| ability_image = Coulder.png
+| ability_type = Stadium Power
+| affected_ability = Cryo-Freeze
+| official_description = [Cryo-Freeze] now encases you in a rolling iceball that can knock back enemies and deal {{Ability_Power|20}} damage.
+}}
+{{Ability details
+| ability_name = Cryclone
+| ability_image = Cryclone.png
+| ability_type = Stadium Power
+| affected_ability = Cryo-Freeze
+| official_description = [Cryo-Freeze] spawns a mini [Blizzard] that slows enemies.
+}}
+{{Ability details
+| ability_name = Frost Nova
+| ability_image = Frost_Nova.png
+| ability_type = Stadium Power
+| affected_ability = Cryo-Freeze
+| official_description = When [Cryo-Freeze] ends, knock back nearby enemies, dealing {{Ability_Power|60}} damage.
+}}
+{{Ability details
+| ability_name = Blizznado
+| ability_image = Blizznado.png
+| ability_type = Stadium Power
+| affected_ability = Blizzard
+| official_description = While within [Blizzard], heal 15% of your life every 1s.
+}}
+{{Ability details
+| ability_name = Cold Blaster
+| ability_image = Cold_Blaster.png
+| ability_type = Stadium Power
+| affected_ability = Blizzard
+| official_description = [Endothermic Blaster]'s primary fire does 20% increased damage to enemies within [Blizzard].
+}}
+
+== Removed Items and Powers ==
+These Items and Powers have been permanently removed.
+{{Ability details
+| ability_name = Avalanche
+| ability_image = Avalanche.png
+| ability_type = Stadium Power
+| affected_ability = Blizzard
+| official_description = Visible enemies within 20m of Blizzard are slowed by 25%.
+}}
+
+== Balance Change Log ==
+{{PatchTableStart}}<onlyinclude>
+{{PatchTableElement|2025-09-16|
+{{DevComment|Developer comments: Based on player feedback, we wanted to reward precision with Slowball. Landing crits now gives a stronger slow, letting Mei players who hit their mark feel extra frosty while making it clearer when enemies are in real trouble.}}
+
+{{al|Slowball}} - Power
+* Added: Critical hit applies 30% instead.
+}}
+{{PatchTableElement|2025-08-26|
+{{DevComment|Developer Comments: Based on our testing data, Mei was having a hard time dealing with fliers. This update gives her a new counter item to help level the playing field and give her a bit more edge against airborne enemies.}}
+
+{{al|Coldspot}} – Rare Survival Hero Item
+* Added: Primary fire applies 35% Slow for 1.5s to an airborne enemy.
+}}
+{{PatchTableElement|2025-07-24|
+{{DevComment|Developer Comments: Slowball has been effective at disrupting enemies, but the slow was a bit too punishing for how easy it was to apply. We’re reducing the slow strength to make it less oppressive while still rewarding accurate shots and smart use of Mei’s secondary fire.}}
+
+{{al|Slowball}} - Power
+* Decreased slow to 15% (Down from 30%).
+}}
+{{PatchTableElement|2025-07-22|
+{{DevComment|Developer Comments: This update improves its consistency so you can land those chilly plays more reliably. Enjoy freezing the competition!}}
+
+{{al|Slowball}} - Power
+* Now normal hit with Secondary Fire will also apply slow to the hit enemy.
+}}
+{{PatchTableElement|2025-07-08|
+{{DevComment|Developer Comments: Snowball Flight now synergizes with Twice as Ice, expanding Mei’s mobility options and enabling more frequent use of Mini-Blizzard. This update gives her more fluid movement and crowd control opportunities, encouraging dynamic play and rewarding smart positioning.}}
+
+{{al|Twice As Ice|text=Twice As Nice}} - Power
+* Twice As Ice also resets next Snowball Flight's cooldown.
+}}
+{{PatchTableElement|2025-06-24|
+{{DevComment|Developer Comments: While Avalanche was doing its job, it often created confusion for enemies where many couldn’t clearly understand why they were being slowed or where the effect was coming from. We’re shifting the focus of the power to enhance Mei’s primary fire, giving her more burst potential and rewarding players who can cage the enemy within a mini-blizzard or a blizzard. This should make the power feel more intuitive and impactful for both Mei and her opponents.}}
+
+{{al|Avalanche}} - Power
+* Removed.
+
+{{al|Cold Blaster}} - Power
+* New Power added.
+* Endothermic Blaster's primary fire does 20% increased damage to enemies within Blizzard.
+
+{{al|Permafrost}} - Power
+* Increases Mei's size by 15% when above 30% ability power.
+
+{{al|Himalayan Hat}} - Epic Weapon Hero Item
+* Increased attack speed to 15% (up from 10%).
+}}
+{{PatchTableElement|2025-05-29|
+{{DevComment|Developer Comments: We’re looking to enhance Mei’s survivability in moments where Cryo-Freeze isn’t available by improving the synergy with Blizzard effects. This adjustment should give Mei more defensive value during her ultimate or mini-Blizzard, allowing her to better sustain herself in skirmishes and maintain pressure.}}
+
+{{al|Blizznado}} - Power
+* Increased Heal per second to 15% (up from 5%).
+}}
+{{PatchTableElement|2025-05-01|
+{{DevComment|Developer Comments: While rolling around in ice balls has been very fun, we feel that the power currently feels too consistent at disrupting players for a long duration ability. We're hoping with these changes that it will still feel powerful but reduce its ability to carry an enemy around for its entire duration.}}
+
+{{al|Coulder}} - Power
+* Reduced the knockback frequency rate by 60%.
+* Increased how far enemies are knocked back.
+* Increased the damage dealt per knockback to 20 (up from 10).
+}}
+{{PatchTableElement|2025-04-22|
+; Introducing Stadium
+* Tank Heroes: D.Va, Junker Queen, Orisa, Reinhardt, and Zarya.
+* Damage Heroes: Ashe, Cassidy, Genji, '''Mei''', Reaper, and Soldier: 76.
+* Support Heroes: Ana, Juno, Kiriko, Lucio, Mercy, and Moira.
+}}
+</onlyinclude>{{PatchTableEnd}}
+
+{{StadiumNav}}
+[[Category:{{BASEPAGENAME}}]]
+[[Category:Stadium hero pages]]

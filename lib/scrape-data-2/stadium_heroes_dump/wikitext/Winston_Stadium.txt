@@ -1,0 +1,463 @@
+{{HeroTabs}}
+[[File: Winston Stadium.png|thumb|300px]]
+'''{{BASEPAGENAME}}''' is a playable [[hero]] in the [[Stadium]] [[game mode]].
+
+== Ability interactions ==
+{{StadiumAbilityInteractions/header}}
+{{StadiumAbilityInteractions/row|Tesla Cannon | weaponPower=1 | attackSpeed=1 | maxAmmo=1 | weaponLifesteal=1 | reloadSpeed=1 }}
+{{StadiumAbilityInteractions/row|Tesla Cannon Alt Fire | weaponPower=1 | attackSpeed=1 | maxAmmo=1 | weaponLifesteal=1 | reloadSpeed=1  }}
+{{StadiumAbilityInteractions/row|Jump Pack | abilityPower=1 | cooldownReduction=1 | abilityLifesteal=1 }}
+{{StadiumAbilityInteractions/row|Barrier Projector | abilityPower=1 | cooldownReduction=1 }}
+{{StadiumAbilityInteractions/row|Primal Rage |weaponPower=1| abilityPower=1 |attackSpeed=1 |meleeDamage=1}}<!-- not shown in game but primal punches do scale with melee damage upgrades -->
+|}
+
+; {{al|Primal Rage}}
+* Ability Power affects the amount of bonus health gained.
+* Despite not shown in Armory, Weapon Power and Melee Damage increase the damage of the punches and Attack Speed their fire rate.
+
+== Hero Items ==
+This is a list of hero-specific items. For a list of items available to all heroes, see [[Armory]].
+
+=== Weapon ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Current Convertor
+| ability_image = Current_Convertor.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Weapon Lifesteal;;10%
+| official_description = Gain 15% of damage dealt by [Tesla Cannon]’s secondary fire as Overhealth, up to 100.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+
+{{Ability details
+| ability_name = Deconstructor
+| ability_image = Deconstructor.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Max Ammo;;15%
+| official_description = [Tesla Cannon] deals 50% more damage to deployable objects, such as turrets and barriers.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+
+<!-- Epic -->
+{{Ability details
+| ability_name = Gibraltar Generator
+| ability_image = Gibraltar_Generator.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Weapon Power;;10%
+| official_description = [Barrier Projector] grants Winston 10% increased Weapon Power while inside.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+{{Ability details
+| ability_name = Harold's Glasses
+| ability_image = Harold's_Glasses.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Max Ammo;;25%
+| official_description = [Tesla Cannon]’s secondary fire deals 25% increased damage.
+| stadium_rarity = Epic
+| stadium_cost = 12000
+}}
+
+=== Ability ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Zero-G Suit
+| ability_image = Zero-G_Suit.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Cooldown Reduction;;5%::Move Speed;;5%
+| official_description = After activating [Jump Pack], increase Move Speed by 50% for 2 seconds when you next jump.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+
+<!-- Epic -->
+{{Ability details
+| ability_name = Horizon Expander
+| ability_image = Horizon_Expander.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Ability Power;;20%
+| official_description = [Jump Pack]’s landing area can increase by up to 100% while airborne.
+| stadium_rarity = Epic
+| stadium_cost = 11000
+}}
+{{Ability details
+| ability_name = Unstable Prototype
+| ability_image = Unstable_Prototype.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Cooldown Reduction;;10%
+| official_description = [Barrier Projector] bursts when it is removed, dealing {{Ability Power|25}} electric damage to nearby enemies.
+| stadium_rarity = Epic
+| stadium_cost = 11000
+}}
+{{Ability details
+| ability_name = Lucheng Launchers
+| ability_image = Lucheng_Launchers.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = [Primal Rage] duration;;50%::[Jump Pack] base damage;;50%
+| official_description = During [Primal Rage], [Jump Pack]’s base damage becomes Electric and can increase up to an additional 100% while airborne.
+| stadium_rarity = Epic
+| stadium_cost = 12000
+}}
+
+=== Survival ===
+<!-- Common -->
+{{Ability details
+| ability_name = Winton
+| ability_image = Winton.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Health;;10
+| official_description = Winning a round awards Winston 2000 bonus cash.
+| stadium_rarity = Common
+| stadium_cost = 3500
+}}
+
+<!-- Rare -->
+{{Ability details
+| ability_name = Premium Peanut Butter
+| ability_image = Premium_Peanut_Butter.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Health;;25
+| official_description = Using [Jump Pack] cleanses all negative effects.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+{{Ability details
+| ability_name = Smart-Armor
+| ability_image = Smart-Armor.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Armor;;25
+| official_description = While below 50% Life, take 25% reduced damage from Shotguns, such as Reaper, Junker Queen, and D.Va’s Primary Fire.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+
+<!-- Epic -->
+{{Ability details
+| ability_name = S.PaceArmor
+| ability_image = S._PaceArmor.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Armor;;50
+| official_description = When exiting [Primal Rage], gain {{Ability Power|150}} Overhealth.
+| stadium_rarity = Epic
+| stadium_cost = 9000
+}}
+{{Ability details
+| ability_name = Fortified Jump Pack
+| ability_image = Fortified_Jump_Pack.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Armor;;50
+| official_description = Damage received during [Jump Pack] is reduced by 35%.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+{{Ability details
+| ability_name = Simian Supplements
+| ability_image = Simian_Supplements.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = [Barrier Projector] duration;;50%
+| official_description = [Barrier Projector]'s max health is increased by {{Ability Power|300}}.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+
+== Powers ==
+{{Ability details
+| ability_name = Circuit Breaker
+| ability_image = Circuit_Breaker.png
+| ability_type = Stadium Power
+| affected_ability = Tesla Cannon
+| official_description = Electric damage is increased by 5%. Gain 15% of Electric damage as Overhealth, up to 100.
+}}
+
+{{Ability details
+| ability_name = Electro Cluster
+| ability_image = Electro_Cluster.png
+| ability_type = Stadium Power
+| affected_ability = Tesla Cannon
+| official_description = +25% [Tesla Cannon] Primary Fire Max Range.<br>[Tesla Cannon]'s Primary Fire deals 3% increased damage per enemy being hit.
+}}
+
+{{Ability details
+| ability_name = Lightning Rod
+| ability_image = Lightning_Rod.png
+| ability_type = Stadium Power
+| affected_ability = Tesla Cannon Alt Fire
+| official_description = Hits with [Tesla Cannon]'s fully charged secondary fire bounce to all other enemies within 6m for 50% reduced damage.
+}}
+
+{{Ability details
+| ability_name = Volatile Volt
+| ability_image = Volatile_Volt.png
+| ability_type = Stadium Power
+| affected_ability = Tesla Cannon Alt Fire
+| official_description = [Tesla Cannon]'s secondary fire can critically hit for 175% damage.
+}}
+
+{{Ability details
+| ability_name = Lunar Leap
+| ability_image = Lunar_Leap.png
+| ability_type = Stadium Power
+| affected_ability = Jump Pack
+| official_description = Gain 2% bonus Ultimate Charge per enemy damaged by [Jump Pack]'s landing. While using [Jump Pack], gain 5% of Max Life as Overhealth every 1s, up to {{Ability Power|100}}.
+}}
+
+{{Ability details
+| ability_name = Moon Landing
+| ability_image = Moon_Landing.png
+| ability_type = Stadium Power
+| affected_ability = Jump Pack
+| official_description = Heal for 7% of Max Life per enemy damaged by [Jump Pack]'s landing.
+}}
+
+{{Ability details
+| ability_name = Primal Punch
+| ability_image = Primal_Punch.png
+| ability_type = Stadium Power
+| affected_ability = Jump Pack
+| official_description = [Melee] or [Jump Pack] eliminations reset [Jump Pack] cooldown.<br>For every 25 Armor you have, gain 5% [Melee] Damage.
+}}
+
+{{Ability details
+| ability_name = Pocket Projector
+| ability_image = Pocket_Projector.png
+| ability_type = Stadium Power
+| affected_ability = Barrier Projector
+| official_description = Activating a [Barrier Projector] attaches an additional, smaller [Barrier Projector] to Winston with 5% health.
+}}
+
+{{Ability details
+| ability_name = Surge Protector
+| ability_image = Surge_Protector.png
+| ability_type = Stadium Power
+| affected_ability = Barrier Projector
+| official_description = Allies within [Barrier Projector] gain {{Ability Power|25}} temporary Overhealth every 1s, up to {{Ability Power|100}}.
+}}
+
+{{Ability details
+| ability_name = Tesla Field
+| ability_image = Tesla_Field.png
+| ability_type = Stadium Power
+| affected_ability = Barrier Projector
+| official_description = Enemies within [Barrier Projector] take {{Ability Power|40}} Electric every 1s.
+}}
+
+{{Ability details
+| ability_name = Primal Slam
+| ability_image = Primal_Slam.png
+| ability_type = Stadium Power
+| affected_ability = Primal Rage
+| official_description = While using [Jump Pack], press jump to quickly slam towards your current facing direction. During [Primal Rage], slam speed is increased by 50%.
+}}
+
+{{Ability details
+| ability_name = Thick Skin
+| ability_image = Thick_Skin.png
+| ability_type = Stadium Power
+| affected_ability = Primal Rage
+| official_description = When activating [Primal Rage], Winston gains additional Armor equal to 100% of Max Armor.
+}}
+
+== Example Builds ==
+These are example builds pre-built in [[Stadium]] meant to show some possibilities of what can be done in the mode.
+
+=== Shocking Threat ===
+Electrocute and melt your enemies. Strong {{Weapon Power|Weapon Power}} build up will increase the threat level.
+
+==== Powers ====
+* {{al|Circuit Breaker}}
+* {{al|Electro Cluster}}
+* {{al|Pocket Projector}}
+* {{al|Tesla Field}}
+
+==== Early game ====
+* {{al|Compensator}}
+* {{al|Weapon Grease}}
+* {{al|Siphon Gloves}}
+* {{al|Talon Modification Module}}
+
+==== Late game ====
+* {{al|Technoleech}}
+* {{al|Aftermarket Firing Pin}}
+* {{al|Weapon Jammer}}
+* {{al|Eye of the Spider}}
+
+==== Flex ====
+* {{al|Gibraltar Generator}}
+* {{al|Kitsune Charm}}
+* {{al|Martian Mender}}
+* {{al|Nebula Conduit}}
+
+=== Gorilla Punch ===
+Jump, stomp and smash your foes while Winston is covered with armor and using {{Ability Power|Ability Power}}.
+
+==== Powers ====
+* {{al|Primal Punch}}
+* {{al|Lunar Leap}}
+* {{al|Primal Slam}}
+* {{al|Thick Skin}}
+
+==== Early game ====
+* {{al|Compensator}}
+* {{al|Power Playbook}}
+* {{al|Siphon Gloves}}
+* {{al|Zero-G Suit}}
+
+==== Late game ====
+* {{al|Meka Z-Series}}
+* {{al|Multi-tool}}
+* {{al|Gloomgauntlet}}
+* {{al|Lucheng Launchers}}
+
+==== Flex ====
+* {{al|Premium Peanut Butter}}
+* {{al|Horizon Expander}}
+* {{al|Fortified Jump Pack}}
+* {{al|Lumérico Fusion Drive}}
+
+=== Arc Surge ===
+Zap your enemies from far, providing poking assistant to your team using {{Weapon Power|Weapon Power}}.
+
+==== Powers ====
+* {{al|Lightning Rod}}
+* {{al|Volatile Volt}}
+* {{al|Surge Protector}}
+* {{al|Circuit Breaker}}
+
+==== Early game ====
+* {{al|Compensator}}
+* {{al|Plasma Converter}}
+* {{al|Siphon Gloves}}
+* {{al|Current Convertor}}
+
+==== Late game ====
+* {{al|Technoleech}}
+* {{al|Aftermarket Firing Pin}}
+* {{al|Simian Supplements}}
+* {{al|The Closer}}
+
+==== Flex ====
+* {{al|Phantasmic Flux}}
+* {{al|Eye of the Spider}}
+* {{al|Nebula Conduit}}
+* {{al|Weapon Jammer}}
+
+== Balance Change Log ==
+{{PatchTableStart}}<onlyinclude>
+{{PatchTableElement|2025-08-26|
+* Added to the Stadium Hero roster.
+
+{{al|Circuit Breaker}} - Power
+* Electric damage is increased by 5%. Gain 15% of Electric damage as Overhealth, up to 100.
+
+{{al|Electro Cluster}} - Power
+* +20% Tesla Cannon Primary Fire Range.
+* Tesla Cannon's Primary Fire deals 3% increased damage per enemy being hit.
+
+{{al|Lightning Rod}} - Power
+* Hits with Tesla Cannon's fully charged secondary fire bounce to all other enemies within 6 meters for 50% reduced damage.
+
+{{al|Volatile Volt}} - Power
+* Tesla Cannon's secondary fire can critically hit for 175% damage.
+
+{{al|Lunar Leap}} - Power
+* Gain 2% bonus Ultimate Charge per enemy damaged by Jump Pack's landing. While using Jump Pack, gain 5% of Max Life as Overhealth every 1s, up to 100.
+
+{{al|Moon Landing}} - Power
+* Heal for 7% of Max Life per enemy damaged by Jump Pack's landing.
+
+{{al|Primal Punch}} - Power
+* Melee or Jump Eliminations reset Jump Pack cooldown.
+* For every 25 Armor you have, gain 5% Melee damage.
+
+{{al|Pocket Projector}} - Power
+* Activating Barrier Projector attaches an additional, smaller Barrier Projector to Winston with 5% health.
+
+{{al|Surge Protector}} - Power
+* Allies within Barrier Proejctor gain 25 temporary Overhealth every 1 second up to 100.
+
+{{al|Tesla Field}} - Power
+* Enemies within Barrier Projector take 40 Electric damage every 1 second.
+
+{{al|Primal Slam}} - Power
+* While using Jump Pack, press jump to quickly slam toward your current facing direction. During Primal Rage slam speed is increased by 50%.
+
+{{al|Thick Skin}} - Power
+* When activating Primal Rage, Winston gains additional Armor equal to 100% of Max Armor.
+
+{{al|Current Convertor}} - Rare Weapon Hero Item
+* 10% Weapon Lifesteal (Tesla Cannon).
+* Gain 15% of damage dealt by Tesla Cannon's secondary fire as Overhealth, up to 100.
+* Cost: 4,000.
+
+{{al|Deconstructor}} - Rare Weapon Hero Item
+* 15% Max Ammo.
+* Tesla Cannon deals 50% more damage to deployable objects, such as turrets and barriers.
+* Cost: 4,000.
+
+{{al|Gibraltar Generator}} - Epic Weapon Hero Item
+* 10% Weapon Power.
+* Barrier Projector grants Winston 10% increased Weapon Power while inside.
+* Cost: 10,000.
+
+{{al|Harold's Glasses}} - Epic Weapon Hero Item
+* 25% Max Ammo.
+* Tesla Cannon's secondary fire deals 25% increased damage.
+* Cost: 12,000.
+
+{{al|Zero-G Suit}} - Rare Ability Hero Item
+* 5% Cooldown Reduction
+* 5% Move Speed.
+* After activating Jump Pack. Increase Move Speed by 50% for 2 seconds when you next jump.
+* Cost: 4,000.
+
+{{al|Horizon Expander}} - Epic Ability Hero Item
+* 20% Ability Power.
+* Jump Pack's landing area can increase by up to 100% while airborne.
+* Cost: 11,000.
+
+{{al|Unstable Prototype}} - Epic Ability Hero Item
+* 10% Cooldown Reduction.
+* Barrier Projector bursts when it is removed, dealing 25% electric damage to nearby enemies.
+
+{{al|Lucheng Launchers}} - Epic Ability Hero Item
+* 50% Primal Rage duration.
+* 50% Jump Pack base damage.
+* During Primal Rage, Jump Pack's base damage becomes Electric and can increase up to an additional 100% while airborne.
+* Cost: 12,000.
+
+{{al|Winton}} - Common Survival Hero Item
+* 10 Health.
+* Winning a round awards Winston 2000 bonus cash.
+* Cost: 3,500.
+
+{{al|Premium Peanut Butter}} - Rare Survival Hero Item
+* 25 Health.
+* Using Jump Pack cleanses all negative effects.
+* Cost: 4,000.
+
+{{al|Smart-Armor}} - Rare Survival Hero Item
+* 25 Armor.
+* While below 50% Life, take 25% reduced damage from Shotguns, such as Reaper, Junker Queen, and D.Va's Primary Fire.
+* Cost: 4,000.
+
+{{al|S.Pacearmor}} - Epic Survival Hero Item
+* 50 Armor.
+* When exiting Primary Rage, gain 100 Overhealth.
+* Cost: 9,000.
+
+{{al|Simian Supplements}} - Epic Survival Hero Item
+* 50% Barrier Projection duration.
+* Barrier Projector's max health is increased by 300.
+* Cost: 10,000.
+
+{{al|Fortified Jump Pack}} - Epic Surival Hero Item
+* 50 Armor.
+* Damage received during Jump Pack is reduced by 35%.
+* Cost: 10,000.
+}}
+</onlyinclude>{{PatchTableEnd}}
+{{StadiumNav}}
+[[Category:{{BASEPAGENAME}}]]
+[[Category:Stadium hero pages]]

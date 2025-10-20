@@ -1,0 +1,469 @@
+{{HeroTabs}}
+[[File:Freja Stadium.png|310x310px|thumb]]
+'''{{BASEPAGENAME}}''' is a playable [[hero]] in the [[Stadium]] [[game mode]].
+
+== Ability interactions ==
+{{StadiumAbilityInteractions/header}}
+{{StadiumAbilityInteractions/row|Revdraw Crossbow |weaponPower=1 |attackSpeed=1 |maxAmmo=1 |weaponLifesteal=1 }}
+{{StadiumAbilityInteractions/row|Take Aim |weaponPower=1 |attackSpeed=1 |weaponLifesteal=1 }}
+{{StadiumAbilityInteractions/row|Quick Dash |cooldownReduction=1 }}
+{{StadiumAbilityInteractions/row|Updraft |cooldownReduction=1 }}
+{{StadiumAbilityInteractions/row|Bola Shot|abilityPower=1 |abilityLifesteal=1 }}
+|}
+
+== Hero Items ==
+This is a list of hero-specific items. For a list of items available to all heroes, see [[Armory]].
+
+=== Weapon ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Slipstream Scarf
+| ability_image = Slipstream_Scarf.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Health;;25::Weapon Power;;5%::[Quick Dash] Distance;;25%
+| official_description = 
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+{{Ability details
+| ability_name = Tracker Tag
+| ability_image = Tracker_Tag.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Max Ammo;;30%
+| official_description = When [Take Aim] bolt sticks an enemy, increase your Attack Speed by 20% for 3s.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+<!-- Epic -->
+{{Ability details
+| ability_name = Portable Zipline
+| ability_image = Portable_Zipline.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Weapon Power;;5%
+| official_description = Eliminations reset both charges of [Quick Dash] Cooldown.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+
+=== Ability ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Windwalker Boots
+| ability_image = Windwalker_Boots.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Health;;25::Cooldown Reduction;;5%::[Updraft] Height;;20%
+| official_description = 
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+
+=== Survival ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Aeroweave Cloak
+| ability_image = Aeroweave_Cloak.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Health;;25::[Take Aim] Slowed Momentum Duration;;100%
+| official_description = While momentum is slowed by [Take Aim], restore 5% Max Life every 1s.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+{{Ability details
+| ability_name = Hunter's Mark
+| ability_image = Hunter's_Mark.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Health;;25
+| official_description = Enemies with a bounty of 750 or more are revealed to you within 40m. Eliminating them grants 250 additional Stadium Cash.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+{{Ability details
+| ability_name = Tourniquet
+| ability_image = Tourniquet.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Health;;25
+| official_description = After using [Updraft], reset [Quick Dash] and gain 50 Overhealth for 5s.
+| stadium_rarity = Rare
+| stadium_cost = 4500
+}}
+<!-- Epic -->
+{{Ability details
+| ability_name = Toxin Tips
+| ability_image = Toxin_Tips.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Health;;50
+| official_description = [Take Aim] bolt sticks and explosions slow enemies by 30%, but takes 1s longer to explode.
+| stadium_rarity = Epic
+| stadium_cost = 9000
+}}
+
+===Disabled Items===
+<!-- Epic -->
+{{Ability details
+| ability_name = Magnetic Maelstrom
+| ability_image = Magnetic_Maelstrom.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Ability Power;;15%
+| official_description = [Bola Shot] pulls in nearby enemies even when it misses with 50% reduced pull strength.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+| ability_details = * Temporarily disabled
+}}
+
+== Powers ==
+{{Ability details
+| ability_name = Cyclone
+| ability_image = Cyclone.png
+| ability_type = Stadium Power
+| affected_ability = 
+| official_description = When you use [Updraft], fire a [Take Aim] bolt at your crosshair.
+}}
+{{Ability details
+| ability_name = Seekerpoint
+| ability_image = Seekerpoint.png
+| ability_type = Stadium Power
+| affected_ability = 
+| official_description = When [Take Aim] bolt sticks an enemy, automatically fire 3 additional crossbow shots at them that deal 66% reduced damage.
+}}
+{{Ability details
+| ability_name = Seismic Shot
+| ability_image = Seismic_Shot.png
+| ability_type = Stadium Power
+| affected_ability = 
+| official_description = [Take Aim] explosion radius is increased by 50%. Double this if the bolt is stuck to a target.
+}}
+{{Ability details
+| ability_name = Thread the Needle
+| ability_image = Thread_The_Needle.png
+| ability_type = Stadium Power
+| affected_ability = 
+| official_description = [Take Aim] bolts pierce enemies. Additional explosions deal 66% reduced damage.
+}}
+{{Ability details
+| ability_name = Deep Pockets
+| ability_image = Deep_Pockets.png
+| ability_type = Stadium Power
+| affected_ability = Revdraw Crossbow
+| official_description = When you use an ability, restore 40% of your Max Ammo.
+}}
+{{Ability details
+| ability_name = Forager
+| ability_image = Forager.png
+| ability_type = Stadium Power
+| affected_ability = Revdraw Crossbow
+| official_description = For 2s after using [Quick Dash], [Revdraw Crossbow] hits heal you for 5% of your Max Life.
+}}
+{{Ability details
+| ability_name = Peak Performance
+| ability_image = Peak_Performance.png
+| ability_type = Stadium Power
+| affected_ability = Revdraw Crossbow
+| official_description = While firing [Revdraw Crossbow], your fall speed is decreased by 80%.
+}}
+{{Ability details
+| ability_name = Redux
+| ability_image = Redux.png
+| ability_type = Stadium Power
+| affected_ability = Revdraw Crossbow
+| official_description = [Revdraw Crossbow] hits against targets stuck by a [Take Aim] bolt or [Bola Shot] reduce the cooldown of your abilities by 5% and refunds 1 ammo.
+}}
+{{Ability details
+| ability_name = Volley à Deux
+| ability_image = Volley_à_Deux.png
+| ability_type = Stadium Power
+| affected_ability = Revdraw Crossbow
+| official_description = Every fifth [Revdraw Crossbow] shot fires an additional 2 bolts in a spread that deal 50% reduced damage.
+}}
+{{Ability details
+| ability_name = Lille Fælde
+| ability_image = Lille_Fælde.png
+| ability_type = Stadium Power
+| affected_ability = Bola Shot
+| official_description = After using [Updraft], your next [Take Aim] while airborne instead fires a mini [Bola Shot] that no longer pulls and has 30% reduced effectiveness.
+| ability_details = * Bola from Lille Fælde slow is decreased by 60%.
+* Radius is reduced by 25%.
+}}
+{{Ability details
+| ability_name = So Cooked
+| ability_image = So_Cooked.png
+| ability_type = Stadium Power
+| affected_ability = Bola Shot
+| official_description = [Bola Shot]'s damaging zone deals 30% more damage and lingers for 3s. [Bola Shot] eliminations count towards [Bounty Hunting].
+}}
+{{Ability details
+| ability_name = Mighty Gust
+| ability_image = Mighty_Gust.png
+| ability_type = Stadium Power
+| affected_ability = Updraft
+| official_description = [Updraft] launches a wind blast towards your crosshair, knocking back enemies and dealing {{Ability_Power|40}} damage.
+}}
+
+== Example Builds ==
+These are example builds pre-built in [[Stadium]] meant to show some possibilities of what can be done in the mode.
+
+=== Nærkampsexpert ===
+Quick Dash in close to dispatch your foes with self-healing, rapid fire bolts.
+
+==== Powers ====
+* {{al|Deep Pockets}}
+* {{al|Forager}}
+* {{al|Volley à Deux}}
+* {{al|Seekerpoint}}
+
+==== Early game ====
+* {{al|Compensator}}
+* {{al|Weapon Grease}}
+* {{al|Armored Vest}}
+* {{al|Slipstream Scarf}}
+
+==== Late game ====
+* {{al|Phantasmic Flux}}
+* {{al|Commander's Clip}}
+* {{al|Portable Zipline}}
+* {{al|Weapon Jammer}}
+
+==== Flex ====
+* {{al|Hunter's Mark}}
+* {{al|Overdrive Core}}
+* {{al|El-Sa'ka Suppressor}}
+* {{al|Nebula Conduit}}
+
+=== Hired Assassin ===
+Dispatch wanted targets with lethal and precise {{Weapon Power|Weapon Power}} combos.
+
+==== Powers ====
+* {{al|Seekerpoint}}
+* {{al|Seismic Shot}}
+* {{al|Thread the Needle}}
+* {{al|Cyclone}}
+
+==== Early game ====
+* {{al|Compensator}}
+* {{al|Weapon Grease}}
+* {{al|Armored Vest}}
+* {{al|Talon Modification Module}}
+
+===== Late game =====
+* {{al|Tourniquet}}
+* {{al|Portable Zipline}}
+* {{al|Hardlight Accelerator}}
+* {{al|Eye of the Spider}}
+
+==== Flex ====
+* {{al|Hunter's Mark}}
+* {{al|Overdrive Core}}
+* {{al|Volskaya Ordnance}}
+* {{al|Salvaged Slugs}}
+
+=== Stormbringer ===
+Harness the power of the winds to disrupt your enemy and deal AoE {{Ability Power|Ability Power}} damage.
+
+==== Powers ====
+* {{al|Lille Fælde}}
+* {{al|So Cooked}}
+* {{al|Mighty Gust}}
+* {{al|Redux}}
+
+==== Early game ====
+* {{al|Compensator}}
+* {{al|Power Playbook}}
+* {{al|Armored Vest}}
+* {{al|Ironclad Exhaust Ports}}
+
+===== Late game =====
+* {{al|Tourniquet}}
+* {{al|Mark of the Kitsune}}
+* {{al|Three-tap Tommygun}}
+* {{al|Lumérico Fusion Drive}}
+
+==== Flex ====
+* {{al|Cybervenom}}
+* {{al|Liquid Nitrogen}}
+* {{al|Sonic Recharger}}
+* {{al|Divine Intervention}}
+
+== Balance Change Log ==
+{{PatchTableStart}}<onlyinclude>
+{{PatchTableElement|2025-10-01|
+{{al|Lille Fælde}} - Power
+* Increased effectiveness to 30% reduced effectiveness (up from 40% reduced effectiveness).
+
+{{al|Seismic Shot}} - Power
+* Increased explosion radius increased to 50% (up from 33%).
+
+{{al|Forager}} - Power
+* Increased Max Life Heal per shot to 5% (up from 4%).
+
+{{al|Deep Pockets}} - Power
+* Ammo Restore on Ability Use increased to 40% (up from 25%).
+
+{{al|Volley à Deux}} - Power
+* Increased damage on additional bolts to 50% reduced (up from 66% reduced).
+}}
+
+{{PatchTableElement|2025-08-26|
+{{DevComment|Developer Comments: Freja continues to struggle at generating currency compared to other damage options. With the improved counterplay options in the Armory and the introduction of Draft, we are bumping up her currency generation from damage to help increase her consistency in Stadium.}}
+
+* Increased income from damage and healing by 11.7%.
+}}
+{{PatchTableElement|2025-07-24|
+{{DevComment|Developer Comments: Freja's Bola Build has been underperforming, especially when comparing to Freja's more dominant Weapon Power builds. We're increasing the power here to add more build variety for Freja.}}
+
+{{al|Lille Fælde|text=Lille Faelde}} - Power
+* Increased effectiveness to 40% reduced (Up from 50% reduced).
+
+{{al|So Cooked}} - Power
+* Increased duration to 3s (Up from 2s).
+}}
+{{PatchTableElement|2025-06-24|
+{{DevComment|Developer Comments: Freja has been struggling in Stadium since her nerfs in the core game combined with the Stadium hotfix nerfs. We're increasing her cash gain to help her be more on par with other DPS in Stadium, and buffing Hunter's Mark to make it a more reliable option when behind. We're dialing back the visual noise of Lille Fælde to further reduce the frustration surrounding the power, while increasing the damage to make it a more viable option.}}
+
+* Increased cash income from damage and healing by 13.3%.
+
+{{al|Lille Fælde}} - Power
+* Increased damage to 50% reduced damage (up from 60% reduced damage).
+* Added 25% reduced radius on Bola Shot fired by Lille Fælde.
+* VFX reduced to reduce visual noise of Bola Shot fired by Lille Fælde.
+* Updated tooltip to reflect earlier changes.
+
+{{al|Hunter's Mark}} - Rare Survival Hero Item
+* Added 5% Weapon Power.
+* Bonus Cash on Eliminating a target with a Bounty of 750 or more increased to 350 (up from 250).
+}}
+{{PatchTableElement|2025-05-29|
+{{al|Lille Fælde}} - Power Re-enabled.
+* Bola from Lille Fælde slow is decreased by 60%.
+* Bola from Lille Fælde no longer pulls enemies upon direct hit.
+* These will be reflected in the tooltip in a future update.
+
+{{al|So Cooked}} - Power
+* Decreased increased damaging zone damage to 30% (down from 50%).
+* Decreased increased damaging zone duration to 2 second (down from 3 second).
+
+{{al|Deep Pockets}} - Power
+* Max Ammo restored from using an ability reduced to 25% (down from 50%).
+
+{{al|Forager}} - Power
+* Max Life heal per hit increased to 4% (up from 3%).
+
+{{al|Portable Zipline}} – Epic Weapon Hero Item
+* Decreased Weapon Power to 5% (down from 15%).
+
+{{al|Volley a Deux}} - Power
+* Increased damage to 33% reduced damage on additional bolts (up from 50% reduced).
+
+{{al|Magnetic Maelstrom}} – Epic Ability Hero Item
+* Disabled.
+}}
+{{PatchTableElement|2025-05-23|
+{{DevComment|Developer Comments: Freja is a hero with a very high damage ceiling, which can feel especially powerful in Stadium when ahead. We're lowering her economy gain from damage to reduce the consistency and speed at which Freja can snowball in Stadium. We'll be making a more targeted set of changes next week, including looking at the crowd control effectiveness and uptime of the Bola build and improving some of her weaker options.}}
+
+* Reduced income from damage and healing by 25%.
+}}
+{{PatchTableElement|2025-05-20|
+
+* Added to the Stadium Hero Roster
+
+{{al|Cyclone}} - Power
+* New Stadium Power.
+* When you use Updraft, fire a Take Aim bolt at your crosshair.
+
+{{al|Seekerpoint}} - Power
+* New Stadium Power.
+* When Take Aim bolt sticks an enemy, automatically fire 3 additional crossbow shots at them that deal 66% reduced damage.
+
+{{al|Seismic Shot}} - Power
+* New Stadium Power.
+* Take Aim explosion radius is increased by 33%. Double this if the bolt is stuck to a target.
+
+{{al|Thread the Needle}} - Power
+* New Stadium Power.
+* Take Aim bolts pierce enemies. Additional explosions deal 66% reduced damage.
+
+{{al|Deep Pockets}} - Power
+* New Stadium Power.
+* When you use an ability, restore 50% of your Max Ammo.
+
+{{al|Forager}} - Power
+* New Stadium Power.
+* For 2 seconds after using Quick Dash. Revdraw Crossbow hits heal you for 3% of your Max Life.
+
+{{al|Peak Performance}} - Power
+* New Stadium Power.
+* While firing Revdraw Crossbow your fall speed is decreased by 80%.
+
+{{al|Redux}} - Power
+* New Stadium Power.
+* Revdraw Crossbow hits against targets stuck by a Take Aim bolt or Bola Shot reduce the cooldown of your abilities by 5% and refunds 1 ammo.
+
+{{al|Volley à Deux}} - Power
+* New Stadium Power.
+* Every fifth Revdraw Crossbow shot fires an additional 2 bolts in a spread that deal 50% reduced damage.
+
+{{al|Lille Fælde}} - Power
+* New Stadium Power.
+* After using Updraft, your next Take Aim while airborne fires a Bola Shot that deals 60% reduced damage instead of an explosive bolt.
+
+{{al|So Cooked}} - Power
+* New Stadium Power.
+* Bola Shot's damaging zone deals 50% more damage and lingers for 3 seconds. Bola shot eliminations count toward Bounty Hunting.
+
+{{al|Mighty Gust}} - Power
+* New Stadium Power.
+* Updraft launches a wind blast toward your crosshair, knocking back enemies and dealing 40 ability damage.
+
+{{al|Tracker Tag}} - Rare Hero Weapon Item
+* New Rare Hero Weapon Item.
+* 30% Max Ammo.
+* When Take Aim bolt sticks to an enemy, increase your Attack Speed by 20% for 3 seconds.
+
+{{al|Slipstream Scarf}} - Rare Hero Weapon Item
+* New Rare Hero Weapon Item.
+* 25 Health.
+* 5% Weapon Power.
+* 25% Quick Dash Distance.
+
+{{al|Portable Zipline}} - Epic Hero Weapon Item
+* New Epic Hero Weapon Item.
+* 15% Weapon Power.
+* Eliminations reset both charges of Quick Dash cooldown.
+
+{{al|Windwalker Boots}} - Rare Hero Ability Item
+* New Rare Hero Ability Item.
+* 25 Health.
+* 5% Cooldown Reduction.
+* 20% Updraft Height.
+
+{{al|Magnetic Maelstrom}} - Epic Hero Ability Item
+* New Epic Hero Ability Item.
+* 15% Ability Power.
+* Bola Shot pulls in nearby enemies even when it misses.
+
+{{al|Hunter's Mark}} - Rare Hero Survival Item
+* New Rare Hero Survival Item.
+* 25 Health.
+* Enemies with a Bounty of 75- or more are revealed to you within 40 meters. Eliminating them grants 250 additional Stadium Cash.
+
+{{al|Aeroweave Cloak}} - Rare Hero Survival Item
+* New Rare Hero Survival Item.
+* 25 Health.
+* 100% Take Aim Slowed Momentum Duration.
+
+{{al|Tourniquet}} - Rare Hero Survival Item
+* New Rare Hero Survival Item.
+* 25 Health.
+* After using Updraft, reset Quick Dash and gain 50 Overhealth for 5 seconds.
+
+{{al|Toxin Tips}} - Epic Hero Survival Item
+* New Epic Hero Survival Item.
+* 50 Health.
+* Take Aim bolts sticks and explosions slow enemies by 30% but takes 1 second longer to explode.
+}}
+</onlyinclude>{{PatchTableEnd}}
+
+== References ==
+<references/>
+
+{{StadiumNav}}
+[[Category:{{BASEPAGENAME}}]]
+[[Category:Stadium hero pages]]

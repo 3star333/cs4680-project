@@ -1,0 +1,290 @@
+{{HeroTabs}}
+[[File: Reaper Stadium.png|thumb|310x310px]]
+'''{{BASEPAGENAME}}''' is a playable [[hero]] in the [[Stadium]] [[game mode]].
+
+== Ability interactions ==
+{{StadiumAbilityInteractions/header}}
+{{StadiumAbilityInteractions/row|Hellfire Shotguns |weaponPower=1 |attackSpeed=1 |maxAmmo=1 |weaponLifesteal=1 }}
+{{StadiumAbilityInteractions/row|Wraith Form |cooldownReduction=1 }}
+{{StadiumAbilityInteractions/row|Shadow Step |cooldownReduction=1 }}
+{{StadiumAbilityInteractions/row|Death Blossom |abilityPower=1 |abilityLifesteal=1 }}
+|}
+
+; {{al|The Reaping}}
+* Lifesteal does not grant Stadium Cash.
+
+== Hero Items ==
+This is a list of hero-specific items. For a list of items available to all heroes, see [[Armory]].
+
+=== Weapon ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Nightcreeper
+| ability_image = Nightcreeper.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Weapon Power;;5%::Move Speed;;5%
+| official_description = After using an ability, nearby enemies are revealed to you for 3s.
+| stadium_rarity = Rare
+| stadium_cost = 3750
+}}
+{{Ability details
+| ability_name = Spectral Slugs
+| ability_image = Spectral_Slugs.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Attack Speed;;5%::Max Ammo;;25%
+| official_description = Using [Shadow Step] restores 100% of your ammo.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+<!-- Epic -->
+{{Ability details
+| ability_name = Onslaught
+| ability_image = Onslaught.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Max Ammo;;25%
+| official_description = Every 3rd shot fires both of your [Hellfire Shotguns]. The extra shot does not consume ammo, but deals 80% reduced damage.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+=== Ability ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Crowd Control
+| ability_image = Crowd_Control.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Ability Lifesteal;;10%
+| official_description = [Death Blossom] gains 5% Ability Power for each enemy within its range.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+<!-- Epic -->
+{{Ability details
+| ability_name = Crimson Cloak
+| ability_image = Crimson_Cloak.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Health;;25::Ability Power;;10%
+| official_description = When [Death Blossom] starts, gain Overhealth equal to 5% of your max Life for each enemy within its range.
+| stadium_rarity = Epic
+| stadium_cost = 9500
+}}
+{{Ability details
+| ability_name = Wreath of Ruin
+| ability_image = Wreath_Of_Ruin.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Ability Power;;20%::[Death Blossom] Radius;;25%::Move Speed during [Death Blossom];;20%
+| official_description = 
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+
+=== Survival ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Devastation
+| ability_image = Devastation.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Health;;25
+| official_description = Each Death Blossom elimination increases your Health by 25 until the end of the round, up to 75 Health.
+| stadium_rarity = Rare
+| stadium_cost = 3750
+}}
+{{Ability details
+| ability_name = Neverfrost
+| ability_image = Neverfrost.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Health;;25::Weapon Power;;5%
+| official_description = Reduce effectiveness of enemy slows by 50%.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+{{Ability details
+| ability_name = Pocket Mist
+| ability_image = Pocket_Mist.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Health;;25
+| official_description = While below 50% Life, gain 20% Move Speed.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+<!-- Epic -->
+{{Ability details
+| ability_name = Dauntless Draught
+| ability_image = Dauntless_Draught.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Health;;50::Move Speed during [Wraith Form];;15%::[Wraith Form] Duration;;33%
+| official_description = 
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+{{Ability details
+| ability_name = Wretched Wings
+| ability_image = Wretched_Wings.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Health;;25
+| official_description = While using [Wraith Form] gain the ability to fly and gain 20% Move Speed.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+
+== Powers ==
+{{Ability details
+| ability_name = Backstabber
+| ability_image = Backstabber_Power.png
+| ability_type = Stadium Power
+| affected_ability = Hellfire Shotguns
+| official_description = After using an ability, your next shot deals 50% additional damage over 3s to enemies struck from behind.
+}}
+{{Ability details
+| ability_name = Harvest Fest
+| ability_image = Harvest_Fest.png
+| ability_type = Stadium Power
+| affected_ability = Hellfire Shotguns
+| official_description = [Hellfire Shotgun] hits have a 10% change to spawn a [Soul Globe]. When picked up, restore 25% Life, 25% Ammo, and gain 25% Move Speed fpr 3s.
+}}
+{{Ability details
+| ability_name = Revolving Ruin
+| ability_image = Revolving_Ruin.png
+| ability_type = Stadium Power
+| affected_ability = Hellfire Shotguns
+| official_description = Close-range (7m) [Hellfire Shotgun] hits grant 4% Attack Speed for 1s, stacking up to 10 times.
+}}
+{{Ability details
+| ability_name = Shared Siphon
+| ability_image = Shared_Siphon.png
+| ability_type = Stadium Power
+| affected_ability = Hellfire Shotguns
+| official_description = [The Reaping] also heals the nearest ally within 10m for 30% of Reaper's damage dealt.
+}}
+{{Ability details
+| ability_name = Shrouded Shrapnel
+| ability_image = Shrouded_Shrapnel.png
+| ability_type = Stadium Power
+| affected_ability = Hellfire Shotguns
+| official_description = Using [Wraith Form] increases the number of pellets per shot in your next magazine by 25% and its spread by 50%.
+}}
+{{Ability details
+| ability_name = Spirited to Slay
+| ability_image = Spirited_To_Slay.png
+| ability_type = Stadium Power
+| affected_ability = Hellfire Shotguns
+| official_description = Eliminations reduce your cooldown of [Wraith Form] by 50% and [Shadow Step] by 100%
+}}
+{{Ability details
+| ability_name = Vampiric Touch
+| ability_image = Vampiric_Touch.png
+| ability_type = Stadium Power
+| affected_ability = Hellfire Shotguns
+| official_description = Hits with [Quick Melee] mark enemies for 5s. Allies gain 20% Lifesteal against marked enemies.
+}}
+{{Ability details
+| ability_name = Death Step
+| ability_image = Death_Step.png
+| ability_type = Stadium Power
+| affected_ability = Shadow Step
+| official_description = After using [Shadow Step], cast [Death Blossom] for 1.5s with 50% reduced damage.
+}}
+{{Ability details
+| ability_name = Silent as the Grave
+| ability_image = Silent_As_The_Grave.png
+| ability_type = Stadium Power
+| affected_ability = Shadow Step
+| official_description = Your footsteps and [Shadow Step] are significantly quieter.
+}}
+{{Ability details
+| ability_name = Strangle Step
+| ability_image = Strangle_Step.png
+| ability_type = Stadium Power
+| affected_ability = Shadow Step
+| official_description = +15% [Shadow Step] Cast Speed.<br>After using [Shadow Step], double your Lifesteal for 3s.
+}}
+{{Ability details
+| ability_name = Ghosted
+| ability_image = Ghosted.png
+| ability_type = Stadium Power
+| affected_ability = Wraith Form
+| official_description = While in [Wraith Form], passing through enemies slows their Move speed and Attack Speed by 30% for 3s.
+}}
+{{Ability details
+| ability_name = Wraith Renewal
+| ability_image = Wraith_Renewal.png
+| ability_type = Stadium Power
+| affected_ability = Wraith Form
+| official_description = While in [Wraith Form], restore 7% of your Life every 1s. Double this while below 50% Life.
+}}
+
+== Balance Change Log ==
+{{PatchTableStart}}<onlyinclude>
+{{PatchTableElement|2025-10-14|
+{{Al|Strangle Step}} - Power
+* Reduced Shadow Step Cast Speed to 15% (down from 30%).
+
+{{al|Spirited to Slay}} - Power
+* Reduced Wraith Form Cooldown Reduction on Elimination to 50% (down from 100%).
+}}
+{{PatchTableElement|2025-06-24|
+{{DevComment|Developer Comments: This update to Reaper is primarily looking at making Ability Power Reaper a bit more reliable in the early and mid rounds. We're reorganizing where some of the power of the build lies, as well as fixing a few interactions that were not quite working correctly. We'll be keeping a close eye on this build as it has high snowball potential when it works. We're also reducing the power of Wraith Renewal as it has been a consistent high performer in terms of survivability and cash gain.}}
+
+{{al|Strangle Step}} - Power
+* Now also has +30% Shadow Step Cast Speed.
+
+{{al|Wraith Renewal}} - Power
+* Reduced healing to 7% (down from 10%)
+
+{{al|The Reaping}} - Hero Base Passive
+* Health restored from Lifesteal granted by The Reaping was unintentionally granting Stadium Cash.
+
+{{al|Nightcreeper}} - Rare Weapon Hero Item
+* Moved to Rare (from Epic).
+* No longer has +30% Shadow Step Cast Speed.
+* Cost: 3,750.
+* Now Provides: 5% Weapon Power, 5% Move Speed, and after using an ability, nearby enemies are Revealed to you for 3s.
+
+{{al|Crowd Control}} - Rare Ability Hero Item
+* Moved to Rare (from Epic).
+* Replaced Ability Power stat with 10% Ability Lifesteal.
+* Now grants 4% Ability Power per target (down from 5%).
+* Cost: 4,000.
+* Fixed a bug where the effect of this item was not affecting Death Blossoms triggered by Death Step.
+
+{{al|Wreath of Ruin}} - Epic Ability Hero Item
+* Fixed a bug Where the Move Speed increase was not affecting Death Blossoms triggered by Death Step.
+
+{{al|Crimson Cloak}} - Epic Ability Hero Item
+* Moved from Survival Items to Ability Items
+* Changed effect to: "When Death Blossom starts, gain Overhealth equal to 5% of your max Life for each enemy within its range."
+* Reduced cost to 9500.
+
+{{al|Devastation}} - Rare Survival Hero Item
+* Replaced Ability Lifesteal stat with 25 Health
+* Reduced effect cap to 75 Health (down from 100)
+* Cost reduced to 3,750 (down from 4,000)
+}}
+{{PatchTableElement|2025-05-15|
+{{DevComment|Developer Comments: We're squashing a few bugs that we believe have contributed to Reaper's high win rate. We're also making a slight adjustment to Revolving Ruin's ramp up time and maximum stacks. We're planning to make some more adjustments to Reaper's weapon builds in the future to incentivize them to build stats other than just Weapon Power.}}
+
+{{al|Revolving Ruin}} - Power
+* Reduced Attack Speed per stack to 4% (down from 5%).
+* Increased maximum stacks to 10 (up from 8).
+
+{{al|Wraith Renewal}} - Power
+* Fixed an issue where Wraith Renewal healing was always being doubled, regardless of what your current Life was.
+
+{{al|Spirited to Slay}} - Power
+* Fixed an issue that caused Reaper's cooldowns to be reset without getting an Elimination.
+}}
+{{PatchTableElement|2025-05-01|
+{{DevComment|Developer Comments: Reaper originally had a higher rate of earning Cash from damage and healing since on average he has more difficulty dealing consistent damage due to his range. However, Reaper has been overperforming and making too much Cash so we’re pulling this back a bit.}}
+
+* Reduced the amount of Stadium Cash gained from damage and healing by 10%.
+}}
+{{PatchTableElement|2025-04-22|
+; Introducing Stadium
+* Tank Heroes: D.Va, Junker Queen, Orisa, Reinhardt, and Zarya.
+* Damage Heroes: Ashe, Cassidy, Genji, Mei, '''Reaper''', and Soldier: 76.
+* Support Heroes: Ana, Juno, Kiriko, Lucio, Mercy, and Moira.
+}}
+</onlyinclude>{{PatchTableEnd}}
+
+{{StadiumNav}}
+[[Category:{{BASEPAGENAME}}]]
+[[Category:Stadium hero pages]]

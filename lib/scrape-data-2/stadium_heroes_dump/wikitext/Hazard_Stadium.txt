@@ -1,0 +1,430 @@
+{{HeroTabs}}
+[[File:Hazard Stadium.png|thumb|310x310px]]
+'''{{BASEPAGENAME}}''' is a playable [[hero]] in the [[Stadium]] [[game mode]].
+
+== Ability interactions ==
+{{StadiumAbilityInteractions/header}}
+{{StadiumAbilityInteractions/row|Bonespur|weaponPower=1|attackSpeed=1|weaponLifesteal=1|reloadSpeed=1|maxAmmo=1}}
+{{StadiumAbilityInteractions/row|Spike Guard|abilityPower=1|abilityLifesteal=1}}
+{{StadiumAbilityInteractions/row|Violent Leap|abilityPower=1|cooldownReduction=1|abilityLifesteal=1}}
+{{StadiumAbilityInteractions/row|Jagged Wall|abilityPower=1|cooldownReduction=1|abilityLifesteal=1}}
+{{StadiumAbilityInteractions/row|Downpour|abilityPower=1|abilityLifesteal=1}}
+|}
+
+== Hero Items ==
+This is a list of hero-specific items. For a list of items available to all heroes, see [[Armory]].
+
+=== Weapon ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Calcium Efficiency
+| ability_image = Calcium_Efficiency.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Weapon Power;;5%
+| official_description = Gain 15% Weapon Lifesteal for 5s after reloading ammo or gaining ammo.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+<!-- Epic -->
+{{Ability details
+| ability_name = Sharpsurge
+| ability_image = Sharpsurge.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Weapon Power;;10%
+| official_description = Dealing critical damage grants 1% Attack Speed for 3s, stacking up to 25 times.
+| stadium_rarity = Epic
+| stadium_cost = 11000
+}}
+
+=== Ability ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Skewer Bloom
+| ability_image = Skewer_Bloom.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Ability Power;;10%::[Spike Guard] range;;50%
+| official_description = 
+| stadium_rarity = Rare
+| stadium_cost = 5500
+}}
+
+{{Ability details
+| ability_name = Birdseye Blade
+| ability_image = Birdseye_Blade.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Ability Power;;10%::Cooldown Reduction;;5%
+| official_description = [Violent Leap]'s Slash deals 25% increased damage to airborne enemies
+| stadium_rarity = Rare
+| stadium_cost = 5000
+}}
+
+<!-- Epic -->
+{{Ability details
+| ability_name = Boomslang's Blaster
+| ability_image = Boomslang's_Blaster.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Ability Power;;10%::Ability Lifesteal;;10%
+| official_description = Ability: Use [Quick Melee] during [Spike Guard] to immediately fire 5 spikes at targets (10s Cooldown).
+| stadium_rarity = Epic
+| stadium_cost = 11000
+}}
+
+{{Ability details
+| ability_name = Touch-Up's Touch Up
+| ability_image = Touch-Up's_Touch_Up.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Ability Power;;10%::Cooldown Reduction;;5%
+| official_description = After using [Violent Leap], [Spike Guard]'s spikes deal 25% more damage for 5s.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+
+{{Ability details
+| ability_name = Phreak Foil
+| ability_image = Phreak_Foil.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Ability Power ;;15%::Ability Lifesteal;;10%::Extra [Spike Guard] Resource;;50%
+| official_description = [Jagged Wall] hits charge [Spike Guard] with 25% bonus energy.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+
+=== Survival ===
+<!-- Rare -->
+
+{{Ability details
+| ability_name = Home Turf
+| ability_image = Home_Turf.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Health;;25
+| official_description = [Jagged Wall] increases Hazard's Movement Speed by 20% and Jump Speed by 100% while within 9m.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+
+<!-- Epic -->
+
+{{Ability details
+| ability_name = Spine Protector
+| ability_image = Spine_Protector.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Weapon Power;;10%::Weapon Lifesteal;;5%
+| official_description = Heal 2% of Max Life for each ammo reloaded using [Spike Guard]
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+
+{{Ability details
+| ability_name = Blood Needle
+| ability_image = Blood_Needle.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Health;;50::[Spike Guard] Max Resource;;50%
+| official_description = Each fired [Spike Guard] spike heals 0.3% Max Life per hit.
+| stadium_rarity = Epic
+| stadium_cost = 11000
+}}
+
+{{Ability details
+| ability_name = Susannah's Support
+| ability_image = Susannah's_Support.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Health;;50::[Jagged Wall] Health;;65%
+| official_description = [Jagged Wall] heals Hazard for 10% of damage mitigated
+| stadium_rarity = Epic
+| stadium_cost = 11000
+}}
+
+== Powers ==
+{{Ability details
+| ability_name = Barbed Shot
+| ability_image = Barbed_Shot.png
+| ability_type = Stadium Power
+| affected_ability = Bonespur
+| official_description = [Bonespur] shots also fire 2 [Spike Guard] spikes at hit targets for {{Ability Power|10}} damage.
+}}
+
+{{Ability details
+| ability_name = Bonerot
+| ability_image = Bonerot.png
+| ability_type = Stadium Power
+| affected_ability = Bonespur
+| official_description = Ammo gained from [Spike Guard] deals {{Weapon Power|10}} extra damage. [Spike Guard] ammo regeneration speed is increased by 25%.
+}}
+
+{{Ability details
+| ability_name = Hit Me Again
+| ability_image = Hit_Me_Again.png
+| ability_type = Stadium Power
+| affected_ability = Spike Guard
+| official_description = Each fired [Spike Guard] spike hit reduces [Violent Leap]'s cooldown by 0.1s. [Spike Guard] Movement Speed penalty is reduced by 90%.
+}}
+
+{{Ability details
+| ability_name = Needle Storm
+| ability_image = Needle_Storm.png
+| ability_type = Stadium Power
+| affected_ability = Spike Guard
+| official_description = [Spike Guard] now fires at all enemies in front of Hazard
+}}
+
+{{Ability details
+| ability_name = Bunny Hop
+| ability_image = Bunny_Hop.png
+| ability_type = Stadium Power
+| affected_ability = Violent Leap
+| official_description = Using [Violent Leap] without using Slash refunds 2s of cooldown for [Violent Leap] and [Jagged Wall].
+}}
+
+{{Ability details
+| ability_name = Slasher
+| ability_image = Slasher.png
+| ability_type = Stadium Power
+| affected_ability = Violent Leap
+| official_description = [Violent Leap]'s Slash shoots a piercing projectile that deals {{Ability Power|80}} damage, ignoring enemies within 10m. [Violent Leap] damage gives 25% more Ultimate Charge.
+}}
+
+{{Ability details
+| ability_name = Twin Fang
+| ability_image = Twin_Fang.png
+| ability_type = Stadium Power
+| affected_ability = Violent Leap
+| official_description = After using [Violent Leap], your next shot of [Bonespur] fires a free second shot for 65% damage.
+}}
+
+{{Ability details
+| ability_name = Woof Woof!
+| ability_image = Woof_Woof!.png
+| ability_type = Stadium Power
+| affected_ability = Violent Leap
+| official_description = Each hit from [Violent Leap] charges [Spike Guard] with 15% bonus energy. Gain 30% Extra [Spike Guard] Resource.
+}}
+
+{{Ability details
+| ability_name = Fortress
+| ability_image = Fortress.png
+| ability_type = Stadium Power
+| affected_ability = Jagged Wall
+| official_description = [Jagged Wall] becomes 35% larger. [Jagged Wall] knockback applies {{Ability Power|40}} additional damage.
+}}
+
+{{Ability details
+| ability_name = Juiced
+| ability_image = Juiced.png
+| ability_type = Stadium Power
+| affected_ability = Jagged Wall
+| official_description = When [Jagged Wall] is spawned, heal all allies within 12m by {{Ability Power|100}} over 2s.
+}}
+
+{{Ability details
+| ability_name = Off The Wall
+| ability_image = Off_The_Wall.png
+| ability_type = Stadium Power
+| affected_ability = Jagged Wall
+| official_description = When [Jagged Wall is spawned], knock back enemies within 8m after 1.5s for {{Ability Power|80}} damage.
+}}
+
+{{Ability details
+| ability_name = Bringin' The Pain
+| ability_image = Bringin'_the_Pain.png
+| ability_type = Stadium Power
+| affected_ability = Downpour
+| official_description = [Downpour] costs 20% less Ultimate Charge. After using [Downpour], immediately reset all cooldowns and gain 25% Cooldown Reduction for 10s.
+}}
+
+== Example Builds ==
+=== Double Fire ===
+Leap in and blast away from your Bonespur. {{Weapon Power|Weapon Power}} build with high mobility.
+
+==== Powers ====
+* {{al|Bonerot}}
+* {{al|Twin Fang}}
+* {{al|Bunny Hop}}
+* {{al|Hit Me Again}}
+
+==== Early Game ====
+* {{al|Compensator}}
+* {{al|Plasma Converter}}
+* {{al|Siphon Gloves}}
+* {{al|Talon Modification Module}}
+
+==== Late Game ====
+* {{al|Technoleech}}
+* {{al|Calcium Efficiency}}
+* {{al|Sharpsurge}}
+* {{al|The Closer}}
+
+==== Flex ====
+* {{al|Kitsune Charm}}
+* {{al|Spine Protector}}
+* {{al|El-Sa'ka Suppressor}}
+* {{al|Susannah's Support}}
+
+=== Wall of Pain ===
+Build large walls with extra area and knockback damage, strengthened by {{Ability Power|Ability Power}}.
+
+==== Powers ====
+* {{al|Off The Wall}}
+* {{al|Fortress}}
+* {{al|Juiced}}
+* {{al|Bunny Hop}}
+
+==== Early Game ====
+* {{al|Compensator}}
+* {{al|Power Playbook}}
+* {{al|Siphon Gloves}}
+* {{al|Home Turf}}
+
+==== Late Game ====
+* {{al|Nano Cola}}
+* {{al|Multi-Tool}}
+* {{al|Phreak Foil}}
+* {{al|Susannah's Support}}
+
+==== Flex ====
+* {{al|Refresher}}
+* {{al|Iridescent Iris}}
+* {{al|Superflexor}}
+* {{al|Lumérico Fusion Drive}}
+
+=== Needle Business ===
+Become a walking cactus of doom, shred anything that gets close, and sharpen your spikes with {{Ability Power|Ability Power}}.
+
+==== Powers ====
+* {{al|Needle Storm}}
+* {{al|Hit Me Again}}
+* {{al|Woof Woof!}}
+* {{al|Barbed Shot}}
+
+==== Early Game ====
+* {{al|Power Playbook}}
+* {{al|Shady Spectacles}}
+* {{al|Siphon Gloves}}
+* {{al|Nano Cola}}
+
+==== Late Game ====
+* {{al|Energized Bracers}}
+* {{al|Skewer Bloom}}
+* {{al|Boomslang's Blaster}}
+* {{al|Blood Needle}}
+
+==== Flex ====
+* {{al|Kitsune Charm}}
+* {{al|Liquid Nitrogen}}
+* {{al|Phreak Foil}}
+* {{al|Touch-Up's Touch Up}}
+
+== Balance Change Log ==
+{{PatchTableStart}}<onlyinclude>
+{{PatchTableElement|2025-10-14|
+* Added to the Stadium Hero Roster.
+
+{{al|Barbed Shot}} – Power
+* Bonespur shots also fire 2 Spike Guard spikes at hit targets for 10 damage.
+
+{{al|Bonerot}} - Power
+* Ammo gained from Spike Guard deals 10 extra damage. Spike guard ammo regeneration speed is increased by 25%.
+
+{{al|Hit Me Again}} – Power
+* Each fired Spike Guard spike hit reduces Violent Leap’s cooldown by 0.1 seconds.
+* Spike Guard Movement Speed Penalty is reduced by 90%.
+
+{{al|Needle Storm}} – Power
+* Spike Guard now fires at all enemies in front of Hazard.
+
+{{al|Bunny Hop}} – Power
+* Using Violent Leap without using Slash refunds 2 seconds of cooldown for Violent Leap and Jagged Wall.
+
+{{al|Slasher}} – Power
+* Violent Leap’s Slash shoots a piercing projectile that deals 80 damage, ignoring enemies within 10m.
+* Violent Leap damage gives 25% more Ultimate Charge.
+
+{{al|Twin Fang}} – Power
+* After using Violent Leap your next shot of Bonespur fires a free second shot for 65% damage.
+
+{{al|Woof Woof!}} – Power
+* Each hit from Violent Leap charges Spike Guard with 15% bonus energy.
+* Gain 30% Extra Spike Guard Resource.
+
+{{al|Fortress}} – Power
+* Jagged Wall becomes 35% larger.
+* Jagged Wall knockback applies 40 additional damage.
+
+{{al|Juiced}} – Power
+* When Jagged Wall is spawned, heal all allies within 12 meters by 100 over 2 seconds.
+
+{{al|Off the Wall}} – Power
+* When Jagged Wall is spawned, knock back enemies within 8 meters afte 1.5 second for 80 damage.
+
+{{al|Bringin' The Pain}} – Power
+* Downpour costs 20% less Ultimate Charge.
+* After using Downpour immediately reset all cooldowns and gain 25% Cooldown Reduction for 10 seconds.
+
+{{al|Calcium Efficiency}} – Rare Weapon Hero Item
+* 5% Weapon Power.
+* Gain 15% Weapon Lifesteal for 5 seconds after reloading ammo or gaining ammo.
+* Cost: 4,000.
+
+{{al|Sharpsurge}} – Epic Weapon Hero Item
+* 10% Weapon Power.
+* Dealing critical damage grants 1% Attack Speed for 3 seconds, stacking up to 25 times.
+* Cost: 11,000.
+
+{{al|Birdseye Blade}} – Rare Ability Hero Item
+* 10% Ability Power.
+* 5% Cooldown Reduction.
+* Violent Leap’s Slash deals 25% increased damage to airborne enemies.
+* Cost: 5,000.
+
+{{al|Skewer Bloom}} – Rare Ability Hero Item
+* 10% Ability Power.
+* 50% Spike Guard Range.
+* Cost: 5,500.
+
+{{al|Touch-Up's Touch Up}} – Epic Ability Hero Item
+* 10% Ability Power.
+* 5% Cooldown Reduction.
+* After Using Violent Leap, Spike Guard spikes deals 25% more damage for 5 seconds.
+* Cost: 10,000. 
+
+{{al|Phreak Foil}} – Epic Ability Hero Item
+* 15% Ability Power.
+* 10% Ability Lifesteal.
+* 50% Extra Spike Guard Resource.
+* Jagged Wall hits charge Spike Guard with 25% bonus energy.
+* Cost: 10,000.
+
+{{al|Boomslang's Blaster}} – Epic Ability Hero Item
+* 10% Ability Power.
+* 10% Ability Lifesteal.
+* Ability: Use Quick Melee during Spike Guard to immediately fire 5 spikes at targets. (10 second cooldown.)
+* Cost: 11,000.
+
+{{al|Home Turf}} – Rare Survival Hero Item
+* 50 Health.
+* 50% Spike Guard Max Resource.
+* Each fired Spike Guard spike heals 0.3% Max Life per hit.
+* Cost: 4,000
+
+{{al|Spine Protector}} – Epic Survival Hero Item
+* 10% Weapon Power.
+* 5% Weapon Lifesteal.
+* Heal 2% of Max Life for each ammo reloaded using Spike Guard.
+* Cost: 10,000
+
+{{al|Susannah's Support}} – Epic Survival Hero Item
+* 50 Health.
+* 65% Jagged Wall Health.
+* Jagged Wall heals Hazard for 10% of damage mitigated.
+* Cost: 11,000
+
+{{al|Blood Needle}} – Epic Survival Hero Item
+* 50 Health
+* 50% Spike Guard Max Resource
+* Each fired Spike Guard spike heals 0.3% Max Life per hit.
+* Cost: 11,000
+}}
+</onlyinclude>{{PatchTableEnd}}
+
+{{StadiumNav}}
+[[Category:{{BASEPAGENAME}}]]
+[[Category:Stadium hero pages]]

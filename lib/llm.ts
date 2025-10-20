@@ -1,7 +1,7 @@
 import type { Plan } from './schema'
 
-export async function callLLM(promptText: { system: string; user: string }): Promise<string> {
-  const key = process.env.OPENAI_API_KEY
+export async function callLLM(promptText: { system: string; user: string }, apiKey?: string): Promise<string> {
+  const key = apiKey || process.env.OPENAI_API_KEY
   if (key) {
     // Minimal OpenAI call using fetch to avoid pulling SDK here.
     const res = await fetch('https://api.openai.com/v1/chat/completions', {

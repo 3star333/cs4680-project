@@ -1,0 +1,239 @@
+{{HeroTabs}}
+[[File: S76 Stadium.png|thumb|310x310px]]
+'''{{BASEPAGENAME}}''' is a playable [[hero]] in the [[Stadium]] [[game mode]].
+
+== Stat interactions ==
+{{StadiumAbilityInteractions/header}}
+{{StadiumAbilityInteractions/row|Heavy Pulse Rifle |weaponPower=1 |attackSpeed=1 |maxAmmo=1 |weaponLifesteal=1 }}
+{{StadiumAbilityInteractions/row|Helix Rockets |abilityPower=1 |cooldownReduction=1 |abilityLifesteal=1 }}
+{{StadiumAbilityInteractions/row|Sprint }}
+{{StadiumAbilityInteractions/row|Biotic Field |abilityPower=1 |cooldownReduction=1 }}
+{{StadiumAbilityInteractions/row|Tactical Visor }}
+|}
+
+== Hero Items ==
+This is a list of hero-specific items. For a list of items available to all heroes, see [[Armory]].
+
+=== Weapon ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Pulse Converter
+| ability_image = Pulse_Converter.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Attack Speed;;5%::Cooldown Reduction;;5%
+| official_description = When you use [Helix Rocket], restore 20% of your ammo.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+<!-- Epic -->
+
+=== Ability ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Battery Pack
+| ability_image = Battery_Pack.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Ability Power;;10%::[Biotic Field] Duration;;40%
+| official_description = 
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+{{Ability details
+| ability_name = Bomb Diffusal Boots
+| ability_image = Bomb_Diffusal_Boots.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Health;;25::Weapon Power;;5%::Reduced [Helix Rocket] Self-Damage;;90%
+| official_description = When you damage yourself with [Helix Rocket], it knocks you back 200% further.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+<!-- Epic -->
+{{Ability details
+| ability_name = Endgame Equalizer
+| ability_image = Endgame_Equalizer.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Health;;25::Ability Power;;15%
+| official_description = When you spend your Ultimate Charge, reset all cooldowns. While [Tactical Visor] is active, gain 20% Cooldown Reduction.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+{{Ability details
+| ability_name = Rapid Response Radius
+| ability_image = Rapid_Response_Radius.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Ability Power;;10%::Biotic Field Radius;;40%
+| official_description = [Biotic Field] heals allies below 50% Life 10% more.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+
+=== Survival ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Compression Fatigues
+| ability_image = Compression_Fatigues.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Health;;25::Ability Power;;5%::[Sprint] Move Speed;;25%
+| official_description = 
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+<!-- Epic -->
+{{Ability details
+| ability_name = Iron Lung
+| ability_image = Iron_Lung.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Health;;25
+| official_description = While using [Sprint], gain Overhealth equal to 5% of your max Life every 1s, up to 25%, for 5s.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+
+== Powers ==
+{{Ability details
+| ability_name = Peripheral Pulse
+| ability_image = Peripheral_Pulse.png
+| ability_type = Stadium Power
+| affected_ability = Tactical Visor
+| official_description = During [Tactical Visor], [Pulse Rifle] shoots at 1 additional enemy, dealing 50% damage.
+}}
+{{Ability details
+| ability_name = Super Visor
+| ability_image = Super_Visor.png
+| ability_type = Stadium Power
+| affected_ability = Tactical Visor
+| official_description = After using [Helix Rocket], activate [Tactical Visor] for 0.50s.
+}}
+{{Ability details
+| ability_name = Chaingun
+| ability_image = Chaingun.png
+| ability_type = Stadium Power
+| affected_ability = Heavy Pulse Rifle
+| official_description = While continuously shooting [Pulse Rifle], each shot grants 0.4% Weapon Power, stacking up to 100 times.
+| ability_details = 
+}}
+{{Ability details
+| ability_name = Man on the Run
+| ability_image = Man_On_The_Run.png
+| ability_type = Stadium Power
+| affected_ability = Heavy Pulse Rifle
+| official_description = During [Sprint], restore 10% of your Ammo every 1s and increase your Max Ammo by 10% until you reload, stacking up to 10 times.
+}}
+{{Ability details
+| ability_name = Cratered
+| ability_image = Cratered.png
+| ability_type = Stadium Power
+| affected_ability = Helix Rockets
+| official_description = Increase [Helix Rocket] explosion radius by 40% and explosion damage by 15%.
+}}
+{{Ability details
+| ability_name = Double Helix
+| ability_image = Double_Helix.png
+| ability_type = Stadium Power
+| affected_ability = Helix Rockets
+| official_description = [Helix Rocket] fires a second homing [Helix Rocket] that deals 70% reduced damage.
+}}
+{{Ability details
+| ability_name = Hunker Down
+| ability_image = Hunker_Down.png
+| ability_type = Stadium Power
+| affected_ability = Helix Rockets
+| official_description = When [Helix Rocket] deals damage, create a [Biotic Field] with a 50% reduced duration at your position.
+}}
+{{Ability details
+| ability_name = Back Off
+| ability_image = Back_Off.png
+| ability_type = Stadium Power
+| affected_ability = Biotic Field
+| official_description = Enemies within your [Biotic Field] take damage equal to 100% of its healing output.
+}}
+{{Ability details
+| ability_name = Biotic Bullseye
+| ability_image = Biotic_Bullseye.png
+| ability_type = Stadium Power
+| affected_ability = Biotic Field
+| official_description = While in [Biotic Field], critical hits restore 10% Max Ammo and extend the duration of Biotic Field by 0.5s, up to 5s.
+}}
+{{Ability details
+| ability_name = Frontliners
+| ability_image = Frontliners.png
+| ability_type = Stadium Power
+| affected_ability = Biotic Field
+| official_description = Allies in range of your [Biotic Field] when it spawns gain Overhealth equal to 25% of your max Life for 3s.
+}}
+{{Ability details
+| ability_name = On Me!
+| ability_image = On_Me!.png
+| ability_type = Stadium Power
+| affected_ability = Biotic Field
+| official_description = [Biotic Field] moves with you and grants you 20% increased max Health while active.
+| ability_details = * Overhealth stacks when multiple Biotic Fields are active at once.
+}}
+{{Ability details
+| ability_name = Track and Field
+| ability_image = Track_and_Field.png
+| ability_type = Stadium Power
+| affected_ability = Biotic Field
+| official_description = During [Sprint], [Biotic Field] cooldown refreshes 150% faster.
+}}
+
+== Balance Change Log ==
+{{PatchTableStart}}<onlyinclude>
+{{PatchTableElement|2025-06-24|
+{{DevComment|Developer Comments: Frontliners continues to be one of Soldier 76's least popular options. We're allowing the Overhealth to stack to enable more synergies with Powers that create additional Biotic Fields to allow for more build paths.}}
+
+{{al|Frontliners|text=Frontline}} - Power
+* Overhealth now stacks when multiple Biotic Fields are active at once.
+* Overhealth based on Max Life reduced to 25% (down from 30%).
+}}
+{{PatchTableElement|2025-05-29|
+{{DevComment|Developer Comments: Biotic Field builds have been unpopular and underperforming, so we're adding some additional firepower there. Chaingun has been very prevalent in all types of Weapon Power builds for Soldier, so we're tuning it down a bit to allow for some more variety.}}
+
+{{al|Hunker Down}} – Power
+* Increased Biotic Field duration to 50% reduced duration (up from 30% reduced).
+
+{{al|Chaingun}} - Power
+* Decreased Weapon Power per shot to 0.4% (down from 0.5%).
+
+{{al|Battery Pack}} – Rare Ability Hero Item
+* Increased Biotic Field Duration to 40% (up from 30%).
+
+{{al|Rapid Response Radius}} – Epic Ability Hero Item
+* Increased Biotic Field radius to 40% (up from 30%).
+
+{{al|Compression Fatigues}} – Rare Survival Hero Item
+* Removed 5% Attack Speed.
+* Added 5% Ability Power.
+}}
+{{PatchTableElement|2025-05-20|
+{{DevComment|Developer comments: Soldier 76's Helix Rocket build is one-shotting a little too consistently. We're decreasing the damage here a bit to reduce the burst potential.}}
+
+{{al|Cratered}} - Power
+* Reduced increased Explosion Damage to 15% (down from 25%)
+}}
+{{PatchTableElement|2025-05-01|
+{{DevComment|Developer Comments: Soldier 76 has been consistently making too much money from damage and healing, allowing him to consistently snowball his lead.
+
+We love that players have been enjoying using Rocket Visor. It's been great to see some players pick up Soldier: 76 who may not have played him much in the past. That said we have always intended for the build centered around Rocket Visor to be a strong accessible build, but not necessarily the build with the highest practical performance ceiling. We've seen that it's overperforming and can feel frustrating to play against. We're hoping to reduce a bit of the power with this change, but we will continue to keep a tactical eye on this build as we move forward with more balance updates.
+
+We felt the payoff for making Biotic Bullseye work was a bit too low to be worth it.}}
+
+* Reduced the amount of Stadium Cash gained from damage and healing by 12.5%.
+
+{{al|Super Visor|text=Rocket Visor}} – Power
+* Duration reduced to 0.5 seconds (down from 0.75 seconds).
+
+{{al|Biotic Bullseye}} – Power
+* Increased ammo restoration to 10% per critical hit (up from 5%).
+}}
+{{PatchTableElement|2025-04-22|
+; Introducing Stadium
+* Tank Heroes: D.Va, Junker Queen, Orisa, Reinhardt, and Zarya.
+* Damage Heroes: Ashe, Cassidy, Genji, Mei, Reaper, and '''Soldier: 76'''.
+* Support Heroes: Ana, Juno, Kiriko, Lucio, Mercy, and Moira.
+}}
+</onlyinclude>{{PatchTableEnd}}
+
+{{StadiumNav}}
+[[Category:{{BASEPAGENAME}}]]
+[[Category:Stadium hero pages]]

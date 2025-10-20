@@ -1,0 +1,381 @@
+{{HeroTabs}}
+[[File:Zenyatta Stadium.png|thumb|310x310px]]<!--
+[[File: Genji Stadium.png|thumb|300px]]-->
+'''{{BASEPAGENAME}}''' is a playable [[hero]] in the [[Stadium]] [[game mode]].
+
+== Stat interactions ==
+{{StadiumAbilityInteractions/header}}
+{{StadiumAbilityInteractions/row|Orb of Destruction |weaponPower=1 |attackSpeed=1 |maxAmmo=1 |weaponLifesteal=1 |reloadSpeed=1}}
+{{StadiumAbilityInteractions/row|Orb of Harmony |abilityPower=1 }}
+{{StadiumAbilityInteractions/row|Orb of Discord }}
+{{StadiumAbilityInteractions/row|Transcendence |abilityPower=1}}
+{{StadiumAbilityInteractions/row|Snap Kick |weaponPower=1 |weaponLifesteal=1 |meleeDamage=1 }}
+|}
+
+== Hero Items ==
+This is a list of hero-specific items. For a list of items available to all heroes, see [[Armory]].
+
+=== Weapon ===
+<!-- Rare -->
+<!-- Epic -->
+{{Ability details
+| ability_name = Haste Subroutine
+| ability_image = Haste_Subroutine.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Attack Speed;;15%
+| official_description = After using [Harmony Orb] or [Discord Orb], gain 100% Projectile Speed for 3 seconds.
+| stadium_rarity = Epic
+| stadium_cost = 11000
+}}
+{{Ability details
+| ability_name = Genji's Galvanic Gloves
+| ability_image = Genji's_Galvanic_Gloves.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Weapon Power;;10%::Attack Speed;;10%
+| official_description = [Orb of Destruction]'s secondary fire charges 20% faster.
+| stadium_rarity = Epic
+| stadium_cost = 12000
+}}
+{{Ability details
+| ability_name = Orb of Perception
+| ability_image = Orb_of_Perception.png
+| ability_type = Hero Item (Weapon)
+| stadium_buffs = Weapon Power;;15%::Ability Power;;15%
+| official_description = Targets affected by [Discord Orb] are revealed.
+| stadium_rarity = Epic
+| stadium_cost = 11000
+}}
+
+=== Ability ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Breezeborne Blessing
+| ability_image = Breezeborne_Blessing.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Ability Power;;10%
+| official_description = [Harmony Orb] heals airborne allies for 15% more.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+{{Ability details
+| ability_name = Satya's Solution
+| ability_image = Satya's_Solution.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Ability Power;;10%::Move Speed;;10%
+| official_description = While [Transcendence] is active, its radius increases by 1m every 1s.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+<!-- Epic -->
+{{Ability details
+| ability_name = Friendship Bracelet
+| ability_image = Friendship_Bracelet.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Ability Power;;10%
+| official_description = Increase your healing by up to 20%, based on how close you are to your target.
+| stadium_rarity = Epic
+| stadium_cost = 11000
+}}
+{{Ability details
+| ability_name = Mind Shaper
+| ability_image = Mind_Shaper.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = Ability Power;;15%::Starting Ultimate Charge;;15%
+| official_description = Allies affected by [Transcendence] have their cooldowns refresh 15% faster.
+| stadium_rarity = Epic
+| stadium_cost = 12000
+}}
+{{Ability details
+| ability_name = Mondatta's Mantra
+| ability_image = Mondatta's_Mantra.png
+| ability_type = Hero Item (Ability)
+| stadium_buffs = [Transcendence] Duration;;30%
+| official_description = After [Transcendence] ends, gain Overhealth equal to 100% of the healing it did.
+| stadium_rarity = Epic
+| stadium_cost = 11000
+}}
+
+=== Survival ===
+<!-- Rare -->
+{{Ability details
+| ability_name = Hiking Hoverboots
+| ability_image = Hiking_Hoverboots.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Move Speed;;10%
+| official_description = While airborne, hold Jump to hover for up to 3s.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+{{Ability details
+| ability_name = Transference Protocol
+| ability_image = Transference_Protocol.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Shields;;25
+| official_description = When you charge an orb with [Orb of Destruction]'s secondary fire, restore 3% of your Life.
+| stadium_rarity = Rare
+| stadium_cost = 4500
+}}
+{{Ability details
+| ability_name = Keepsake of Chaos
+| ability_image = Keepsake_of_Chaos.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Armor;;25
+| official_description = Eliminating an enemy affected by [Discord Orb] grants 5 Armor for the rest of the round, up to 50 Armor.
+| stadium_rarity = Rare
+| stadium_cost = 4000
+}}
+<!-- Epic -->
+{{Ability details
+| ability_name = Golden Monk
+| ability_image = Golden_Monk.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Armor;;50
+| official_description = For every 50 Armor you have, gain 5% [Quick Melee] Damage.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+{{Ability details
+| ability_name = Meditation Mat
+| ability_image = Meditation_Mat.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Armor;;50
+| official_description = When your Shields are depleted, knock back nearby enemies, dealing {{Ability Power|80}} damage. Can only trigger every 6s after shields are fully restored.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+{{Ability details
+| ability_name = Teacher's Totem
+| ability_image = Teacher's_Totem.png
+| ability_type = Hero Item (Survival)
+| stadium_buffs = Shields;;50
+| official_description = Allies affected by [Harmony Orb] take 10% reduced Ability Damage.
+| stadium_rarity = Epic
+| stadium_cost = 10000
+}}
+
+== Powers ==
+{{Ability details
+| ability_name = Flying Kick
+| ability_image = Flying_Kick.png
+| ability_type = Stadium Power
+| affected_ability = 
+| official_description = While airborne, [Quick Melee] becomes a dash kick that stuns if it knocks an enemy back into a wall. (5s Cooldown)
+}}
+{{Ability details
+| ability_name = It's Orbin' Time
+| ability_image = It's_Orbin'_Time.png
+| ability_type = Stadium Power
+| affected_ability = Orb of Destruction
+| official_description = [Orb of Destruction]'s secondary fire can charge up to 3 additional orbs.
+}}
+{{Ability details
+| ability_name = Seeking Salvation
+| ability_image = Seeking_Salvation.png
+| ability_type = Stadium Power
+| affected_ability = Orb of Destruction
+| official_description = [Orb of Destruction]'s secondary fire projectiles home when aimed at a target below 35% Life.
+}}
+{{Ability details
+| ability_name = Dual Harmony
+| ability_image = Dual_Harmony_Power.png
+| ability_type = Stadium Power
+| affected_ability = Orb of Harmony
+| official_description = Gain a 2nd [Harmony Orb], but they both heal 35% less.
+}}
+{{Ability details
+| ability_name = Enlightenment
+| ability_image = Enlightenment.png
+| ability_type = Stadium Power
+| affected_ability = Orb of Harmony
+| official_description = Allies affected by [Harmony Orb] are healed for 35% of the damage you deal.
+}}
+{{Ability details
+| ability_name = Gotta Have Faith
+| ability_image = Gotta_Have_Faith.png
+| ability_type = Stadium Power
+| affected_ability = Orb of Harmony
+| official_description = [Harmony Orb] targets can be out of your line of sight for 10s longer before [Harmony Orb] returns to you.
+}}
+{{Ability details
+| ability_name = Inner Peace
+| ability_image = Inner_Peace.png
+| ability_type = Stadium Power
+| affected_ability = Orb of Harmony
+| official_description = Gain a [Harmony Orb] that is always attached to you. It heals for 75% less.
+}}
+{{Ability details
+| ability_name = Discord Fever
+| ability_image = Discord_Fever.png
+| ability_type = Stadium Power
+| affected_ability = Orb of Discord
+| official_description = When [Discord Orb] is applied to a target they take {{Ability Power|50}} damage over 5s.
+}}
+{{Ability details
+| ability_name = Discord Inferno
+| ability_image = Discord_Inferno.png
+| ability_type = Stadium Power
+| affected_ability = Orb of Discord
+| official_description = When you critically hit a target affected by your [Discord Orb], the [Orb of Destruction] explodes, dealing {{Ability Power|50}} damage.
+}}
+{{Ability details
+| ability_name = Instant Karma
+| ability_image = Instant_Karma.png
+| ability_type = Stadium Power
+| affected_ability = Orb of Discord
+| official_description = When a target of your [Discord Orb] damages you, restore 50% of that damage over 2s.
+}}
+{{Ability details
+| ability_name = Circle of Strife
+| ability_image = Circle_of_Strife.png
+| ability_type = Stadium Power
+| affected_ability = Transcendence
+| official_description = While using [Transcendence], apply [Discord Orb] to all enemies within range.
+}}
+{{Ability details
+| ability_name = Soul Control
+| ability_image = Soul_Control.png
+| ability_type = Stadium Power
+| affected_ability = Transcendence
+| official_description = [Transcendence] can be cancelled early, saving up to 75% of your Ultimate Charge.
+}}
+
+== Balance Change Log ==
+{{PatchTableStart}}<onlyinclude>
+{{PatchTableElement|2025-10-14|
+{{DevComment|Developer Comments: We’ve buffed a couple of underused powers to encourage more build diversity. The goal is to make these options feel more rewarding so they can find their place in a wider variety of strategies.}}
+
+{{al|Instant Karma}} - Power
+* Restore increased to 50% (Up from 30%).
+{{al|Dual Harmony}} - Power
+* Healing Reduction decreased to 35% (Down from 40%).
+}}
+{{PatchTableElement|2025-07-08|
+{{DevComment|Developer Comments: While Zenyatta has often leaned toward offensive playstyles, we're making adjustments to encourage his healing focused builds as well. These changes aim to better support players who want to take on a more traditional support role and provide stronger team-wide healing presence.}}
+
+{{al|Dual Harmony}} - Power
+* Decreased healing reduction to 40% (Down from 45%).
+
+{{al|Gotta Have Faith}} - Power
+* Increased orb duration to 10s (Up from 5s).
+
+{{al|Soul Control}} - Power
+* Increased ultimate meter cap to 75% (Up from 65%).
+}}
+{{PatchTableElement|2025-06-24|
+* Added to the Stadium Hero Roster
+
+{{al|Flying Kick}} - Power
+* While airborne, Quick Melee becomes a dash kick that stuns if it knocks an enemy back into a wall. (5s Cooldown)
+
+{{al|It's Orbin' Time}} - Power
+* Orb of Destruction's secondary fire can charge up to 3 additional orbs.
+
+{{al|Seeking Salvation}} - Power
+* Orb of Destruction's secondary fire projectiles home when aimed at a target below 35% Life.
+
+{{al|Enlightenment}} - Power
+* Allies affected by Harmony Orb are healed for 35% of the damage you deal.
+
+{{al|Dual Harmony}} - Power
+* Gain a 2nd Harmony Orb but they both heal 45% less.
+
+{{al|Gotta Have Faith}} - Power
+* Harmony Orb targets can be out of your line of sight for 5s longer before Harmony Orb returns to you.
+
+{{al|Inner Peace}} - Power
+* Gain a Harmony Orb that is always attached to you. It heals for 75% less.
+
+{{al|Discord Inferno}} - Power
+* When you critically hit a target affected by your Discord Orb, the Orb of Destruction explodes, dealing (AP)50 damage.
+
+{{al|Discord Fever}} - Power
+* When Discord Orb is applied to a target, they take (AP)50 damage over 5s to the enemy.
+
+{{al|Instant Karma}} - Power
+* When a target of your Discord Orb damages you, restore 30% of that damage over 2s.
+
+{{al|Circle of Strife}} - Power
+* While using Transcendence, apply Discord Orb to all enemies within range.
+
+{{al|Soul Control}} - Power
+* Transcendence can be canceled early, saving up to 65% of your Ultimate Charge.
+
+{{al|Breezeborne Blessing}} - Rare Ability Hero Item
+* +10% Ability Power
+* Harmony Orb heals airborne allies for 15% more.
+* Cost: 4000
+
+{{al|Satya's Solution}} - Rare Ability Hero Item
+* +10% Ability Power
+* +10% Movement Speed
+* While Transcendence is active, its radius increases by 1m every 1s.
+* Cost: 4000
+
+{{al|Hiking Hoverboots}} - Rare Hero Survival Hero Item
+* +10% Movement Speed
+* While airborne, Jump to hover for up to 3s.
+* Cost: 4000
+
+{{al|Transference Protocol}} - Rare Survival Hero Item
+* +25 Shield
+* When you charge an orb with Orb of Destruction's secondary fire, restore for 3% of your Life.
+* Cost: 4000
+
+{{al|Keepsake of Chaos}} - Rare Survival Hero Item
+* +25 Armor
+* Eliminating an enemy affected by Discord Orb grants 5 Armor for the rest of the round, up to 50 Armor.
+* Cost: 4500
+
+{{al|Haste Subroutine}} - Epic Weapon Hero Item
+* +15% Attack Speed
+* After using Harmony Orb or Discord Orb, gain 100% Projectile Speed for 3s.
+* Cost: 11000
+
+{{al|Genji's Galvanic Gloves}} - Epic Weapon Hero Item
+* +10% Weapon Power
+* +10% Attack Speed
+* Orb of Destruction's secondary fire charges 20% faster.
+* Cost: 12000
+
+{{al|Orb of Perception}} - Epic Weapon Hero Item
+* +15% Weapon Power
+* +15% Ability Power
+* Targets affected by Discord Orb are Revealed.
+* Cost: 11000
+
+{{al|Friendship Bracelet}} - Epic Ability Hero Item
+* +10% Ability Power
+* Increase your healing by up to 20%, based on how close you are to your target.
+* Cost: 11000
+
+{{al|Mind Shaper}} - Epic Ability Hero Item
+* +15% Ability Power
+* +15% Starting Ultimate Charge
+* Allies affected by Transcendence have their cooldowns refresh 15% faster.
+* Cost: 12000
+
+{{al|Mondatta's Mantra}} - Epic Ability Hero Item
+* +30% Transcendence duration
+* After using Transcendence, gain Overhealth equal to 100% of the healing it did.
+* Cost: 11000
+
+{{al|Golden Monk|text=Ramattra's Reasoning}} - Epic Survival Hero Item
+* +50 Armor
+* For every 50 Armor you have, gain 5% Quick Melee Damage.
+* Cost: 10000
+
+{{al|Meditation Mat}} - Epic Survival Hero Item
+* +50 Armor
+* When your shields are depleted, knock back nearby enemies, dealing 80 damage. Can only trigger every 6s after Shields are fully restored.
+* Cost: 10000
+
+{{al|Teacher's Totem}} - Epic Survival Hero Item
+* +50 Shield
+* Allies affected by Harmony Orb take 10% reduced Ability Damage.
+* Cost: 10000
+}}
+</onlyinclude>{{PatchTableEnd}}
+
+{{StadiumNav}}
+[[Category:{{BASEPAGENAME}}]]
+[[Category:Stadium hero pages]]
