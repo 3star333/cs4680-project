@@ -68,7 +68,7 @@ export default function AIOutputPanel({
   onClear
 }: AIOutputPanelProps) {
   return (
-    <div className="w-96 flex-shrink-0">
+    <div className="w-[500px] flex-shrink-0">
       <div className="sticky top-6 bg-gradient-to-b from-[#2a3439] to-[#1f2629] border border-white/10 rounded-xl p-4 backdrop-blur-sm shadow-xl">
         {/* Header */}
         <div className="flex items-center justify-between mb-3 pb-3 border-b border-white/10">

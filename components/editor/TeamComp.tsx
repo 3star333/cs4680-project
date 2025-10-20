@@ -25,16 +25,18 @@ export default function TeamComp({ team, type, onEdit, onAddHero, onRemoveHero, 
     <div className="mb-6">
       <div className="flex items-center justify-between mb-3">
         <h2 className="text-xl font-bold text-white">{label}</h2>
-        <button
-          onClick={onAddHero}
-          className={`px-4 py-2 rounded-lg font-semibold text-sm transition-all ${
-            isAlly 
-              ? 'bg-amber-600 hover:bg-amber-500 text-white' 
-              : 'bg-blue-600 hover:bg-blue-500 text-white'
-          }`}
-        >
-          + Add {isAlly ? 'Ally' : 'Enemy'}
-        </button>
+        {!teamFull && (
+          <button
+            onClick={onAddHero}
+            className={`px-4 py-2 rounded-lg font-semibold text-sm transition-all ${
+              isAlly 
+                ? 'bg-amber-600 hover:bg-amber-500 text-white' 
+                : 'bg-blue-600 hover:bg-blue-500 text-white'
+            }`}
+          >
+            + Add {isAlly ? 'Ally' : 'Enemy'}
+          </button>
+        )}
       </div>
       
       <div className="flex gap-3 overflow-x-auto pb-2">

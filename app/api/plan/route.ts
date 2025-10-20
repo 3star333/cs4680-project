@@ -23,7 +23,8 @@ const BodySchema = z.object({
       hero: z.string(),
       power: z.string(),
       items: z.array(z.string())
-    }))
+    })),
+    context: z.string().optional()
   }).optional()
 })
 
@@ -35,7 +36,7 @@ export async function POST(req: Request) {
 
     // Handle new composition format
     if (parsed.data.composition) {
-      const { allies, enemies } = parsed.data.composition
+      const { allies, enemies, context } = parsed.data.composition
       
       // Build a strategy prompt based on the composition
       const strategyPrompt = {
@@ -47,7 +48,7 @@ ${allies.map((a, i) => `${i + 1}. ${a.hero} - Power: ${a.power} - Items: ${a.ite
 
 **Enemy Team:**
 ${enemies.map((e, i) => `${i + 1}. ${e.hero} - Power: ${e.power} - Items: ${e.items.join(', ') || 'None'}`).join('\n')}
-
+${context ? `\n**Additional Context:**\n${context}\n` : ''}
 Provide a CONCISE, SCANNABLE strategy with:
 
 KEY STRENGTHS:
@@ -64,7 +65,7 @@ COUNTER ENEMY TEAM:
 
 WIN CONDITIONS:
 - 2-3 key objectives to focus on
-
+${context ? '\nConsider the additional context provided when forming your strategy.' : ''}
 Keep it brief and action-oriented. Use bullet points. Bold key terms.`
       }
       

@@ -33,6 +33,7 @@ export default function EditorPage() {
   // AI Output State
   const [aiOutput, setAiOutput] = useState<string>('')
   const [aiOutputType, setAiOutputType] = useState<'strategy' | 'build' | null>(null)
+  const [contextNotes, setContextNotes] = useState<string>('')
 
   // Load data
   useEffect(() => {
@@ -188,7 +189,8 @@ export default function EditorPage() {
           hero: build.hero.name,
           power: build.power?.name || 'None',
           items: build.items.map(item => item.name)
-        }))
+        })),
+        context: contextNotes || undefined
       }
 
       const response = await fetch('/api/plan', {
@@ -374,6 +376,24 @@ export default function EditorPage() {
             onAddHero={() => handleAddHero('enemy')}
             onRemoveHero={(index: number) => handleRemoveHero('enemy', index)}
           />
+        </div>
+
+        {/* Context Notes Section */}
+        <div className="mt-6 bg-gradient-to-r from-indigo-900/30 to-purple-900/30 border border-indigo-500/30 rounded-xl p-4">
+          <h3 className="text-sm font-bold text-indigo-300 mb-2 flex items-center gap-2">
+            <span>💭</span>
+            Additional Context (Optional)
+          </h3>
+          <textarea
+            value={contextNotes}
+            onChange={(e) => setContextNotes(e.target.value)}
+            placeholder="Add context for better AI suggestions... e.g., 'Cassidy has good aim', 'Our healers are not healing very well', 'Enemy team is very aggressive'"
+            className="w-full px-4 py-3 bg-black/40 border border-indigo-500/30 rounded-lg text-white placeholder-gray-500 focus:outline-none focus:border-indigo-500 transition resize-none"
+            rows={3}
+          />
+          <p className="text-xs text-gray-400 mt-2">
+            This context will be included in AI strategy generation to provide more personalized advice.
+          </p>
         </div>
 
         {/* Action Buttons */}
