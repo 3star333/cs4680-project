@@ -386,15 +386,14 @@ export default function EditorPage() {
             {isGeneratingPlan ? '🤖 Generating...' : '🎯 Generate Strategy Plan'}
           </button>
           
-          {yourBuildIndex !== -1 && (
-            <button
-              onClick={handleSuggestBuild}
-              disabled={isSuggestingBuild}
-              className="px-6 py-3 rounded-xl font-bold bg-gradient-to-r from-yellow-600 to-orange-600 hover:from-yellow-500 hover:to-orange-500 text-white shadow-lg shadow-yellow-900/50 transition-all disabled:opacity-50 disabled:cursor-not-allowed"
-            >
-              {isSuggestingBuild ? '💡 Suggesting...' : '💡 Suggest Build (Budget)'}
-            </button>
-          )}
+          <button
+            onClick={handleSuggestBuild}
+            disabled={isSuggestingBuild || yourBuildIndex === -1}
+            className="px-6 py-3 rounded-xl font-bold bg-gradient-to-r from-yellow-600 to-orange-600 hover:from-yellow-500 hover:to-orange-500 text-white shadow-lg shadow-yellow-900/50 transition-all disabled:opacity-50 disabled:cursor-not-allowed"
+            title={yourBuildIndex === -1 ? "Mark one ally as 'yourself' to use this feature" : ""}
+          >
+            {isSuggestingBuild ? '🔨 Generating Build...' : '🔨 Generate Build (Budget)'}
+          </button>
           
           <button
             onClick={() => {
