@@ -4,5 +4,12 @@
 @utility hl { @apply bg-white shadow rounded p-4; }
 
 @layer base {
-  body { @apply bg-gray-50 text-gray-900; }
+  body { 
+    @apply bg-gradient-to-b from-[#2a3439] via-[#1f2629] to-[#14181a] text-white;
+    min-height: 100vh;
+  }
+  
+  html {
+    @apply bg-[#14181a];
+  }
 }
