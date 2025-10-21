@@ -266,8 +266,39 @@ export default function EditorPage() {
 
       const data = await response.json()
       
-      // Display build suggestions in the AI output panel
-      const output = `Build Suggestions for ${yourBuild.hero.name}\n\nBudget: ${creditBudget.toLocaleString()} credits\n\n${data.suggestions || JSON.stringify(data, null, 2)}`
+      // Handle new JSON response format or fallback to raw suggestions string
+      let output = `Build Suggestions for ${yourBuild.hero.name}\n\nBudget: ${creditBudget.toLocaleString()} credits\n\n`
+      
+      if (data.suggestions && typeof data.suggestions === 'object' && data.suggestions.recommendedItems) {
+        // New JSON format
+        output += `CURRENT BUILD:\n${data.suggestions.currentBuildAssessment || 'No assessment'}\n\n`
+        output += `RECOMMENDED ITEMS (within ${data.budgetInfo?.remaining?.toLocaleString() || '?'} credits):\n`
+        if (data.suggestions.recommendedItems.length === 0) {
+          output += '- No items recommended within budget\n'
+        } else {
+          data.suggestions.recommendedItems.forEach((item: any) => {
+            output += `- ${item.name} (${item.cost?.toLocaleString()} credits) - ${item.reason}\n`
+          })
+        }
+        output += `\nPRIORITY FOCUS:\n`
+        if (Array.isArray(data.suggestions.priorityFocus)) {
+          data.suggestions.priorityFocus.forEach((focus: string) => output += `- ${focus}\n`)
+        }
+      } else if (data.suggestionsFallback) {
+        // Fallback mapping format
+        output += `RECOMMENDED ITEMS (auto-mapped):\n`
+        data.suggestionsFallback.forEach((item: any) => {
+          output += `- ${item.name} (${item.cost?.toLocaleString()} credits) - ${item.reason}\n`
+        })
+        output += `\n(Note: AI output was not in expected format, items were auto-mapped from text.)`
+      } else if (typeof data.suggestions === 'string') {
+        // Legacy string format
+        output += data.suggestions
+      } else {
+        // Fallback: display raw JSON
+        output += JSON.stringify(data, null, 2)
+      }
+      
       setAiOutput(output)
       setAiOutputType('build')
     } catch (error) {

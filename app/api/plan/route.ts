@@ -3,6 +3,7 @@ import { z } from 'zod'
 import { PlanSchema } from '../../../lib/schema'
 import { buildPrompt } from '../../../lib/prompt'
 import { callLLM } from '../../../lib/llm'
+import { getAllItems } from '../../../lib/stadium'
 
 const BodySchema = z.object({
   mapPhase: z.string().optional(),
@@ -38,45 +39,17 @@ export async function POST(req: Request) {
     if (parsed.data.composition) {
       const { allies, enemies, context } = parsed.data.composition
       
+      // Include canonical item list to prevent hallucination
+      const allItems = getAllItems()
+      const itemsListString = allItems.map(i => `${i.slug} | ${i.name} | ${i.cost}`).join('\n')
+      
       // Build a strategy prompt based on the composition
-      // PROMPT PATTERN: Few-Shot Learning + Persona Pattern
       const strategyPrompt = {
-        system: `You are an expert Overwatch 2 Stadium gamemode strategist. Provide clear, actionable strategy advice based on team compositions.
+        system: 'You are an expert Overwatch 2 Stadium gamemode strategist. Provide clear, actionable strategy advice based on team compositions. Only reference items from the canonical list provided.',
+        user: `Canonical Item List (slug | name | cost):
+${itemsListString}
 
-Here's an example of the format and quality expected:
-
-EXAMPLE INPUT:
-Allies: Winston, Genji, Lucio, Ana, Brigitte
-Enemies: Reinhardt, Cassidy, Mercy, Ashe, Moira
-
-EXAMPLE OUTPUT:
-KEY STRENGTHS:
-- Strong dive composition with Winston + Genji coordination
-- Excellent mobility from Lucio speed boost
-- High burst healing potential from Ana nano-boost
-
-KEY WEAKNESSES:
-- Vulnerable to anti-dive heroes like Cassidy
-- Limited shield pressure against Reinhardt
-- Requires good coordination to execute dives
-
-RECOMMENDED STRATEGY:
-- Use speed boost to engage quickly on isolated targets
-- Focus Ana nano on Winston or Genji for dive pressure
-- Brigitte should peel for supports during enemy counter-dive
-
-COUNTER ENEMY TEAM:
-- Dive Mercy first to remove enemy sustain
-- Use Genji deflect against Cassidy flashbang
-- Bait out Moira fade before committing to dive
-
-WIN CONDITIONS:
-- Secure first pick on enemy support
-- Control high ground with dive mobility
-- Execute coordinated ultimates (nano-boost + primal rage)
-
-Now analyze the following composition with the same depth and format:`,
-        user: `Analyze this team composition and provide a detailed strategy plan.
+Analyze this team composition and provide a detailed strategy plan. ONLY reference items that appear in the Canonical Item List above.
 
 **Allies Team:**
 ${allies.map((a, i) => `${i + 1}. ${a.hero} - Power: ${a.power} - Items: ${a.items.join(', ') || 'None'}`).join('\n')}
@@ -101,7 +74,7 @@ COUNTER ENEMY TEAM:
 WIN CONDITIONS:
 - 2-3 key objectives to focus on
 ${context ? '\nConsider the additional context provided when forming your strategy.' : ''}
-Keep it brief and action-oriented. Use bullet points. Bold key terms.`
+Keep it brief and action-oriented. Use bullet points. Bold key terms. Do NOT invent or hallucinate items that are not in the Canonical Item List.`
       }
       
       const out = await callLLM(strategyPrompt)
