@@ -39,8 +39,43 @@ export async function POST(req: Request) {
       const { allies, enemies, context } = parsed.data.composition
       
       // Build a strategy prompt based on the composition
+      // PROMPT PATTERN: Few-Shot Learning + Persona Pattern
       const strategyPrompt = {
-        system: 'You are an expert Overwatch 2 Stadium gamemode strategist. Provide clear, actionable strategy advice based on team compositions.',
+        system: `You are an expert Overwatch 2 Stadium gamemode strategist. Provide clear, actionable strategy advice based on team compositions.
+
+Here's an example of the format and quality expected:
+
+EXAMPLE INPUT:
+Allies: Winston, Genji, Lucio, Ana, Brigitte
+Enemies: Reinhardt, Cassidy, Mercy, Ashe, Moira
+
+EXAMPLE OUTPUT:
+KEY STRENGTHS:
+- Strong dive composition with Winston + Genji coordination
+- Excellent mobility from Lucio speed boost
+- High burst healing potential from Ana nano-boost
+
+KEY WEAKNESSES:
+- Vulnerable to anti-dive heroes like Cassidy
+- Limited shield pressure against Reinhardt
+- Requires good coordination to execute dives
+
+RECOMMENDED STRATEGY:
+- Use speed boost to engage quickly on isolated targets
+- Focus Ana nano on Winston or Genji for dive pressure
+- Brigitte should peel for supports during enemy counter-dive
+
+COUNTER ENEMY TEAM:
+- Dive Mercy first to remove enemy sustain
+- Use Genji deflect against Cassidy flashbang
+- Bait out Moira fade before committing to dive
+
+WIN CONDITIONS:
+- Secure first pick on enemy support
+- Control high ground with dive mobility
+- Execute coordinated ultimates (nano-boost + primal rage)
+
+Now analyze the following composition with the same depth and format:`,
         user: `Analyze this team composition and provide a detailed strategy plan.
 
 **Allies Team:**

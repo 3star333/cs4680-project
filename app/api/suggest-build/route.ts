@@ -14,7 +14,8 @@ export async function POST(request: NextRequest) {
     const currentSpent = currentItems.reduce((sum: number, item: any) => sum + (item.cost || 0), 0)
     const remainingBudget = budget - currentSpent
 
-    // Create a prompt for AI to suggest items
+    // PROMPT PATTERN: Chain-of-Thought + Constraint-Based Pattern
+    // AI explains reasoning before giving recommendations
     const prompt = `You are an expert Overwatch 2 Stadium analyst. Provide CONCISE, SCANNABLE build suggestions.
 
 Hero: ${heroName}
@@ -23,10 +24,18 @@ Current Items: ${currentItems.length > 0 ? currentItems.map((i: any) => `${i.nam
 Allies: ${allies.length > 0 ? allies.join(', ') : 'None'}
 Enemies: ${enemies.length > 0 ? enemies.join(', ') : 'None'}
 
-Provide a BRIEF response with:
+First, think through your reasoning step by step:
+1. What is ${heroName}'s role in this team composition?
+2. What are the biggest threats from the enemy team?
+3. What items would maximize impact within the ${remainingBudget.toLocaleString()} credit budget?
+
+Then provide a BRIEF response with:
 
 CURRENT BUILD:
 - Quick 1-line assessment
+
+REASONING:
+- Why these recommendations fit the hero and match-up
 
 RECOMMENDED ITEMS (within ${remainingBudget.toLocaleString()} credits):
 - Item 1: Name (Cost) - Why it fits
@@ -43,7 +52,7 @@ Use bullet points. Keep it SHORT and ACTIONABLE. Bold key terms.`
       messages: [
         {
           role: 'system',
-          content: 'You are an Overwatch 2 Stadium strategist. Provide CONCISE, bullet-point build suggestions. Use clear formatting with sections in ALL CAPS and bullet points. Keep responses brief and scannable.'
+          content: 'You are an Overwatch 2 Stadium strategist. Think step-by-step about your recommendations. Provide CONCISE, bullet-point build suggestions with clear reasoning. Use clear formatting with sections in ALL CAPS and bullet points. Keep responses brief and scannable.'
         },
         {
           role: 'user',
