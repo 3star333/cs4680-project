@@ -1,6 +1,6 @@
  'use client'
 import React, { useState } from 'react'
-import type { StadiumHero } from '../../types/stadium'
+import type { StadiumHero, StadiumHeroPower } from '../../types/stadium'
 import StadiumImage from './StadiumImage'
 
 export default function HeroCard({ hero, onPowerSelect, equipped, showPowers = false }: { hero: StadiumHero, onPowerSelect?: (p: string)=>void, equipped?: string[] , showPowers?: boolean}) {
@@ -24,7 +24,7 @@ export default function HeroCard({ hero, onPowerSelect, equipped, showPowers = f
       </div>
       {showPowers && (
         <div className="mt-3 grid grid-cols-3 gap-2">
-          {((hero.powers || []).filter((p:any)=> !equipped || equipped.includes(p.name))).map((p: any) => {
+          {((hero.powers || []).filter((p: StadiumHeroPower)=> !equipped || equipped.includes(p.name))).map((p: StadiumHeroPower) => {
             const handleSelect = () => { setSelectedPower(p.name); onPowerSelect?.(p.name) }
             const onKeyDown = (e: React.KeyboardEvent<HTMLDivElement>) => {
               if (e.key === 'Enter' || e.key === ' ') {
