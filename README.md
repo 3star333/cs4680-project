@@ -2,6 +2,15 @@
 
 A web application for building and optimizing Overwatch 2 Stadium game mode team compositions with AI-powered strategy suggestions.
 
+## 📚 Documentation
+
+- **[Prompt Engineering Techniques](./docs/PROMPT_ENGINEERING.md)** - Detailed documentation of 5 prompt patterns used
+- **[Anti-Hallucination Strategies](./docs/ANTI_HALLUCINATION.md)** - How we prevent AI from inventing fake items
+- **[Project Requirements Analysis](./docs/PROJECT_REQUIREMENTS_ANALYSIS.md)** - CS4680 requirements breakdown
+- **[Environment Setup Guide](./docs/ENVIRONMENT_SETUP.md)** - Detailed setup instructions
+- **[Hero Filtering & Strategy](./docs/HERO_FILTERING_AND_STRATEGY.md)** - Hero-specific powers and items
+- **[Budget Feature Guide](./docs/BUDGET_FEATURE.md)** - Budget tracking implementation
+
 ## ✨ Features
 
 - **Team Composition Builder**: Create 5v5 team compositions with visual hero selection
