@@ -9,7 +9,7 @@ const openai = new OpenAI({
 export async function POST(request: NextRequest) {
   try {
     const body = await request.json()
-  const { heroSlug, heroName, budget, currentItems, allies, enemies } = body
+  const { heroSlug, heroName, budget, currentItems, allies, enemies, context } = body
 
     // Calculate current spending
     const currentSpent = currentItems.reduce((sum: number, item: any) => sum + (item.cost || 0), 0)
@@ -30,6 +30,7 @@ Budget: ${budget.toLocaleString()} credits | Spent: ${currentSpent.toLocaleStrin
 Current Items: ${currentItems.length > 0 ? currentItems.map((i: any) => `${i.name} (${i.cost})`).join(', ') : 'None'}
 Allies (with items/perks): ${Array.isArray(allies) && allies.length > 0 ? allies.map((a: any) => `${a.name}${a.items && a.items.length ? `: ${a.items.map((it: any) => it.name + ' (' + (it.cost||'?') + ')').join(', ')}` : ''}`).join(' | ') : 'None'}
 Enemies (with items/perks): ${Array.isArray(enemies) && enemies.length > 0 ? enemies.map((e: any) => `${typeof e === 'string' ? e : e.name}${e.items && e.items.length ? `: ${e.items.map((it: any) => it.name + ' (' + (it.cost||'?') + ')').join(', ')}` : ''}`).join(' | ') : 'None'}
+${context ? `\n\nAdditional Context: ${context}` : ''}
 
 INSTRUCTIONS (READ CAREFULLY):
 - Only recommend items that appear in the Canonical Item List above. Do NOT invent or hallucinate items.

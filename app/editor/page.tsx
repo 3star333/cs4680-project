@@ -265,6 +265,8 @@ export default function EditorPage() {
             power: e.power?.name || null,
             items: e.items.map(it => ({ name: it.name, cost: it.cost }))
           }))
+          ,
+          context: contextNotes || undefined
         })
       })
 
