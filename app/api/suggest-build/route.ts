@@ -34,6 +34,10 @@ Enemies: ${enemies.length > 0 ? enemies.join(', ') : 'None'}
 INSTRUCTIONS (READ CAREFULLY):
 - Only recommend items that appear in the Canonical Item List above. Do NOT invent or hallucinate items.
 - Use the item's SLUG when referring to items. If referencing the name, it must match the Name column exactly.
+- MAXIMIZE budget usage: Recommend enough items to use most/all of the remaining ${remainingBudget.toLocaleString()} credits.
+- Suggest a mix of item costs (cheap, medium, and expensive items) to optimize the build.
+- Prioritize high-value items that synergize with ${heroName}'s abilities and the team composition.
+- You can suggest 3-6 items to fill remaining slots (max 6 items total per hero).
 - Output MUST be valid JSON only (no extra prose) with the following exact schema:
   {
     "currentBuildAssessment": "one-line assessment",
@@ -57,9 +61,9 @@ INSTRUCTIONS (READ CAREFULLY):
           content: prompt
         }
       ],
-      // Low temperature to reduce hallucination and force determinism
-      temperature: 0.0,
-      max_tokens: 900,
+      // Low temperature to reduce hallucination but allow some variety in item selection
+      temperature: 0.3,
+      max_tokens: 1500,
     })
 
     const raw = completion.choices[0]?.message?.content || ''
