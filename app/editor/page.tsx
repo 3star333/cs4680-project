@@ -255,8 +255,16 @@ export default function EditorPage() {
           heroName: yourBuild.hero.name,
           budget: creditBudget,
           currentItems: yourBuild.items.map(item => ({ name: item.name, cost: item.cost })),
-          allies: allies.filter((a, i) => a.hero && i !== yourBuildIndex).map(a => a.hero.name),
-          enemies: enemies.filter(e => e.hero).map(e => e.hero.name)
+          allies: allies.filter((a, i) => a.hero && i !== yourBuildIndex).map(a => ({
+            name: a.hero.name,
+            power: a.power?.name || null,
+            items: a.items.map(it => ({ name: it.name, cost: it.cost }))
+          })),
+          enemies: enemies.filter(e => e.hero).map(e => ({
+            name: e.hero.name,
+            power: e.power?.name || null,
+            items: e.items.map(it => ({ name: it.name, cost: it.cost }))
+          }))
         })
       })
 
